@@ -19,7 +19,7 @@ urllib3.disable_warnings()
 # =========================================
 
 INPUT_EXCEL = "tarifs_56_complet.xlsx"
-OUTPUT_EXCEL = "tarifs_enrichi_final.xlsx"
+OUTPUT_EXCEL = "resultats/tarifs_enrichi_final.xlsx"
 
 MAX_RESULTS = 5
 DELAY = 5
