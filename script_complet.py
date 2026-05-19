@@ -62,11 +62,11 @@ PHONE_REGEX = re.compile(r'(?:\+33|0)[1-9](?:[\s\.-]?\d{2}){4}')
 URL_REGEX   = re.compile(r'https?://[^\s"\'>]+')
 
 # ============================================================
-# MAPPING TYPE — FIX: "Hébergement" sans s
+# MAPPING TYPE 
 # ============================================================
 
 TYPE_KEYWORDS = {
-    "Hébergement": [
+    "Hébergements": [
         "hotel","accommodation","camping","gite","gîte",
         "lodging","hostel","rental","residence","meublé",
         "bedandbreakfast","cottage","furnished",
@@ -135,7 +135,7 @@ def detect_category(text, main_type):
             if any(k in txt for k in keywords): return cat
         return "Restaurant"
 
-    elif main_type == "Hébergement":
+    elif main_type == "Hébergements":
         hebergement_cats = [
             "Camping","Chambre d'hôte","Auberge de jeunesse","Insolite",
             "Résidence","Appartement","Maison","Gîte","Hôtel"
@@ -143,10 +143,10 @@ def detect_category(text, main_type):
         for cat, keywords in CATEGORY_RULES:
             if cat not in hebergement_cats: continue
             if any(k in txt for k in keywords): return cat
-        return "Hébergement"
+        return "Hébergements"
 
     else:
-        # Activités — ne pas matcher les mots hébergement/resto
+        # Activités — ne pas matcher les mots hébergements/resto
         activite_cats = [
             "Thalasso & Bien-être","Spectacles et Concerts","Musées & Culture",
             "Monuments","Gastronomie","Shopping","Plage & Farniente",
@@ -166,7 +166,7 @@ def extract_prices(text, main_type):
     for m in PRICE_REGEX.findall(text):
         try:
             v = float(m.replace(",", "."))
-            if main_type == "Hébergement":
+            if main_type == "Hébergements":
                 if 20 <= v <= 1500: prices.append(v)   # nuit/semaine
             elif main_type == "Restaurants":
                 if 5 <= v <= 200: prices.append(v)      # repas/personne
@@ -177,7 +177,7 @@ def extract_prices(text, main_type):
 
 def niveau_prix(avg, main_type):
     if avg is None or avg == 0: return "Gratuit"
-    if main_type == "Hébergement":
+    if main_type == "Hébergements":
         if avg < 60:   return "€"
         if avg < 150:  return "€€"
         if avg < 300:  return "€€€"
@@ -791,7 +791,7 @@ for idx, row in df.iterrows():
         else:
             print("  Google X non trouvé")
 
-        # ── NATURE/FORÊT/PLAGE → Gratuit seulement si Activités (pas Hébergement)
+        # ── NATURE/FORÊT/PLAGE → Gratuit seulement si Activités (pas Hébergements)
         NATURE_FREE = ["plage","beach","anse","forêt domaniale","foret domaniale","dune","sentier","rivière","lac","domaniale","marais","tourbière"]
         NATURE_TYPES = ["naturalheritage","naturalsite","beach"]
         is_nature = (
