@@ -1,0 +1,871 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c1bf527d-e226-3720-9807-cd9827b756a3",
+  "dc:identifier": "B0029BRE0000001P",
+  "@type": [
+    "schema:Accommodation",
+    "schema:Hotel",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Hotel",
+    "HotelTrade",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Hôtel le Cap Horn"
+    ]
+  },
+  "availableLanguage": [
+    "en"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f8b40b48-e7d2-307f-b509-f5b4879afddc",
+      "schema:telephone": [
+        "+33 2 97 75 13 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.hotel-malestroit.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/64ac77dc-09b3-3e3d-9779-b02d5768cdeb",
+      "schema:legalName": "Hôtel le Cap Horn",
+      "schema:telephone": [
+        "+33 2 97 75 13 01"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.hotel-malestroit.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f8b40b48-e7d2-307f-b509-f5b4879afddc",
+      "schema:telephone": [
+        "+33 2 97 75 13 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.hotel-malestroit.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/550bdabd-0364-3423-9572-1752a5855f8f",
+      "dc:description": {
+        "de": [
+          "Im Stadtzentrum von Malestroit, nur wenige Schritte vom Kanal von Nantes nach Brest entfernt, finden Sie ein einfaches und komfortables Hotel. Sie haben zu Fuß Zugang zum mittelalterlichen Zentrum, zu Restaurants, Geschäften usw."
+        ],
+        "en": [
+          "In the center of Malestroit, a few steps from the Nantes-Brest canal, you'll find a simple, comfortable hotel. You'll be within walking distance of the medieval center, restaurants, shops and more."
+        ],
+        "it": [
+          "Nel centro di Malestroit, a pochi passi dal canale di Nantes-Brest, troverete un hotel semplice e confortevole. Sarete a pochi passi dal centro medievale, dai ristoranti, dai negozi, ecc."
+        ],
+        "fr": [
+          "Dans le centre-ville de Malestroit, à quelques pas du canal de Nantes à Brest, vous trouverez un hôtel simple et confortable. Vous aurez accès à pied au centre médiéval, aux restaurants, commerces, etc."
+        ],
+        "nl": [
+          "In het centrum van Malestroit, op een steenworp afstand van het kanaal Nantes-Brest, ligt een eenvoudig, comfortabel hotel. Je bevindt je op loopafstand van het middeleeuwse centrum, restaurants, winkels, etc."
+        ],
+        "es": [
+          "En el centro de Malestroit, a pocos pasos del canal Nantes-Brest, encontrará un hotel sencillo y confortable. Estará a poca distancia del centro medieval, restaurantes, tiendas, etc."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/62803b2e-94a4-3485-ac70-eec936d5822d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7dc8bca6-0c69-3d97-add3-575ad39e76f4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8653bb06-f895-390a-bf31-5c00e7ffdbfa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b4c6e1dc-bf18-36c6-8222-d302bcc0d175",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba865f35-036b-3309-bae2-5bf6364e5b1d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/27ec3055-5bba-3a90-8842-ad90cc3c1b46",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bar",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar"
+            ],
+            "pt": [
+              "Bar"
+            ],
+            "en": [
+              "Bar"
+            ],
+            "it": [
+              "Bar"
+            ],
+            "fr": [
+              "Bar"
+            ],
+            "nl": [
+              "Bar"
+            ],
+            "es": [
+              "Bar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/29878605-f1c9-3a72-89f5-2df0abf1ef14",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Cot",
+          "@type": [
+            "AccommodationPricingOffer",
+            "TypeOfBed"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Babybett"
+            ],
+            "pt": [
+              "Berço"
+            ],
+            "en": [
+              "Cot"
+            ],
+            "it": [
+              "Lettino per bambini"
+            ],
+            "fr": [
+              "Lit bébé"
+            ],
+            "es": [
+              "Cuna"
+            ],
+            "nl": [
+              "Babybed"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5b20cd66-eb6c-3608-b26f-cf235f53a931",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Wifi",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "WLAN, Internetzugang"
+            ],
+            "pt": [
+              "Wi-Fi, acesso Internet"
+            ],
+            "en": [
+              "Wifi, internet access"
+            ],
+            "it": [
+              "Wifi, accesso a internet"
+            ],
+            "fr": [
+              "Wifi, accès internet"
+            ],
+            "nl": [
+              "Wifi, internettoegang"
+            ],
+            "es": [
+              "Wifi, acceso a internet"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7bd7040f-c99b-3e31-8be9-63992d5c9a38",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BikeGarage",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Fahrradgarage"
+            ],
+            "pt": [
+              "Garagem de bicicletas"
+            ],
+            "en": [
+              "Bike garage"
+            ],
+            "it": [
+              "Garage di biciclette"
+            ],
+            "fr": [
+              "Garage à vélo"
+            ],
+            "es": [
+              "Garaje para bicicletas"
+            ],
+            "nl": [
+              "Fietsenstalling"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a239c937-4c7f-3dd4-80e9-20470f81bf0b",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:HairDryer",
+          "@type": [
+            "AccommodationAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Haartrockner"
+            ],
+            "pt": [
+              "Secador de cabelo"
+            ],
+            "en": [
+              "Hair dryer"
+            ],
+            "it": [
+              "Asciugacapelli"
+            ],
+            "fr": [
+              "Sèche cheveux"
+            ],
+            "es": [
+              "Secador de pelo"
+            ],
+            "nl": [
+              "Haardroger"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b78fd6d0-aa01-34ef-99ba-571847b5fdbc",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Television",
+          "@type": [
+            "AccommodationAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Fernsehen"
+            ],
+            "pt": [
+              "Televisão"
+            ],
+            "en": [
+              "Television"
+            ],
+            "it": [
+              "Televisione"
+            ],
+            "fr": [
+              "Télévision"
+            ],
+            "nl": [
+              "Televisie"
+            ],
+            "es": [
+              "Televisión"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c64b8c79-6022-3f84-8bd2-755aaaa675aa",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:DoubleGlazing",
+          "@type": [
+            "AccommodationAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Doppelverglaste Elemente"
+            ],
+            "pt": [
+              "Vidro duplo"
+            ],
+            "en": [
+              "Double glazing"
+            ],
+            "it": [
+              "Doppi vetri"
+            ],
+            "fr": [
+              "Double vitrage"
+            ],
+            "nl": [
+              "Dubbel glas"
+            ],
+            "es": [
+              "Doble acristalamiento"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7d0a4271-4820-3e81-8653-fb75d545a7b2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/922af7e5-0637-3d85-9fd6-7d9f9dd5f057",
+          "schema:addressLocality": "Malestroit",
+          "schema:postalCode": "56140",
+          "schema:streetAddress": [
+            "1 faubourg Saint-Michel"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56124",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Malestroit"
+              ],
+              "pt": [
+                "Malestroit"
+              ],
+              "en": [
+                "Malestroit"
+              ],
+              "it": [
+                "Malestroit"
+              ],
+              "fr": [
+                "Malestroit"
+              ],
+              "nl": [
+                "Malestroit"
+              ],
+              "es": [
+                "Malestroit"
+              ]
+            },
+            "insee": "56124",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3f3dff8a-148e-3c09-bcb8-ec996e952f0b",
+        "schema:latitude": "47.811137",
+        "schema:longitude": "-2.3842048",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9f41f612-4143-3987-b57d-c5028d36a90b",
+          "schema:validFrom": "2026-01-02T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-24",
+  "lastUpdateDatatourisme": "2026-02-25T03:31:52.197Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": false
+}

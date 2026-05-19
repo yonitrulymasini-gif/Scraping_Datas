@@ -1,0 +1,213 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f86096e4-d97c-3d2f-b8f5-2f5481e73700",
+  "dc:identifier": "B0031BRE0000000F",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Tourbière de Sérent"
+    ],
+    "fr": [
+      "Tourbière de Sérent"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q20127630"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fff994ce-a4a0-356b-9094-9f8c57057106",
+      "schema:telephone": [
+        "+33 2 97 75 93 57"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.serent.bzh/tourisme/a-decouvrir/tourbiere-de-serent.html"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ce24a95b-ce6a-3c45-87ea-f8d0b87f02d2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ac342ae0-94ff-39bc-9167-93c3b42414b1",
+          "schema:addressLocality": "Sérent",
+          "schema:postalCode": "56460",
+          "schema:streetAddress": [
+            "Kerfontaine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56244",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sérent"
+              ],
+              "pt": [
+                "Sérent"
+              ],
+              "en": [
+                "Sérent"
+              ],
+              "it": [
+                "Sérent"
+              ],
+              "fr": [
+                "Sérent"
+              ],
+              "nl": [
+                "Sérent"
+              ],
+              "es": [
+                "Sérent"
+              ]
+            },
+            "insee": "56244",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/22ed35b2-5671-3293-888e-553b876ec79f",
+        "schema:latitude": "47.8084858",
+        "schema:longitude": "-2.4681652",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-12",
+  "lastUpdateDatatourisme": "2026-03-13T03:59:05.395Z"
+}

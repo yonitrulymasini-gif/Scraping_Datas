@@ -1,0 +1,472 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ebf923b8-8bee-3f9e-b19d-b2dc0dab7ca0",
+  "dc:identifier": "B0028BRE000001PO",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte La Clémençaie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e51ac79e-c3bb-38de-ac48-c53673e6b949",
+    "dc:identifier": "3b58a92f-1120-4d67-8768-7ebc195c245a",
+    "schema:email": [
+      "contact@broceliande-vacances.com"
+    ],
+    "schema:legalName": "Destination Brocéliande - CRTBretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/053e354c-a098-3ff2-8aa4-6b53a82da9dd",
+      "schema:telephone": [
+        "+33 2 97 75 46 38",
+        "+33 6 73 08 79 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gitelaclemencaie.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/053e354c-a098-3ff2-8aa4-6b53a82da9dd",
+      "schema:telephone": [
+        "+33 2 97 75 46 38",
+        "+33 6 73 08 79 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gitelaclemencaie.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ad429dd1-55e0-3d1b-80ee-efde991f7ac5",
+      "schema:legalName": "Gîte La Clémençaie",
+      "schema:telephone": [
+        "+33 2 97 75 46 38",
+        "+33 6 73 08 79 36"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gitelaclemencaie.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3ab93886-53cf-3b92-9c81-240b75e45d01",
+      "dc:description": {
+        "de": [
+          "Eine schöne private Auffahrt führt Sie zu diesem charaktervollen Haus mit sehr modernem Dekor, das sich auf einem landwirtschaftlichen Betrieb befindet. Die Dekoration ist raffiniert."
+        ],
+        "en": [
+          "A beautiful private driveway leads you to this characterful, contemporary home, located on a farm. The decor is refined."
+        ],
+        "it": [
+          "Un bel vialetto privato vi conduce a questa casa di carattere con un arredamento molto contemporaneo, situata in una fattoria. L'arredamento è raffinato."
+        ],
+        "fr": [
+          "Une belle allée privative vous mènera vers cette maison de caractère au décor très contemporain, situé sur une exploitation agricole. La décoration y est raffinée."
+        ],
+        "es": [
+          "Un hermoso camino privado le lleva a esta casa de carácter con una decoración muy contemporánea, situada en una granja. La decoración es refinada."
+        ],
+        "nl": [
+          "Een prachtige privéoprijlaan leidt je naar dit karaktervolle huis met een zeer eigentijdse inrichting, gelegen op een boerderij. De inrichting is verfijnd."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/25a04c4d-dcb7-3ede-af36-bf74d6035a1b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63a3e0b9-69f0-3fc9-9924-a488dc7e1f6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/672d056e-f747-32e0-b4ad-04bc418fef6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/77078904-9cb5-34c0-94e8-718466b4e054",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e2f4f96-e141-31c1-b3ba-d68d5a194ba3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/08a26c69-99d9-3ec8-9f02-21343395afc6",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:IndoorPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überdachter Swimmingpool"
+            ],
+            "pt": [
+              "Piscina coberta"
+            ],
+            "en": [
+              "Indoor pool"
+            ],
+            "it": [
+              "Piscina coperta"
+            ],
+            "fr": [
+              "Piscine couverte"
+            ],
+            "es": [
+              "Piscina cubierta"
+            ],
+            "nl": [
+              "Overdekt zwembad"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d5e0bf64-1dc9-3819-a80d-67f07bdba9b4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d26ff8a6-a6a3-3282-a0c5-198ffa1b1fed",
+          "schema:addressLocality": "Réminiac",
+          "schema:postalCode": "56140",
+          "schema:streetAddress": [
+            "La Clémençaie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56191",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Réminiac"
+              ],
+              "pt": [
+                "Réminiac"
+              ],
+              "en": [
+                "Réminiac"
+              ],
+              "it": [
+                "Réminiac"
+              ],
+              "fr": [
+                "Réminiac"
+              ],
+              "nl": [
+                "Réminiac"
+              ],
+              "es": [
+                "Réminiac"
+              ]
+            },
+            "insee": "56191",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6074b47e-5a99-3ea4-825f-73a2c44ef603",
+        "schema:latitude": "47.8544706",
+        "schema:longitude": "-2.2591576",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T04:02:59.295Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

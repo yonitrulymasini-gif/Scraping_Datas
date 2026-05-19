@@ -1,0 +1,568 @@
+{
+  "@id": "https://data.datatourisme.fr/38/13a125d0-9ca5-3cad-9d99-29c97301dfa3",
+  "dc:identifier": "B0028BRE000001D6",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte du Pâtis de la Houssais"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2e067c60-d708-331c-bb70-9e1512838389",
+      "schema:telephone": [
+        "+33 2 97 75 74 58"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://patisdelahoussais.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2e067c60-d708-331c-bb70-9e1512838389",
+      "schema:telephone": [
+        "+33 2 97 75 74 58"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://patisdelahoussais.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/45e65403-709e-3bfd-9c2b-70d4d812478e",
+      "schema:legalName": "Gîte du Pâtis de la Houssais",
+      "schema:telephone": [
+        "+33 2 97 75 74 58"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://patisdelahoussais.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/84171447-bb0b-37e9-93e7-78bed7549bd4",
+      "dc:description": {
+        "de": [
+          "In der Nähe des Waldes von Brocéliande und der Schulen von St-Cyr Coëtquidan heißen Sie Yves und Evelyne auf ihrem Bauernhof willkommen und laden Sie ein, das Landleben zu genießen."
+        ],
+        "en": [
+          "Close to the Brocéliande forest and the Écoles de St-Cyr Coëtquidan, Yves and Evelyne welcome you to their farm, and invite you to enjoy life in the country."
+        ],
+        "it": [
+          "Vicino alla foresta di Brocéliande e alle scuole di St-Cyr Coëtquidan, Yves ed Evelyne vi accolgono nella loro fattoria e vi invitano a godervi la vita in campagna."
+        ],
+        "fr": [
+          "A proximité de la forêt de Brocéliande et des Écoles de St-Cyr Coëtquidan, Yves et Evelyne vous accueillent à la ferme, et vous invitent à savourer la vie à la campagne."
+        ],
+        "nl": [
+          "In de buurt van het bos van Brocéliande en de scholen van St-Cyr Coëtquidan heten Yves en Evelyne je welkom op hun boerderij en nodigen ze je uit om te genieten van het leven op het platteland."
+        ],
+        "es": [
+          "Cerca del bosque de Brocéliande y de las escuelas de St-Cyr Coëtquidan, Yves y Evelyne le dan la bienvenida a su granja y le invitan a disfrutar de la vida en el campo."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2420dc0d-a535-3794-95ea-15f2910178af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a4942f2-108a-3e50-9c90-3ee4da212b1f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/44b6cfd3-aa97-3ca8-ac00-af7872c393a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb2d75ed-ac07-3c99-b257-4b87acd6593c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cbf3791e-091d-33fb-a098-ca0a8c1a559c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e5931392-0712-3e0c-8965-a16bb85ac416",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/87918ea4-01cd-3daa-a825-1421841054f8",
+          "schema:addressLocality": "Guer",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "Le Pâtis de la Houssais - St Raoul"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56075",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guer"
+              ],
+              "pt": [
+                "Guer"
+              ],
+              "en": [
+                "Guer"
+              ],
+              "it": [
+                "Guer"
+              ],
+              "fr": [
+                "Guer"
+              ],
+              "nl": [
+                "Guer"
+              ],
+              "es": [
+                "Guer"
+              ]
+            },
+            "insee": "56075",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0842eb67-b527-3a6d-b4ea-a4e9666ce0e6",
+        "schema:latitude": "47.9575699",
+        "schema:longitude": "-2.1137769",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-05",
+  "lastUpdateDatatourisme": "2026-05-06T03:29:34.708Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

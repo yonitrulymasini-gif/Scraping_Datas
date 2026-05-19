@@ -1,0 +1,238 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f9f971ee-a1d5-307e-b36d-1ba3ad485dc8",
+  "dc:identifier": "ASCBRE056V50CEQI",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "M & Compagnie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4a98c1ba-3e0c-3be6-aac4-62d388affbea",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.metcompagnie.fr/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:BindingAndFrames",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Buchbinden und Einrahmen"
+        ],
+        "pt": [
+          "Encadernação e molduras"
+        ],
+        "en": [
+          "Binding and frames"
+        ],
+        "it": [
+          "Rilegatura e incorniciatura"
+        ],
+        "fr": [
+          "Reliure et encadrement"
+        ],
+        "nl": [
+          "Inbinden en inlijsten"
+        ],
+        "es": [
+          "Encuadernación y enmarcado"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9df0d463-22d5-3243-8048-f5dcefd8012f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d6a00354-5ffa-3a0c-87d5-d6d88f16d84c",
+          "schema:addressLocality": "Carentoir",
+          "schema:postalCode": "56910",
+          "schema:streetAddress": [
+            "Impasse de Bel Orient"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56033",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carentoir"
+              ],
+              "pt": [
+                "Carentoir"
+              ],
+              "en": [
+                "Carentoir"
+              ],
+              "it": [
+                "Carentoir"
+              ],
+              "fr": [
+                "Carentoir"
+              ],
+              "nl": [
+                "Carentoir"
+              ],
+              "es": [
+                "Carentoir"
+              ]
+            },
+            "insee": "56033",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a19da233-4d5a-3705-898e-cc56cdd433f1",
+        "schema:latitude": "47.81727",
+        "schema:longitude": "-2.12846",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T03:36:16.914Z"
+}

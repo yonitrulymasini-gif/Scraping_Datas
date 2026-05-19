@@ -1,0 +1,348 @@
+{
+  "@id": "https://data.datatourisme.fr/38/eb8552f1-41fa-3724-ac99-2a5593c8ca53",
+  "dc:identifier": "ASC1bcc105f7da84",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Passion Bretagne - Guide Interprète (anglais) Nature et Patrimoine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/72d88d69-7c60-3f9c-b4b7-4261ee8de78c",
+      "schema:telephone": [
+        "+33 6 31 72 41 53"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2e02c82b-e8d7-373c-b034-e2851ea46b58",
+      "dc:description": {
+        "de": [
+          "Armelle Farrell Fremdenführer Dolmetscher (Englisch) Natur und Kulturerbe. Geführte Besichtigungen der Halbinsel Rhuys und ihrer Umgebung für Gruppen und Einzelpersonen, ganzjährig geöffnet, Gruppentarif ab 10 Personen: 150 €/Halbtag, 280 €/Tag."
+        ],
+        "en": [
+          "Armelle Farrell Guide Interpreter (English) Nature and Heritage. Guided tours of the Rhuys Peninsula and its region, for groups and individuals. Open all year round. Group rates from 10 people: 150 €/half day, 280 €/day."
+        ],
+        "it": [
+          "Armelle Farrell Interprete di guida (inglese) Natura e patrimonio. Visite guidate alla penisola di Rhuys e alla sua regione, per gruppi e singoli, aperte tutto l'anno. Tariffe per gruppi a partire da 10 persone: 150 €/mezza giornata, 280 €/giorno."
+        ],
+        "fr": [
+          "Armelle Farrell Guide Interprète (Anglais) Nature et Patrimoine. Visites guidées sur la Presqu'île de Rhuys et sa région, pour les groupes et individuels.Ouvert toute l'année.Tartif groupe à partir de 10 personnes : 150 €/demi- journée, 280 €/journée."
+        ],
+        "es": [
+          "Armelle Farrell Guía Intérprete (inglés) Naturaleza y Patrimonio. Visitas guiadas a la península de Rhuys y su región, para grupos y particulares. Abierto todo el año. Tarifas para grupos a partir de 10 personas: 150€/medio día, 280€/día."
+        ],
+        "nl": [
+          "Armelle Farrell Gids Tolk (Engels) Natuur en Erfgoed. Rondleidingen op het schiereiland Rhuys en zijn regio, voor groepen en individuen. Het hele jaar geopend. Groepstarieven vanaf 10 personen: 150 €/halve dag, 280 €/dag."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2af79a95-67b5-3bf3-b67b-2b5e6106021e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4f0526f5-4f73-3c54-95a0-00277777b26f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7c888200-6fc9-33b2-bc21-50889f607d81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac8371a2-8792-3dff-9fe3-887c9e3f1264",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b4933dbd-5144-3f4e-811b-5a803bdb17ac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Botany",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Botanik"
+        ],
+        "pt": [
+          "Botânica"
+        ],
+        "en": [
+          "Botany"
+        ],
+        "it": [
+          "Botanica"
+        ],
+        "fr": [
+          "Botanique"
+        ],
+        "nl": [
+          "Botanisch"
+        ],
+        "es": [
+          "Botánica"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fded946e-62c8-3aaf-92eb-37dcfaabb4da",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/91eec1f6-f9c5-344e-9f0f-bd920d5b4f0f",
+          "schema:addressLocality": "Sarzeau",
+          "schema:postalCode": "56370",
+          "schema:streetAddress": [
+            "Kerbisquer"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56240",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sarzeau"
+              ],
+              "pt": [
+                "Sarzeau"
+              ],
+              "en": [
+                "Sarzeau"
+              ],
+              "it": [
+                "Sarzeau"
+              ],
+              "fr": [
+                "Sarzeau"
+              ],
+              "nl": [
+                "Sarzeau"
+              ],
+              "es": [
+                "Sarzeau"
+              ]
+            },
+            "insee": "56240",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/af1331b5-77dd-3b9e-b4ae-409043296fac",
+        "schema:latitude": "47.51756",
+        "schema:longitude": "-2.764436",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b39909f4-8da9-3038-8163-9d682e490022",
+          "schema:validFrom": "2019-04-01T00:00:00",
+          "schema:validThrough": "2019-11-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:22:00.466Z"
+}

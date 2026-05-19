@@ -1,0 +1,207 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3a920a39-92d1-3209-bb26-b3a61dac7f41",
+  "dc:identifier": "ASC52b8c5ec49f54",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Archers de Kervignac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27be82d5-68bf-31a0-ade4-9c16520b4f2f",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.archers-kervignac.fr/"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/22799c09-7a95-3666-9173-80872ef36221",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/746c7c3c-d90f-3232-832a-5a9488dd7b5f",
+          "schema:addressLocality": "Kervignac",
+          "schema:postalCode": "56700",
+          "schema:streetAddress": [
+            "Allée des Sports",
+            " "
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56094",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Kervignac"
+              ],
+              "pt": [
+                "Kervignac"
+              ],
+              "en": [
+                "Kervignac"
+              ],
+              "it": [
+                "Kervignac"
+              ],
+              "fr": [
+                "Kervignac"
+              ],
+              "nl": [
+                "Kervignac"
+              ],
+              "es": [
+                "Kervignac"
+              ]
+            },
+            "insee": "56094",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f7164c11-41f4-3b62-9090-14e7fed8dd83",
+        "schema:latitude": "47.76069",
+        "schema:longitude": "-3.2412",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:22:00.466Z"
+}

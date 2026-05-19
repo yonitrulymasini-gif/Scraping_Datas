@@ -1,0 +1,341 @@
+{
+  "@id": "https://data.datatourisme.fr/38/96f35c3b-3d30-3669-8e77-f09ace197d2a",
+  "dc:identifier": "B0037BRE00000057",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Location de vélo - Auberge Voyajoueurs"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/34b30747-d853-3886-af6f-fcf35e7bd481",
+    "schema:legalName": "Destination Brocéliande - CRTBretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7da7063b-cfc7-3a79-82fe-a54bc80f29cc",
+      "schema:telephone": [
+        "+33 2 97 93 22 18"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.auberge-des-voyajoueurs.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cb9083d1-08f7-3ba2-ac68-348a02da5310",
+      "dc:description": {
+        "de": [
+          "Mieten Sie Ihr Fahrrad für einen Ausflug oder Ihren Urlaub und erkunden Sie die Region.\nOb für einen halben oder einen ganzen Tag, mit Fahrrädern für Kinder, Jugendliche oder Erwachsene, hier kommt jeder auf seine Kosten!\nDer Fahrradpark umfasst 5 Fahrräder für Erwachsene, 2 für Jugendliche und 2 für Kinder."
+        ],
+        "en": [
+          "Rent your bike for a ride or for your vacation and discover the region.\nFor half a day or a full day, with cycles for children, juniors and adults, there is something for everyone!\nPark of 5 adult, 2 junior and 2 child bikes."
+        ],
+        "it": [
+          "Noleggiate la vostra bicicletta per un giro o per le vostre vacanze e scoprite la regione.\nPer mezza giornata o una giornata intera, con cicli per bambini, ragazzi e adulti, ce n'è per tutti i gusti!\nParco di 5 biciclette per adulti, 2 junior e 2 bambini."
+        ],
+        "fr": [
+          "Le temps d’une balade ou de vos vacances, louez votre vélo et partez à la découverte de la région.\nA la 1/2 journée ou à la journée, avec des cycles pour enfant, junior et adultes, tout le monde y trouve son compte!\nParc de 5 vélos adulte, 2 junior et 2 enfant."
+        ],
+        "nl": [
+          "Huur uw fiets voor een ritje of voor uw vakantie en ontdek de streek.\nVoor een halve of een hele dag, met fietsen voor kinderen, junioren en volwassenen, is er voor elk wat wils!\nPark van 5 volwassen, 2 junior en 2 kinderfietsen."
+        ],
+        "es": [
+          "Alquile su bicicleta para un paseo o para sus vacaciones y descubra la región.\nPara medio día o un día completo, con ciclos para niños, jóvenes y adultos, ¡hay algo para todos!\nParque de 5 bicicletas de adulto, 2 junior y 2 de niño."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00d3112e-9e9c-322b-a3ce-9d9eb4e2bda7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/45b9980e-abd0-3993-9ae3-02fa8083d111",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7232f859-9460-38ba-b896-482376f22bad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e35081c-bfd0-3536-9570-2d46b87f60cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff3a040e-070d-3db3-be9b-87c008d1e520",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:BicycleTouring",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Radtourismus"
+        ],
+        "pt": [
+          "Cicloturismo"
+        ],
+        "en": [
+          "Bicycle touring"
+        ],
+        "it": [
+          "Cicloturismo"
+        ],
+        "fr": [
+          "Cyclotourisme"
+        ],
+        "nl": [
+          "Fietstoerisme"
+        ],
+        "es": [
+          "Cicloturismo"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fbe2adc3-07e5-3341-81b8-ae062589e798",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1e56c3cd-b1e8-3c45-ab81-1e30f2d29fae",
+          "schema:addressLocality": "Monteneuf",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "Rue du Chaperon Rouge"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56136",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Monteneuf"
+              ],
+              "pt": [
+                "Monteneuf"
+              ],
+              "en": [
+                "Monteneuf"
+              ],
+              "it": [
+                "Monteneuf"
+              ],
+              "fr": [
+                "Monteneuf"
+              ],
+              "nl": [
+                "Monteneuf"
+              ],
+              "es": [
+                "Monteneuf"
+              ]
+            },
+            "insee": "56136",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a6489621-20f0-3dea-a5e9-9a1c656bb163",
+        "schema:latitude": "47.8743",
+        "schema:longitude": "-2.209454",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.33Z"
+}

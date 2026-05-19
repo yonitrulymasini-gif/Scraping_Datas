@@ -1,0 +1,603 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d0329a61-b3ff-3976-896f-c7131e2ef1e4",
+  "dc:identifier": "HLO070d380be55e4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Maison Ti Couedic"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7fd61922-79e0-3600-8c10-c9b1d9374207",
+      "schema:telephone": [
+        "+33 2 97 68 06 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.morbihanconciergerie.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7fd61922-79e0-3600-8c10-c9b1d9374207",
+      "schema:telephone": [
+        "+33 2 97 68 06 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.morbihanconciergerie.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a956f658-676a-3a45-a577-eb0b673354bd",
+      "schema:legalName": "Maison Ti Couedic",
+      "schema:telephone": [
+        "+33 2 97 68 06 28"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.morbihanconciergerie.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a35c912d-b8b9-36f6-8eee-b5f8692e4c14",
+      "dc:description": {
+        "de": [
+          "Haus 6 Personen. Auf der Landenge von Penthièvre, am Eingang der Halbinsel Quiberon, besticht das Haus Ti Couedic durch sein gemütliches Wohnzimmer, seine 3 Schlafzimmer, seine große Veranda, seinen Whirlpool, seinen geschlossenen Garten und seine Nähe zu den Stränden.\nNur 2 Gehminuten entfernt haben Sie die Wahl zwischen dem Strand an der Bucht von Quiberon für \"klassische\" Strandaktivitäten und dem Strand am Ozean, der eher für Surf- und Kite-Surf-Fans geeignet ist.\nDer perfekte Ort für einen entspannten und vergnüglichen Aufenthalt. Kajaks stehen zur Verfügung.\nBettwäsche wird gestellt (obligatorisch). Reinigung inbegriffen\nIm Juli und August Vermietung von Sonntag bis Sonntag.\nMinimum 2 Nächte / Hochsaison 7 Nächte."
+        ],
+        "en": [
+          "House for 6 people. On the isthmus of Penthièvre, at the entrance to the Quiberon peninsula, the Ti Couedic house will seduce you with its comfortable living room, 3 bedrooms, large veranda, jacuzzi, enclosed garden and proximity to the beaches.\nJust a 2-minute walk away, you can choose between the beach on the Baie de Quiberon side for \"classic\" beach activities, or the beach on the Océan side, more suited to fans of surfing and kite-surfing.\nThe perfect place for a relaxing stay. Kayaks available.\nLinen provided (mandatory). Cleaning included\nIn July and August, rental from Sunday to Sunday.\nMinimum 2 nights / High Season 7 nights."
+        ],
+        "it": [
+          "Casa da 6 posti letto. Sull'istmo di Penthièvre, all'ingresso della penisola di Quiberon, la casa Ti Couedic vi affascinerà con il suo confortevole soggiorno, le sue 3 camere da letto, la sua vasta veranda, la sua jacuzzi, il suo giardino recintato e la sua vicinanza alle spiagge.\nA soli 2 minuti a piedi, potrete scegliere tra la spiaggia della Baia di Quiberon per le attività balneari \"classiche\" e la spiaggia dell'Oceano più adatta agli appassionati di surf e kite-surf.\nIl luogo ideale per una pausa di relax. Kayak a disposizione.\nBiancheria fornita (obbligatoria). Pulizie incluse\nIn luglio e agosto, affitto da domenica a domenica.\nMinimo 2 notti / Alta stagione 7 notti."
+        ],
+        "fr": [
+          "Maison 6 personnes. Sur l’isthme de Penthièvre, à l’entrée de la presqu’île de Quiberon, la maison Ti Couedic séduira par son salon confortable, ses 3 chambres, sa vaste véranda, son jacuzzi, son jardin clos et sa proximité des plages. \nA 2 minutes à pied, vous avez le choix entre la plage côté Baie de Quiberon pour des activités de plage \"classiques\" et la plage côté Océan plus adaptée aux fans de surf et Kite-surf. \nLe lieu parfait pour un séjour plaisir et détente. Kayaks à disposition.\nLinge fourni (obligatoire). Ménage inclus\nEn juillet et août, location du dimanche au dimanche. \nMinimum 2 nuitées / Haute Saison 7 nuitées."
+        ],
+        "nl": [
+          "Huis voor 6 personen. Op de landengte van Penthièvre, aan de ingang van het schiereiland Quiberon, zal het huis Ti Couedic u bekoren met zijn comfortabele woonkamer, zijn 3 slaapkamers, zijn grote veranda, zijn jacuzzi, zijn omheinde tuin en zijn nabijheid tot de stranden.\nOp slechts 2 minuten lopen kun je kiezen tussen het strand aan de kant van de baai van Quiberon voor \"klassieke\" strandactiviteiten en het strand aan de oceaankant dat meer geschikt is voor liefhebbers van surfen en kitesurfen.\nDe perfecte plek voor een ontspannende vakantie. Kajaks beschikbaar.\nLinnen voorzien (verplicht). Schoonmaak inbegrepen\nIn juli en augustus, verhuur van zondag tot zondag.\nMinimaal 2 nachten / hoogseizoen 7 nachten."
+        ],
+        "es": [
+          "Casa para 6 personas. En el istmo de Penthièvre, a la entrada de la península de Quiberon, la casa Ti Couedic le seducirá por su confortable salón, sus 3 habitaciones, su amplio porche, su jacuzzi, su jardín cerrado y su proximidad a las playas.\nA sólo 2 minutos a pie, podrá elegir entre la playa del lado de la bahía de Quiberon, para las actividades de playa \"clásicas\", y la playa del lado del Océano, más adecuada para los aficionados al surf y al kitesurf.\nEl lugar perfecto para un descanso relajante. Kayaks disponibles.\nRopa de cama (obligatoria). Limpieza incluida\nEn julio y agosto, alquiler de domingo a domingo.\nMínimo 2 noches / Temporada Alta 7 noches."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/098ff39e-6695-3c7e-9d93-0bac11050a0f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/538f399c-1b34-31a2-a7dd-49bff4eed3ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d7b16255-acef-36a6-b778-f88ddeb8b827",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e90a8ee9-a13b-3922-9860-6403de452670",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea02415a-f3c3-37ac-bb63-702311ea1ebb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3c4d03db-45aa-3cd0-a13b-1c88e9d67391",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/dca0ea29-6222-3862-8ffb-2ab615f179a8",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "1 Avenue du Couëdic"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3b688969-752e-34f4-99fd-6d566fa3b055",
+        "schema:latitude": "47.55595",
+        "schema:longitude": "-3.133939",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

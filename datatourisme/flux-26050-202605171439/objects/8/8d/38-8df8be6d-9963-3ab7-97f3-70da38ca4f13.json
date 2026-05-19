@@ -1,0 +1,301 @@
+{
+  "@id": "https://data.datatourisme.fr/38/8df8be6d-9963-3ab7-97f3-70da38ca4f13",
+  "dc:identifier": "HPABRE0560000246",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CamperVanArea",
+    "Camping",
+    "CampingAndCaravanning",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Camping municipal de la Digue"
+    ],
+    "fr": [
+      "Camping municipal de la Digue"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0376b53c-5558-3643-8fd7-d35138736929",
+      "schema:telephone": [
+        "+33 2 99 91 49 45",
+        "+33 2 99 91 55 76"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.st-martin-sur-oust.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e5d3e022-d15c-3521-86b9-1806fd02da4d",
+      "dc:description": {
+        "de": [
+          "Freilufthotelgewerbe"
+        ],
+        "en": [
+          "Hôtellerie de plein air"
+        ],
+        "it": [
+          "Hotel all'aperto"
+        ],
+        "fr": [
+          "Hôtellerie de plein air"
+        ],
+        "nl": [
+          "Openluchthotels"
+        ],
+        "es": [
+          "Hoteles al aire libre"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2cd6e3ea-557d-3429-b5d6-2ce6a742f8e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6fe6a55f-4314-36de-a9c4-4e183fcecfa9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9bbb84f2-8f97-3109-ac95-4148a3a98ded",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6ce4c71-76d1-3da6-9828-14b4672c8944",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0097a029-d543-3534-ab3a-1d1cc88c8dae",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7c485647-4e76-3c53-a5cc-62d68aab87a8",
+          "schema:addressLocality": "Saint-Martin-sur-Oust",
+          "schema:postalCode": "56200",
+          "schema:streetAddress": [
+            "Le Guélin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56229",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Martin-sur-Oust"
+              ],
+              "pt": [
+                "Saint-Martin-sur-Oust"
+              ],
+              "en": [
+                "Saint-Martin-sur-Oust"
+              ],
+              "it": [
+                "Saint-Martin-sur-Oust"
+              ],
+              "fr": [
+                "Saint-Martin-sur-Oust"
+              ],
+              "nl": [
+                "Saint-Martin-sur-Oust"
+              ],
+              "es": [
+                "Saint-Martin-sur-Oust"
+              ]
+            },
+            "insee": "56229",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d5320bc9-c313-3aba-9169-9493a7e9137e",
+        "schema:latitude": "47.746571",
+        "schema:longitude": "-2.264789",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:00:08.449Z"
+}

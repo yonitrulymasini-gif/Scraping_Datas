@@ -1,0 +1,601 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1699efa6-3f13-3b4e-ab4b-3e04d1b089ac",
+  "dc:identifier": "HLOBRE056V5005D5",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Bathô au camping du Goviro"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr",
+    "nl"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0f0957ca-e995-370f-ab8c-712645e07fdc",
+      "schema:telephone": [
+        "+33 2 97 50 13 54"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.campingdugoviro.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0f0957ca-e995-370f-ab8c-712645e07fdc",
+      "schema:telephone": [
+        "+33 2 97 50 13 54"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.campingdugoviro.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2f4dd594-1a9d-33de-b214-9ebd54491940",
+      "schema:legalName": "Le Bathô au camping du Goviro",
+      "schema:telephone": [
+        "+33 2 97 50 13 54"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.campingdugoviro.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/861c93c3-a89f-3fec-a10c-4c900955022f",
+      "dc:description": {
+        "de": [
+          "Das Bâtho auf dem Campingplatz Goviro ist ein Boot, das eine zweite Jugend erlebt und in eine ungewöhnliche Unterkunft umgewandelt wurde.\nEs bietet Platz für 2 Erwachsene und 1 Kind mit einer Körpergröße von maximal 1,50m.\n\n Die Küche ist komplett ausgestattet. Kopfkissen und Bettdecken für zwei Erwachsene und ein Kind sind vorhanden.\n\nDie Anreise erfolgt um 14 Uhr und die Abreise bis 10:30 Uhr.\n\nPreis: 180? für zwei Nächte, 80? für jede weitere Nacht"
+        ],
+        "en": [
+          "The Bâtho at Camping du Goviro is a boat that has been given a new lease of life, transformed into an unusual accommodation.\nIt can accommodate 2 adults and 1 child up to 1.50 m tall.\n\n The kitchen is fully equipped. Pillows and comforters provided for two adults and one child.\n\nArrivals are at 2 pm and departures until 10:30 am.\n\nRate: 180? for two nights, 80? per additional night"
+        ],
+        "it": [
+          "Il Bâtho del Camping du Goviro è una barca che ha ripreso vita, trasformata in un alloggio insolito.\nPuò ospitare 2 adulti e 1 bambino fino a 1,50 m di altezza.\n\n La cucina è completamente attrezzata. Vengono forniti cuscini e piumini per due adulti e un bambino.\n\nGli arrivi sono previsti alle 14.00 e le partenze fino alle 10.30.\n\nPrezzo: 180? per due notti, 80? per ogni notte aggiuntiva"
+        ],
+        "fr": [
+          "Le Bâtho du camping du Goviro est un bateau qui connait une seconde jeunesse, métamorphosé en logement insolite.\nIl peut accueillir 2 adultes et 1 enfant d'1m50 maximum.\n\n La cuisine est entièrement équipée. Oreillers et couettes fournis pour deux adultes et un enfant.\n\nLes arrivées se font à 14h et les départs jusqu'à 10h30.\n\nTarif : 180€ les deux nuits, 80€ par nuit supplémentaire"
+        ],
+        "es": [
+          "El Bâtho del Camping du Goviro es un barco al que se le ha dado una nueva vida, transformado en un alojamiento insólito.\nTiene capacidad para 2 adultos y 1 niño de hasta 1,50 m de altura.\n\n La cocina está totalmente equipada. Se proporcionan almohadas y edredones para dos adultos y un niño.\n\nLas llegadas son a las 14h y las salidas hasta las 10h30.\n\nTarifa: 180? por dos noches, 80? por noche adicional"
+        ],
+        "nl": [
+          "De Bâtho op Camping du Goviro is een boot die nieuw leven is ingeblazen en omgetoverd is tot een bijzondere accommodatie.\nHij biedt plaats aan 2 volwassenen en 1 kind tot 1,50 m lang.\n\n De keuken is volledig uitgerust. Kussens en dekbedden zijn aanwezig voor twee volwassenen en een kind.\n\nAankomst om 14.00 uur en vertrek tot 10.30 uur.\n\nTarief: 180? voor twee nachten, 80? per extra nacht"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2c3bef3d-7b57-3907-acb1-05757573f0fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/60da5047-5675-39aa-aa5d-5d95f233603a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b131fe70-eb19-3512-a6d2-1213d6775c61",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d803da08-92c6-32ab-8e90-284914506744",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0e7cf48-6beb-3995-8af4-5babcfaf9445",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/abdfdcf0-d5a7-3e98-931c-ee097d593bea",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2c0ecc2f-b86d-3d0d-a818-8cf54c657155",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "Boulevard du Goviro"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/234096d5-bb82-346e-b0b8-5516a975cf70",
+        "schema:latitude": "47.47338",
+        "schema:longitude": "-3.10771",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/cfa786ff-b231-3e30-a697-895e630fe6ca",
+          "schema:validFrom": "2026-05-01T00:00:00",
+          "schema:validThrough": "2026-09-15T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.028Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

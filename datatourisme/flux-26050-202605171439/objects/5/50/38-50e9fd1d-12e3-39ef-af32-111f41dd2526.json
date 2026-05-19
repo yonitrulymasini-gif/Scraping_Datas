@@ -1,0 +1,348 @@
+{
+  "@id": "https://data.datatourisme.fr/38/50e9fd1d-12e3-39ef-af32-111f41dd2526",
+  "dc:identifier": "ASCe51563e8d5314",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Corinne Poplimont - peintre"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e3159c21-203c-3f28-b55f-26a7959747df",
+      "schema:telephone": [
+        "+33 2 97 42 88 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2fbb804f-a4da-3f6c-a2fc-55591d3eee18",
+      "dc:description": {
+        "de": [
+          "Die Aquarelle, die gezeigt werden, sind die des Reisetagebuchs, das im marokkanischen Atlasgebirge entstanden ist. \"Kontaktieren Sie die Künstlerin, um einen Termin zu vereinbaren: 02 97 42 88 10www.corinne-poplimont.com"
+        ],
+        "en": [
+          "The watercolors that will be presented will be those of the travel notebook made in the Moroccan Atlas. \"Contact the artist to make an appointment at 02 97 42 88 10www.corinne-poplimont.com"
+        ],
+        "it": [
+          "Gli acquerelli che verranno presentati saranno quelli del diario di viaggio realizzato nell'Atlante marocchino. \"Contattare l'artista per fissare un appuntamento al numero 02 97 42 88 10www.corinne-poplimont.com"
+        ],
+        "fr": [
+          "Celles-ci jouent avec les couleurs et les lumières dans de l'intensité et de la gaité.Les aquarelles qui seront présentées seront celles du carnet de voyage réalisé dans l'Atlas marocain.\"Contactez l'artiste pour prendre rendez-vous au 02 97 42 88 10www.corinne-poplimont.com"
+        ],
+        "es": [
+          "Las acuarelas que se presentarán serán las del diario de viaje realizado en el Atlas marroquí. \"Contacte con el artista para concertar una cita en el 02 97 42 88 10www.corinne-poplimont.com"
+        ],
+        "nl": [
+          "De aquarellen die zullen worden gepresenteerd zijn die van het reisdagboek gemaakt in de Marokkaanse Atlas. \"Neem contact op met de kunstenaar om een afspraak te maken op 02 97 42 88 10www.corinne-poplimont.com"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0619a1a0-1076-3241-b6cf-e18e62dbc1f4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1412811c-4068-31da-be3b-fc735bb67b4b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1815b2e0-0a2b-3f3e-9b0a-930b04b071b3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2ea90c44-c45b-3c83-bcfe-6caf81040196",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d6c52fb4-c3a2-3546-97fa-4d368bbe0533",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:PaintingGraphicArts",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Gemälde, Grafiken"
+        ],
+        "pt": [
+          "Pintura, artes gráficas"
+        ],
+        "en": [
+          "Painting, graphic arts"
+        ],
+        "it": [
+          "Dipinti, arti grafiche"
+        ],
+        "fr": [
+          "Peintures, arts graphiques"
+        ],
+        "nl": [
+          "Schilderijen, grafische kunst"
+        ],
+        "es": [
+          "Pintura, artes gráficas"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/01f14986-7628-3c8b-8a24-5ee0e864a4f1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2fc5eec2-e57f-3598-974c-c6d3350e0329",
+          "schema:addressLocality": "Le Guerno",
+          "schema:postalCode": "56190",
+          "schema:streetAddress": [
+            "Saudien"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56077",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Guerno"
+              ],
+              "pt": [
+                "Le Guerno"
+              ],
+              "en": [
+                "Le Guerno"
+              ],
+              "it": [
+                "Le Guerno"
+              ],
+              "fr": [
+                "Le Guerno"
+              ],
+              "nl": [
+                "Le Guerno"
+              ],
+              "es": [
+                "Le Guerno"
+              ]
+            },
+            "insee": "56077",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6a397958-af54-3846-9a36-1aa056d1d38e",
+        "schema:latitude": "47.60127",
+        "schema:longitude": "-2.399502",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/48bd87a2-e7f2-3848-84ca-c4fd9b6b33d2",
+          "schema:validFrom": "2016-01-01T00:00:00",
+          "schema:validThrough": "2016-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

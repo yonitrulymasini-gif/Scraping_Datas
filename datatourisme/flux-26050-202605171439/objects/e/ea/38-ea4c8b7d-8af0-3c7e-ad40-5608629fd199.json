@@ -1,0 +1,355 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ea4c8b7d-8af0-3c7e-ad40-5608629fd199",
+  "dc:identifier": "LOISPO40671",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Les Passagers du Vent"
+    ],
+    "fr": [
+      "Les Passagers du Vent"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bb9402ab-e121-3c15-8811-126403cc2e34",
+      "schema:telephone": [
+        "+33 6 08 83 57 87"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lespassagersduvent56.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6bb9ca1b-6848-36fc-9532-3fd767126c70",
+      "dc:description": {
+        "de": [
+          "Unsere ganzjährig geöffnete Strandsegelschule zeigt Ihnen Geräte, die Ihnen das Gefühl des Gleitens, der Geschwindigkeit und der Freiheit in einer einzigartigen Umgebung vermitteln.\r\nWir bieten einstündige oder zweistündige Kurse mit Lehrern an."
+        ],
+        "en": [
+          "Open all year round, our sand yacht school will introduce you to machines that will give you the sensation of gliding, speed and freedom in a unique setting.\r\nWe offer one-hour or two-hour lessons with instructors."
+        ],
+        "it": [
+          "Aperta tutto l'anno, la nostra scuola di sand yacht vi introdurrà a macchine che vi daranno l'emozione di planare, velocità e libertà in un ambiente unico.\r\nOffriamo lezioni di un'ora o di due ore con istruttori."
+        ],
+        "fr": [
+          "Ouverte toute l'année, notre école de char à voile vous fera découvrir des engins qui vous apporteront des sensations de glisse, de vitesse et de liberté dans un cadre unique. \r\nNous proposons des cours d'une heure ou de deux heures avec des moniteurs."
+        ],
+        "nl": [
+          "Onze zandzeilschool is het hele jaar door geopend en laat je kennismaken met machines die je de sensatie van zweefvliegen, snelheid en vrijheid geven in een unieke omgeving.\r\nWe bieden lessen van een of twee uur met instructeurs."
+        ],
+        "es": [
+          "Abierta todo el año, nuestra escuela de vela de arena le introducirá en máquinas que le proporcionarán la emoción del planeo, la velocidad y la libertad en un entorno único.\r\nOfrecemos clases de una o dos horas con instructores."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5af08c68-d275-328f-9094-780daae9d009",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78277d60-68e5-37be-99a1-57ff9d8891ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82120b97-c40b-3b39-900a-12a2a1be19a3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c5d466a6-4cc1-3105-8d83-feee35979b74",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d53d8443-1e4e-3920-91cd-f9c9f4bf5346",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:SandYachting",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Strandsegeln"
+        ],
+        "pt": [
+          "Carro à vela"
+        ],
+        "en": [
+          "Sand yachting"
+        ],
+        "it": [
+          "Carro a vela"
+        ],
+        "fr": [
+          "Char à voile"
+        ],
+        "es": [
+          "Vehículo de vela"
+        ],
+        "nl": [
+          "Blokarten"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a601fd79-3276-3e62-8a8e-c451681c88b0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d72b533d-580f-3d66-a2ae-e96131504801",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "Avenue Surcouf",
+            "Penthièvre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3a4bbae0-65d7-3913-ae55-1386b011747f",
+        "schema:latitude": "47.55911",
+        "schema:longitude": "-3.136031",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/096793a3-70ee-3da0-87ae-ccc49a9caa38",
+          "schema:validFrom": "2026-02-08T00:00:00",
+          "schema:validThrough": "2026-11-15T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.34Z"
+}

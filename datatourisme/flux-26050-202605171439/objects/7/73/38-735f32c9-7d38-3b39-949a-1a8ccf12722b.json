@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/735f32c9-7d38-3b39-949a-1a8ccf12722b",
+  "dc:identifier": "HLOa2e0f9b38ce94",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Villa Moaï"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cecae378-644d-303c-8e7f-855a4a920ceb",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/993bd522-d663-34dd-9c89-327f9056884a",
+      "schema:legalName": "Villa Moaï",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cecae378-644d-303c-8e7f-855a4a920ceb",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b2b8600f-4d52-3899-8e7c-9d42f1d5e6ce",
+      "dc:description": {
+        "de": [
+          "Die Villa Moaï, ein Architektenhaus (Franck Labbay Architecte), befindet sich 200 m vom Strand von Quiberon entfernt, zwischen dem Spielkasino und der Thalassotherapie. Sie wird Sie mit ihren balinesisch inspirierten Dekorationen auf eine Reise mitnehmen... im Herzen des beliebten Badeortes Quiberon.\nDiese ungewöhnliche Villa bietet allen modernen Komfort: 4 Suiten mit Badezimmern und Toiletten und Queensize-Bett, ein komfortables und geräumiges Wohnzimmer, einen großen Flachbildfernseher, Südlage, exotische Dekorationselemente, kostenloser Parkplatz und Wifi, Nespresso.\nDiese zeitgenössische Zen- und Cosy-Villa ist der ideale Ort für einen komfortablen Urlaub am Meer, nur 2 Schritte vom Strand und dem Zentrum von Quiberon entfernt, mit der Familie oder mit Freunden.\nKapazität für 8 Personen (einschließlich Kinder und Babys)"
+        ],
+        "en": [
+          "Designed by Franck Labbay Architecte and located 200m from Quiberon's Grande Plage, between the Kasino de jeux and the Thalassotherapy center, Villa Moaï will take you on a Balinese-inspired journey... to the heart of the popular seaside resort of Quiberon.\nThis atypical villa offers all modern comforts: 4 suites with en-suite bathrooms and toilets and Queen-size bed, a comfortable and spacious living room, large flat-screen connected TV, southern exposure, exotic decorative elements, free parking and wifi, Nespresso.\nThis zen and cosy contemporary villa is the ideal place for a comfortable seaside vacation, 2 steps from the beach and the center of Quiberon, with family or friends.\nSleeps 8 (including children and babies)"
+        ],
+        "it": [
+          "Casa progettata da un architetto (Franck Labbay Architecte), situata a 200 metri dalla Grande Plage di Quiberon, tra il Kasino de jeux e il centro di talassoterapia, Villa Moaï vi condurrà in un viaggio di ispirazione balinese... nel cuore della ricercata località balneare di Quiberon.\nQuesta villa insolita offre tutti i comfort moderni: 4 suite con bagno e servizi privati e un letto queen size, un soggiorno confortevole e spazioso, una grande TV a schermo piatto collegata, esposizione a sud, elementi decorativi esotici, parcheggio e Wi-Fi gratuiti, Nespresso.\nQuesta villa contemporanea, zen e accogliente, è il luogo ideale per una confortevole vacanza al mare, a due passi dalla spiaggia e dal centro di Quiberon, con la famiglia o con gli amici.\n8 posti letto (compresi bambini e neonati)"
+        ],
+        "fr": [
+          "Maison d'architecte (Franck Labbay Architecte) située à 200m de la Grande Plage de Quiberon, entre le Kasino de jeux et la Thalassothérapie, la Villa Moaï vous fera voyager au gré de ses décorations d'inspiration balinaise... au cœur de la très prisée station balnéaire de Quiberon.\nCette villa atypique offre tout le confort moderne : 4 suites avec salles de bain et toilettes attenantes et lit Queen size, un séjour confortable et spacieux, TV connectée grand écran plat, exposition sud, éléments de décoration exotiques, parking et wifi gratuits, Nespresso. \nCette villa contemporaine zen et cosy est le lieu idéal pour des vacances à la mer confortables à 2 pas de la plage et du centre de Quiberon, en famille ou entre amis.\nCapacité d'accueil 8 personnes (enfants et bébés compris)"
+        ],
+        "nl": [
+          "Villa Moaï is een huis ontworpen door een architect (Franck Labbay Architecte) en ligt op 200 meter van het Grande Plage van Quiberon, tussen het Kasino de jeux en het Thalassotherapiecentrum. De villa neemt je mee op een reis geïnspireerd door de Balinezen... naar het hart van de zeer gewilde badplaats Quiberon.\nDeze ongewone villa biedt alle moderne comfort: 4 suites met eigen badkamer en toilet en een queensize bed, een comfortabele en ruime woonkamer, grote flatscreentelevisie met internetverbinding, ligging op het zuiden, exotische decoratieve elementen, gratis parkeergelegenheid en wifi, Nespresso.\nDeze zen en gezellige moderne villa is de ideale plek voor een comfortabele vakantie aan zee, op een steenworp afstand van het strand en het centrum van Quiberon, met familie of vrienden.\n8 slaapplaatsen (inclusief kinderen en baby's)"
+        ],
+        "es": [
+          "Casa de arquitecto (Franck Labbay Architecte) situada a 200 m de la Grande Plage de Quiberon, entre el Kasino de jeux y el centro de talasoterapia, Villa Moaï le llevará en un viaje de inspiración balinesa... al corazón de la codiciada estación balnearia de Quiberon.\nEsta villa fuera de lo común ofrece todas las comodidades modernas: 4 suites con cuarto de baño y aseo y cama Queen-size, un salón cómodo y espacioso, gran TV de pantalla plana conectada, orientación sur, elementos decorativos exóticos, aparcamiento y Wi-Fi gratuitos, Nespresso.\nEsta villa contemporánea, zen y acogedora, es el lugar ideal para pasar unas cómodas vacaciones junto al mar, a dos pasos de la playa y del centro de Quiberon, en familia o con amigos.\n8 plazas (niños y bebés incluidos)"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0c4b076e-2cf3-38bd-ae10-e001615b937d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/18f0525d-4a88-37b5-aef6-a5bbd922e4e4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/836c9f8d-4568-3e80-b6dc-68715c1dee01",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98adc06c-2636-36e0-b964-085df789d548",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a73244c1-d3d4-31bc-bcdc-493c3e078a92",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/945108ed-5cfa-36fb-bc84-3ea6fd90ff9a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/301a9437-1ba2-3406-805c-c94b330beaee",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "9 rue du Menhir couché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bc2ec5a7-eb0c-3d33-a54e-80c1c7421b76",
+        "schema:latitude": "47.47586",
+        "schema:longitude": "-3.109223",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.028Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

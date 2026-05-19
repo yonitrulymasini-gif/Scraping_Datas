@@ -1,0 +1,324 @@
+{
+  "@id": "https://data.datatourisme.fr/38/eb44fed2-a115-35b6-8909-f12afc24b67e",
+  "dc:identifier": "FMABRE056V50DRHK",
+  "schema:endDate": [
+    "2026-05-31"
+  ],
+  "schema:startDate": [
+    "2026-05-31"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Vide-grenier"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/91c6c7b2-10ba-338c-83d2-966818a99261",
+      "schema:telephone": [
+        "+33 6 37 20 29 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/906f011e-33ac-3731-a44c-5cc547635b64",
+      "dc:description": {
+        "de": [
+          "Flohmarkt in der Ortschaft.\nVerpflegung und Getränke vor Ort."
+        ],
+        "en": [
+          "Garage sale in the village.\nCatering and refreshments on site."
+        ],
+        "it": [
+          "Vendita di garage nel villaggio.\nCatering e rinfreschi in loco."
+        ],
+        "fr": [
+          "Vide-grenier dans le bourg.\nRestauration et buvette sur place."
+        ],
+        "es": [
+          "Venta de garaje en el pueblo.\nCatering y refrescos in situ."
+        ],
+        "nl": [
+          "Garageverkoop in het dorp.\nCatering en versnaperingen ter plaatse."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/26973914-7fa2-3f18-b2ca-e11dc917bfc7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6729d0f6-52db-338c-8c56-ebe85a3a2f84",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c8420e76-3a7c-3c69-9998-edbabdfcd1ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e31231ce-bc63-39e0-ae50-5398fcd9c5d5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f64cd78b-5909-327a-8e58-73e3e56e8da3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/958c3a94-6c46-397b-bff9-b5dc024e9fd6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c86b8f60-8a6b-3c85-b8d8-6fec184b4af5",
+          "schema:addressLocality": "Silfiac",
+          "schema:postalCode": "56480",
+          "schema:streetAddress": [
+            "Le bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56245",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Silfiac"
+              ],
+              "pt": [
+                "Silfiac"
+              ],
+              "en": [
+                "Silfiac"
+              ],
+              "it": [
+                "Silfiac"
+              ],
+              "fr": [
+                "Silfiac"
+              ],
+              "nl": [
+                "Silfiac"
+              ],
+              "es": [
+                "Silfiac"
+              ]
+            },
+            "insee": "56245",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e3b755a8-507d-3166-a5d8-a474e56fb5cd",
+        "schema:latitude": "48.1524875",
+        "schema:longitude": "-3.1567314",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.83Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e24b0c71-ca30-38df-88d1-c5f28912643a",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-31",
+      "endTime": "18:00:00",
+      "startDate": "2026-05-31",
+      "startTime": "08:00:00"
+    }
+  ]
+}

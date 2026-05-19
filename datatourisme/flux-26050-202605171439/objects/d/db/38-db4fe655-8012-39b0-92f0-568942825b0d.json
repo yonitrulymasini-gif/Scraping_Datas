@@ -1,0 +1,651 @@
+{
+  "@id": "https://data.datatourisme.fr/38/db4fe655-8012-39b0-92f0-568942825b0d",
+  "dc:identifier": "HLOBRE056V50AS30",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "L'Auberge du Roch"
+    ]
+  },
+  "availableLanguage": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/34aadf69-7910-3737-8731-2a9c33e891d5",
+      "schema:telephone": [
+        "+33 6 20 83 03 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/34aadf69-7910-3737-8731-2a9c33e891d5",
+      "schema:telephone": [
+        "+33 6 20 83 03 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb39bee7-8c85-3ca8-b0f2-49b6faf22104",
+      "schema:legalName": "L'Auberge du Roch",
+      "schema:telephone": [
+        "+33 6 20 83 03 01"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0f544d52-530a-3505-ac8e-2f6bbffbf937",
+      "dc:description": {
+        "de": [
+          "Die Auberge du Roch ? Eleganz und Authentizität im Herzen der Halbinsel Quiberon\nDie Auberge du Roch, die 2025 mit 4 Sternen ausgezeichnet wurde, empfängt Sie in einem komplett renovierten Haus, das modernen Komfort mit bretonischem Charme verbindet. Die Unterkunft liegt ideal in Saint-Pierre-Quiberon, im Herzen eines typischen Dorfes, nur 5 Gehminuten von den Stränden der Bucht und der Stadt sowie 10 Minuten von der spektakulären Côte Sauvage entfernt.\n??? Eine geräumige, gemütliche und perfekt ausgestattete Unterkunft\nSchon beim Betreten des Hauses werden Sie einen großen, hellen Wohnbereich entdecken, der auf Komfort und Geselligkeit ausgelegt ist:\n? ein Esszimmer, das 10 Gästen Platz bietet\n? gemütliches Wohnzimmer mit Sofa, Sessel und Couchtisch\nbüroecke, perfekt für die Arbeit aus der Ferne\n? moderne, voll ausgestattete Küche mit zentraler Kochinsel (4 Sitzplätze)\nabstellraum mit Waschmaschine, Trockner und separatem WC\nIm Obergeschoss verfügt das Haus über 4 komfortable Schlafzimmer, die mit elektrischen Rollläden ausgestattet sind:\n? 3 Schlafzimmer mit Doppelbetten 140x190 und Stauraum (eines davon mit Schreibtisch)\n? 1 Zimmer mit Etagenbett für 3 Schlafplätze (90x190), ideal für Kinder\nDas Badezimmer ist elegant und funktional, mit einer großen Dusche (90x90), einem Waschbecken mit Ablagen und einer diskret eingebauten Toilette.\n??? Die gesamte Bettwäsche und Handtücher werden gestellt, damit Sie sich in aller Ruhe entspannen können.\n?? Dienstleistungen und Freizeitangebote für einen unvergesslichen Aufenthalt\nDie Auberge du Roch wurde so konzipiert, dass sie Entspannung, Unterhaltung und Bequemlichkeit miteinander verbindet:\n? kostenloses Wi-Fi\numwandelbarer Esstisch 3-in-1: Essen, Billard oder Tischtennis\ngesellschaftsspiele für alle Altersgruppen: Schach, Tarot, 7 Familien, Bonne Paye?\n? vernetzter Fernseher mit mehrsprachigem Bouquet, Netflix & Prime Video\n? verschiedene Bücher für Groß und Klein\ngrill, Sandwichmaker und Panini für Mahlzeiten mit der Familie oder mit Freunden\n? touristische Broschüren und Informationen über lokale Aktivitäten (Sport, Kultur, Natur, Transport?)\n Eine ideale Lage, um die Halbinsel zu erkunden\nZu Fuß, mit dem Fahrrad oder dem Auto können Sie die zahlreichen Schätze der Halbinsel Quiberon erkunden:\nsonnenverwöhnte Strände und versteckte Buchten\nwanderwege an der Côte Sauvage (wilde Küste)\nwassersportaktivitäten, kulturelle Besichtigungen und bretonische Märkte\nausflüge nach Belle-Île-en-Mer, Carnac, Ria d'Étel und vieles mehr!\n?? Urlaubsstimmung zwischen Meer, Natur und Geselligkeit\nOb Sie mit der Familie, mit Freunden oder im Homeoffice am Meer sind, die Auberge du Roch verspricht Ihnen eine warme, komfortable und 100% bretonische Erfahrung. Ein echter Kokon, in dem man sich inmitten einer außergewöhnlichen natürlichen Umgebung wie zu Hause fühlt.\nBuchen Sie jetzt Ihren Aufenthalt und lassen Sie sich von der Authentizität und der Dynamik von Saint-Pierre-Quiberon verzaubern.\n?? Die Halbinsel Quiberon: Ein Juwel zwischen Land und Meer\nStellen Sie sich einen schmalen Landstreifen vor, der in den Atlantik ragt und auf der einen Seite von der wilden Küste mit ihren von den Wellen geformten Klippen und atemberaubenden Wanderwegen und auf der anderen Seite von ruhigen Stränden gesäumt wird, die ideal zum Schwimmen, für Wassersport oder einfach nur zum Entspannen in der Sonne sind.\nJede Abzweigung bietet ein atemberaubendes Panorama aus blühenden Heideflächen, versteckten Buchten und atemberaubenden Ausblicken auf den Ozean.\n?? Ein Reiseziel, in dem es viel zu entdecken gibt\nquiberon Ville, ein lebhafter Badeort, empfängt Sie mit seinem Fischereihafen, seinem Markt, seinen typischen Geschäften und seinen bretonischen Spezialitäten: Crêpes, Kuign-Amann und Meeresfrüchte.\nfahren Sie von Port-Maria aus nach Belle-Île-en-Mer, Houat oder Hoëdic, den Nachbarinseln, die wie ein wildes Paradies aussehen.\nentdecken Sie die megalithische Stätte von Carnac, die nur wenige Kilometer entfernt ist, oder erkunden Sie die kleinen bretonischen Dörfer in der Umgebung, die voller Charme und Geschichte sind.\n Eine Lebenskunst zwischen Wellness und Traditionen\nGenießen Sie die wohltuende Wirkung der Meeresluft und gönnen Sie sich eine Auszeit vom Alltag auf der Halbinsel. Lassen Sie sich vom friedlichen Rhythmus der Gezeiten, von Spaziergängen am Meer und von Sonnenuntergängen am Horizont in den Schlaf wiegen.\nHier ist die bretonische Kultur lebendig: keltische Musik, Fest-Noz, Galettes-saucisses und Folklore lassen Sie in eine warme und authentische Atmosphäre eintauchen.\nZu Fuß, mit dem Fahrrad oder dem Boot?\nDie Halbinsel lässt sich auf Küstenpfaden (darunter der berühmte GR34), mit dem Fahrrad auf ausgebauten Wegen oder mit dem Boot erkunden, um die Küste vom Meer aus zu bewundern. Lassen Sie sich den Wind um die Nase wehen und erkunden Sie eine unberührte und inspirierende Gegend, die perfekt ist, um neue Energie zu tanken.\n\nZusammenfassung: Warum nach Quiberon kommen?\n- Spektakuläre Naturlandschaften\n- Authentische bretonische Atmosphäre\n-  Aktivitäten für alle Altersgruppen\n- Schmackhafte lokale Gastronomie\n- Leichter Zugang von Auray aus\n\nDie Halbinsel Quiberon erwartet Sie zu einem unvergesslichen Ausflug zwischen Land und Meer. Atmen Sie ein, betrachten Sie die Landschaft, genießen Sie sie und lassen Sie sich von der Magie der südlichen Bretagne verzaubern."
+        ],
+        "en": [
+          "L?Auberge du Roch ? Elegance and authenticity in the heart of the Quiberon peninsula\nClassified as a 4-star establishment in 2025, L'Auberge du Roch welcomes you to a completely renovated home, combining modern comfort with Breton charm. Ideally located in Saint-Pierre-Quiberon, in the heart of a typical village, it is just a 5-minute walk from the beaches of the bay and the town, and 10 minutes from the spectacular Côte Sauvage.\n??? Spacious, warm and fully-equipped accommodation\nAs soon as you enter, you'll discover a vast, light-filled living space designed for comfort and conviviality:\n? dining room for up to 10 guests\ncosy lounge with sofa, armchair and coffee table\noffice area, perfect for working remotely\nmodern, fully-equipped kitchen with central island (seating for 4)\nstoreroom with washing machine, tumble dryer and separate WC\nUpstairs, the house has 4 comfortable bedrooms with electric shutters:\n? 3 bedrooms with double beds (140x190) and storage space (one with a desk)\n? 1 bedroom with bunk beds to sleep 3 (90x190), ideal for children\nThe bathroom is elegant and functional, with a large shower (90x90), washbasin with storage, and discreetly integrated toilet.\n??? All linen and towels are provided, for a worry-free stay.\n?? Services and leisure activities for an unforgettable stay\nThe Auberge du Roch has been designed to combine relaxation, entertainment and practicality:\n? free Wi-Fi\n3-in-1 convertible dining table: meals, billiards or table tennis\nboard games for all ages: chess, tarot, 7 families, Bonne Paye...\nconnected TV with multilingual bouquet, Netflix & Prime Video\nvarious books for young and old\nbarbecue, croque-monsieur and panini maker for meals with family and friends\n? tourist brochures and information on local activities (sport, culture, nature, transport, etc.)\n An ideal location for discovering the peninsula\nOn foot, by bike or by car, explore the many treasures of the Quiberon peninsula:\nsun-drenched beaches and secret coves\nhiking trails on the Côte Sauvage\nwater sports, cultural visits and Breton markets\nexcursions to Belle-Île-en-Mer, Carnac, the Ria d?Étel and much more!\n?? A vacation spirit of sea, nature and conviviality\nWhether you're with family, friends or working from home by the sea, L'Auberge du Roch promises a warm, comfortable and 100% Breton experience. A true cocoon where you'll feel right at home, in the heart of an exceptional natural setting.\nBook your stay now, and let yourself be charmed by the authenticity and dynamism of Saint-Pierre-Quiberon.\n?? The Quiberon peninsula: a jewel between land and sea\nImagine a narrow ribbon of land jutting out into the Atlantic, bordered on one side by the wild coastline, its wave-sculpted cliffs and striking hiking trails, and on the other by tranquil beaches ideal for swimming, water sports or simply relaxing in the sun.\nEvery turn offers a breathtaking panorama of flower-filled moors, secret coves and breathtaking ocean views.\n?? A destination rich in discoveries\nthe lively seaside resort of Quiberon welcomes you with its fishing port, market, typical shops and Breton specialties: crêpes, kouign-amann and seafood.\nset sail from Port-Maria for Belle-Île-en-Mer, Houat or Hoëdic, neighboring islands that look like a wild paradise.\ndiscover the megalithic site of Carnac, just a few kilometers away, or explore the surrounding small Breton villages, full of charm and history.\n A lifestyle of well-being and tradition\nEnjoy the benefits of the sea air and take a relaxing break on the peninsula. Let yourself be lulled by the peaceful rhythm of the tides, seaside strolls and sunsets over the horizon.\nHere, Breton culture is alive and well: Celtic music, fest-noz, galettes-saucisses and folklore will immerse you in a warm, authentic atmosphere.\nOn foot, by bike or by boat?\nThe peninsula can be explored on coastal footpaths (including the famous GR34), by bike on specially prepared paths, or by boat to admire the coast from the sea. Let yourself be carried away by the wind and explore an unspoilt and inspiring territory, perfect for recharging your batteries.\n\nIn short: Why come to Quiberon?\n- Spectacular natural scenery\n- Authentic Breton atmosphere\n-  Activities for all ages\n- Tasty local cuisine\n- Easy access from Auray\n\nThe Quiberon peninsula awaits you for an unforgettable getaway between land and sea. Breathe, contemplate, savor? and let yourself be enchanted by the magic of Southern Brittany."
+        ],
+        "it": [
+          "L'Auberge du Roch? Eleganza e autenticità nel cuore della penisola di Quiberon\nClassificato come struttura a 4 stelle nel 2025, L'Auberge du Roch vi accoglie in una casa completamente rinnovata, che unisce i comfort moderni al fascino bretone. Situato in posizione ideale a Saint-Pierre-Quiberon, nel cuore di un tipico villaggio, si trova a soli 5 minuti a piedi dalle spiagge della baia e della città e a 10 minuti dalla spettacolare Côte Sauvage.\n??? Sistemazione spaziosa, calda e completamente attrezzata\nAppena entrati, scoprirete un ampio e luminoso spazio abitativo, progettato per il comfort e la convivialità:\nsala da pranzo con 10 posti a sedere\nun accogliente salotto con divano, poltrona e tavolino da caffè\nzona ufficio, perfetta per lavorare a distanza\ncucina moderna e completamente attrezzata con isola centrale (4 posti a sedere)\nripostiglio con lavatrice, asciugatrice e WC separato\nAl piano superiore, la casa dispone di 4 confortevoli camere da letto con tapparelle elettriche:\n3 camere da letto con letti matrimoniali (140x190) e spazio di archiviazione (una con scrivania)\n1 camera con letti a castello per 3 persone (90x190), ideale per i bambini\nIl bagno è elegante e funzionale, con un'ampia doccia (90x90), un lavabo con contenitore e una toilette discretamente integrata.\n??? Tutta la biancheria e gli asciugamani sono forniti per un soggiorno rilassante.\n?? Servizi e attività per il tempo libero per un soggiorno indimenticabile\nL'Auberge du Roch è stato progettato per unire relax, divertimento e praticità:\nwi-Fi gratuito\ntavolo da pranzo trasformabile 3 in 1: pasti, biliardo o ping pong\ngiochi da tavolo per tutte le età: scacchi, tarocchi, 7 famiglie, Bonne Paye, ecc.\ntV connessa con bouquet multilingue, Netflix e Prime Video\nlibri per tutte le età\nbarbecue, tostapane e panini per i pasti in famiglia e con gli amici\nbrochure turistiche e informazioni sulle attività locali (sport, cultura, natura, trasporti, ecc.)\n Una posizione ideale per esplorare la penisola\nEsplorate i numerosi tesori della penisola di Quiberon a piedi, in bicicletta o in auto:\nspiagge assolate e insenature segrete\nsentieri escursionistici sulla Côte Sauvage\nsport acquatici, visite culturali e mercati bretoni\nescursioni a Belle-Île-en-Mer, Carnac, la Ria d'Étel e molto altro ancora!\n?? Uno spirito di vacanza che unisce mare, natura e convivialità\nChe siate in famiglia, con gli amici o che lavoriate da casa in riva al mare, L'Auberge du Roch vi promette un'esperienza calda, confortevole e 100% bretone. Un vero e proprio bozzolo dove sentirsi a casa, nel cuore di un ambiente naturale eccezionale.\nPrenotate subito il vostro soggiorno e lasciatevi affascinare dall'autenticità e dal dinamismo di Saint-Pierre-Quiberon.\n?? La penisola di Quiberon: un gioiello tra terra e mare\nImmaginate uno stretto nastro di terra che si protende nell'Atlantico, delimitato da un lato dalla costa selvaggia, con le sue scogliere scolpite dalle onde e i suoi sentieri escursionistici mozzafiato, e dall'altro da spiagge tranquille ideali per nuotare, praticare sport acquatici o semplicemente rilassarsi al sole.\nOgni curva offre un panorama mozzafiato di brughiere fiorite, insenature segrete e viste mozzafiato sull'oceano.\n?? Una destinazione ricca di scoperte\nla vivace località balneare di Quiberon vi accoglie con il suo porto di pescatori, il mercato, i negozi tipici e le specialità bretoni: crêpes, kouign-amann e frutti di mare.\nsalpate da Port-Maria per Belle-Île-en-Mer, Houat o Hoëdic, le isole vicine che sembrano un paradiso selvaggio.\nscoprite il sito megalitico di Carnac, a pochi chilometri di distanza, o esplorate i piccoli villaggi bretoni circostanti, ricchi di fascino e storia.\n Uno stile di vita all'insegna del benessere e della tradizione\nGodetevi i benefici dell'aria di mare e concedetevi una pausa rilassante sulla penisola. Lasciatevi cullare dal ritmo pacifico delle maree, dalle passeggiate sul lungomare e dai tramonti all'orizzonte.\nLa cultura bretone è viva e vegeta qui: musica celtica, fest-noz, galettes-saucisses e folklore vi immergeranno in un'atmosfera calda e autentica.\nA piedi, in bicicletta o in barca?\nLa penisola può essere esplorata sui sentieri costieri (tra cui il famoso GR34), in bicicletta su percorsi appositamente preparati, o in barca per ammirare la costa dal mare. Lasciatevi trasportare dal vento ed esplorate una zona incontaminata e stimolante, perfetta per ricaricare le batterie.\n\nIn poche parole: perché venire a Quiberon?\n- Spettacolare scenario naturale\n- Autentica atmosfera bretone\n-  Attività per tutte le età\n- Gustosa cucina locale\n- Facile accesso da Auray\n\nLa penisola di Quiberon vi aspetta per una fuga indimenticabile tra terra e mare. Respirate, contemplate, assaporate e lasciatevi incantare dalla magia della Bretagna meridionale."
+        ],
+        "fr": [
+          "L’Auberge du Roch – Élégance et authenticité au cœur de la Presqu’île de Quiberon\nClassée 4 étoiles en 2025, L’Auberge du Roch vous accueille dans une maison entièrement rénovée, mêlant confort moderne et charme breton. Idéalement située à Saint-Pierre-Quiberon, au cœur d’un village typique, elle se trouve à seulement 5 minutes à pied des plages de la baie et du bourg, et à 10 minutes de la spectaculaire Côte Sauvage.\n??? Un hébergement spacieux, chaleureux et parfaitement équipé\nDès l’entrée, vous découvrirez un vaste espace de vie lumineux, pensé pour le confort et la convivialité :\n•\tSalle à manger pouvant accueillir 10 convives\n•\tSalon cosy avec canapé, fauteuil, table basse\n•\tCoin bureau, parfait pour travailler à distance\n•\tCuisine moderne tout équipée avec îlot central (4 places assises)\n•\tCellier avec lave-linge, sèche-linge et WC indépendant\nÀ l’étage, la maison dispose de 4 chambres confortables, équipées de volets roulants électriques :\n•\t3 chambres avec lits doubles 140x190 et rangements (dont une avec bureau)\n•\t1 chambre avec lits superposés pour 3 couchages (90x190), idéale pour les enfants\nLa salle d’eau est élégante et fonctionnelle, avec une grande douche (90x90), une vasque avec rangements, et des toilettes discrètement intégrées.\n??? Tout le linge de maison est fourni, pour un séjour en toute tranquillité.\n?? Services et loisirs pour un séjour inoubliable\nL’Auberge du Roch a été pensée pour conjuguer détente, divertissement et praticité :\n•\tWi-Fi gratuit\n•\tTable à manger convertible 3-en-1 : repas, billard ou ping-pong\n•\tJeux de société pour tous les âges : échecs, tarots, 7 familles, Bonne Paye...\n•\tTV connectée avec bouquet multilingue, Netflix & Prime Video\n•\tLivres variés pour petits et grands\n•\tBarbecue, appareil à croque-monsieur et panini pour vos repas en famille ou entre amis\n•\tBrochures touristiques et informations sur les activités locales (sport, culture, nature, transport…)\n Une situation idéale pour découvrir la presqu’île\nÀ pied, en vélo ou en voiture, explorez les multiples trésors de la presqu’île de Quiberon :\n•\tPlages baignées de soleil ou criques secrètes\n•\tSentiers de randonnée sur la Côte Sauvage\n•\tActivités nautiques, visites culturelles et marchés bretons\n•\tExcursions vers Belle-Île-en-Mer, Carnac, la Ria d’Étel et bien plus !\n?? L’esprit vacances entre mer, nature et convivialité\nQue vous soyez en famille, entre amis ou en télétravail au bord de la mer, L’Auberge du Roch vous promet une expérience chaleureuse, confortable et 100% bretonne. Un véritable cocon où l’on se sent chez soi, au cœur d’un cadre naturel exceptionnel.\nRéservez votre séjour dès maintenant, et laissez-vous charmer par l’authenticité et le dynamisme de Saint-Pierre-Quiberon.\n?? La Presqu’île de Quiberon : Un joyau entre terre et mer\nImaginez un étroit ruban de terre s’élançant dans l’Atlantique, bordé d’un côté par la côte sauvage, ses falaises sculptées par les vagues et ses sentiers de randonnée saisissants, et de l’autre par des plages tranquilles, idéales pour la baignade, les sports nautiques ou tout simplement la détente au soleil.\nChaque détour offre un panorama à couper le souffle, entre landes fleuries, criques secrètes et vues imprenables sur l’océan.\n?? Une destination riche en découvertes\n•\tQuiberon ville, station balnéaire animée, vous accueille avec son port de pêche, son marché, ses commerces typiques et ses spécialités bretonnes : crêpes, kouign-amann et fruits de mer.\n•\tEmbarquez depuis Port-Maria vers Belle-Île-en-Mer, l’ile de Houat ou l’ile d’Hoëdic, l’îles voisines aux allures de paradis sauvage.\n•\tDécouvrez le site mégalithique de Carnac, à quelques kilomètres, ou explorez les petits villages bretons environnants, pleins de charme et d’histoire.\n Un art de vivre entre bien-être et traditions\nProfitez des bienfaits de l’air marin et offrez-vous une parenthèse de détente dans la presqu’île. Laissez-vous bercer par le rythme paisible des marées, des balades en bord de mer, des couchers de soleil sur l’horizon.\nIci, la culture bretonne est vivante : musique celtique, fest-noz, galettes-saucisses et folklore vous plongeront dans une ambiance chaleureuse et authentique.\nÀ pied, à vélo ou en bateau…\nLa presqu’île se découvre au fil des sentiers côtiers (dont le célèbre GR34), à vélo sur des pistes aménagées ou en bateau pour admirer la côte depuis la mer. Laissez-vous porter par le vent et explorez un territoire préservé et inspirant, parfait pour se ressourcer.\n\nEn résumé : Pourquoi venir à Quiberon ?\n- Paysages naturels spectaculaires\n- Atmosphère bretonne authentique\n-  Activités pour tous les âges\n- Gastronomie locale savoureuse\n- Accès facile depuis Auray \n\nLa presqu’île de Quiberon vous attend pour une escapade inoubliable entre terre et mer. Respirez, contemplez, savourez… et laissez-vous envoûter par la magie de la Bretagne sud."
+        ],
+        "nl": [
+          "L'Auberge du Roch ? Elegantie en authenticiteit in het hart van het schiereiland Quiberon\nL'Auberge du Roch, geklasseerd als 4-sterren etablissement in 2025, verwelkomt u in een volledig gerenoveerd huis dat modern comfort combineert met Bretonse charme. Ideaal gelegen in Saint-Pierre-Quiberon, in het hart van een typisch dorp, op slechts 5 minuten lopen van de stranden van de baai en de stad, en op 10 minuten van de spectaculaire Côte Sauvage.\n??? Ruime, warme en volledig uitgeruste accommodatie\nZodra je binnenkomt, ontdek je een grote, lichte leefruimte, ontworpen voor comfort en gezelligheid:\neen eetkamer met 10 zitplaatsen\ngezellige woonkamer met sofa, fauteuil en salontafel\nkantoorruimte, perfect om op afstand te werken\nmoderne, volledig uitgeruste keuken met centraal eiland (4 zitplaatsen)\nberging met wasmachine, wasdroger en aparte WC\nBoven heeft het huis 4 comfortabele slaapkamers met elektrische rolluiken:\n? 3 slaapkamers met tweepersoonsbedden (140x190) en opbergruimte (een met een bureau)\n? 1 slaapkamer met stapelbed voor 3 personen (90x190), ideaal voor kinderen\nDe badkamer is elegant en functioneel, met een grote douche (90x90), een wastafel met opbergruimte en een discreet geïntegreerd toilet.\n??? Alle beddengoed en handdoeken zijn aanwezig voor een ontspannen verblijf.\n?? Diensten en vrijetijdsactiviteiten voor een onvergetelijk verblijf\nDe Auberge du Roch is ontworpen om ontspanning, vermaak en functionaliteit te combineren:\n? gratis Wi-Fi\n? 3-in-1 converteerbare eettafel: maaltijden, biljart of tafeltennis\nbordspellen voor alle leeftijden: schaken, tarot, 7 families, Bonne Paye, enz.\nconnected TV met meertalig boeket, Netflix & Prime Video\nboeken voor alle leeftijden\nbarbecue, tosti-ijzer en panini voor maaltijden met familie en vrienden\ntoeristische brochures en informatie over lokale activiteiten (sport, cultuur, natuur, vervoer, enz.)\n Een ideale locatie om het schiereiland te verkennen\nOntdek de vele schatten van het schiereiland Quiberon te voet, op de fiets of met de auto:\n? zonovergoten stranden en geheime baaien\n? wandelpaden op de Côte Sauvage\nwatersporten, culturele bezoeken en Bretonse markten\nuitstapjes naar Belle-Île-en-Mer, Carnac, de Ria d'Étel en nog veel meer!\n?? Een vakantiegevoel dat zee, natuur en gezelligheid combineert\nOf je nu met je gezin, met vrienden of thuis aan zee werkt, L'Auberge du Roch belooft je een warme, comfortabele en 100% Bretonse ervaring. Een echte cocon waar je je thuis voelt, in het hart van een uitzonderlijke natuurlijke omgeving.\nBoek nu uw verblijf en laat u charmeren door de authenticiteit en dynamiek van Saint-Pierre-Quiberon.\n?? Het schiereiland Quiberon: een juweel tussen land en zee\nStel je een smalle landstrook voor die uitsteekt in de Atlantische Oceaan, aan de ene kant begrensd door de wilde kustlijn, met zijn door golven gebeeldhouwde kliffen en adembenemende wandelpaden, en aan de andere kant door rustige stranden die ideaal zijn om te zwemmen, watersporten te beoefenen of gewoon te ontspannen in de zon.\nElke bocht biedt een adembenemend panorama van bloemrijke heidevelden, geheime baaien en adembenemende uitzichten over de oceaan.\n?? Een bestemming vol ontdekkingen\nde levendige badplaats Quiberon verwelkomt je met zijn vissershaven, markt, typische winkeltjes en Bretonse specialiteiten: crêpes, kouign-amann en zeevruchten.\nvaar vanuit Port-Maria naar Belle-Île-en-Mer, Houat of Hoëdic, de naburige eilanden die eruit zien als een wild paradijs.\nontdek de megalithische site van Carnac, op slechts een paar kilometer afstand, of verken de omliggende kleine Bretonse dorpjes, vol charme en geschiedenis.\n Een levensstijl van welzijn en traditie\nGeniet van de zeelucht en neem een ontspannende pauze op het schiereiland. Laat je wiegen door het rustige ritme van de getijden, wandelingen langs de kust en zonsondergangen aan de horizon.\nDe Bretonse cultuur is hier springlevend: Keltische muziek, fest-noz, galettes-saucisses en folklore dompelen je onder in een warme, authentieke sfeer.\nTe voet, op de fiets of per boot?\nHet schiereiland kan worden verkend via wandelpaden langs de kust (waaronder de beroemde GR34), per fiets op speciaal geprepareerde paden, of per boot om de kust vanaf zee te bewonderen. Laat je meevoeren door de wind en verken een ongerept en inspirerend gebied, perfect om nieuwe energie op te doen.\n\nIn een notendop: Waarom naar Quiberon komen?\n- Spectaculaire natuur\n- Authentieke Bretonse sfeer\n-  Activiteiten voor alle leeftijden\n- Lekkere lokale keuken\n- Gemakkelijk bereikbaar vanuit Auray\n\nHet schiereiland Quiberon wacht op u voor een onvergetelijk uitje tussen land en zee. Adem in, denk na, geniet en laat je betoveren door de magie van Zuid-Bretagne."
+        ],
+        "es": [
+          "L'Auberge du Roch ? Elegancia y autenticidad en el corazón de la península de Quiberon\nClasificado como establecimiento de 4 estrellas en 2025, L'Auberge du Roch le da la bienvenida a una casa completamente renovada, que combina las comodidades modernas con el encanto bretón. Idealmente situado en Saint-Pierre-Quiberon, en el corazón de un pueblo típico, se encuentra a sólo 5 minutos a pie de las playas de la bahía y del pueblo, y a 10 minutos de la espectacular Côte Sauvage.\n??? Alojamiento espacioso, cálido y totalmente equipado\nNada más entrar, descubrirá una amplia y luminosa sala de estar, diseñada para el confort y la convivencia:\n? un comedor con capacidad para 10 personas\nacogedor salón con sofá, sillón y mesa de café\nzona de oficina, perfecta para trabajar a distancia\ncocina moderna y totalmente equipada con isla central (4 plazas)\ntrastero con lavadora, secadora y WC separado\nEn la planta superior, la casa dispone de 4 cómodos dormitorios con persianas eléctricas:\n? 3 dormitorios con camas dobles (140x190) y espacio de almacenamiento (uno con escritorio)\n? 1 dormitorio con literas para 3 personas (90x190), ideal para niños\nEl cuarto de baño es elegante y funcional, con una gran ducha (90x90), un lavabo con espacio de almacenamiento y un inodoro discretamente integrado.\n??? Todas las sábanas y toallas se proporcionan para una estancia relajante.\n?? Servicios y actividades de ocio para una estancia inolvidable\nEl Auberge du Roch ha sido diseñado para combinar relajación, entretenimiento y practicidad:\n? Wi-Fi gratuito\n? Mesa de comedor convertible 3 en 1: comidas, billar o tenis de mesa\njuegos de mesa para todas las edades: ajedrez, tarot, 7 familias, Bonne Paye, etc.\ntV conectada con ramo multilingüe, Netflix y Prime Video\nlibros para todas las edades\nbarbacoa, sandwichera tostadora y panini para comidas en familia y con amigos\n? folletos turísticos e información sobre las actividades locales (deporte, cultura, naturaleza, transporte, etc.)\n Una ubicación ideal para explorar la península\nExplore los numerosos tesoros de la península de Quiberon a pie, en bicicleta o en coche:\nplayas soleadas y calas secretas\nrutas de senderismo por la Côte Sauvage\n? deportes náuticos, visitas culturales y mercados bretones\nexcursiones a Belle-Île-en-Mer, Carnac, la ría de Étel... ¡y mucho más!\n?? Un espíritu de vacaciones que combina mar, naturaleza y convivencia\nYa sea en familia, entre amigos o trabajando desde casa junto al mar, L'Auberge du Roch le promete una experiencia cálida, confortable y 100% bretona. Un auténtico capullo donde sentirse como en casa, en el corazón de un entorno natural excepcional.\nReserve ya su estancia y déjese seducir por la autenticidad y el dinamismo de Saint-Pierre-Quiberon.\n?? La península de Quiberon: una joya entre tierra y mar\nImagine una estrecha franja de tierra que se adentra en el Atlántico, bordeada a un lado por la costa salvaje, con sus acantilados esculpidos por las olas y sus impresionantes rutas de senderismo, y al otro por tranquilas playas ideales para nadar, practicar deportes acuáticos o simplemente relajarse al sol.\nCada recodo ofrece un impresionante panorama de páramos llenos de flores, calas secretas e impresionantes vistas del océano.\n?? Un destino lleno de descubrimientos\nla animada estación balnearia de Quiberon le da la bienvenida con su puerto pesquero, su mercado, sus tiendas típicas y sus especialidades bretonas: crêpes, kouign-amann y marisco.\nzarpe de Port-Maria rumbo a Belle-Île-en-Mer, Houat o Hoëdic, las islas vecinas que parecen un paraíso salvaje.\ndescubra el yacimiento megalítico de Carnac, a pocos kilómetros, o explore los pueblecitos bretones de los alrededores, llenos de encanto e historia.\n Un estilo de vida de bienestar y tradición\nAproveche los beneficios del aire marino y regálese un descanso en la península. Déjese arrullar por el ritmo apacible de las mareas, los paseos por el paseo marítimo y las puestas de sol en el horizonte.\nAquí, la cultura bretona está viva: música celta, fest-noz, galettes-saucisses y folclore le sumergirán en un ambiente cálido y auténtico.\n¿A pie, en bicicleta o en barco?\nLa península se puede recorrer por senderos costeros (incluido el famoso GR34), en bicicleta por pistas especialmente preparadas, o en barco para admirar la costa desde el mar. Déjese llevar por el viento y explore una zona virgen e inspiradora, perfecta para recargar las pilas.\n\nEn resumen: ¿por qué venir a Quiberon?\n- Paisajes naturales espectaculares\n- Auténtico ambiente bretón\n-  Actividades para todas las edades\n- Sabrosa cocina local\n- Fácil acceso desde Auray\n\nLa península de Quiberon le espera para una escapada inolvidable entre tierra y mar. Respire, contemple, saboree... y déjese hechizar por la magia del sur de Bretaña."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/39f48bf0-49fd-3cf7-9194-07dd19b01d8e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/484b4a38-8282-3872-96fc-7bbfacb79099",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c39956b-96b3-355b-a396-8933309b57ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b48bd7c6-ca63-3949-9b8c-ddebbe809d59",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0f61232-8c1f-317f-846a-5e457dd099a6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0cfe7abe-db3e-3ebc-8a43-3fe68544170a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/55a5d8ef-60f1-32e8-ba77-0cbf68384fba",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "12 rue du Rouzenn"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/66d5917a-e4f2-3f3d-9343-9518c395d2d7",
+        "schema:latitude": "47.5247973",
+        "schema:longitude": "-3.1357123",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.028Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/fe55259e-682a-34d6-909a-d084835d81a3",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:FrenchBonsCAF",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Familiengutscheine"
+            ],
+            "pt": [
+              "Vales CAF (caixa de abonos de família)"
+            ],
+            "en": [
+              "French bons caf"
+            ],
+            "it": [
+              "Buoni CAF"
+            ],
+            "fr": [
+              "Bons caf"
+            ],
+            "nl": [
+              "Vakantiesubsidie in Frankrijk (CAF)"
+            ],
+            "es": [
+              "Fondos de asignaciones familiares"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

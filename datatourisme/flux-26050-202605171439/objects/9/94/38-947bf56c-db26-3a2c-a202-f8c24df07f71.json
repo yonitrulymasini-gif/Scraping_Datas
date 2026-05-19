@@ -1,0 +1,534 @@
+{
+  "@id": "https://data.datatourisme.fr/38/947bf56c-db26-3a2c-a202-f8c24df07f71",
+  "dc:identifier": "HLOBRE056V503S7Y",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "SCI Du Dolmen"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr",
+    "nl"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/09e95345-b08d-3962-9500-aa97586d953a",
+      "schema:telephone": [
+        "+33 2 97 34 09 32",
+        "+33 6 73 18 53 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/09e95345-b08d-3962-9500-aa97586d953a",
+      "schema:telephone": [
+        "+33 2 97 34 09 32",
+        "+33 6 73 18 53 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5e1038a3-e95d-3dd0-8da4-faff0849afa2",
+      "schema:legalName": "SCI Du Dolmen",
+      "schema:telephone": [
+        "+33 2 97 34 09 32",
+        "+33 6 73 18 53 75"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e027aaaf-0dec-3fd4-9806-d9144dd12794",
+      "dc:description": {
+        "de": [
+          "Kürzlich renoviertes bretonisches Haus zwischen Land und Meer an der Grenze zwischen den Departements Finistère und Morbihan.\nIdeal für einen Urlaub mit der Familie oder Freunden neben einer Milchkuhfarm und etwa 30 Minuten von der Küste entfernt.\nAusgestattet mit einer großen Küche und einem großen Wohnzimmer mit einem authentischen Kamin. Außerdem befindet sich im Erdgeschoss ein Elternschlafzimmer mit einem Badezimmer und einer Toilette.\nIm Obergeschoss befinden sich ein Schlafzimmer mit einem Doppelbett, ein Schlafzimmer mit zwei Etagenbetten und ein Schlafzimmer mit drei Betten, die zusammengeschoben werden können.\nDas Haus verfügt über eine Garage, in der Sie Ihre Fahrräder und bis zu zwei Autos unterbringen können, sowie über Außenbereiche.\nReiter, Ihre Pferde sind herzlich willkommen!"
+        ],
+        "en": [
+          "Recently renovated Breton house located between land and sea on the border between Finistère and Morbihan.\nIdeal for vacations with family or friends, next to a dairy farm and about 30 minutes from the coast.\nEquipped with a large kitchen and living room with authentic fireplace, the ground floor features a master bedroom with bathroom and toilet.\nThe first floor comprises a bedroom with a double bed, a bedroom with two bunk beds and a bedroom with three beds that can be moved closer together.\nGarage for bikes and up to 2 cars + outdoor space.\nHorses are welcome!"
+        ],
+        "it": [
+          "Casa bretone recentemente ristrutturata, situata tra terra e mare al confine tra Finistère e Morbihan.\nIdeale per vacanze in famiglia o con gli amici, vicino a una fattoria lattiero-casearia e a circa 30 minuti dalla costa.\nDotata di un'ampia cucina e di un grande soggiorno con un autentico camino, al piano terra si trova una camera da letto matrimoniale con bagno e wc.\nIl primo piano comprende una camera con letto matrimoniale, una camera con due letti a castello e una camera con tre letti che possono essere uniti.\nC'è un garage per le biciclette e fino a 2 auto, oltre a uno spazio esterno.\nI cavalli sono i benvenuti!"
+        ],
+        "fr": [
+          "Maison bretonne récemment rénovée située entre terre et mer à la limite entre le Finistère et le Morbihan.\nIdéale pour des vacances en familles ou entre amis à côté d'un ferme de vache laitières et à environ 30 min de la côte.\nEquipée d'une grande cuisine et d'un grand salon avec une cheminée authentique en plus au RDC se trouve une chambre parentale avec une salle de bain et wc.\nL'étage se compose d'une chambre avec un lit double, une chambre avec deux lits superposés et une chambre avec trois lits pouvant être rapprochés.\nDisposant d'un garage pouvant accueillir vos vélos et jusqu'à 2 voitures + espaces extérieur.\nCavaliers, vos chevaux sont les bienvenus !"
+        ],
+        "nl": [
+          "Onlangs gerenoveerd Bretons huis gelegen tussen land en zee op de grens tussen Finistère en Morbihan.\nIdeaal voor een vakantie met familie of vrienden, naast een melkveebedrijf en op ongeveer 30 minuten van de kust.\nUitgerust met een grote keuken en een grote woonkamer met een authentieke open haard. Op de begane grond bevindt zich een ouderslaapkamer met een badkamer en wc.\nOp de eerste verdieping is een slaapkamer met een tweepersoonsbed, een slaapkamer met twee stapelbedden en een slaapkamer met drie bedden die tegen elkaar gezet kunnen worden.\nEr is een garage voor je fietsen en maximaal 2 auto's, plus buitenruimte.\nPaarden zijn welkom!"
+        ],
+        "es": [
+          "Casa bretona recientemente renovada situada entre la tierra y el mar en la frontera entre Finistère y Morbihan.\nIdeal para vacaciones en familia o con amigos, junto a una granja lechera y a unos 30 minutos de la costa.\nEquipada con una amplia cocina y un gran salón con chimenea auténtica, en la planta baja hay un dormitorio principal con cuarto de baño y wc.\nEn la primera planta hay un dormitorio con cama de matrimonio, un dormitorio con dos literas y un dormitorio con tres camas que se pueden juntar.\nHay un garaje para sus bicicletas y hasta 2 coches, además de espacio al aire libre.\n¡Los caballos son bienvenidos!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1d694639-2778-35e5-9503-279852599d2c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/432c868b-4571-39a0-a988-32d2631dc72c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd8e8e20-e210-311d-8930-d0d9727d792a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0605afc-c8a1-3002-bf73-572b5c66e623",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2b04d62-18fb-3fcb-bc70-5feba47466c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/27dbe6af-b687-34ed-9bc8-ebbe8d2c02e3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f82d6e31-b671-3b6b-8a74-ac1a3642ffca",
+          "schema:addressLocality": "Guiscriff",
+          "schema:postalCode": "56560",
+          "schema:streetAddress": [
+            "2 Kerviniou"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56081",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guiscriff"
+              ],
+              "pt": [
+                "Guiscriff"
+              ],
+              "en": [
+                "Guiscriff"
+              ],
+              "it": [
+                "Guiscriff"
+              ],
+              "fr": [
+                "Guiscriff"
+              ],
+              "nl": [
+                "Guiscriff"
+              ],
+              "es": [
+                "Guiscriff"
+              ]
+            },
+            "insee": "56081",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c5c249c7-6364-37f8-bbec-faa107fa4242",
+        "schema:latitude": "48.0436852",
+        "schema:longitude": "-3.6081858",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.197Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/028a50b9-12c8-32e8-8faa-170f275a7e65",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

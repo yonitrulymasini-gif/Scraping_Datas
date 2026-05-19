@@ -1,0 +1,438 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a2e3dad5-3226-33be-9fe2-eed12bdb21e7",
+  "dc:identifier": "RESBRE056V505OBC",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Aux Sabots Rouges"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/98c2bcce-36ae-3f53-ab16-1d9ff545061f",
+      "schema:legalName": "Aux Sabots Rouges",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.auxsabotsrouges.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/98c2bcce-36ae-3f53-ab16-1d9ff545061f",
+      "schema:legalName": "Aux Sabots Rouges",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.auxsabotsrouges.fr/"
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/d5b36173-967a-8abd-0ffa-85bf47cb5c93",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "de6c08aa-ec4b-4ccd-aecd-b7cca86fa3b4",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9ece13c8-9ed0-3192-9db9-8e73aa607eca",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3bf520d3-617a-3b9d-8b1a-35fd5da15ac6",
+          "schema:addressLocality": "Guémené-sur-Scorff",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "8 Rue Bisson"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56073",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guémené-sur-Scorff"
+              ],
+              "pt": [
+                "Guémené-sur-Scorff"
+              ],
+              "en": [
+                "Guémené-sur-Scorff"
+              ],
+              "it": [
+                "Guémené-sur-Scorff"
+              ],
+              "fr": [
+                "Guémené-sur-Scorff"
+              ],
+              "nl": [
+                "Guémené-sur-Scorff"
+              ],
+              "es": [
+                "Guémené-sur-Scorff"
+              ]
+            },
+            "insee": "56073",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ed4df32e-8ff4-3eae-90dd-8950df468b1d",
+        "schema:latitude": "48.06789",
+        "schema:longitude": "-3.2057",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-07",
+  "lastUpdateDatatourisme": "2026-04-08T03:18:37.655Z"
+}

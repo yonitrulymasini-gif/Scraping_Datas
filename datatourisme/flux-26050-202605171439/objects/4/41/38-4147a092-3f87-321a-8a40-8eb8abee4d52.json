@@ -1,0 +1,206 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4147a092-3f87-321a-8a40-8eb8abee4d52",
+  "dc:identifier": "LOIBRE000FS0001B",
+  "@type": [
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Grande Plage / Plage du Drehen"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4884c0f9-455c-3967-aa65-bf54f8a4e783",
+      "schema:telephone": [
+        "+33 825 13 56 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.golfedumorbihan.bzh/"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4c4d924f-ab00-3671-9684-34108bcd79b5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/090aa91a-ab49-3a00-9b46-c369b3a3c220",
+          "schema:addressLocality": "Île-aux-Moines",
+          "schema:postalCode": "56780",
+          "schema:streetAddress": [
+            "Grande Plage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56087",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Île-aux-Moines"
+              ],
+              "pt": [
+                "Île-aux-Moines"
+              ],
+              "en": [
+                "Île-aux-Moines"
+              ],
+              "it": [
+                "Île-aux-Moines"
+              ],
+              "fr": [
+                "Île-aux-Moines"
+              ],
+              "nl": [
+                "Île-aux-Moines"
+              ],
+              "es": [
+                "Île-aux-Moines"
+              ]
+            },
+            "insee": "56087",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/43aebead-6b6d-3c1b-ac98-f101cce70ec3",
+        "schema:latitude": "47.59908",
+        "schema:longitude": "-2.851778",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-02-01",
+  "lastUpdateDatatourisme": "2024-04-11T01:09:43.88Z"
+}

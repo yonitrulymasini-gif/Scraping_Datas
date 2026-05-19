@@ -1,0 +1,390 @@
+{
+  "@id": "https://data.datatourisme.fr/38/66a3e278-73f6-3a00-9cce-16175413db1d",
+  "dc:identifier": "HLOBRE056V508CXU",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La chambre du Rouzen"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/37234e0a-acd5-3f43-b0a7-458cd1e67c6a",
+      "schema:telephone": [
+        "+33 7 68 49 54 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/37234e0a-acd5-3f43-b0a7-458cd1e67c6a",
+      "schema:telephone": [
+        "+33 7 68 49 54 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ea73a9c9-6751-359e-96f7-e4d7962898e5",
+      "schema:legalName": "La chambre du Rouzen",
+      "schema:telephone": [
+        "+33 7 68 49 54 77"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/64bf97b0-0586-3cc6-a2c3-bc685d466651",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/71b33290-0009-38f5-a5ba-bdac69416796",
+          "schema:addressLocality": "Le Faouët",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "2 Lieu-dit Villeneuve Rouzen"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Faouët"
+              ],
+              "pt": [
+                "Le Faouët"
+              ],
+              "en": [
+                "Le Faouët"
+              ],
+              "it": [
+                "Le Faouët"
+              ],
+              "fr": [
+                "Le Faouët"
+              ],
+              "nl": [
+                "Le Faouët"
+              ],
+              "es": [
+                "Le Faouët"
+              ]
+            },
+            "insee": "56057",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2d21542f-1563-37cc-9a28-3615c6dff98f",
+        "schema:latitude": "48.04094",
+        "schema:longitude": "-3.51747",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-08",
+  "lastUpdateDatatourisme": "2026-04-09T03:46:03.548Z"
+}

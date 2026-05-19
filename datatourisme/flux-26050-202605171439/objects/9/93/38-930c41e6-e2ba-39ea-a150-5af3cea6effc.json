@@ -1,0 +1,600 @@
+{
+  "@id": "https://data.datatourisme.fr/38/930c41e6-e2ba-39ea-a150-5af3cea6effc",
+  "dc:identifier": "HLOBRE056V503HT0",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Crinières de l'Ouest"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/707a99c2-4130-3c23-94d7-67d3202142b0",
+      "schema:telephone": [
+        "+33 2 56 33 63 02",
+        "+33 6 66 70 29 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lescrinieresdelouest.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/707a99c2-4130-3c23-94d7-67d3202142b0",
+      "schema:telephone": [
+        "+33 2 56 33 63 02",
+        "+33 6 66 70 29 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lescrinieresdelouest.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/be11bcd4-a000-3806-bbc1-848f4f5094cd",
+      "schema:legalName": "Les Crinières de l'Ouest",
+      "schema:telephone": [
+        "+33 2 56 33 63 02",
+        "+33 6 66 70 29 28"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lescrinieresdelouest.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/56c33a56-356e-36dc-b87f-914863053ebf",
+      "dc:description": {
+        "de": [
+          "In einem kleinen Weiler gelegen, garantiert Ihnen das Ferienhaus Les Crinières de l'Ouest einen ruhigen und naturnahen Aufenthalt. Sie besteht aus 5 Zimmern mit 3 bis 6 Betten, 3 Badezimmern und einem Wohn- und Esszimmer mit offener Küche und Terrasse.  Das Ferienhaus ist besonders für den Empfang von Gruppen geeignet. Es entspricht den Vorschriften für Gruppenunterkünfte für Minderjährige (Accueils Collectifs de Mineurs)."
+        ],
+        "en": [
+          "Set in a small hamlet, the Crinières de l'Ouest gîte offers a peaceful stay close to nature. It comprises 5 bedrooms with 3 to 6 beds, 3 bathrooms and a living-dining room with open kitchen and terrace.  The gîte is particularly suitable for groups. It complies with the regulations for Accueils Collectifs de Mineurs."
+        ],
+        "it": [
+          "Situato in un piccolo borgo, il gîte Crinières de l'Ouest offre un soggiorno tranquillo e vicino alla natura. Dispone di 5 camere da letto (da 3 a 6 posti letto), 3 bagni e un soggiorno/sala da pranzo con cucina a vista e terrazza.  L'alloggio è particolarmente adatto ai gruppi. È conforme al regolamento degli Accueils Collectifs de Mineurs."
+        ],
+        "fr": [
+          "Dans un petit hameau, le gîte des Crinières de l'Ouest vous assure un séjour dans le calme et proche de la nature. Il comprend 5 chambres de 3 à 6 lits, 3 salles de bain et un séjour salle à manger avec cuisine ouverte et d'une terrasse.  Le gîte est particulièrement adapté à l'accueil de groupe. Il répond à la règlementation des Accueils Collectifs de Mineurs."
+        ],
+        "es": [
+          "Situada en una pequeña aldea, la casa rural Crinières de l'Ouest ofrece una estancia tranquila cerca de la naturaleza. Dispone de 5 habitaciones (de 3 a 6 camas), 3 cuartos de baño y un salón-comedor con cocina americana y terraza.  La casa rural es especialmente adecuada para grupos. Cumple la normativa de los Accueils Collectifs de Mineurs."
+        ],
+        "nl": [
+          "De gîte Crinières de l'Ouest ligt in een klein gehucht en biedt een rustig verblijf dicht bij de natuur. Het heeft 5 slaapkamers (3 tot 6 bedden), 3 badkamers en een woon/eetkamer met open keuken en terras.  De gîte is bijzonder geschikt voor groepen. Hij voldoet aan de regels voor Accueils Collectifs de Mineurs."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/30460e96-7a9c-3ca0-b7da-cabcc197f578",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/41879162-eaf9-338b-a282-bf5d157d2d79",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d81b047-eabd-380c-9de5-6c001e4bf9b3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af197e5a-e6d7-3b58-bd2b-6b73ec199e70",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/db6246a0-0118-34de-baca-6fa6ad521b92",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/44cfd91d-833b-329e-9ea1-0265b28fbc7b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f4c67604-4e02-3b42-927e-7f18a5e20dad",
+          "schema:addressLocality": "Lanvénégen",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "2 Kergoff d'en Haut"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56105",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lanvénégen"
+              ],
+              "pt": [
+                "Lanvénégen"
+              ],
+              "en": [
+                "Lanvénégen"
+              ],
+              "it": [
+                "Lanvénégen"
+              ],
+              "fr": [
+                "Lanvénégen"
+              ],
+              "nl": [
+                "Lanvénégen"
+              ],
+              "es": [
+                "Lanvénégen"
+              ]
+            },
+            "insee": "56105",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/667e6516-eaca-344e-a0f3-7de13241a350",
+        "schema:latitude": "48.00624",
+        "schema:longitude": "-3.57616",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

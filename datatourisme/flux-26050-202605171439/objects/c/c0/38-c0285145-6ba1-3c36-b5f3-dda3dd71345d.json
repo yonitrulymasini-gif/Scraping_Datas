@@ -1,0 +1,351 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c0285145-6ba1-3c36-b5f3-dda3dd71345d",
+  "dc:identifier": "ASC3d7564f566b84",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Ecuries de Lavalut"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0c902222-d03b-3199-9c26-d26a5922d735",
+      "schema:telephone": [
+        "+33 6 72 10 72 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesecuriesdelavalut.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a125379b-5991-3946-976c-2ceff0c57fac",
+      "dc:description": {
+        "de": [
+          "Pony-Club, Reitzentrum, Kurse, Ferienpraktika und Ausflüge.Ganzjährig geöffnet, außer in den Weihnachtsferien.Im Juli und August samstags und sonntags geschlossen, außer nach Vereinbarung."
+        ],
+        "en": [
+          "Pony club, riding school, lessons, vacation courses and rides. Open all year round, except during Christmas vacations. In July and August, closed on Saturdays and Sundays, except by appointment."
+        ],
+        "it": [
+          "Pony club, centro ippico, lezioni, corsi di vacanza e passeggiate, aperto tutto l'anno, tranne durante le vacanze di Natale, chiuso il sabato e la domenica in luglio e agosto, tranne su appuntamento."
+        ],
+        "fr": [
+          "Poney-club, centre équestre, cours, stages vacances et balades.Ouvert toute l'année, sauf aux vacances de Noël.En juillet et août, fermé le samedi et le dimanche, sauf sur rendez-vous."
+        ],
+        "nl": [
+          "Ponyclub, manege, lessen, vakantiecursussen en ritten, het hele jaar geopend, behalve tijdens de kerstvakantie, gesloten op zaterdag en zondag in juli en augustus, behalve op afspraak."
+        ],
+        "es": [
+          "Pony club, centro ecuestre, clases, cursos de vacaciones y paseos, abierto todo el año, excepto durante las vacaciones de Navidad, cerrado los sábados y domingos de julio y agosto, excepto con cita previa."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/99776189-81e6-340b-9e92-5b90d5555e19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a499b10f-d82e-344c-8d3f-87b84b4cbe39",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a6ed563f-bb56-37d2-8969-6d0dca504bac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a72e1782-0178-3ce5-a467-7e2a107bae4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fef68612-582e-3979-afd5-16b9c9fb5087",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9d46541a-7845-31f9-8180-631566143bce",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ffa5d913-834a-38c9-9cd0-6bcb451cb705",
+          "schema:addressLocality": "Locmaria-Grand-Champ",
+          "schema:postalCode": "56390",
+          "schema:streetAddress": [
+            "Lavalut"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56115",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmaria-Grand-Champ"
+              ],
+              "pt": [
+                "Locmaria-Grand-Champ"
+              ],
+              "en": [
+                "Locmaria-Grand-Champ"
+              ],
+              "it": [
+                "Locmaria-Grand-Champ"
+              ],
+              "fr": [
+                "Locmaria-Grand-Champ"
+              ],
+              "nl": [
+                "Locmaria-Grand-Champ"
+              ],
+              "es": [
+                "Locmaria-Grand-Champ"
+              ]
+            },
+            "insee": "56115",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8f0cdb10-327c-3706-9dd4-829801ea6f74",
+        "schema:latitude": "47.77573",
+        "schema:longitude": "-2.786692",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9c384207-b8f2-360b-b7ef-90e184e6b780",
+          "schema:validFrom": "2019-01-07T00:00:00",
+          "schema:validThrough": "2019-12-21T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-01-13",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.334Z"
+}

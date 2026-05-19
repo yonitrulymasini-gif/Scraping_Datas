@@ -1,0 +1,243 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7a5ef55e-d97a-3112-8249-c54399ba8b5e",
+  "dc:identifier": "ASCBRE000V506WNE",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Voile sensation en Baie de Quiberon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0e007520-5456-3ce2-8f1e-6ca1f432e35f",
+      "schema:telephone": [
+        "+33 2 97 57 91 58",
+        "+33 6 23 86 13 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.seanergie.fr/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/569052b3-fee3-3be9-b5c5-05da0896a283",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/441b0851-7471-3440-88bb-181460502750",
+          "schema:addressLocality": "Le Bono",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "23 rue Hoche",
+            "Seanergie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Bono"
+              ],
+              "pt": [
+                "Le Bono"
+              ],
+              "en": [
+                "Le Bono"
+              ],
+              "it": [
+                "Le Bono"
+              ],
+              "fr": [
+                "Le Bono"
+              ],
+              "nl": [
+                "Le Bono"
+              ],
+              "es": [
+                "Le Bono"
+              ]
+            },
+            "insee": "56262",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/309cf38e-7ffe-3f3c-a300-15b4293abd76",
+        "schema:latitude": "47.6415389",
+        "schema:longitude": "-2.9501908",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-01-13",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.329Z"
+}

@@ -1,0 +1,578 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b82c6fb1-acbb-3a2a-ab4e-f42cfab57253",
+  "dc:identifier": "HLOBRE056V50CQZT",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ty Heol"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/485788a9-00b9-3cec-94f9-8411b0c87695",
+      "schema:telephone": [
+        "+33 7 48 53 05 58"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.airbnb.fr/rooms/1506292336044318035"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/485788a9-00b9-3cec-94f9-8411b0c87695",
+      "schema:telephone": [
+        "+33 7 48 53 05 58"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.airbnb.fr/rooms/1506292336044318035"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7f38eb20-00e5-32ee-bbeb-1f3ad81d8eb1",
+      "schema:legalName": "Ty Heol",
+      "schema:telephone": [
+        "+33 7 48 53 05 58"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.airbnb.fr/rooms/1506292336044318035"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/34a11221-692a-39a7-906c-bf52f3fb8d22",
+      "dc:description": {
+        "de": [
+          "Ty Heol ? Helles bretonisches Haus mit Garten, nahe Meer & Natur\nWillkommen in Ty Heol, einem warmen und authentischen bretonischen Haus im ruhigen Dorf Saint-Caradec-Trégomel. Das vollständig renovierte und lichtdurchflutete Haus bietet den idealen Komfort für einen Aufenthalt zu zweit, mit der Familie oder mit Freunden in einer natürlichen und erholsamen Umgebung.\nDie Highlights\n? Authentisches, 65 m² großes Haus, das mit Sorgfalt eingerichtet wurde\n? Zwei geräumige & helle Schlafzimmer + 2 Schlafsofas im Wohnzimmer, perfekt für bis zu 6 Reisende\n? Geschlossener Garten von 300 m² mit Außenmöbeln, Sonnenschirm und Grill\n? Bettwäsche wird gestellt und die Betten sind bei der Ankunft gemacht, damit Sie sich sofort wohlfühlen\n? 10 Minuten von den Geschäften und 35 Minuten von den Stränden des Morbihan entfernt\n? Privatparkplatz auf dem Grundstück\n? Hunde sind willkommen\nWohnbereich\nDas gemütliche und helle Wohnzimmer lädt nach einem Tag voller Entdeckungen zum Entspannen ein. Seine beiden Schlafsofas ermöglichen es, leicht zusätzliche Schlafplätze hinzuzufügen, ideal für Familien oder Gruppen.\nKüche & Mahlzeiten\nDie offene, moderne und voll ausgestattete Küche bietet alles, was Sie zum Kochen und für gemeinsame Mahlzeiten am Esstisch benötigen: Herd, Backofen, Kühlschrank, Mikrowelle, Kaffeemaschine, Küchenutensilien?\nSchlafzimmer & Badezimmer\nIm Obergeschoss befinden sich zwei geräumige Schlafzimmer, die Ihnen einen ruhigen Schlaf garantieren. Ein modernes und funktionelles Badezimmer vervollständigt den Raum.\nGarten & Außenbereich\nNutzen Sie den umzäunten Garten für Mahlzeiten im Freien, zum Lesen oder zum Entspannen in der Sonne. Der Grill steht für Ihre Sommerabende bereit!\nIdeale Lage\nTy Heol liegt im Herzen der authentischen und grünen Bretagne und bietet Ihnen die Möglichkeit, ganz einfach zu erkunden :\n? die Strände des Morbihan,\n? die Wälder und Wanderwege,\n? die charaktervollen Dörfer,\n? das bretonische Kulturerbe und seine Traditionen.\nIn Ty Heol erwartet Sie ein einfacher, komfortabler und charmanter Aufenthalt. Stellen Sie Ihre Koffer ab? und genießen Sie."
+        ],
+        "en": [
+          "Ty Heol ? Bright Breton house with garden, close to sea and nature\nWelcome to Ty Heol, a warm and authentic Breton house located in the peaceful village of Saint-Caradec-Trégomel. Completely renovated and bathed in light, it offers the ideal comfort for a stay as a couple, with family or friends, in a natural and rejuvenating setting.\nHighlights\n? Authentic 65 m² house, decorated with care\n? Two spacious & bright bedrooms + 2 sofa beds in the living room, perfect for up to 6 travelers\n? 300 m² enclosed garden with outdoor furniture, parasol and barbecue\n? Linen provided and beds made up on arrival for immediate comfort\n? 10 min from shops and 35 min from Morbihan beaches\n? Private parking on the property\n? Dogs welcome\nLiving space\nThe bright, cosy living room invites you to relax after a day of exploring. Its two sofa beds make it easy to add extra beds, ideal for families or groups.\nKitchen & dining\nThe modern, fully-equipped open-plan kitchen offers everything you need to cook and share good times around the table: hob, oven, fridge, microwave, coffee maker, utensils?\nBedrooms & shower room\nUpstairs, two spacious bedrooms guarantee a peaceful night's sleep. A modern, functional bathroom completes the space.\nGarden & exterior\nTake advantage of the enclosed garden for al fresco dining, reading or relaxing in the sun. The barbecue is ready for summer evenings!\nIdeal location\nSituated in the heart of authentic, verdant Brittany, Ty Heol is within easy reach of ..:\n? the beaches of Morbihan,\n? forests and hiking trails,\n? charming villages,\n? Breton heritage and traditions.\nA simple, comfortable and charming stay awaits you at Ty Heol. Put down your bags? and enjoy."
+        ],
+        "it": [
+          "Ty Heol ? Luminosa casa bretone con giardino, vicino al mare e alla natura\nBenvenuti a Ty Heol, una casa bretone calda e autentica nel tranquillo villaggio di Saint-Caradec-Trégomel. Completamente ristrutturata e immersa nella luce, offre il comfort ideale per un soggiorno in coppia, in famiglia o con gli amici, in un ambiente naturale e rigenerante.\nCaratteristiche principali\n? Casa autentica di 65 m², decorata con cura\n? Due camere da letto spaziose e luminose + 2 divani letto nel soggiorno, perfette per ospitare fino a 6 viaggiatori\n? 300 m² di giardino recintato con mobili da esterno, ombrellone e barbecue\n? Lenzuola fornite e letti rifatti all'arrivo per un comfort immediato\n? A 10 minuti dai negozi e a 35 minuti dalle spiagge del Morbihan\n? Parcheggio privato nella proprietà\n? Cani benvenuti\nSpazio abitativo\nIl soggiorno, luminoso e accogliente, è il luogo ideale per rilassarsi dopo una giornata di esplorazione. I due divani letto consentono di aggiungere facilmente altri letti, ideali per famiglie o gruppi.\nCucina e pasti\nLa moderna cucina a pianta aperta, completamente attrezzata, dispone di tutto il necessario per cucinare e condividere momenti piacevoli intorno alla tavola: piano cottura, forno, frigorifero, microonde, macchina per il caffè, utensili, ecc\nCamere da letto e bagno con doccia\nAl piano superiore, due spaziose camere da letto garantiscono sonni tranquilli. Un moderno e funzionale bagno con doccia completa lo spazio.\nGiardino e esterni\nApprofittate del giardino recintato per mangiare all'aperto, leggere o rilassarvi al sole. Il barbecue è pronto per le vostre serate estive!\nPosizione ideale\nSituato nel cuore della Bretagna autentica e verdeggiante, Ty Heol è una base facile per esplorare :\nle spiagge del Morbihan\nforeste e sentieri escursionistici\nvillaggi di carattere,\nil patrimonio e le tradizioni bretoni.\nUn soggiorno semplice, confortevole e affascinante vi attende a Ty Heol. Posate le valigie e godetevela."
+        ],
+        "fr": [
+          "Ty Heol – Maison bretonne lumineuse avec jardin, proche mer & nature\nBienvenue à Ty Heol, une maison bretonne chaleureuse et authentique située dans le paisible village de Saint-Caradec-Trégomel. Entièrement rénovée et baignée de lumière, elle offre le confort idéal pour un séjour en couple, en famille ou entre amis, dans un cadre naturel et ressourçant.\nLes points forts\n• Maison authentique de 65 m², décorée avec soin\n• Deux chambres spacieuses & lumineuses + 2 clic-clac dans le salon, parfait pour accueillir jusqu’à 6 voyageurs\n• Jardin clos de 300 m² avec mobilier extérieur, parasol et barbecue\n• Linge fourni et lits faits à l’arrivée pour un confort immédiat\n• À 10 min des commerces et 35 min des plages du Morbihan\n• Parking privé dans la propriété\n• Chiens bienvenus \nEspace de vie\nLe salon, cosy et lumineux, invite à la détente après une journée de découvertes. Ses deux clic-clac permettent d’ajouter facilement des couchages supplémentaires, idéal pour les familles ou groupes.\nCuisine & repas\nLa cuisine ouverte, moderne et entièrement équipée, offre tout ce dont vous avez besoin pour cuisiner et partager de bons moments autour de la table : plaque, four, frigo, micro-ondes, cafetière, ustensiles…\nChambres & salle d’eau\nÀ l’étage, deux chambres spacieuses vous garantissent un sommeil paisible. Une salle d’eau moderne et fonctionnelle complète l’espace.\nJardin & extérieur\nProfitez du jardin clos pour vos repas en plein air, vos séances de lecture ou vos moments de détente au soleil. Le barbecue est prêt pour vos soirées estivales !\nSituation idéale\nSituée au cœur d’une Bretagne authentique et verdoyante, Ty Heol vous permet d’explorer facilement :\n• les plages du Morbihan,\n• les forêts et chemins de randonnée,\n• les villages de caractère,\n• le patrimoine breton et ses traditions.\nUn séjour simple, confortable et plein de charme vous attend à Ty Heol. Posez vos valises… et profitez."
+        ],
+        "es": [
+          "Ty Heol ? Luminosa casa bretona con jardín, cerca del mar y de la naturaleza\nBienvenido a Ty Heol, una cálida y auténtica casa bretona situada en el tranquilo pueblo de Saint-Caradec-Trégomel. Completamente renovada y bañada de luz, ofrece el confort ideal para una estancia en pareja, en familia o con amigos, en un entorno natural y rejuvenecedor.\nDestacamos\n? Auténtica casa de 65 m², decorada con esmero\n? Dos habitaciones amplias y luminosas + 2 sofás cama en el salón, ideal para un máximo de 6 viajeros\n? Jardín cerrado de 300 m² con muebles de exterior, sombrilla y barbacoa\n? Ropa de cama proporcionada y camas hechas a la llegada para una comodidad inmediata\n? A 10 minutos de los comercios y a 35 minutos de las playas de Morbihan\n? Aparcamiento privado en la propiedad\n? Se admiten perros\nSala de estar\nEl luminoso y acogedor salón es el lugar perfecto para relajarse después de un día de exploración. Sus dos sofás cama facilitan la adición de camas supletorias, ideal para familias o grupos.\nCocina y comidas\nLa cocina americana, moderna y totalmente equipada, tiene todo lo necesario para cocinar y compartir buenos momentos alrededor de la mesa: placa, horno, frigorífico, microondas, cafetera, utensilios, etc\nDormitorios y cuarto de ducha\nEn la planta superior, dos amplios dormitorios garantizan un sueño tranquilo. Un cuarto de ducha moderno y funcional completa el espacio.\nJardín y exterior\nAproveche al máximo el jardín cerrado para comer al aire libre, leer o relajarse bajo el sol. La barbacoa está lista para las noches de verano\nSituación ideal\nSituado en el corazón de la auténtica y frondosa Bretaña, Ty Heol es una base fácil para explorar :\n? las playas de Morbihan\n? los bosques y las rutas de senderismo\n? los pueblos con carácter\nel patrimonio y las tradiciones bretonas.\nUna estancia sencilla, cómoda y encantadora le espera en Ty Heol. Deje las maletas... y disfrute."
+        ],
+        "nl": [
+          "Ty Heol ? Licht Bretons huis met tuin, dicht bij de zee en de natuur\nWelkom op Ty Heol, een warm en authentiek Bretons huis in het rustige dorpje Saint-Caradec-Trégomel. Volledig gerenoveerd en badend in het licht, biedt het het ideale comfort voor een verblijf met je partner, familie of vrienden, in een natuurlijke en verjongende omgeving.\nHoogtepunten\n? Authentiek huis van 65 m², met zorg ingericht\n? Twee ruime, lichte slaapkamers + 2 slaapbanken in de woonkamer, perfect voor maximaal 6 reizigers\n? Omheinde tuin van 300 m² met tuinmeubelen, parasol en barbecue\n? Linnen voorzien en opgemaakte bedden bij aankomst voor onmiddellijk comfort\n? Op 10 minuten van de winkels en 35 minuten van de stranden van Morbihan\n? Privé parkeerplaats op het terrein\n? Honden welkom\nLeefruimte\nDe lichte, gezellige woonkamer is de perfecte plek om te ontspannen na een dag verkennen. De twee slaapbanken maken het gemakkelijk om extra bedden toe te voegen, ideaal voor gezinnen of groepen.\nKeuken & maaltijden\nDe open, moderne, volledig uitgeruste keuken heeft alles wat je nodig hebt om te koken en gezellig rond de tafel te zitten: kookplaat, oven, koelkast, magnetron, koffiezetapparaat, keukengerei, enz\nSlaapkamers & doucheruimte\nBoven garanderen twee ruime slaapkamers een rustige nachtrust. Een moderne, functionele doucheruimte maakt de ruimte compleet.\nTuin & buiten\nGeniet van de omheinde tuin om buiten te eten, te lezen of te ontspannen in de zon. De barbecue staat klaar voor uw zomeravonden!\nIdeale locatie\nTy Heol ligt in het hart van het authentieke, groene Bretagne en is een gemakkelijke uitvalsbasis om :\n? de stranden van Morbihan\n? bossen en wandelpaden\ndorpen met karakter,\nbretons erfgoed en tradities.\nOp Ty Heol wacht je een eenvoudig, comfortabel en charmant verblijf. Zet uw koffers neer en geniet."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/12d42744-6115-38a7-b217-28e4e43a2b17",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/636a5ed9-a798-39ca-8ca5-839af73e8bba",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7de8f541-f440-3e09-bd0e-2a1f0d2dcf50",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e9940e6d-bd74-3ea4-8b40-0c7de98a49ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe4cdd58-89bb-329c-be57-d81474d7d1b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/618fb16c-c665-3fb5-9c0e-062d3e4e868d",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Restaurant",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Restaurant"
+            ],
+            "pt": [
+              "Restaurante"
+            ],
+            "en": [
+              "Restaurant"
+            ],
+            "it": [
+              "Ristorante"
+            ],
+            "fr": [
+              "Restaurant"
+            ],
+            "es": [
+              "Restaurante"
+            ],
+            "nl": [
+              "Restaurant"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4e255097-3dec-380f-8922-515ee3052024",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/11165bb4-ea2b-3173-a519-93fff7d7d014",
+          "schema:addressLocality": "Saint-Caradec-Trégomel",
+          "schema:postalCode": "56540",
+          "schema:streetAddress": [
+            "12 Rue du Mané"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56210",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Caradec-Trégomel"
+              ],
+              "pt": [
+                "Saint-Caradec-Trégomel"
+              ],
+              "en": [
+                "Saint-Caradec-Trégomel"
+              ],
+              "it": [
+                "Saint-Caradec-Trégomel"
+              ],
+              "fr": [
+                "Saint-Caradec-Trégomel"
+              ],
+              "nl": [
+                "Saint-Caradec-Trégomel"
+              ],
+              "es": [
+                "Saint-Caradec-Trégomel"
+              ]
+            },
+            "insee": "56210",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7aea8962-212d-3567-8165-f915e0750c56",
+        "schema:latitude": "48.0381934",
+        "schema:longitude": "-3.3521588",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-13",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.552Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b7f5ca16-c936-3ea2-9e1e-3860dcde4548",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

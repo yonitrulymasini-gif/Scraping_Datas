@@ -1,0 +1,400 @@
+{
+  "@id": "https://data.datatourisme.fr/38/11390d95-0ee5-372d-9175-223818b42f78",
+  "dc:identifier": "ASCBRE022V52OPN3",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Merlin les pieds dans l'eau - Activités nautiques"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13cb59c6-35fc-3cfa-ac12-f576dbc9ff14",
+    "schema:legalName": "Office de tourisme du Kreiz Breizh",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3f895cea-c61d-30a6-85d7-4ee6c92e974a",
+      "schema:telephone": [
+        "+33 2 97 27 52 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.restaurant-merlin.fr/a-propos/activites-nautiques"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ee2ef5ed-387e-3ad1-91af-2d2128a52306",
+      "dc:description": {
+        "de": [
+          "Paddeln Sie auf dem größten See der Bretagne\nVerleih von Kanus, Kajaks und Tretbooten auf dem Lac de Guerlédan in Anse de Sordan.\nGeöffnet von April bis Oktober."
+        ],
+        "en": [
+          "Paddle on Brittany's largest lake\nCanoe-kayak and pedal-boat hire on Lac de Guerlédan at l'Anse de Sordan.\nOpen from April to October."
+        ],
+        "it": [
+          "Pagaiare sul più grande lago della Bretagna\nNoleggio di canoe-kayak e pedalò sul Lac de Guerlédan a l'Anse de Sordan.\nAperto da aprile a ottobre."
+        ],
+        "fr": [
+          "Pagayez sur le plus grand lac de Bretagne\nLocation de canoë-kayaks et pédalos sur le Lac de Guerlédan à l'Anse de Sordan.\nOuverture d'avril à octobre."
+        ],
+        "es": [
+          "Remar en el lago más grande de Bretaña\nAlquiler de canoas-kayak y pedalós en el lago de Guerlédan, en l'Anse de Sordan.\nAbierto de abril a octubre."
+        ],
+        "nl": [
+          "Peddel op het grootste meer van Bretagne\nVerhuur van kano's, kajaks en waterfietsen op het Lac de Guerlédan bij l'Anse de Sordan.\nGeopend van april tot oktober."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0f90202c-dd30-3680-839a-4c490a8b9074",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/190176bc-0354-38cc-9a97-45629593faf6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ab4685c5-b7f3-3603-9335-fc1396be701a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b609bc6f-94e9-3f15-a742-9e95d140ad89",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea3e9fd2-0557-3ffd-9d1e-b8ff8246a71c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:CanoeingKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kanu-Kajakfahren"
+        ],
+        "pt": [
+          "Canoa caiaque"
+        ],
+        "en": [
+          "Canoeing-kayaking"
+        ],
+        "it": [
+          "Canoismo"
+        ],
+        "fr": [
+          "Canoé kayak"
+        ],
+        "es": [
+          "Piraguas y kayak"
+        ],
+        "nl": [
+          "Kano/kajak"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Paddleboat",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tretboot"
+        ],
+        "pt": [
+          "Gaivota"
+        ],
+        "en": [
+          "Paddleboat"
+        ],
+        "it": [
+          "Pedalò"
+        ],
+        "fr": [
+          "Pédalo"
+        ],
+        "nl": [
+          "Waterfiets"
+        ],
+        "es": [
+          "Embarcación de pedales"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sport",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Sport"
+        ],
+        "pt": [
+          "Desporto"
+        ],
+        "en": [
+          "Sport"
+        ],
+        "it": [
+          "Sport"
+        ],
+        "fr": [
+          "Sport"
+        ],
+        "nl": [
+          "Sport"
+        ],
+        "es": [
+          "Deporte"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/599c786a-b76e-3c5a-a77f-d579268706ae",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/371e4f2c-99c9-339c-b533-52a27d4164e4",
+          "schema:addressLocality": "Saint-Aignan",
+          "schema:postalCode": "56480",
+          "schema:streetAddress": [
+            "Anse de Sordan",
+            "Merlin les pieds dans l’eau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56203",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Aignan"
+              ],
+              "pt": [
+                "Saint-Aignan"
+              ],
+              "en": [
+                "Saint-Aignan"
+              ],
+              "it": [
+                "Saint-Aignan"
+              ],
+              "fr": [
+                "Saint-Aignan"
+              ],
+              "nl": [
+                "Saint-Aignan"
+              ],
+              "es": [
+                "Saint-Aignan"
+              ]
+            },
+            "insee": "56203",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fd419d7d-4a86-35b4-ac9d-9d7238e88b6a",
+        "schema:latitude": "48.203477",
+        "schema:longitude": "-3.068533",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.336Z"
+}

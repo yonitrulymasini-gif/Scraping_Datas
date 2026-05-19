@@ -1,0 +1,242 @@
+{
+  "@id": "https://data.datatourisme.fr/38/163cf732-9203-3394-a787-171cee78f203",
+  "dc:identifier": "ASCBRE000V51K193",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Boutique Ananda céramique"
+    ],
+    "fr": [
+      "Boutique Ananda céramique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4b80f380-f3d2-386a-96af-42baef2c2441",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://anandacousyn.wixsite.com/ceramique",
+        "https://www.instagram.com/ananda_ceramique"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Pottery",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tonwaren"
+        ],
+        "pt": [
+          "Olaria"
+        ],
+        "en": [
+          "Pottery"
+        ],
+        "it": [
+          "Vasellame"
+        ],
+        "fr": [
+          "Poterie"
+        ],
+        "es": [
+          "Cerámica"
+        ],
+        "nl": [
+          "Aardewerk"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/79f5219d-5fdb-3204-9213-bbdb94a1019b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/40614271-518f-3a92-80ae-d9dc19ba5458",
+          "schema:addressLocality": "Malestroit",
+          "schema:postalCode": "56140",
+          "schema:streetAddress": [
+            "14 rue sainte anne"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56124",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Malestroit"
+              ],
+              "pt": [
+                "Malestroit"
+              ],
+              "en": [
+                "Malestroit"
+              ],
+              "it": [
+                "Malestroit"
+              ],
+              "fr": [
+                "Malestroit"
+              ],
+              "nl": [
+                "Malestroit"
+              ],
+              "es": [
+                "Malestroit"
+              ]
+            },
+            "insee": "56124",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/01538082-eeea-30c6-81dc-1bac15f30438",
+        "schema:latitude": "47.8092981",
+        "schema:longitude": "-2.3831045",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-04-18",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.335Z"
+}

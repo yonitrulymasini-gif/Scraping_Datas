@@ -1,0 +1,238 @@
+{
+  "@id": "https://data.datatourisme.fr/38/644a5410-037f-3100-8e17-f302cd06031c",
+  "dc:identifier": "RESBRE000V51JZDA",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le HAB - Hangar A Bières"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/21c71b4d-45ed-3715-86bf-ca19e27b8a0b",
+    "dc:identifier": "b228d996-3da4-4abb-b934-5652ee6045c2",
+    "schema:email": [
+      "contact@broceliande-vacances.com"
+    ],
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7e312c68-ea1e-3c9b-addf-c4ef519ba818",
+      "schema:legalName": "Le HAB - Hangar A Bières",
+      "schema:telephone": [
+        "+33 2 97 22 74 91"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lehab-barabieres.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7e312c68-ea1e-3c9b-addf-c4ef519ba818",
+      "schema:legalName": "Le HAB - Hangar A Bières",
+      "schema:telephone": [
+        "+33 2 97 22 74 91"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lehab-barabieres.fr/"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8cd43c6d-b64b-3bde-81ab-1bbb32bd97d6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/51b0e91f-7606-38ca-88e0-7d099f9414e9",
+          "schema:addressLocality": "Guer",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "30, rue de Saint-Cyr"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56075",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guer"
+              ],
+              "pt": [
+                "Guer"
+              ],
+              "en": [
+                "Guer"
+              ],
+              "it": [
+                "Guer"
+              ],
+              "fr": [
+                "Guer"
+              ],
+              "nl": [
+                "Guer"
+              ],
+              "es": [
+                "Guer"
+              ]
+            },
+            "insee": "56075",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5ea8c6ca-f04b-3e64-a8f1-5686f3d9cdc8",
+        "schema:latitude": "47.9393761",
+        "schema:longitude": "-2.133221",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T03:28:31.05Z",
+  "reducedMobilityAccess": false
+}

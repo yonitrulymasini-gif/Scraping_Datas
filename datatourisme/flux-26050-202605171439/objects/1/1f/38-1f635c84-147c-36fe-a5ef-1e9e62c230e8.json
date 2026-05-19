@@ -1,0 +1,242 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1f635c84-147c-36fe-a5ef-1e9e62c230e8",
+  "dc:identifier": "ASCBRE000V506JV2",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Plaisance Evolution"
+    ],
+    "fr": [
+      "Plaisance Evolution"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a6560abb-58c3-36fc-a7e6-eab6fe487895",
+      "schema:telephone": [
+        "+33 2 97 57 46 00",
+        "+33 6 09 79 65 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b69e5483-a1ab-349d-a53e-c78ff9e3e3f8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8008916d-7e86-38da-bd1f-66b44b5dc402",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "Dominique paris",
+            "Fetan - Stirec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fd143815-db80-3593-9c81-10cac96bc477",
+        "schema:latitude": "47.5729574",
+        "schema:longitude": "-2.9612645",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.339Z"
+}

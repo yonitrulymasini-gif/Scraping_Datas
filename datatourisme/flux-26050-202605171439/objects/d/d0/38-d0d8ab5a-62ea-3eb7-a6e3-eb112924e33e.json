@@ -1,0 +1,310 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d0d8ab5a-62ea-3eb7-a6e3-eb112924e33e",
+  "dc:identifier": "VILBRE056V50DJCR",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "ClubOrHolidayVillage",
+    "CollectiveAccommodation",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "L'Ile aux oiseaux"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/183fc812-1b6a-31e0-89d6-85d232603eb8",
+      "schema:telephone": [
+        "+33 6 30 91 61 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lileauxoiseaux-guern.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/36449125-42ec-34e0-a210-ca14fd1574d3",
+      "dc:description": {
+        "de": [
+          "Feriendörfer / Jugendherbergen"
+        ],
+        "en": [
+          "Holiday Villages / Youth Hostels"
+        ],
+        "it": [
+          "Villaggi vacanze / Ostelli della gioventù"
+        ],
+        "fr": [
+          "Villages Vacances / Auberges de Jeunesse"
+        ],
+        "nl": [
+          "Vakantiedorpen / Jeugdherbergen"
+        ],
+        "es": [
+          "Ciudades de vacaciones / Albergues juveniles"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/24960a53-eefb-376a-8ab7-c2736db9c9b9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/65c9cd97-9faf-334c-93ea-8e1f55e17aad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7e3215ff-193f-3791-b436-e5c167c7c9ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2afda0f-dd1f-3152-9911-2c976ad7bcaa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2b2f592-207d-3966-bca0-5cdc4b2c2dcc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f6c97698-97c6-3412-b0fb-ad9b3406b232",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1ee389dd-7987-3344-b1b1-8c399075d86f",
+          "schema:addressLocality": "Guern",
+          "schema:postalCode": "56310",
+          "schema:streetAddress": [
+            "Lieu-dit Corn Er Pont"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56076",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guern"
+              ],
+              "pt": [
+                "Guern"
+              ],
+              "en": [
+                "Guern"
+              ],
+              "it": [
+                "Guern"
+              ],
+              "fr": [
+                "Guern"
+              ],
+              "nl": [
+                "Guern"
+              ],
+              "es": [
+                "Guern"
+              ]
+            },
+            "insee": "56076",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ddc57f2a-0e4b-398b-a185-47dffecd6743",
+        "schema:latitude": "48.0267177",
+        "schema:longitude": "-3.1198269",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-04",
+  "lastUpdateDatatourisme": "2026-04-07T14:13:02.438Z"
+}

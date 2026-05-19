@@ -1,0 +1,426 @@
+{
+  "@id": "https://data.datatourisme.fr/38/65138d6f-a649-34d6-b3d3-0c5904d33ecd",
+  "dc:identifier": "B0033BRE00000085",
+  "@type": [
+    "schema:TouristInformationCenter",
+    "LocalTouristOffice",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TouristInformationCenter"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Office de Tourisme du Pays de Guer-Coëtquidan"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9ec74598-702c-38f3-9fc6-cfd6f3f7c0cc",
+      "schema:legalName": "Office de Tourisme du Pays de Guer-Coëtquidan",
+      "schema:telephone": [
+        "+33 2 97 22 04 78"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.guer-coetquidan-tourisme.com/"
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/de2763c9-15a7-898d-42bc-7f981dd99904",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "43906e34-a063-4f77-8a29-31dd2dc65738",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b46eb66b-15f3-3557-8763-aac2139120e4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/537d8a17-a8d3-316c-b7a5-6224a90616dc",
+          "schema:addressLocality": "Guer",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "2 place de la Gare"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56075",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guer"
+              ],
+              "pt": [
+                "Guer"
+              ],
+              "en": [
+                "Guer"
+              ],
+              "it": [
+                "Guer"
+              ],
+              "fr": [
+                "Guer"
+              ],
+              "nl": [
+                "Guer"
+              ],
+              "es": [
+                "Guer"
+              ]
+            },
+            "insee": "56075",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e48ff8a3-7c5a-3f58-bb91-fb64da372b0f",
+        "schema:latitude": "47.90591",
+        "schema:longitude": "-2.123238",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "altInsee": [
+        "56075"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-06-24",
+  "lastUpdateDatatourisme": "2026-04-17T08:57:24.914Z"
+}

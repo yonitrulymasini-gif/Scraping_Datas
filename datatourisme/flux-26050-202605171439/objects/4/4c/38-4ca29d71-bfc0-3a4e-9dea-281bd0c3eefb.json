@@ -1,0 +1,323 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4ca29d71-bfc0-3a4e-9dea-281bd0c3eefb",
+  "dc:identifier": "ASCBRE056V50DFEX",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Doux"
+    ],
+    "fr": [
+      "Doux"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ba12fe03-b66e-3fef-a64c-a1b24853baa1",
+      "schema:telephone": [
+        "+33 7 44 41 14 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.boutique-doux.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/66bf92dd-dd21-3b36-b462-2c17d10f8f8e",
+      "dc:description": {
+        "de": [
+          "Doux, ist ein Boutique-Atelier im Herzen von La Gacilly. Geschenke, Souvenirs, maßgeschneiderte Kreationen, Perlenkerzen, Schmuck. Das ganze Jahr über geöffnet."
+        ],
+        "en": [
+          "Doux is a boutique workshop in the heart of La Gacilly. Gifts, souvenirs, custom creations, beaded candles, jewelry. Open all year round."
+        ],
+        "it": [
+          "Doux è una boutique laboratorio nel cuore di La Gacilly. Regali, souvenir, creazioni su misura, candele di perline, gioielli. Aperto tutto l'anno."
+        ],
+        "fr": [
+          "Doux, est un atelier boutique en plein coeur de La Gacilly. Cadeaux, souvenirs, créations sur mesure, bougies perlées, bijoux. Ouvert toute l'année."
+        ],
+        "nl": [
+          "Doux is een boetiekatelier in het hart van La Gacilly. Geschenken, souvenirs, creaties op maat, kralenkaarsen, sieraden. Het hele jaar geopend."
+        ],
+        "es": [
+          "Doux es un taller boutique en el corazón de La Gacilly. Regalos, recuerdos, creaciones a medida, velas de cuentas, bisutería. Abierto todo el año."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a8f3fdd3-0361-3ec7-9a0c-bd521a838f15",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6aee0d3-6bf6-374c-9dde-12d9790019a3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd94343c-b937-38b6-92ae-dc52d9804880",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d2751ca4-de3b-3943-a8b2-ae04f09cf1a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fbeff928-a4cb-31dc-a95e-c3702136d7db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/99462de1-5ccd-364f-91d7-9cf2f04a68df",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/901c48ec-08d3-3f99-ac67-be7b8270ea3d",
+          "schema:addressLocality": "La Gacilly",
+          "schema:postalCode": "56200",
+          "schema:streetAddress": [
+            "9 rue Yves Josso"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56061",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Gacilly"
+              ],
+              "pt": [
+                "La Gacilly"
+              ],
+              "en": [
+                "La Gacilly"
+              ],
+              "it": [
+                "La Gacilly"
+              ],
+              "fr": [
+                "La Gacilly"
+              ],
+              "nl": [
+                "La Gacilly"
+              ],
+              "es": [
+                "La Gacilly"
+              ]
+            },
+            "insee": "56061",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a6232416-d9bc-3c5c-9b4b-cf7e004576ea",
+        "schema:latitude": "47.76516",
+        "schema:longitude": "-2.1312",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d2b64464-34c3-3677-b04b-02cd1f051332",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-19",
+  "lastUpdateDatatourisme": "2026-03-20T04:03:19.956Z"
+}

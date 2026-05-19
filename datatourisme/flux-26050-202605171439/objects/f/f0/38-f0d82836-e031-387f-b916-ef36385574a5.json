@@ -1,0 +1,675 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f0d82836-e031-387f-b916-ef36385574a5",
+  "dc:identifier": "HLOBRE056V5020BQ",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Forêt Totem - Hazel"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9cb566ec-351b-3ccf-b73b-e227dbc38ed3",
+      "schema:telephone": [
+        "+33 6 75 25 76 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.foret-totem.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9cb566ec-351b-3ccf-b73b-e227dbc38ed3",
+      "schema:telephone": [
+        "+33 6 75 25 76 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.foret-totem.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b8f98584-c7eb-38df-b79b-147ee8a4346a",
+      "schema:legalName": "Forêt Totem - Hazel",
+      "schema:telephone": [
+        "+33 6 75 25 76 30"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.foret-totem.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4a818830-bae2-3d08-80d5-4be7ae7a8e80",
+      "dc:description": {
+        "de": [
+          "Forêt Totem ist ein ökologisch verantwortungsbewusstes Angebot von 4 Ferienhäusern und 2 Tiny Houses inmitten eines 8 ha großen Waldes, in dem Sie ein Naturerlebnis erleben können.\nHazel ist ein kleiner, gemütlicher Kokon für 2 Personen mit einem atemberaubenden Blick auf den Wald.\nSchwimmbad, Leihfahrräder, Lehrpfad, 5-Sinne-Parcours, Spiele, Bücher, Holzmöbel für den Außenbereich.\nSo viele Vorteile, um einen einzigartigen Aufenthalt zu verbringen, sich um sich selbst zu kümmern und den Alltagsrhythmus zu unterbrechen!"
+        ],
+        "en": [
+          "Forêt Totem is an eco-responsible proposal of 4 gîtes and 2 tiny houses, in the middle of an 8-hectare forest for a nature experience.\nHazel is a cosy little cocoon for 2 people with a breathtaking view of the forest.\nSwimming pool, rental bikes, educational trail, 5-sensory trail, games, books, outdoor wooden furniture.\nAll the ingredients for a unique stay, a chance to pamper yourself and get away from it all!"
+        ],
+        "it": [
+          "Forêt Totem è una proposta eco-responsabile di 4 gîtes e 2 tiny houses, nel mezzo di una foresta di 8 ettari, per un'esperienza nella natura.\nHazel è un piccolo bozzolo accogliente per 2 persone con una vista mozzafiato sulla foresta.\nPiscina, biciclette a noleggio, percorso didattico, percorso dei 5 sensi, giochi, libri, mobili in legno all'aperto.\nTutti gli ingredienti per un soggiorno unico, un'occasione per coccolarsi e staccare la spina!"
+        ],
+        "fr": [
+          "Forêt Totem, c'est une proposition écoresponsable de 4 gîtes et 2 tiny houses, au milieu d'une forêt de 8ha pour vivre une expérience nature.\nHazel est un petit cocon douillet pour 2 personnes avec une vue imprenable sur la forêt.\nPiscine, vélos en location, sentier pédagogique, parcours de 5 sens, jeux, livres, mobilier en bois extérieur.\nAutant d'atouts pour passer un séjour unique, pour prendre soin de soi et couper du rythme quotidien !"
+        ],
+        "nl": [
+          "Forêt Totem is een eco-verantwoord voorstel van 4 gîtes en 2 tiny houses, midden in een bos van 8 hectare, voor een natuurbeleving.\nHazel is een gezellig coconnetje voor 2 personen met een adembenemend uitzicht op het bos.\nZwembad, fietsen te huur, educatief parcours, 5 zintuigen parcours, spelletjes, boeken, houten buitenmeubilair.\nAlle ingrediënten voor een uniek verblijf, een kans om jezelf te verwennen en er even helemaal tussenuit te zijn!"
+        ],
+        "es": [
+          "Forêt Totem es una oferta eco-responsable de 4 casas rurales y 2 casitas, en medio de un bosque de 8 hectáreas para vivir una experiencia en la naturaleza.\nHazel es un acogedor capullo para 2 personas con impresionantes vistas al bosque.\nPiscina, alquiler de bicicletas, sendero educativo, sendero de los 5 sentidos, juegos, libros, muebles de madera al aire libre.\nTodos los ingredientes para una estancia única, una oportunidad para mimarse y alejarse de todo"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/54913336-5801-3206-8404-4e0c77f7c013",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9444635c-9f9d-3013-9f5c-240a782dba4e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e0c3e9d-1bad-3d64-9afb-2b2948822dc9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a259ee59-5dc8-33ec-b943-a0cab728fa26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5694527-a02d-338d-aed4-998fe39816c1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/396c2df1-9c34-3781-bcb1-27beb7deac9b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2d0f930d-7c89-30e8-bee5-46aa2737d239",
+          "schema:addressLocality": "Persquen",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "2 Couetilliec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56156",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Persquen"
+              ],
+              "pt": [
+                "Persquen"
+              ],
+              "en": [
+                "Persquen"
+              ],
+              "it": [
+                "Persquen"
+              ],
+              "fr": [
+                "Persquen"
+              ],
+              "nl": [
+                "Persquen"
+              ],
+              "es": [
+                "Persquen"
+              ]
+            },
+            "insee": "56156",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ca5edebc-40b5-3896-b310-9a62a2fe3d4c",
+        "schema:latitude": "47.9868059",
+        "schema:longitude": "-3.2388427",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b60dbe6c-91c7-333e-970e-8072f532fa5c",
+          "schema:validFrom": "2026-02-27T00:00:00",
+          "schema:validThrough": "2026-11-29T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cfb470a7-3da3-3e6e-8f03-e47b7abd28db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

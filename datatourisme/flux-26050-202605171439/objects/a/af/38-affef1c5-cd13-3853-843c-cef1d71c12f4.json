@@ -1,0 +1,319 @@
+{
+  "@id": "https://data.datatourisme.fr/38/affef1c5-cd13-3853-843c-cef1d71c12f4",
+  "dc:identifier": "FMABRE056V503U60",
+  "schema:endDate": [
+    "2026-06-15"
+  ],
+  "schema:startDate": [
+    "2026-06-12"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Fêtes locales"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b9e4bb3d-47d9-37fd-b2ad-a6092b8bd91c",
+      "schema:telephone": [
+        "+33 6 81 40 07 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1b1cf4d3-18db-3939-b198-2620f02f154a",
+      "dc:description": {
+        "de": [
+          "4 Tage lang wird gefeiert! Bretonischer Boule-Wettbewerb, Flohmarkt, Karussells und Hüpfburg, Mahlzeiten, Imbissbude..."
+        ],
+        "en": [
+          "4 days of festivities! Boules bretonnes competition, garage sale, merry-go-rounds and bouncy castles, meals, refreshments..."
+        ],
+        "it": [
+          "4 giorni di festa! Gara di bocce bretoni, vendita di garage, giostre e strutture gonfiabili, pasti, bar per il ristoro..."
+        ],
+        "fr": [
+          "4 jours de fêtes ! Concours de boules bretonnes, vide-greniers, manèges et structure gonflable, repas, buvette..."
+        ],
+        "nl": [
+          "4 dagen feest! Jeu de boules wedstrijd, garageverkoop, draaimolens en opblaasbare structuur, maaltijd, bar..."
+        ],
+        "es": [
+          "4 días de fiesta Competición de petanca bretona, venta de garaje, tiovivos y estructura hinchable, comida, bar de refrescos..."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1744932b-8df5-369f-9571-04881550a467",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1e54d430-a5a2-3442-92d5-b6d2ac04064c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c481f38-3454-360b-ab27-835f24c43419",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/60a98567-861c-3026-b9a0-52023d04c2e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/642392e2-5b25-3645-9e5b-871fb426ca5a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/57f5a5be-7f82-319f-a23a-cb49e2da6eb1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/da514bf8-7221-3a37-91d9-47574b2cff85",
+          "schema:addressLocality": "Saint-Tugdual",
+          "schema:postalCode": "56540",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56238",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Tugdual"
+              ],
+              "pt": [
+                "Saint-Tugdual"
+              ],
+              "en": [
+                "Saint-Tugdual"
+              ],
+              "it": [
+                "Saint-Tugdual"
+              ],
+              "fr": [
+                "Saint-Tugdual"
+              ],
+              "nl": [
+                "Saint-Tugdual"
+              ],
+              "es": [
+                "Saint-Tugdual"
+              ]
+            },
+            "insee": "56238",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ba3bfd0d-aa80-3ee9-b589-803ac367da76",
+        "schema:latitude": "48.09904",
+        "schema:longitude": "-3.33912",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-23",
+  "lastUpdateDatatourisme": "2026-04-24T02:57:23.967Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d51f1da8-6282-3d53-9b04-6d22ea1ab885",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-15",
+      "startDate": "2026-06-12"
+    }
+  ]
+}

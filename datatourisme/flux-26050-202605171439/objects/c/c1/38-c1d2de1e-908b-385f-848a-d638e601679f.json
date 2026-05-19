@@ -1,0 +1,323 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c1d2de1e-908b-385f-848a-d638e601679f",
+  "dc:identifier": "FMABRE056V50DCG4",
+  "schema:endDate": [
+    "2026-10-17"
+  ],
+  "schema:startDate": [
+    "2026-10-06"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Vente de livres"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/aedd1739-4eec-3b55-891a-68ceb4dec667",
+      "schema:telephone": [
+        "+33 2 97 23 52 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bd6c95f5-a598-3cfb-b038-227a2277273b",
+      "dc:description": {
+        "de": [
+          "Ausverkauf von ausgemusterten Büchern und Dokumenten. Der Erlös kommt einer lokalen Organisation zugute."
+        ],
+        "en": [
+          "Sale of out-of-date books and documents. Profits will be donated to a local charity."
+        ],
+        "it": [
+          "Vendita di libri e documenti di seconda mano. Il ricavato sarà devoluto a un ente di beneficenza locale."
+        ],
+        "fr": [
+          "Braderie de livres et documents déclassés. Les bénéfices seront reversés au profit d'une association locale."
+        ],
+        "es": [
+          "Venta de libros y documentos de segunda mano. Los beneficios se donarán a una organización benéfica local."
+        ],
+        "nl": [
+          "Tweedehands boeken- en documentenverkoop. De winst gaat naar een lokaal goed doel."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a9d915a3-8bab-3636-8de2-f5e8c2b1906f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bad149b3-63fd-32e9-b279-5cfffd19641b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd813223-892f-36ed-a1c7-11d52517ba2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d1691bb6-dd6c-362f-92ec-d40154d9498a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fead4fdc-da29-3ed7-831c-242d11b022db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/59326306-865c-398d-8dbc-50018384245e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/50544513-89eb-3285-a470-168428732f32",
+          "schema:addressLocality": "Guiscriff",
+          "schema:postalCode": "56560",
+          "schema:streetAddress": [
+            "2 Rue de la Poste",
+            "Médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56081",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guiscriff"
+              ],
+              "pt": [
+                "Guiscriff"
+              ],
+              "en": [
+                "Guiscriff"
+              ],
+              "it": [
+                "Guiscriff"
+              ],
+              "fr": [
+                "Guiscriff"
+              ],
+              "nl": [
+                "Guiscriff"
+              ],
+              "es": [
+                "Guiscriff"
+              ]
+            },
+            "insee": "56081",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fbfc9bb0-c7f9-3f86-9630-59985c81a692",
+        "schema:latitude": "48.04872",
+        "schema:longitude": "-3.64539",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-22",
+  "lastUpdateDatatourisme": "2026-04-23T02:53:36.217Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a15686fe-673b-3f8a-83ea-cd7cb056d706",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-10-17",
+      "startDate": "2026-10-06"
+    }
+  ]
+}

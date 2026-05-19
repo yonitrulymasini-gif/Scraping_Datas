@@ -1,0 +1,536 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a0d5ff5d-773a-3f4a-ace9-9122ddf591a3",
+  "dc:identifier": "B0028BRE000001L3",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte de Brocéliande"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6726aa1e-9a3a-39b9-b98f-cbc524211f2a",
+      "schema:telephone": [
+        "+33 2 97 93 07 15",
+        "+33 6 26 51 12 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/53b5d28e-247d-3355-a611-a5ac0e95de1a",
+      "schema:legalName": "Gîte de Brocéliande",
+      "schema:telephone": [
+        "+33 2 97 93 07 15",
+        "+33 6 26 51 12 96"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6726aa1e-9a3a-39b9-b98f-cbc524211f2a",
+      "schema:telephone": [
+        "+33 2 97 93 07 15",
+        "+33 6 26 51 12 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/98ad48cd-1253-3801-9a85-21c4f40c13be",
+      "dc:description": {
+        "de": [
+          "Ebenerdiges Reihenhaus in Tréhorenteuc, \"Commune du Patrimoine Rural de Bretagne\", 10 Gehminuten von Val sans retour und l'Arbre d'or entfernt und am Ausgangspunkt zahlreicher Wanderwege gelegen. Hier finden Sie allen Komfort, den Sie für einen gelungenen Aufenthalt in Brocéliande benötigen. Extras: Kamin, großer eingezäunter Garten mit Bäumen, Terrasse - Vorplatz."
+        ],
+        "en": [
+          "Semi-detached single-storey house located in Tréhorenteuc, \"Commune du Patrimoine Rural de Bretagne\", 10 minutes walk from the Val sans retour and the Arbre d?or, and at the start of many hiking trails. You'll find all the comforts you need to make the most of your stay in Brocéliande. Features: fireplace, large enclosed garden with trees, terrace - courtyard."
+        ],
+        "it": [
+          "Casa bifamiliare a un piano situata a Tréhorenteuc, un \"Commune du Patrimoine Rural de Bretagne\", a 10 minuti a piedi dalla Val sans retour e dall'Arbre d'or e all'inizio di numerosi sentieri escursionistici. Troverete tutti i comfort necessari per sfruttare al meglio il vostro soggiorno a Brocéliande. Caratteristiche: camino, ampio giardino alberato e recintato, terrazza - cortile."
+        ],
+        "fr": [
+          "Maison mitoyenne de plain-pied située à Tréhorenteuc, \"Commune du Patrimoine Rural de Bretagne\", à 10 minutes à pied du Val sans retour et de l’Arbre d’or, et au départ de nombreux sentiers de randonnée. Vous y trouverez tout le confort nécessaire au bon déroulement de votre séjour en Brocéliande. Les plus : cheminée, grand jardin clos arboré, terrasse - préau."
+        ],
+        "nl": [
+          "Halfvrijstaand huis met één verdieping gelegen in Tréhorenteuc, een \"Commune du Patrimoine Rural de Bretagne\", op 10 minuten lopen van de Val sans retour en de Arbre d'or, en aan het begin van vele wandelpaden. U vindt hier alle comfort om optimaal te genieten van uw verblijf in Brocéliande. Kenmerken: open haard, grote omheinde tuin beplant met bomen, terras - binnenplaats."
+        ],
+        "es": [
+          "Casa adosada de una sola planta situada en Tréhorenteuc, \"Commune du Patrimoine Rural de Bretagne\", a 10 minutos a pie del Val sans retour y del Arbre d'or, y al inicio de numerosas rutas de senderismo. Encontrará todas las comodidades necesarias para disfrutar al máximo de su estancia en Brocéliande. Características: chimenea, gran jardín cerrado y arbolado, terraza - patio."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/36532059-2417-3868-86f1-b26bf73b6b84",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/487289f3-2eef-356b-8d2b-3f258bfecf91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b2afe4f-8e2b-3384-af14-8077575b450f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/adffa386-2b87-318c-9122-f82200f1d220",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f054eb60-1e22-38e8-be89-2922b8e189ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fbe06b8b-d6ff-3fd5-bc25-bb2f01e9693c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d4c79685-9656-3340-8049-9914538192e7",
+          "schema:addressLocality": "Tréhorenteuc",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "2, rue des Vignes"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tréhorenteuc"
+              ],
+              "pt": [
+                "Tréhorenteuc"
+              ],
+              "en": [
+                "Tréhorenteuc"
+              ],
+              "it": [
+                "Tréhorenteuc"
+              ],
+              "fr": [
+                "Tréhorenteuc"
+              ],
+              "nl": [
+                "Tréhorenteuc"
+              ],
+              "es": [
+                "Tréhorenteuc"
+              ]
+            },
+            "insee": "56256",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/77f637a0-b763-378d-a938-1a7a5efe2d18",
+        "schema:latitude": "48.0086389",
+        "schema:longitude": "-2.2883918",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-01-20",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.552Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/863aba45-2f7a-3e12-ba5e-58604edde99c",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

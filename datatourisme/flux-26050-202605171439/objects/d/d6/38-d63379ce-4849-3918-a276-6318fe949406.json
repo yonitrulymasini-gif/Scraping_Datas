@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d63379ce-4849-3918-a276-6318fe949406",
+  "dc:identifier": "LOI1f7bbc1bc4634",
+  "@type": [
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Plage de la Falaise"
+    ],
+    "fr": [
+      "Plage de la Falaise"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1e79d8b0-ec39-3053-82e7-4b39c0c7d6c6",
+      "schema:telephone": [
+        "+33 2 44 84 56 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.baiedequiberon.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/39f32859-72f2-30ce-84c4-8dc2fd52e9d0",
+      "dc:description": {
+        "de": [
+          "Der Strand von La Falaise, der auch der große Strand genannt wird, ist bei Familien sehr beliebt. Er liegt genau im Süden und blickt auf den Ozean. Er ist berühmt für das Angeln zu Fuß während der großen Gezeiten."
+        ],
+        "en": [
+          "La Falaise beach, also called the big beach, is very popular with families. It is located due south and overlooks the ocean. It is famous for fishing on foot during high tides."
+        ],
+        "it": [
+          "La spiaggia di La Falaise, chiamata anche la grande spiaggia, è molto popolare tra le famiglie. Si trova a sud e si affaccia sull'oceano. È nota per la pesca a piedi durante le alte maree."
+        ],
+        "fr": [
+          "La plage de La Falaise, aussi appelée la grande plage, est très appréciée par les familles. Elle est située plein Sud et donne sur l'océan. Elle est réputée pour la pêche à pied lors des grandes marées."
+        ],
+        "es": [
+          "La playa de La Falaise, también llamada playa grande, es muy popular entre las familias. Está situado al sur y tiene vistas al océano. Es conocida por la pesca a pie durante las mareas altas."
+        ],
+        "nl": [
+          "Het strand van La Falaise, ook wel het grote strand genoemd, is erg populair bij gezinnen. Het ligt in het zuiden en kijkt uit over de oceaan. Het staat bekend om het vissen te voet tijdens hoog water."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3dfbf7f8-0ea9-3d0b-9c6b-e6e5793780fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97ae59ae-ec51-3d41-bc45-804538e8fe97",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bec9d327-94f5-380b-98b8-e8116d5a8778",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcd31a8f-ae72-3175-b507-65976d8e0f22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6a86088-2438-3c16-bad9-bd7551dc3764",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/862b9186-b074-3978-b462-39827988539e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b733141b-678b-3e3a-bb13-c91165eff527",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "Plage de la falaise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3540cae4-e84a-35e0-a039-7005b93dd81d",
+        "schema:latitude": "47.55416",
+        "schema:longitude": "-2.938974",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T03:59:12.375Z"
+}

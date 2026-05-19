@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/bc3530b6-760c-3a50-9d4f-b293743f0b95",
+  "dc:identifier": "FMABRE056V50DFJ3",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Atelier : animaux fantastiques du Pays du roi Morvan"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d7db6d0-4376-39b6-b383-b4caf649fdd9",
+      "schema:telephone": [
+        "+33 6 80 30 06 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesbainsdelareine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a171ff9-0572-347a-9008-2df6e5e0100c",
+      "dc:description": {
+        "de": [
+          "Erstelle wie die Handwerker in den Kapellen des Pays du Roi Morvan deine eigene Sandgrube mit fantastischen Tieren! Eine Reservierung wird empfohlen. Ab 5 Jahren. Angemessene Kleidung vorsehen."
+        ],
+        "en": [
+          "Like the craftsmen in the chapels of the Pays du roi Morvan, create your own sandpit of fantastic animals! Reservations recommended. Ages 5 and up. Please bring suitable clothing."
+        ],
+        "it": [
+          "Come gli artigiani delle cappelle del Pays du roi Morvan, create la vostra sabbiera di animali fantastici! Prenotazione consigliata. Per bambini a partire dai 5 anni. Portare abbigliamento adatto."
+        ],
+        "fr": [
+          "Comme les artisans dans les chapelles du Pays du roi Morvan, crée ta propre sablière d’animaux fantastiques ! Réservation conseillée. À partir de 5 ans. Prévoir une tenue adaptée."
+        ],
+        "nl": [
+          "Maak net als de ambachtslieden in de kapellen van het Pays du roi Morvan je eigen zandbak met fantastische dieren! Reserveren aanbevolen. Voor kinderen vanaf 5 jaar. Breng geschikte kleding mee."
+        ],
+        "es": [
+          "Como los artesanos de las capillas del Pays du roi Morvan, ¡crea tu propio arenero de animales fantásticos! Se recomienda reservar. Para niños a partir de 5 años. Traer ropa adecuada."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/562c4f1a-2f84-3db4-a720-703bd7029d10",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70810797-16de-3930-bf4f-4c512257d1d2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c03ee099-a096-3820-82b7-0574d6b71d6f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0f2beec-4d94-37ea-9cda-d764d8e5e25c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df443c0d-bd3f-30d4-a1f5-bbd53dbce476",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ae485347-a9a8-3744-a4fa-ba6e96b2a114",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1e580031-085c-3c84-a8ba-432904b888ef",
+          "schema:addressLocality": "Guémené-sur-Scorff",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "5 Rue du Château",
+            "Les Bains de la Reine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56073",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guémené-sur-Scorff"
+              ],
+              "pt": [
+                "Guémené-sur-Scorff"
+              ],
+              "en": [
+                "Guémené-sur-Scorff"
+              ],
+              "it": [
+                "Guémené-sur-Scorff"
+              ],
+              "fr": [
+                "Guémené-sur-Scorff"
+              ],
+              "nl": [
+                "Guémené-sur-Scorff"
+              ],
+              "es": [
+                "Guémené-sur-Scorff"
+              ]
+            },
+            "insee": "56073",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1fc18057-cb77-30d0-8ab2-8f0d0a4fa467",
+        "schema:latitude": "48.06741",
+        "schema:longitude": "-3.20767",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-17",
+  "lastUpdateDatatourisme": "2026-04-18T03:01:22.367Z"
+}

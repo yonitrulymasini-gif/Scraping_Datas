@@ -1,0 +1,736 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2b721e98-2533-3e98-bbd0-ee124f587599",
+  "dc:identifier": "RESBRE056V50611Y",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Chez les Gars"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "nl"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/12cee8bd-8438-3b4f-8b44-9ef7b2f76c04",
+      "schema:legalName": "Chez les Gars",
+      "schema:telephone": [
+        "+33 2 97 55 71 63"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/12cee8bd-8438-3b4f-8b44-9ef7b2f76c04",
+      "schema:legalName": "Chez les Gars",
+      "schema:telephone": [
+        "+33 2 97 55 71 63"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e0b3a6f7-e364-3f04-97d4-8731a63f0892",
+      "dc:description": {
+        "de": [
+          "Bienvenue Chez les Gars, Ihr neues, unumgängliches kulinarisches Reiseziel!\n\nUnser Restaurant liegt im Herzen der Stadt La Trinité-sur-Mer und bietet Ihnen eine Spezialität aus frischem Hummer, handgemachte Pizzas vor Ort oder zum Mitnehmen und eine dynamische Speisekarte, die sich jede Woche ändert.\n\nGeöffnet von 12:00 bis 14:00 Uhr und von 19:00 bis 21:30 Uhr (montags & dienstags geschlossen).\nReservierungen unter 02 97 55 71 63 oder auf unserer Website https://www.chez-les-gars-restaurant-la-trinite-sur-mer.fr/.\n\nUnser Team freut sich auf Sie! Bis bald bei Chez Les Gars!"
+        ],
+        "en": [
+          "Welcome to Chez les Gars, your new culinary destination!\n\nLocated in the heart of the town of la trinité-sur-mer, our restaurant offers a fresh lobster speciality, home-made pizzas to eat in or take away, and a dynamic menu that changes every week.\n\nOpen from 12pm to 2pm and from 7pm to 9:30pm (closed Monday & Tuesday).\nReservations on 02 97 55 71 63 or on our website https://www.chez-les-gars-restaurant-la-trinite-sur-mer.fr/.\n\nOur team looks forward to welcoming you! See you soon at Chez Les Gars!"
+        ],
+        "it": [
+          "Benvenuti a Chez les Gars, la vostra nuova destinazione culinaria!\n\nSituato nel cuore della città di la trinité-sur-mer, il nostro ristorante offre una specialità di aragosta fresca, pizze fatte in casa da mangiare o da portare via e un menu dinamico che cambia ogni settimana.\n\nAperto dalle 12.00 alle 14.00 e dalle 19.00 alle 21.30 (chiuso il lunedì e il martedì).\nPrenotazioni al numero 02 97 55 71 63 o sul nostro sito https://www.chez-les-gars-restaurant-la-trinite-sur-mer.fr/.\n\nIl nostro team non vede l'ora di darvi il benvenuto! A presto da Chez Les Gars!"
+        ],
+        "fr": [
+          "Bienvenue Chez les Gars, votre nouvelle destination culinaire incontournable !\n\nSitué au coeur de la ville de la trinité-sur-mer, notre restaurant vous propose une spécialité de homard frais, des pizzas artisanales sur place ou à emporter et une carte dynamique qui évolue chaque semaine.\n\nOuvert de 12h à 14h et de 19h à 21h30 (fermé le lundi & mardi).\nRéservation au 02 97 55 71 63 ou sur notre site internet https://www.chez-les-gars-restaurant-la-trinite-sur-mer.fr/.\n\nNotre équipe vous attend avec impatience ! À tres bientôt Chez Les Gars !"
+        ],
+        "nl": [
+          "Welkom bij Chez les Gars, je nieuwe culinaire bestemming!\n\nGelegen in het hart van het stadje la trinité-sur-mer, biedt ons restaurant een specialiteit van verse kreeft, huisgemaakte pizza's om te eten of mee te nemen en een dynamische menukaart die elke week verandert.\n\nOpen van 12.00 tot 14.00 en van 19.00 tot 21.30 (gesloten op maandag en dinsdag).\nReserveren op 02 97 55 71 63 of op onze website https://www.chez-les-gars-restaurant-la-trinite-sur-mer.fr/.\n\nOns team kijkt ernaar uit je te verwelkomen! Tot snel bij Chez Les Gars!"
+        ],
+        "es": [
+          "Bienvenido a Chez les Gars, su nuevo destino culinario\n\nSituado en el corazón de la ciudad de la trinité-sur-mer, nuestro restaurante ofrece una especialidad de langosta fresca, pizzas caseras para comer o llevar y un menú dinámico que cambia cada semana.\n\nAbierto de 12:00 a 14:00 y de 19:00 a 21:30 (lunes y martes cerrado).\nReservas en el 02 97 55 71 63 o en nuestro sitio web https://www.chez-les-gars-restaurant-la-trinite-sur-mer.fr/.\n\nNuestro equipo le da la bienvenida ¡Hasta pronto en Chez Les Gars!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00923887-fdb7-3019-a7e2-642b841753b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/09abc638-563e-37f4-8808-4daf08243730",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ec796f8-6db1-3d7b-b233-e579a2b1134c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/874c25e3-1d0f-32fb-8c68-092ef8c90eba",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/faeaf805-9f17-3386-a973-a5191117e283",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/27ec3055-5bba-3a90-8842-ad90cc3c1b46",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bar",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar"
+            ],
+            "pt": [
+              "Bar"
+            ],
+            "en": [
+              "Bar"
+            ],
+            "it": [
+              "Bar"
+            ],
+            "fr": [
+              "Bar"
+            ],
+            "nl": [
+              "Bar"
+            ],
+            "es": [
+              "Bar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9cb441-9e35-3ce2-a956-625b80b91c9f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BabyChair",
+          "@type": [
+            "CateringAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Hochstuhl"
+            ],
+            "pt": [
+              "Cadeira de bebé"
+            ],
+            "en": [
+              "Baby chair"
+            ],
+            "it": [
+              "Sedia per bambini"
+            ],
+            "fr": [
+              "Chaise bébé"
+            ],
+            "es": [
+              "Silla de bebé"
+            ],
+            "nl": [
+              "Kinderstoel"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bb3d2f7-e8ce-3de9-a0a1-43a6f39229c8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Terrace",
+          "@type": [
+            "CommonAmenity",
+            "ParkAndGardenTheme"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Terrasse"
+            ],
+            "pt": [
+              "Terraço"
+            ],
+            "en": [
+              "Terrace"
+            ],
+            "it": [
+              "Terrazzo"
+            ],
+            "fr": [
+              "Terrasse"
+            ],
+            "es": [
+              "Terraza"
+            ],
+            "nl": [
+              "Terras"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/abec6077-4e41-39d7-b109-f23add2899f4",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Seminar",
+          "@type": [
+            "AccommodationAmenity",
+            "PeopleAudience"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Seminar"
+            ],
+            "pt": [
+              "Seminário"
+            ],
+            "en": [
+              "Seminar"
+            ],
+            "it": [
+              "Seminario"
+            ],
+            "fr": [
+              "Séminaire"
+            ],
+            "es": [
+              "Seminario"
+            ],
+            "nl": [
+              "Seminar"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/aa3ec97e-fb3b-3c6a-905e-2874fb63bf01",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0d7c4742-fcd3-3651-8bf8-1eac34e475a3",
+          "schema:addressLocality": "La Trinité-sur-Mer",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "8 Rue de Carnac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56258",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Trinité-sur-Mer"
+              ],
+              "pt": [
+                "La Trinité-sur-Mer"
+              ],
+              "en": [
+                "La Trinité-sur-Mer"
+              ],
+              "it": [
+                "La Trinité-sur-Mer"
+              ],
+              "fr": [
+                "La Trinité-sur-Mer"
+              ],
+              "nl": [
+                "La Trinité-sur-Mer"
+              ],
+              "es": [
+                "La Trinité-sur-Mer"
+              ]
+            },
+            "insee": "56258",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/750a183d-2c54-3cc3-868f-052589e65b07",
+        "schema:latitude": "47.58939",
+        "schema:longitude": "-3.02995",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-15",
+  "lastUpdateDatatourisme": "2026-05-16T03:20:55.346Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/66196c04-5a42-3e3b-a9b4-4bb1c6ad94ea",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:ChequesDejeunersTicketsRestaurants",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Essensgutscheine – Ticket Restaurant"
+            ],
+            "pt": [
+              "Vales-refeições — vales-restaurante"
+            ],
+            "en": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "it": [
+              "Buoni pasto - ticket restaurant"
+            ],
+            "fr": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "es": [
+              "Vales de comida - Cheques restaurante"
+            ],
+            "nl": [
+              "Ontbijtcheques - restauranttickets"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

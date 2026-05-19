@@ -1,0 +1,594 @@
+{
+  "@id": "https://data.datatourisme.fr/38/570989c8-3d04-3ccd-8711-68556b7bc900",
+  "dc:identifier": "HLOBRE000V5000M1",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Centre \"Les Landes\""
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0d622a38-a127-327d-a64e-79ab52801561",
+      "schema:telephone": [
+        "+33 2 97 93 26 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0d622a38-a127-327d-a64e-79ab52801561",
+      "schema:telephone": [
+        "+33 2 97 93 26 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f229b00-d868-3e19-b61a-5e9701d76fd6",
+      "schema:legalName": "Centre \"Les Landes\"",
+      "schema:telephone": [
+        "+33 2 97 93 26 74"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bced698e-a433-3b31-801a-f1e43ee62a8a",
+      "dc:description": {
+        "de": [
+          "Das Hotel liegt im Süden von Brocéliande, im Herzen eines regionalen Naturschutzgebiets und 1,5 km von der Megalithanlage Menhirs de Monteneuf entfernt, einer der wichtigsten Megalithanlagen der Bretagne."
+        ],
+        "en": [
+          "Located south of Brocéliande, in the heart of a Regional Nature Reserve and 1.5 km from the Menhirs de Monteneuf megalithic site, one of the most important in Brittany."
+        ],
+        "it": [
+          "Situato a sud di Brocéliande, nel cuore di una Riserva Naturale Regionale e a 1,5 km dal sito megalitico Menhirs de Monteneuf, uno dei più importanti siti megalitici della Bretagna."
+        ],
+        "fr": [
+          "Situé au sud de Brocéliande, au cœur d'une Réserve Naturelle Régionale et à 1,5 km du site mégalithique des Menhirs de Monteneuf, un des plus importants site mégalithique de Bretagne."
+        ],
+        "es": [
+          "Situado al sur de Brocéliande, en el corazón de una Reserva Natural Regional y a 1,5 km del yacimiento megalítico de Menhirs de Monteneuf, uno de los más importantes de Bretaña."
+        ],
+        "nl": [
+          "Gelegen ten zuiden van Brocéliande, in het hart van een Regionaal Natuurreservaat en op 1,5 km van de megalithische vindplaats Menhirs de Monteneuf, een van de belangrijkste megalithische vindplaatsen in Bretagne."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4f7a45b0-f795-3e4e-b865-b8bdf9c2013a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a21f95c-2859-3c25-ba91-e80851949cf2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5a0ab38-b99d-365d-8a0f-3b8b7f1375a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c19fa484-3e2e-3e79-bcea-9c2fbde9902e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e598e69c-575c-389b-b086-d15abe0bcf95",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0ab8a75e-7f05-3369-8aab-967885053b27",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b6f672a1-5469-3cb3-9bbd-12087ffefb07",
+          "schema:addressLocality": "Monteneuf",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "1 rue des Menhirs"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56136",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Monteneuf"
+              ],
+              "pt": [
+                "Monteneuf"
+              ],
+              "en": [
+                "Monteneuf"
+              ],
+              "it": [
+                "Monteneuf"
+              ],
+              "fr": [
+                "Monteneuf"
+              ],
+              "nl": [
+                "Monteneuf"
+              ],
+              "es": [
+                "Monteneuf"
+              ]
+            },
+            "insee": "56136",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2c366fd8-7cb9-3cb1-8a1f-2f07b82f2fa8",
+        "schema:latitude": "47.8747551",
+        "schema:longitude": "-2.2057654",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3b2294f3-962d-3ebb-8dbc-8e29ab59bf94",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-09-30T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T04:02:59.295Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

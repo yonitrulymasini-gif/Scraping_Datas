@@ -1,0 +1,640 @@
+{
+  "@id": "https://data.datatourisme.fr/38/81fb9d6b-caac-3439-8894-68988557e9b6",
+  "dc:identifier": "HLOBRE056V505CBN",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Chambres d'hôtes Gaëlle"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6a9ba772-91b1-3500-9ea3-1205bf0e2836",
+      "schema:telephone": [
+        "+33 6 29 42 90 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chezgaelle.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6a9ba772-91b1-3500-9ea3-1205bf0e2836",
+      "schema:telephone": [
+        "+33 6 29 42 90 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chezgaelle.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5dbc9bc-fb4e-3b51-9a93-762197e15980",
+      "schema:legalName": "Chambres d'hôtes Gaëlle",
+      "schema:telephone": [
+        "+33 6 29 42 90 49"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chezgaelle.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5c4e94d4-c95b-3d4d-8f09-5aa752a95f4c",
+      "dc:description": {
+        "de": [
+          "Gaëlle bietet Ihnen 2 Gästezimmer in einem neuen Haus an.\nDie Zimmer befinden sich im Obergeschoss, das Badezimmer und die Toilette werden gemeinsam genutzt.\nSie befinden sich zehn Minuten zu Fuß von den Wanderwegen der Cote Sauvage und dem Stadtzentrum entfernt in einer ruhigen Gegend.\nBeheiztes Hallenbad mit Dusche und WC auch im Poolbereich im Erdgeschoss.\nBalkon zum Frühstücken oder im Wohnbereich im Obergeschoss mit Tischfußball.\nSicherer Parkplatz im eingezäunten Garten."
+        ],
+        "en": [
+          "Gaëlle offers 2 guest rooms in a new house.\nThe rooms are on the first floor, with shared bathroom and toilet.\nLocated ten minutes' walk from the Cote Sauvage footpaths and the town center, in a quiet neighborhood.\nHeated indoor swimming pool with shower and wc also in the pool area on the ground floor.\nBreakfast balcony or upstairs living area with table soccer.\nSecure parking space in enclosed garden."
+        ],
+        "it": [
+          "Gaëlle offre 2 camere per gli ospiti in una casa nuova.\nLe camere si trovano al primo piano e il bagno e la doccia sono in comune.\nA dieci minuti a piedi dai sentieri della Cote Sauvage e dal centro città, in una zona tranquilla.\nPiscina interna riscaldata con doccia e servizi igienici anche nell'area della piscina al piano terra.\nBalcone per le colazioni o nella zona giorno al piano superiore con calcio balilla.\nParcheggio custodito nel giardino recintato."
+        ],
+        "fr": [
+          "Gaëlle vous propose 2 chambres d'hôtes dans une maison neuve.\nLes chambres sont situées à l'étage, la salle d'eau et les wc sont à partager .\nSituées à dix minutes à pied des sentiers pédestres de la Cote Sauvage et du centre ville dans un quartier calme .\nPiscine couverte et chauffée avec douche et wc aussi dans l'espace piscine au rez de chaussée.\nBalcon pour les petits déjeuners ou dans l'espace de vie à l'étage avec baby foot .\nPlace de parking sécurisé dans jardin clos ."
+        ],
+        "es": [
+          "Gaëlle ofrece 2 habitaciones en una casa nueva.\nLas habitaciones están en el primer piso y el cuarto de ducha y WC son compartidos.\nA 10 minutos a pie de los senderos de la Cote Sauvage y del centro de la ciudad, en una zona tranquila.\nPiscina cubierta climatizada con ducha y WC también en la zona de la piscina en la planta baja.\nBalcón para los desayunos o en el salón de arriba con futbolín.\nPlaza de aparcamiento segura en jardín cerrado."
+        ],
+        "nl": [
+          "Gaëlle biedt 2 gastenkamers in een nieuw huis.\nDe kamers bevinden zich op de eerste verdieping en de doucheruimte en wc worden gedeeld.\nOp tien minuten lopen van de wandelpaden van de Cote Sauvage en het stadscentrum, in een rustige omgeving.\nVerwarmd binnenzwembad met douche en toilet ook in het zwembadgedeelte op de begane grond.\nBalkon om te ontbijten of in de leefruimte boven met tafelvoetbal.\nVeilige parkeerplaats in omheinde tuin."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00a8d0b9-99a8-3f8b-bb2c-ea4f8fb18d03",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2644efea-8002-367f-8c9b-4b7674010236",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/455bb270-2986-31c8-b585-b0ffcc6f3f32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9afc0702-7014-3bff-aaf1-c72cce28a17f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f49d264b-356b-3b97-8c6e-807524663644",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/08a26c69-99d9-3ec8-9f02-21343395afc6",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:IndoorPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überdachter Swimmingpool"
+            ],
+            "pt": [
+              "Piscina coberta"
+            ],
+            "en": [
+              "Indoor pool"
+            ],
+            "it": [
+              "Piscina coperta"
+            ],
+            "fr": [
+              "Piscine couverte"
+            ],
+            "es": [
+              "Piscina cubierta"
+            ],
+            "nl": [
+              "Overdekt zwembad"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b21ddef8-26c3-350f-95af-51ba5e8281a3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/37a28fbf-7aff-3d97-bed1-6b0b85de794a",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "59 bis Rue du Point du Jour"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1be8fd9c-e3b7-3202-a3da-7e3de5974d66",
+        "schema:latitude": "47.4888534",
+        "schema:longitude": "-3.1278148",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4da4fe78-3938-3460-9b24-0f93f606b983",
+  "dc:identifier": "FMABRE056V50DBEZ",
+  "schema:endDate": [
+    "2026-06-06"
+  ],
+  "schema:startDate": [
+    "2026-06-06"
+  ],
+  "@type": [
+    "schema:Event",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Du breton dans vos oreilles"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8674b81c-b7c9-3221-a252-8aee9dc1a0e2",
+      "schema:telephone": [
+        "+33 2 97 39 00 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://espace-kenere.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ba422553-cc31-3cea-b417-ad671b6b879b",
+      "dc:description": {
+        "de": [
+          "Brezhoneg en ho tiskouarn!\nHören Sie mit Yaëlle Geschichten und lernen Sie Reime auf Bretonisch.\nFür alle Kinder von 2 bis 7 Jahren. Ein Samstag pro Monat."
+        ],
+        "en": [
+          "Brezhoneg en ho tiskouarn!\nCome and listen to stories and learn nursery rhymes in Breton with Yaëlle.\nFor all children aged 2 to 7. One Saturday a month."
+        ],
+        "it": [
+          "Brezhoneg en ho tiskouarn!\nVenite ad ascoltare storie e a imparare filastrocche in bretone con Yaëlle.\nPer tutti i bambini dai 2 ai 7 anni. Un sabato al mese."
+        ],
+        "fr": [
+          "Brezhoneg en ho tiskouarn !\nVenez écouter des histoires et apprendre des comptines en breton avec Yaëlle. \nPour tous les enfants de 2 à 7 ans. Un samedi par mois."
+        ],
+        "es": [
+          "¡Brezhoneg en ho tiskouarn!\nVen a escuchar cuentos y aprender canciones infantiles en bretón con Yaëlle.\nPara todos los niños de 2 a 7 años. Un sábado al mes."
+        ],
+        "nl": [
+          "Brezhoneg en ho tiskouarn!\nKom luisteren naar verhalen en leer kinderrijmpjes in het Bretons met Yaëlle.\nVoor alle kinderen van 2 tot 7 jaar. Een zaterdag per maand."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/37fcb54e-1bcc-36e1-9406-8cf3110cdf9d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b612e02-ca8b-3450-97c6-6c5601181415",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78bd3b7f-4475-357d-a1f3-72457bf186f4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aebfa75e-3451-3705-83be-bab2659c4f2c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f8f8cf9d-597d-3f02-af7d-c3338c5986fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f3174429-c02f-386f-a264-55e0c9ed8369",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/85a0ef4b-6d42-3ef7-a9f0-a975e6c69562",
+          "schema:addressLocality": "Pontivy",
+          "schema:postalCode": "56300",
+          "schema:streetAddress": [
+            "34 Bis Rue du Général de Gaulle",
+            "Espace Kenere, médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56178",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pontivy"
+              ],
+              "pt": [
+                "Pontivy"
+              ],
+              "en": [
+                "Pontivy"
+              ],
+              "it": [
+                "Pontivy"
+              ],
+              "fr": [
+                "Pontivy"
+              ],
+              "nl": [
+                "Pontivy"
+              ],
+              "es": [
+                "Pontivy"
+              ]
+            },
+            "insee": "56178",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9d4df761-a165-3b83-9158-c98846090156",
+        "schema:latitude": "48.0722449",
+        "schema:longitude": "-2.9639587",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-04",
+  "lastUpdateDatatourisme": "2026-05-05T02:47:05.724Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4eff1937-5d5a-33d1-9573-9ef0f4321d7b",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-06",
+      "endTime": "11:45:00",
+      "startDate": "2026-06-06",
+      "startTime": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1f49354c-e000-302d-8805-b28b20d846b1",
+  "dc:identifier": "B0037BRE0000003N",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Ferme équestre du Vautoudan"
+    ],
+    "fr": [
+      "Ferme équestre du Vautoudan"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a7c7c166-13c0-3584-9110-9fe7ab37eb14",
+      "schema:telephone": [
+        "+33 6 71 47 36 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.fermeequestrevautoudan.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b7a1ab16-d555-372d-9ee8-7f4d2db29bbe",
+      "dc:description": {
+        "de": [
+          "Die Ferme équestre du Vautoudan bietet Reitunterricht, stundenweise Ausritte, Kutschfahrten und in der Sommersaison auch Tagesausflüge an. Auch Pferdeshows werden während des Sommers angeboten und jedes Jahr erneuert."
+        ],
+        "en": [
+          "The Vautoudan horse farm offers horseback riding lessons, hourly rides, carriage rides, as well as day rides during the summer season. Equestrian shows are also offered during the summer and renewed every year."
+        ],
+        "it": [
+          "L'allevamento di cavalli Vautoudan offre lezioni di equitazione, passeggiate a ore, gite in carrozza e passeggiate giornaliere durante la stagione estiva. Anche gli spettacoli equestri vengono offerti durante l'estate e si rinnovano ogni anno."
+        ],
+        "fr": [
+          "La ferme équestre du Vautoudan propose des cours d'équitation, des balades à l'heure,  des promenades en calèche, ainsi que des randonnées à la journée pendant la saison estivale. Des spectacles équestres sont également proposés pendant l'été et renouvelés chaque année."
+        ],
+        "es": [
+          "La granja de caballos Vautoudan ofrece clases de equitación, paseos por horas, paseos en carruaje, así como paseos de un día durante la temporada de verano. Los espectáculos ecuestres también se ofrecen durante el verano y se renuevan cada año."
+        ],
+        "nl": [
+          "De paardenboerderij van Vautoudan biedt paardrijlessen, ritten per uur, koetsritten en dagritten tijdens het zomerseizoen. In de zomer worden ook ruitershows aangeboden, die elk jaar worden vernieuwd."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2debbac0-b6ee-371b-af70-3a43a2800987",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6f615ea3-7de5-33c1-a103-794bd3aa4980",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a5143fa5-5856-39fe-a1c7-752ed5618718",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6ecfaef-fedc-3eb1-8423-5dfafffb7818",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb9b26d4-5dc8-3fcc-95bd-43d064d34322",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/06e5d20e-672b-3ddf-b0df-14e7e25e6a53",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cfee17e3-0d71-34bd-ab15-b3ddb6aba1ad",
+          "schema:addressLocality": "Porcaro",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "Le Vautoudan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56180",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Porcaro"
+              ],
+              "pt": [
+                "Porcaro"
+              ],
+              "en": [
+                "Porcaro"
+              ],
+              "it": [
+                "Porcaro"
+              ],
+              "fr": [
+                "Porcaro"
+              ],
+              "nl": [
+                "Porcaro"
+              ],
+              "es": [
+                "Porcaro"
+              ]
+            },
+            "insee": "56180",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7a278a78-a9b8-3dd7-bfff-7ce8a8d95eee",
+        "schema:latitude": "47.9077751",
+        "schema:longitude": "-2.2081261",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T03:36:16.914Z"
+}

@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b764dada-708d-35f5-a0f4-288f6ee81e7d",
+  "dc:identifier": "HLO00126aaf4edd4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Maison Groix - Le Coz"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1e466f5c-d918-3a53-b323-efa58f359d10",
+      "schema:legalName": "La Maison Groix - Le Coz",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b9d526e8-246e-33ce-880f-1e5d5f23129a",
+      "dc:description": {
+        "de": [
+          "Ebenerdiges Haus mit einem umzäunten Garten, das vollständig für Menschen mit Behinderungen geeignet ist.\n600 m vom Strand von Kerhillio über die Dünen, Ausgangspunkt für Wanderwege.\n\nDas Haus \"Groix\" verfügt über 2 Schlafzimmer, befindet sich im Erdgeschoss und kann bis zu 4 Personen beherbergen.\n\nEs besteht aus einem Wohnbereich: Sitzecke mit Ledersofa und TV, Essbereich, voll ausgestattete Küche (Geschirrspüler, Kühlschrank mit Gefrierfach, Mikrowelle, Minibackofen, 4 Ceranfelder, Waschmaschine, Kaffeemaschine, Toaster, Wasserkocher, Bügeleisen und Bügelbrett, Staubsauger...) und das gesamte Geschirr, das Sie für die Zubereitung Ihrer Mahlzeiten benötigen.\n\n- ein Zimmer mit 1 Bett für 2 Personen mit großem Schrank (Regale und Garderobe).\n- ein Zimmer mit 2 Betten für 1 Person mit Schrank (Regale und Garderobe).\n\nErleichterter Zugang für Personen mit eingeschränkter Mobilität: breitere Innentüren, keine Schwelle an der Eingangstür.\n- ein Badezimmer für Personen mit eingeschränkter Mobilität mit erhöhter Toilette und Haltegriff, leicht zugänglichem Waschbecken und italienischer Dusche mit Haltegriff.\n- einen eingezäunten Garten (Hecke und Maschendraht) und eine Terrasse mit Gartenmöbeln aus Teakholz, Sonnenschirm und Grill, einen eingezäunten Privatparkplatz.\n\nDas Haus ist mit einer Fußbodenheizung ausgestattet. Die Fensterläden sind entweder elektrische Rollläden oder Klappläden aus Aluminium.\n- Eine gemeinsame Waschküche für alle Maisons de l'océan mit einem gemeinsamen Wäschetrockner.\n- Kostenloser WiFi-Internetzugang (Glasfaser)."
+        ],
+        "en": [
+          "Single-storey house with enclosed garden, fully adapted for disabled people.\n600 m from Kerhillio beach via the dunes, departure point for hiking trails.\n\nLa Maison \"Groix\" has 2 bedrooms on the first floor and can accommodate up to 4 people.\n\nIt comprises a living area with a leather sofa and TV, a dining area, a fully-equipped kitchen (dishwasher, fridge-freezer, microwave, mini-oven, 4 ceramic hobs, washing machine, coffee maker, toaster, kettle, iron and ironing board, vacuum cleaner...) and all the crockery you need to prepare your meals.\n\n- one bedroom with 1 double bed and a large closet (shelves and hanging space).\n- one bedroom with 2 single beds and closet space (shelves and closet).\n\nEasier access for people with reduced mobility: wider interior doors, no threshold at the front door.\n- a bathroom adapted for people with reduced mobility with raised toilet and grab bar, easy-access sink and Italian shower with grab bar.\n- enclosed garden (hedge and fence) and terrace with teak garden furniture, parasol and barbecue, private enclosed parking.\n\nThe house is equipped with underfloor heating. Shutters are either electric roller shutters or aluminum swing shutters.\n- A laundry room shared by all Maisons de l?océan homes, with a common dryer.\n- Free WiFi Internet access (fiber)."
+        ],
+        "it": [
+          "Casa a un piano con giardino recintato, completamente adattata per disabili.\nA 600 m dalla spiaggia di Kerhillio attraverso le dune, punto di partenza per i sentieri escursionistici.\n\nLa Maison \"Groix\" dispone di 2 camere da letto al piano terra e può ospitare fino a 4 persone.\n\nÈ composta da una zona giorno con divano in pelle e TV, una zona pranzo, una cucina completamente attrezzata (lavastoviglie, frigorifero-congelatore, forno a microonde, mini-forno, 4 piastre in vetroceramica, lavatrice, macchina del caffè, tostapane, bollitore, ferro e asse da stiro, aspirapolvere, ecc.\n\n- una camera con 1 letto matrimoniale e un grande armadio (scaffali e appendiabiti).\n- una camera con 2 letti singoli e armadio (scaffali e guardaroba).\n\nAccesso facilitato per le persone a mobilità ridotta: porte interne più larghe, nessuna soglia alla porta d'ingresso.\n- un bagno adattato alle persone a mobilità ridotta con WC rialzato e maniglione, lavabo di facile accesso e doccia italiana con maniglione.\n- un giardino recintato (siepe e rete metallica) e una terrazza con mobili da giardino in teak, ombrellone e barbecue, e un parcheggio privato recintato.\n\nLa casa è dotata di riscaldamento a pavimento. Le tapparelle sono elettriche o a battente in alluminio.\n- Una lavanderia in comune con asciugatrice in comune.\n- Accesso internet WiFi gratuito (fibra)."
+        ],
+        "fr": [
+          "Maison de plain-pied avec un jardin clos, entièrement adaptée pour personnes handicapées. \nÀ 600 m de la plage de Kerhillio par les dunes, départ des sentiers de randonnées.\n\nLa Maison \"Groix\" dispose de 2 chambres, en rez-de-chaussée et peut accueillir jusqu’à 4 personnes.\n\nElle est composée d’une pièce à vivre : coin salon avec canapé cuir et TV ; coin salle à manger , la cuisine toute équipée (lave-vaisselle,réfrigérateur-congélateur, micro-ondes, mini-four, 4 plaques vitro-céramique, lave-linge, cafetière, grille-pain, bouilloire, fer et table à repasser, aspirateur...) et toute la vaisselle nécessaire pour préparer vos repas.\n\n- une chambre avec 1 lit pour 2 personnes avec grand placard (étagères et penderie).\n- une chambre avec 2 lits pour 1 personne avec placard (étagères et penderie).\n\nAccès facilité pour les personnes à mobilité réduite : portes intérieurs plus large, pas de seuil a la porte d’entrée.\n- une salle de bain adaptée pour les personnes à mobilité réduite avec WC réhaussé et une barre d’appui, lavabo facile d’accès et douche italienne avec barre d’appui.\n- un jardin clos (haie et grillage) et une terrasse avec salon de jardin en teck, parasol et barbecue, un parking privé clos.\n\nLa maison est équipée d’un chauffage par le sol. Les volets sont soit des volets roulants électriques, soit des volets battants en aluminium.\n- Une buanderie commune à l’ensemble des Maisons de l’océan avec un sèche-linge commun. \n- Accès Internet WiFi gratuit (fibre)."
+        ],
+        "nl": [
+          "Gelijkvloerse woning met omheinde tuin, volledig aangepast voor gehandicapten.\n600 m van het strand van Kerhillio via de duinen, vertrekpunt voor wandelroutes.\n\nLa Maison \"Groix\" heeft 2 slaapkamers op de begane grond en is geschikt voor maximaal 4 personen.\n\nHet bestaat uit een woonkamer met een leren bank en TV, een eethoek, een volledig uitgeruste keuken (vaatwasser, koelkast met vriesvak, magnetron, mini-oven, 4 keramische kookplaten, wasmachine, koffiezetapparaat, broodrooster, waterkoker, strijkijzer en strijkplank, stofzuiger, enz.) en al het servies en bestek dat je nodig hebt om je maaltijden te bereiden.\n\n- een slaapkamer met 1 tweepersoonsbed en een grote kledingkast (planken en hangruimte).\n- een slaapkamer met 2 eenpersoonsbedden en kast (planken en hangruimte).\n\nGemakkelijkere toegang voor mensen met beperkte mobiliteit: bredere binnendeuren, geen drempel bij de voordeur.\n- een badkamer aangepast voor mensen met beperkte mobiliteit met verhoogd toilet en steungreep, goed toegankelijke wastafel en Italiaanse douche met steungreep.\n- een omheinde tuin (heg en hekwerk) en terras met teakhouten tuinmeubilair, parasol en barbecue, en een omheinde privéparkeerplaats.\n\nHet huis heeft vloerverwarming. De rolluiken zijn ofwel elektrische rolluiken of aluminium zwenkluiken.\n- Een gedeelde wasruimte met een gedeelde wasdroger.\n- Gratis WiFi-internet (glasvezel)."
+        ],
+        "es": [
+          "Casa de una planta con jardín cerrado, totalmente adaptada para minusválidos.\nA 600 m de la playa de Kerhillio por las dunas, punto de partida de rutas de senderismo.\n\nLa Maison \"Groix\" tiene 2 dormitorios en la planta baja y puede alojar hasta 4 personas.\n\nConsta de un salón con sofá de cuero y TV, un comedor, una cocina totalmente equipada (lavavajillas, frigorífico-congelador, microondas, mini-horno, 4 placas vitrocerámicas, lavadora, cafetera, tostadora, hervidor de agua, plancha y tabla de planchar, aspirador, etc.) y toda la vajilla y cubertería necesarias para preparar sus comidas.\n\n- un dormitorio con 1 cama doble y un gran armario (estanterías y espacio para colgar).\n- un dormitorio con 2 camas individuales y armario (estanterías y armario).\n\nAcceso más fácil para las personas con movilidad reducida: puertas interiores más anchas, sin umbral en la puerta de entrada.\n- un cuarto de baño adaptado a las personas con movilidad reducida con WC elevado y barra de sujeción, lavabo de fácil acceso y ducha italiana con barra de sujeción.\n- un jardín cerrado (seto y valla) y terraza con muebles de jardín de teca, sombrilla y barbacoa, y aparcamiento privado cerrado.\n\nLa casa dispone de calefacción por suelo radiante. Las persianas son enrollables eléctricas o batientes de aluminio.\n- Lavandería compartida con secadora compartida.\n- Acceso gratuito a Internet WiFi (fibra)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/34d657dd-1110-3d8e-a001-794250db1d60",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/46ef915e-63f4-3bf7-a887-8fcc39beeac7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67d85ff2-ee42-32fa-b40d-c82de9d8dfc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ceb63880-e0f8-3052-bfb9-df3fb532293e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fca61efa-c675-3a51-85b7-da736e7d667a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c9437d52-3471-39a9-a96d-940f638f6335",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/74e5bfb9-76ca-3db7-b027-751446f4077e",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "51 Sentier de l'Océan -",
+            "Kerhillio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b4802190-4b3d-3fb4-b08d-c6b770145ac9",
+        "schema:latitude": "47.6157897",
+        "schema:longitude": "-3.1541244",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-04-25",
+  "lastUpdateDatatourisme": "2026-04-26T03:32:09.885Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

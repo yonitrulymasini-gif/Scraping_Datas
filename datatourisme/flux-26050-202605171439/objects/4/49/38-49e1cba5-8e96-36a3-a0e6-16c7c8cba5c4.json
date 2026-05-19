@@ -1,0 +1,322 @@
+{
+  "@id": "https://data.datatourisme.fr/38/49e1cba5-8e96-36a3-a0e6-16c7c8cba5c4",
+  "dc:identifier": "FMABRE035V52N84M",
+  "schema:endDate": [
+    "2026-08-01"
+  ],
+  "schema:startDate": [
+    "2025-08-01"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Oeuvre in situ \" Les premières gouttes\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/12a1baab-9011-380f-8e91-fb2ce040971d",
+    "schema:legalName": "OT - PAYS DE REDON",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9c642108-0a01-33c6-9b59-990108da25c2",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.instagram.com/minoterie21/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c9a60b14-1283-3019-8cab-133d71e360ec",
+      "dc:description": {
+        "de": [
+          "Ganzjährig sichtbares Werk, von Patrice Lesteven"
+        ],
+        "en": [
+          "Work on view all year round, by Patrice Lesteven"
+        ],
+        "it": [
+          "Opere in mostra tutto l'anno, di Patrice Lesteven"
+        ],
+        "fr": [
+          "Oeuvre visible à l'année, de Patrice Lesteven"
+        ],
+        "nl": [
+          "Werk het hele jaar door te zien, door Patrice Lesteven"
+        ],
+        "es": [
+          "Obra expuesta todo el año, de Patrice Lesteven"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5f8b8c71-a750-3714-bc4e-eeecef157f91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8bf53d87-c938-3d00-916d-562309bd1d86",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa9e4bfc-e5db-3800-afec-de66000749cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b931feda-6a6a-34f4-abc0-4d1063c816c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e911e54a-525a-32a8-99a4-a6f42ea07afa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ad0d3c8c-17fd-39f2-b9a6-a9c1ffcb7e81",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9d792903-0b05-33df-9296-b5096bf3c4d9",
+          "schema:addressLocality": "Peillac",
+          "schema:postalCode": "56220",
+          "schema:streetAddress": [
+            "Moulin de Guéveneux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56154",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Peillac"
+              ],
+              "pt": [
+                "Peillac"
+              ],
+              "en": [
+                "Peillac"
+              ],
+              "it": [
+                "Peillac"
+              ],
+              "fr": [
+                "Peillac"
+              ],
+              "nl": [
+                "Peillac"
+              ],
+              "es": [
+                "Peillac"
+              ]
+            },
+            "insee": "56154",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0c8c41d2-18e3-3c99-8368-e5986d59f49e",
+        "schema:latitude": "47.6999055",
+        "schema:longitude": "-2.2342848",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-08-26",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.842Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/79fd33fd-2900-3d17-ae3f-145459a89d65",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-01",
+      "startDate": "2025-08-01"
+    }
+  ]
+}

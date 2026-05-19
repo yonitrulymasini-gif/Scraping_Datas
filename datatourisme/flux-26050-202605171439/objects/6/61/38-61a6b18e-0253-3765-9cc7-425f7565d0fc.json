@@ -1,0 +1,342 @@
+{
+  "@id": "https://data.datatourisme.fr/38/61a6b18e-0253-3765-9cc7-425f7565d0fc",
+  "dc:identifier": "LSPBRE0560000358",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Base de Kayak de Mer de Saint Armel"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bbc07b42-4404-321f-9cb7-67659b392ddc",
+      "schema:telephone": [
+        "+33 2 97 26 48 21",
+        "+33 6 88 36 49 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.kayaksaintarmel.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b7cd47ee-3417-3be7-8fad-b31bd92426f2",
+      "dc:description": {
+        "de": [
+          "Die Kajakbasis von Saint Armel empfängt Sie das ganze Jahr über für Kurse, Raids, Wanderungen und Vermietungen ab der Passage von Saint Armel (außergewöhnlicher Ort am Golf von Morbihan), Empfang von Gruppen, Betriebsräten, Trainingsraids."
+        ],
+        "en": [
+          "The Sea Kayak Base of Saint Armel welcomes you, all year long, for its training courses, raids, hikes, rentals, from the Passage de Saint Armel (exceptional site of the Gulf of Morbihan)."
+        ],
+        "it": [
+          "La base di kayak da mare di Saint Armel vi accoglie tutto l'anno per i suoi corsi, raid, trekking, noleggi, dal Passage de Saint Armel (sito eccezionale del Golfo di Morbihan)."
+        ],
+        "fr": [
+          "La Base de Kayak de Mer de Saint Armel vous accueille, toute l’année, pour ses stages, raids, randos, locations, au départ du Passage de Saint Armel (site exceptionnel du Golfe du Morbihan).Accueil de groupes, comités d’entreprises, entrainements raids."
+        ],
+        "es": [
+          "La base de kayak de mar de Saint Armel le acoge todo el año para sus cursos, raids, excursiones, alquileres, desde el Passage de Saint Armel (sitio excepcional del Golfo de Morbihan)."
+        ],
+        "nl": [
+          "De kajakbasis van Saint Armel verwelkomt u het hele jaar door voor zijn cursussen, raids, excursies, verhuur, vanuit de Passage de Saint Armel (uitzonderlijke site van de Golf van Morbihan)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11d0ea95-5a43-330a-9fc7-5cac2e7c526e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/25947752-7024-35b9-8459-6018590e8af0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ccb7c75-3237-3765-8597-30aa19797ee9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/56b51c08-d2a7-394d-9d3f-3e8464c4caca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e12c40ed-bf33-351d-802f-9e40cc9daad4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:SeaKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Seekajak"
+        ],
+        "pt": [
+          "Caiaque marítimo"
+        ],
+        "en": [
+          "Sea kayaking"
+        ],
+        "it": [
+          "Kayak da mare"
+        ],
+        "fr": [
+          "Kayak de mer"
+        ],
+        "nl": [
+          "Zeekajakken"
+        ],
+        "es": [
+          "Kayak de mar"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1ad7525b-bd88-3395-9b4c-edc5ba989bb8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/adf59474-675d-3d5e-8242-a46f81b4a626",
+          "schema:addressLocality": "Saint-Armel",
+          "schema:postalCode": "56450",
+          "schema:streetAddress": [
+            "Le Passage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56205",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Armel"
+              ],
+              "pt": [
+                "Saint-Armel"
+              ],
+              "en": [
+                "Saint-Armel"
+              ],
+              "it": [
+                "Saint-Armel"
+              ],
+              "fr": [
+                "Saint-Armel"
+              ],
+              "nl": [
+                "Saint-Armel"
+              ],
+              "es": [
+                "Saint-Armel"
+              ]
+            },
+            "insee": "56205",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9b3a437c-929d-302a-bcce-09b3abd4f732",
+        "schema:latitude": "47.58047",
+        "schema:longitude": "-2.713814",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-02-01",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.337Z"
+}

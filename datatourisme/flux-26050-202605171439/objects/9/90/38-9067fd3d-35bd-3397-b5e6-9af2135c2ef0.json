@@ -1,0 +1,242 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9067fd3d-35bd-3397-b5e6-9af2135c2ef0",
+  "dc:identifier": "LSPBRE0560000778",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "UCPA - Ecole de Croisières"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3c1bb65c-9a4c-3206-9502-6809108feb8b",
+      "schema:telephone": [
+        "+33 2 97 05 50 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://ecoledevoile.ucpa.com/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3af5c7e0-5e2b-3f61-aa0e-1965acc78d9e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bfe6ee3c-46aa-3423-951c-3dec25632ef5",
+          "schema:addressLocality": "Lorient",
+          "schema:postalCode": "56100",
+          "schema:streetAddress": [
+            "Maison des Skippers",
+            "Terre-plein du Sous-Marin Papin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56121",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lorient"
+              ],
+              "pt": [
+                "Lorient"
+              ],
+              "en": [
+                "Lorient"
+              ],
+              "it": [
+                "Lorient"
+              ],
+              "fr": [
+                "Lorient"
+              ],
+              "nl": [
+                "Lorient"
+              ],
+              "es": [
+                "Lorient"
+              ]
+            },
+            "insee": "56121",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/05f96cc9-2f4f-3255-9d61-0ca060483cf1",
+        "schema:latitude": "47.72836",
+        "schema:longitude": "-3.36904",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-25",
+  "lastUpdateDatatourisme": "2026-03-26T04:04:36.415Z"
+}

@@ -1,0 +1,325 @@
+{
+  "@id": "https://data.datatourisme.fr/38/fe634dab-3b1b-3afe-a235-1ad8a3206e59",
+  "dc:identifier": "FMABRE000V5010TT",
+  "schema:endDate": [
+    "2026-05-17"
+  ],
+  "schema:startDate": [
+    "2026-05-17"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Troc et puces"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/edde824c-2675-331c-8ed4-ac910c61e780",
+    "schema:legalName": "OT CMC - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8ff59a93-d0ef-3846-aea7-1708300442b7",
+      "schema:telephone": [
+        "+33 6 58 88 05 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b164d6ac-e91f-3afe-8d35-8690b3b9c543",
+      "dc:description": {
+        "de": [
+          "Von 9 Uhr bis 18 Uhr. Getränke und Speisen vor Ort.\n1? Eintritt, kostenlos für Kinder unter 6 Jahren. Organisation: Avenir cycliste pays de Baud."
+        ],
+        "en": [
+          "From 9 am to 6 pm. Refreshments and catering on site.\n1? admission, free under 6. Organized by Avenir cycliste pays de Baud."
+        ],
+        "it": [
+          "Dalle 9.00 alle 18.00. Bar e ristorazione in loco.\ningresso 1?, gratis per i minori di 6 anni. Organizzato da Avenir cycliste pays de Baud."
+        ],
+        "fr": [
+          "De 9h à 18h. Buvette et restauration sur place.\n1€ l'entrée, gratuit moins de 6 ans. Organisation Avenir cycliste pays de Baud."
+        ],
+        "nl": [
+          "Van 9.00 tot 18.00 uur. Snackbar en catering ter plaatse.\n1 € entree, kinderen onder de 6 jaar gratis. Georganiseerd door Avenir cycliste pays de Baud."
+        ],
+        "es": [
+          "De 9.00 a 18.00 horas. Bar y catering in situ.\nentrada 1?, menores de 6 años gratis. Organizado por Avenir cycliste pays de Baud."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/36102665-79ed-3a0d-86e3-2a0e8e9e42c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67cbeba2-5b54-33bb-9c7d-7638cbac835d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8586bbd1-e77f-3130-8b59-8cb46f43b9df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9edad8f8-7b82-3c3a-b4dc-ee729d965b7e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a69cd71a-31a3-3ca4-a462-6356c7dd410e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/97cf38d9-0bd7-31df-9364-e456dbb1ce01",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eeb813f6-7aa3-3e7a-983a-048778c00736",
+          "schema:addressLocality": "Baud",
+          "schema:postalCode": "56150",
+          "schema:streetAddress": [
+            "Route de Pontivy",
+            "parking Intermarché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56010",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Baud"
+              ],
+              "pt": [
+                "Baud"
+              ],
+              "en": [
+                "Baud"
+              ],
+              "it": [
+                "Baud"
+              ],
+              "fr": [
+                "Baud"
+              ],
+              "nl": [
+                "Baud"
+              ],
+              "es": [
+                "Baud"
+              ]
+            },
+            "insee": "56010",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/41cfbfc6-6872-3220-93f1-b77b1ee2f713",
+        "schema:latitude": "47.8825447",
+        "schema:longitude": "-3.0188953",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-26",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.839Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1f9a8ff8-b567-3307-a722-6c2cbff25a3e",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-17",
+      "endTime": "18:00:00",
+      "startDate": "2026-05-17",
+      "startTime": "07:00:00"
+    }
+  ]
+}

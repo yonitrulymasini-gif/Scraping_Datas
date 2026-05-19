@@ -1,0 +1,360 @@
+{
+  "@id": "https://data.datatourisme.fr/38/dad5c452-24d8-3fa8-b60b-7f5cf0384b10",
+  "dc:identifier": "FMABRE056V50E157",
+  "schema:endDate": [
+    "2026-06-30"
+  ],
+  "schema:startDate": [
+    "2026-06-01"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "schema:Product",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Agenda de juin à la médiathèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/df910011-8053-3fa7-95ba-4413c6c9d479",
+      "schema:telephone": [
+        "+33 2 97 34 36 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/08af59bb-11c9-3834-93f2-5f25ca57e570",
+      "dc:description": {
+        "de": [
+          "Strick- und Lego-Workshops, Vorlesen für Kleinkinder und eine Ausstellung stehen im Juni auf dem Programm."
+        ],
+        "en": [
+          "Knitting and lego workshops, reading for toddlers and an exhibition are on the program for June."
+        ],
+        "it": [
+          "A giugno sono in programma laboratori di maglia e lego, letture per bambini e una mostra."
+        ],
+        "fr": [
+          "Ateliers tricot, légo, lecture pour les tout-petits et exposition sont au programme de ce mois de juin."
+        ],
+        "es": [
+          "Talleres de punto y lego, lectura para niños pequeños y una exposición figuran en el programa de junio."
+        ],
+        "nl": [
+          "Brei- en legoworkshops, voorlezen voor peuters en een tentoonstelling staan allemaal op het programma voor juni."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/88bb0c34-3544-3ce1-afe2-d7addacc5426",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d09ab25-b273-32b7-ac6e-95303534ff46",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa010656-829c-3a10-9dde-4db4ea5bdb2e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b02b2823-b9ae-341d-a512-7f92c43f58fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e817a3ac-b55e-3404-a8a4-46d5fae16556",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/96d774fc-ec0e-3ced-9469-f77698a22d3a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bb135fba-7e62-3c1c-859d-3f04a6a596c3",
+          "schema:addressLocality": "Meslan",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "10 Rue du Presbytère",
+            "Médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56131",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Meslan"
+              ],
+              "pt": [
+                "Meslan"
+              ],
+              "en": [
+                "Meslan"
+              ],
+              "it": [
+                "Meslan"
+              ],
+              "fr": [
+                "Meslan"
+              ],
+              "nl": [
+                "Meslan"
+              ],
+              "es": [
+                "Meslan"
+              ]
+            },
+            "insee": "56131",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fd3ebf67-9a94-3b95-8f13-269aba472188",
+        "schema:latitude": "47.99395",
+        "schema:longitude": "-3.43348",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-15",
+  "lastUpdateDatatourisme": "2026-05-16T03:31:47.501Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1dfd8c69-6f69-3333-99a5-2929b1dab7c6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-30",
+      "endTime": "18:00:00",
+      "startDate": "2026-06-01",
+      "startTime": "10:00:00"
+    }
+  ]
+}

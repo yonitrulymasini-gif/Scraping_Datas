@@ -1,0 +1,250 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d5cb764d-4529-3149-8845-fa355bf82a95",
+  "dc:identifier": "ASC15b34714a8234",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Cours et stages d'Aquarelle sur motif :Sophie et Pascal France"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cb66b690-f722-30ef-9133-85515335385c",
+      "schema:telephone": [
+        "+33 6 20 52 14 64",
+        "+33 6 21 06 91 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:PaintingGraphicArts",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Gemälde, Grafiken"
+        ],
+        "pt": [
+          "Pintura, artes gráficas"
+        ],
+        "en": [
+          "Painting, graphic arts"
+        ],
+        "it": [
+          "Dipinti, arti grafiche"
+        ],
+        "fr": [
+          "Peintures, arts graphiques"
+        ],
+        "nl": [
+          "Schilderijen, grafische kunst"
+        ],
+        "es": [
+          "Pintura, artes gráficas"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/87715d62-392f-3bd2-a76f-da181db6e55e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7e3ede5a-9fae-31a0-a7fb-f4c833fd3399",
+          "schema:addressLocality": "Groix",
+          "schema:postalCode": "56590",
+          "schema:streetAddress": [
+            "9 route des Plages",
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56069",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Groix"
+              ],
+              "pt": [
+                "Groix"
+              ],
+              "en": [
+                "Groix"
+              ],
+              "it": [
+                "Groix"
+              ],
+              "fr": [
+                "Groix"
+              ],
+              "nl": [
+                "Groix"
+              ],
+              "es": [
+                "Groix"
+              ]
+            },
+            "insee": "56069",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/340de8f6-12d0-3107-92af-c69f9d403d73",
+        "schema:latitude": "47.63769",
+        "schema:longitude": "-3.463",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ab773882-9401-39d3-afc2-a8eac0cb38d9",
+          "schema:validFrom": "2014-01-01T00:00:00",
+          "schema:validThrough": "2014-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

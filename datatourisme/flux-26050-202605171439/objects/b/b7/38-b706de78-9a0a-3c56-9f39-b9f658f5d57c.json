@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b706de78-9a0a-3c56-9f39-b9f658f5d57c",
+  "dc:identifier": "HLO883100d3cc044",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Ferme de Kerino - Roulottes, Yourtes et Cottages"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/418911d7-cfdf-3407-96f0-de546df45b69",
+      "schema:telephone": [
+        "+33 2 97 55 06 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lafermedekerino.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/418911d7-cfdf-3407-96f0-de546df45b69",
+      "schema:telephone": [
+        "+33 2 97 55 06 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lafermedekerino.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8c5da20a-42d5-3e0b-8f04-b4cb73edc92f",
+      "schema:legalName": "La Ferme de Kerino - Roulottes, Yourtes et Cottages",
+      "schema:telephone": [
+        "+33 2 97 55 06 10"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lafermedekerino.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/eb2c5be1-cdda-333e-be10-e4f4b77dc017",
+      "dc:description": {
+        "de": [
+          "\"La Ferme de Kérino\" empfängt Sie in der Bucht von Quiberon auf einem Privatgrundstück für einen entspannenden Aufenthalt in ruhiger Lage, mitten in der Natur, auf 1 ha Grünfläche in komfortabel ausgestatteten Zigeunerwagen, Jurten und Cottages.\n\n5 freie Stellplätze mit Zugang zu Sanitäranlagen stehen ebenfalls zur Verfügung.\n\nIdeale Lage, nur wenige Minuten von La Trinité-sur-Mer entfernt, mit Zugang zu einem Wanderweg und einem Radweg in weniger als 100 m Entfernung, der zu den Stränden von Saint-Philibert, Carnac, Locmariaquer und zur Entdeckung des Golfs von Morbihan führt."
+        ],
+        "en": [
+          "\"La Ferme de Kérino\" welcomes you to a private estate in Quiberon Bay for a relaxing, peaceful stay in the heart of nature, on 1ha of greenery, in comfortable, fully-equipped trailers, yurts and cottages.\n\n5 open pitches with sanitary facilities also available.\n\nIdeally located just a few minutes from La Trinité-sur-Mer, with access to hiking trails and cycle paths less than 100m away, leading to the beaches of Saint-Philibert, Carnac, Locmariaquer and the Gulf of Morbihan."
+        ],
+        "it": [
+          "\"La Ferme de Kérino\" vi accoglie in una tenuta privata nella baia di Quiberon per una pausa rilassante nel cuore della natura, immersa in 1 ettaro di verde in roulotte, yurte e cottage confortevoli e completamente attrezzati.\n\nsono disponibili anche 5 piazzole libere con servizi igienici.\n\nSituato in posizione ideale a pochi minuti da La Trinité-sur-Mer, con accesso a sentieri escursionistici e piste ciclabili a meno di 100 metri che conducono alle spiagge di Saint-Philibert, Carnac, Locmariaquer e al Golfo di Morbihan."
+        ],
+        "fr": [
+          "\"La Ferme de Kérino\" vous accueille en Baie de  Quiberon dans une propriété privée pour un séjour détente au calme, en pleine nature, sur 1ha de verdure en roulottes, yourtes et cottages confortablement équipés.\n\n5 emplacements libres avec accès sanitaires également à disposition.\n\nIdéalement située à quelques minutes de La Trinité-sur-Mer, avec accès sentier de randonnée, piste cyclable à moins de 100m menant aux plages de Saint-Philibert, à Carnac, à Locmariaquer et à la découverte du Golfe du Morbihan."
+        ],
+        "nl": [
+          "\"La Ferme de Kérino\" verwelkomt je op een privédomein in de baai van Quiberon voor een ontspannende vakantie midden in de natuur, op 1 hectare groen in comfortabele, volledig uitgeruste caravans, yurts en huisjes.\n\n5 open standplaatsen met sanitair ook beschikbaar.\n\nIdeaal gelegen op een paar minuten van La Trinité-sur-Mer, met toegang tot wandelpaden en fietspaden op minder dan 100m afstand die leiden naar de stranden van Saint-Philibert, Carnac, Locmariaquer en de Golf van Morbihan."
+        ],
+        "es": [
+          "\"La Ferme de Kérino\" le da la bienvenida a una finca privada en la bahía de Quiberon para una escapada de relax en plena naturaleza, situada en 1 hectárea de verdor en cómodas caravanas, yurtas y cabañas totalmente equipadas.\n\ntambién dispone de 5 parcelas abiertas con instalaciones sanitarias.\n\nIdealmente situado a sólo unos minutos de La Trinité-sur-Mer, con acceso a rutas de senderismo y carriles bici a menos de 100 m que conducen a las playas de Saint-Philibert, Carnac, Locmariaquer y el Golfo de Morbihan."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3c26efcf-6ba0-3f8c-8e7d-e85fed730106",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5993e9de-4e72-3ffd-8d26-0c243c36dde5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/db69486d-7270-3ac6-abc3-43d936f92e2a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f148532e-3241-35b1-a0b1-4bcb4dc57e81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f42e47b1-72ce-398c-b0a7-194fb5d0c30b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4d58a7d4-515e-3c49-82bb-0a2fb792b690",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0fd25517-b715-3b76-afed-30a3a16b6f97",
+          "schema:addressLocality": "Crach",
+          "schema:postalCode": "56950",
+          "schema:streetAddress": [
+            "2 Kérino"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56046",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Crach"
+              ],
+              "pt": [
+                "Crach"
+              ],
+              "en": [
+                "Crach"
+              ],
+              "it": [
+                "Crach"
+              ],
+              "fr": [
+                "Crach"
+              ],
+              "nl": [
+                "Crach"
+              ],
+              "es": [
+                "Crach"
+              ]
+            },
+            "insee": "56046",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b29315df-859e-3b16-9370-6428c4eb4c4d",
+        "schema:latitude": "47.6034323",
+        "schema:longitude": "-3.009181",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/7a52c0d6-f4fa-39ed-b43c-de39ea65c4d8",
+          "schema:validFrom": "2026-04-04T00:00:00",
+          "schema:validThrough": "2026-10-03T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.03Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "@id": "https://data.datatourisme.fr/38/56878511-da9f-3b45-be61-62187f718e11",
+  "dc:identifier": "ASCBRE000V51K2P1",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Crac'h-en-ciel - Mahé Ros"
+    ],
+    "fr": [
+      "Crac'h-en-ciel - Mahé Ros"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4203e043-ec75-315e-a7aa-4bfbc3023e0e",
+      "schema:telephone": [
+        "+33 6 19 03 90 58"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.maheros.com/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:PaintingGraphicArts",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Gemälde, Grafiken"
+        ],
+        "pt": [
+          "Pintura, artes gráficas"
+        ],
+        "en": [
+          "Painting, graphic arts"
+        ],
+        "it": [
+          "Dipinti, arti grafiche"
+        ],
+        "fr": [
+          "Peintures, arts graphiques"
+        ],
+        "nl": [
+          "Schilderijen, grafische kunst"
+        ],
+        "es": [
+          "Pintura, artes gráficas"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5b30e45c-fef1-303c-b91f-4278f2216765",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/05c08e1b-a6b3-3461-8d8e-f0ab92ef59ad",
+          "schema:addressLocality": "Crach",
+          "schema:postalCode": "56950",
+          "schema:streetAddress": [
+            "9 Rue de la Fontaine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56046",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Crach"
+              ],
+              "pt": [
+                "Crach"
+              ],
+              "en": [
+                "Crach"
+              ],
+              "it": [
+                "Crach"
+              ],
+              "fr": [
+                "Crach"
+              ],
+              "nl": [
+                "Crach"
+              ],
+              "es": [
+                "Crach"
+              ]
+            },
+            "insee": "56046",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/39083e0d-de51-39b0-a703-a0973b41efb2",
+        "schema:latitude": "47.61746",
+        "schema:longitude": "-2.99934",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.339Z"
+}

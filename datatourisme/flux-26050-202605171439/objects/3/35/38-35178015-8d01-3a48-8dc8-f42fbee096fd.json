@@ -1,0 +1,574 @@
+{
+  "@id": "https://data.datatourisme.fr/38/35178015-8d01-3a48-8dc8-f42fbee096fd",
+  "dc:identifier": "HLOafa51149f4194",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Maison Ty Kabiten"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0d4dc705-dee5-335c-b841-9b13b8da6b3f",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tykabiten.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0d4dc705-dee5-335c-b841-9b13b8da6b3f",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tykabiten.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e79c7c6b-bd88-3d05-9655-a38997fa5746",
+      "schema:legalName": "Maison Ty Kabiten",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tykabiten.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/14e2d8a9-0a95-3ad3-a356-aef360d4e7c4",
+      "dc:description": {
+        "de": [
+          "Wohnen Sie in Ty Kabiten, einem wunderschönen Kapitänshaus, das authentisch, mit Respekt vor seiner Geschichte und der Umwelt renoviert wurde. Es bietet Platz für 15 bis 20 Personen und ist ideal für ein Wiedersehen mit der Familie oder mit Freunden.\n\nMit einem herrlichen Blick auf den Golf von Morbihan verfügt Ty Kabiten über einladende Wohnbereiche und einen Garten, der einen direkten Zugang zum Küstenweg bietet!\nDas Erdgeschoss besteht aus den Wohnbereichen, während die Etagen in Wohnungen aufgeteilt sind, die allen Bewohnern Schlafmöglichkeiten bieten.\n\nDieses Haus befindet sich in der charmanten Ortschaft Locmariaquer und genießt eine ideale Lage. Sie können alle Annehmlichkeiten zu Fuß erreichen. Es ist von Stränden, Wanderwegen und Überresten aus der Megalithzeit umgeben.\n\nDas ganze Jahr über stehen Ihnen drinnen und draußen zahlreiche Aktivitäten zur Verfügung: Billard, Escape Game im Wohnzimmer, Comic-Bibliothek, Holzofen, Gesellschaftsspiele, Kajak, Volleyball- und Badmintonplatz.\n\nIn der Umgebung können Sie außerdem charaktervolle Dörfer, malerische Häfen, Megalithen, Strände sowie verschiedene Aktivitäten wie Bowling, Karting, Museen, Kino, Thalasso, Kreuzfahrten im Golf oder auf den Inseln...) entdecken."
+        ],
+        "en": [
+          "Stay at Ty Kabiten, a superb captain's house renovated with authenticity, respecting its history and the environment, and accommodating 15 to 20 people, ideal for a reunion with family or friends.\n\nWith a splendid view over the Gulf of Morbihan, Ty Kabiten boasts welcoming living spaces and a garden with direct access to the coastal path!\nThe ground floor comprises the living areas, while the upper floors are divided into apartments providing sleeping accommodation for all residents.\n\nSituated in the charming village of Locmariaquer, this house is ideally located. All amenities are within walking distance. It's surrounded by beaches, hiking trails and megalithic remains.\n\nA multitude of activities are available all year round, both indoors and out: billiards, escape game in the living room, comic book library, wood-burning stove, board games, kayaking, volleyball and badminton courts.\n\nIn the surrounding area, you'll also discover charming villages, picturesque ports, megaliths and beaches, as well as a variety of activities such as bowling, go-karting, museums, cinema, thalassotherapy, cruises in the Gulf or on the Islands...)."
+        ],
+        "it": [
+          "Soggiornate a Ty Kabiten, una superba casa del capitano ristrutturata con autenticità, nel rispetto della sua storia e dell'ambiente. Può ospitare da 15 a 20 persone, il che la rende ideale per una riunione di famiglia o di amici.\n\nCon una splendida vista sul Golfo di Morbihan, Ty Kabiten vanta spazi abitativi accoglienti e un giardino con accesso diretto al sentiero costiero!\nIl piano terra comprende le zone giorno, mentre i piani superiori sono suddivisi in appartamenti che offrono posti letto a tutti i residenti.\n\nSituata nell'incantevole cittadina di Locmariaquer, questa casa gode di una posizione ideale. Tutti i servizi sono raggiungibili a piedi. È circondata da spiagge, sentieri escursionistici e resti megalitici.\n\nDurante tutto l'anno sono disponibili numerose attività, sia all'interno che all'esterno: biliardo, gioco di fuga nel salone, biblioteca di fumetti, stufa a legna, giochi da tavolo, kayak, campi da pallavolo e badminton.\n\nNei dintorni, scoprirete anche villaggi pittoreschi, porti pittoreschi, megaliti e spiagge, oltre a una serie di attività come bowling, go-kart, musei, cinema, talassoterapia, crociere nel Golfo o sulle isole...)."
+        ],
+        "fr": [
+          "Séjournez au sein de Ty Kabiten, une superbe maison de capitaine rénovée avec authenticité, dans le respect de son histoire et de l'environnement, pouvant accueillir de 15 à 20 personnes, idéale pour des retrouvailles en famille ou entre amis.\n\nAvec une vue splendide sur le Golfe du Morbihan, Ty Kabiten dispose d'espaces de vies accueillants et d'un jardin qui offre un accès direct au chemin côtier !\nLe rez de chaussée est constitué des espaces de vie, tandis que les étages sont répartis en appartements permettant le couchages de tous les résidents.\n\nSituée dans le charmant bourg de Locmariaquer, cette maison bénéficie d'un emplacement idéal. Vous pourrez rejoindre à pied toutes les commodités. Elle est entourée de plages, de sentiers de randonnée, et de vestiges de l'époque mégalithique.\n\nTout au long de l'année, une multitude d’activités sont à votre disposition, autant à l'intérieur, qu'à l'extérieur : billard, escape game dans le salon, bibliothèque de BD, poêle à bois, jeux de société, kayak, terrain de volley et de badminton.\n\nAux alentours, vous découvrirez également des villages de caractère, des ports pittoresques, des mégalithes, des plages, ainsi que diverses activités comme bowling, karting, musées, cinéma, thalasso, croisière dans le Golfe ou sur les Iles...)."
+        ],
+        "nl": [
+          "Verblijf in Ty Kabiten, een prachtig, authentiek gerenoveerd kapiteinshuis met respect voor de geschiedenis en de omgeving. Het biedt plaats aan 15 tot 20 personen, waardoor het ideaal is voor een reünie met familie of vrienden.\n\nMet een prachtig uitzicht over de Golf van Morbihan, beschikt Ty Kabiten over gezellige leefruimtes en een tuin met directe toegang tot het kustpad!\nOp de begane grond bevinden zich de leefruimtes, terwijl de bovenverdiepingen verdeeld zijn in appartementen met slaapgelegenheid voor alle bewoners.\n\nDit huis is ideaal gelegen in het charmante marktplaatsje Locmariaquer. Alle voorzieningen zijn op loopafstand. Het is omgeven door stranden, wandelpaden en megalithische overblijfselen.\n\nHet hele jaar door zijn er tal van activiteiten, zowel binnen als buiten: biljart, ontsnappingsspel in de woonkamer, stripboekenbibliotheek, houtkachel, bordspellen, kajakken, volleybal- en badmintonvelden.\n\nIn de omgeving ontdek je ook pittoreske dorpjes, pittoreske haventjes, megalieten en stranden, evenals een scala aan activiteiten zoals bowlen, karten, musea, bioscoop, thalassotherapie, cruises in de Golf of op de eilanden...)."
+        ],
+        "es": [
+          "Alójese en Ty Kabiten, una magnífica casa de capitán renovada con autenticidad, respetando su historia y el entorno. Puede alojar de 15 a 20 personas, ideal para una reunión en familia o con amigos.\n\nCon una espléndida vista sobre el golfo de Morbihan, Ty Kabiten cuenta con acogedores espacios de vida y un jardín con acceso directo al sendero costero\nLa planta baja alberga las zonas de estar, mientras que los pisos superiores están divididos en apartamentos que ofrecen alojamiento a todos los residentes.\n\nSituada en el encantador pueblo de Locmariaquer, esta casa goza de una ubicación ideal. Todos los servicios están a poca distancia. Está rodeada de playas, rutas de senderismo y restos megalíticos.\n\nDurante todo el año, se ofrecen numerosas actividades, tanto en el interior como en el exterior: billar, juego de escape en el salón, biblioteca de cómics, estufa de leña, juegos de mesa, kayak, canchas de voleibol y bádminton.\n\nEn los alrededores, también descubrirá pueblos pintorescos, puertos pintorescos, megalitos y playas, así como diversas actividades como bolera, karting, museos, cine, talasoterapia, cruceros por el Golfo o por las islas...)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6cb51b88-4de6-341b-bbd9-d462af48b11b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8d63e028-0ce7-31cc-adc2-7725d7d1571a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c708992-9ace-33ed-b08f-272e3083dca5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d2c6efba-485e-3ba9-be7c-4abecca0b7db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e34dc919-aa9a-39b4-a947-ec8b2de6cfa3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/13b3ca31-ad54-3e13-bfcc-0ee815931199",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/89b45dfd-36cb-3495-ba32-59b3e1fcbe39",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "6 Route d'Auray"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bc658e3d-90b4-3bbc-b140-c184ea9b4360",
+        "schema:latitude": "47.5704836",
+        "schema:longitude": "-2.9462448",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:47:10.153Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

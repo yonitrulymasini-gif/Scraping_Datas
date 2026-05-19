@@ -1,0 +1,539 @@
+{
+  "@id": "https://data.datatourisme.fr/38/63ded7a2-d4c4-38ec-af8f-fb4c092c2d4e",
+  "dc:identifier": "HLO328ba00d544e4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Vallée de l'Ellé"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/049616ec-a58b-3b30-9c01-e170477c9e76",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 2 97 23 23 04",
+        "+33 6 84 25 28 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/location-vacances/Gite-Lanvenegen-56G1058.html?nbp_min=2"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/049616ec-a58b-3b30-9c01-e170477c9e76",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 2 97 23 23 04",
+        "+33 6 84 25 28 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/location-vacances/Gite-Lanvenegen-56G1058.html?nbp_min=2"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/425d5eff-ad22-3994-be04-4f547ad9d0a4",
+      "schema:legalName": "La Vallée de l'Ellé",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 2 97 23 23 04",
+        "+33 6 84 25 28 60"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/location-vacances/Gite-Lanvenegen-56G1058.html?nbp_min=2"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0c2b8541-e0b0-377b-904e-f480e29d413a",
+      "dc:description": {
+        "de": [
+          "Hier kommen Naturliebhaber und Liebhaber alter Steine dank der verschiedenen Landschaften und bemerkenswerten architektonischen Sehenswürdigkeiten auf ihre Kosten. Gelungene Renovierung für dieses wunderschöne Ferienhaus, das den Charme des Alten mit modernen Elementen verbindet. Sie werden hier die schönen Räume und die Ausstattung mit allem Komfort zu schätzen wissen! Der 1500 m² große Garten mit Spielgeräten (Badminton, Bouleplatz, Tischtennis) und die schöne Terrasse versprechen Ihnen gesellige Momente.\n- Im Erdgeschoss: ein großer Wohnraum mit Wohn- und Esszimmer, eine voll ausgestattete Küche mit Veranda, 2 Schlafzimmer mit je 1 Bett 160x200 und 1 Schlafzimmer mit 2 Betten 90x190, eines davon mit Bad/WC, WC. - Stock: 3 große Schlafzimmer (2 Betten 140 cm, 1 rundes Bett 2 m Durchmesser), 2 davon mit eigenem Bad, Badezimmer, WC, Flur. Terrasse, Hof und großer geschlossener Garten. In der Nähe eines landwirtschaftlichen Betriebs."
+        ],
+        "en": [
+          "Here, lovers of nature and old stones will be delighted by the various landscapes and remarkable architectural sites. This magnificent gîte has been successfully renovated to combine old-world charm with modernity. You'll love the spacious rooms and comfortable facilities! The 1500 m² garden with games (badminton, boules, ping-pong) and terrace promise to make your stay an unforgettable one.\n- First floor: large living room with lounge, fully-equipped kitchen and veranda, 2 bedrooms with 1 x 160x200 bed each, and 1 bedroom with 2 x 90x190 beds, one with en-suite shower room/wc, wc. - 1st floor: 3 large bedrooms (2 x 140cm beds, 1 x 2m round bed), 2 with en-suite shower rooms, bathroom, wc, hall. Terrace, courtyard and large enclosed garden. Close to a farm."
+        ],
+        "it": [
+          "Qui gli amanti della natura e della pietra antica saranno deliziati dai vari paesaggi e dai notevoli siti architettonici. Questo magnifico gîte è stato ristrutturato con successo per combinare il fascino del mondo antico con la modernità. Vi piaceranno gli alloggi spaziosi e le strutture confortevoli! Il giardino di 1500 m² con giochi (badminton, campo da bocce, ping-pong) e la sua bella terrazza promettono di essere un luogo ideale per la socializzazione.\n- Piano terra: ampio soggiorno con salotto e zona pranzo, cucina completamente attrezzata con veranda, 2 camere da letto con 1 letto matrimoniale (160x200) e 1 camera con 2 letti singoli (90x190), di cui una con bagno doccia/wc, wc. - 1° piano: 3 ampie camere da letto (2 letti da 140 cm, 1 letto rotondo da 2 m), 2 con bagno con doccia, bagno, wc, ingresso. Terrazza, cortile e ampio giardino recintato. Vicino a una fattoria."
+        ],
+        "fr": [
+          "Ici, les amoureux de nature et de vieilles pierres seront comblés grâce aux divers paysages et sites architecturaux remarquables. Rénovation réussie pour ce magnifique gîte alliant le charme de l'ancien et la modernité. Vous apprécierez ici les beaux volumes et les équipements tout confort ! Le jardin de 1500 m² avec jeux (badminton, terrain de boules, ping-pong) et sa belle terrasse vous promettent des moments forts en convivialité.\n- Au rez-de-chaussée : une grande pièce de vie avec salon et séjour, une cuisine toute équipée avec une véranda, 2 chambres avec 1 lit 160x200 chacune, et 1 chambre avec 2 lits 90x190, dont l'une avec salle d'eau/wc, wc. - Au 1er étage : 3 grandes chambres (2 lits en 140, 1 lit rond 2m de diamètre), dont 2 avec salles d'eau privative, salle de bains, wc, hall. Terrasse, cour, et grand jardin clos. A proximité d'une exploitation agricole."
+        ],
+        "nl": [
+          "Liefhebbers van natuur en oude stenen zullen hier verrukt zijn over de verschillende landschappen en opmerkelijke architecturale sites. Deze prachtige gîte is met succes gerenoveerd en combineert ouderwetse charme met moderniteit. Je zult genieten van de ruime accommodatie en comfortabele faciliteiten! De tuin van 1500 m² met spelletjes (badminton, petanquebaan, tafeltennis) en het mooie terras beloven een geweldige plek voor gezelligheid.\n- Begane grond: een grote woonkamer met zithoek en eethoek, een volledig uitgeruste keuken met veranda, 2 slaapkamers met elk 1 tweepersoonsbed (160x200) en 1 slaapkamer met 2 eenpersoonsbedden (90x190), waarvan een met en-suite badkamer met douche/wc, wc. - 1e verdieping: 3 grote slaapkamers (2 x 140cm bedden, 1 x 2m rond bed), 2 met en-suite badkamer met douche, badkamer, wc, hal. Terras, binnenplaats en grote omheinde tuin. Vlakbij een boerderij."
+        ],
+        "es": [
+          "Aquí, los amantes de la naturaleza y de la piedra antigua se deleitarán con los diversos paisajes y los notables conjuntos arquitectónicos. Esta magnífica casa rural ha sido renovada con éxito para combinar el encanto del viejo mundo con la modernidad. Le encantará su amplio alojamiento y sus cómodas instalaciones El jardín de 1500 m² con juegos (bádminton, campo de petanca, ping-pong) y su bonita terraza prometen ser un lugar ideal para la tertulia.\n- Planta baja: un gran salón con zona de estar y comedor, una cocina totalmente equipada con galería, 2 dormitorios cada uno con 1 cama doble (160x200), y 1 dormitorio con 2 camas individuales (90x190), uno de ellos con cuarto de ducha/wc en suite, wc. - 1er piso: 3 grandes dormitorios (2 x 140cm camas, 1 x 2m cama redonda), 2 con cuarto de baño con ducha, cuarto de baño, wc, hall. Terraza, patio y gran jardín cerrado. Cerca de una granja."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/31c07443-a021-3d2c-a6ef-1e88f334c0d9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/37d0261f-58eb-3799-bbc8-773e0cdb1c2b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/877e00e2-4356-336a-8041-6e0b98900cf8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c35945a5-e85d-3078-9d24-3b9690e857b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ccb56b7d-458b-3b01-bfd3-32c585db8539",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/529efcb6-f858-370a-9d55-724bf73e9fe2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/83193a4c-ff14-3fa3-bf82-34aaf17c5ccd",
+          "schema:addressLocality": "Lanvénégen",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "6 Le Rhède"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56105",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lanvénégen"
+              ],
+              "pt": [
+                "Lanvénégen"
+              ],
+              "en": [
+                "Lanvénégen"
+              ],
+              "it": [
+                "Lanvénégen"
+              ],
+              "fr": [
+                "Lanvénégen"
+              ],
+              "nl": [
+                "Lanvénégen"
+              ],
+              "es": [
+                "Lanvénégen"
+              ]
+            },
+            "insee": "56105",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/782c1c21-470e-3cb1-b5a0-d788f1f46862",
+        "schema:latitude": "47.9958589",
+        "schema:longitude": "-3.4854152",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.197Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ce3d8745-c354-351a-aed1-d18446451af9",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

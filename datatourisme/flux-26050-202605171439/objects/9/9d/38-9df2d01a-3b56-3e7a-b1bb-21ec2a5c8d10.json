@@ -1,0 +1,584 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9df2d01a-3b56-3e7a-b1bb-21ec2a5c8d10",
+  "dc:identifier": "HLOBRE056V508L63",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Palissades"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6e5aeb83-aa6a-38eb-8327-4de79ea54889",
+      "schema:telephone": [
+        "+33 6 61 18 44 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lamerduboncote.bzh/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/00d63390-0c1e-3cdc-8321-72e50c359cac",
+      "schema:legalName": "Les Palissades",
+      "schema:telephone": [
+        "+33 6 61 18 44 46"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lamerduboncote.bzh/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6e5aeb83-aa6a-38eb-8327-4de79ea54889",
+      "schema:telephone": [
+        "+33 6 61 18 44 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lamerduboncote.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a2bf1737-b98f-3030-9ca7-7c48dea03e01",
+      "dc:description": {
+        "de": [
+          "Willkommen im Loft \"Les Palissades\", 400 m2, komplett öko-renoviert im Jahr 2024, in Penthièvre, auf der Landenge der Halbinsel Quiberon.\nAuf der einen Seite die Bucht, auf der anderen der Ozean, gegenüber ? die bretonischen Inseln.\nDiese Vielzahl an Landschaften bietet ein überwältigendes Schauspiel und eine garantierte Flucht aus dem Alltag.\nGenießen Sie eine jodhaltige Reise in die Südbretagne.\n\nDas Loft befindet sich nur 90 Meter vom Ozean entfernt und ist für :\n- familie und Freunde\n- firmenseminare\n- wellness- und Yogaaufenthalte\n\nDurch die Integration von Spiel-, Kreativ- und Wellnessbereichen in seine Konzeption bietet das Loft ein einzigartiges Raumerlebnis, bei dem Komfort, Design, Entspannung und Geselligkeit im Mittelpunkt stehen.\n\nDie Ausstattung ist hochwertig, um Ihnen ein Höchstmaß an Komfort zu bieten und Ihnen einen angenehmen Aufenthalt in unserem Loft zu ermöglichen, das für einige Tage zu Ihrem eigenen wird!\n\n- Swimmingpool, Jacuzzi und Sauna,\n- 15 Schlafplätze mit gelieferter Bettwäsche,\n- 6 Schlafzimmer mit Meerblick, 4 Badezimmer und 5 WCs,\n- 2 TV-Räume, Abonnement für Kanal + speziell für Sport,\n- 1 Raum mit Arcade-Spielen, Tischen und Stühlen, um die Räume zu modulieren,\n- 1 XXL-Küche, 1 amerikanischer Kühlschrank, 2 Backöfen, 2 Geschirrspüler, 1 Weinkeller,\n- 1 eingezäunter Garten mit Außenmöbeln, 1 Innenhof, 3 Terrassen mit verschiedenen Ausstellungen\n- 6 eigene Parkplätze\n\nDie unglaubliche Combo, die den Gästen zur Verfügung gestellt wird?\n\nIn 500 Metern Entfernung, im Herzen des Dorfes Penthièvre, gibt es 2 Tennisplätze, 1 Tischtennisplatte und Bouleplätze, die das Sport- und Freizeitangebot ergänzen!\n\nWir bevorzugen lokale Partner, so dass wir Ihnen für alle zusätzlichen Dienstleistungen wie Restaurants, Wassersport, Fahrradverleih usw. die Führer des Fremdenverkehrsamtes der Bucht von Quiberon zur Verfügung stellen können."
+        ],
+        "en": [
+          "Welcome to Loft \"Les Palissades\", 400 m2, entirely eco-renovated in 2024, in Penthièvre, on the isthmus of the Quiberon peninsula.\nOn one side the bay, on the other the ocean, opposite? the Breton islands.\nThis multitude of landscapes offers a breathtaking spectacle and a guaranteed escape.\nCome and enjoy an iodized trip to Southern Brittany.\n\nLocated just 90 meters from the ocean, the loft is ideal for :\n- family and friends\n- corporate seminars\n- wellness & yoga stays\n\nBy integrating spaces for play, creativity and well-being into its design, the Loft offers a unique experience of a place where comfort, design, relaxation and conviviality are the order of the day.\n\nOur top-of-the-range facilities ensure maximum comfort and a pleasant stay in our Loft, which becomes yours for just a few days!\n\n- Swimming pool, Jacuzzi and sauna,\n- 15 beds with linen provided,\n- 6 bedrooms with sea views, 4 bathrooms and 5 wc,\n- 2 TV areas, special Canal + sports subscription,\n- 1 arcade room, tables and chairs for flexible use of space,\n- 1 XXL kitchen, 1 American fridge, 2 ovens, 2 dishwashers, 1 wine cellar,\n- 1 enclosed garden with outdoor furniture, 1 patio, 3 terraces with different exposures\n- 6 dedicated parking spaces\n\nThe incredible combo available to guests?\n\n500 meters away, in the heart of the village of Penthièvre, 2 tennis courts, 1 ping pong table and petanque courts complete the range of sports and leisure activities!\n\nWe prefer to work with local partners, so for all additional services such as restaurants, water sports, bike hire, etc., we can provide you with guides from the Quiberon Bay tourist office."
+        ],
+        "it": [
+          "Benvenuti al Loft \"Les Palissades\", 400 m2, completamente eco-ristrutturato nel 2024, a Penthièvre, sull'istmo della penisola di Quiberon.\nDa un lato la baia, dall'altro l'oceano, di fronte alle isole bretoni.\nQuesta moltitudine di paesaggi offre uno spettacolo mozzafiato e un'evasione garantita.\nVenite a godervi un viaggio iodato nel sud della Bretagna.\n\nSituato a soli 90 metri dall'oceano, il loft è ideale per :\n- famiglie e amici\n- seminari aziendali\n- soggiorni benessere e yoga\n\nIncorporando nel suo design aree per il gioco, la creatività e il benessere, il Loft offre un'esperienza unica di un luogo in cui comfort, design, relax e convivialità sono all'ordine del giorno.\n\nLe strutture sono di alta gamma, per offrirvi il massimo comfort e permettervi di trascorrere un piacevole soggiorno nel nostro Loft, che diventa vostro per qualche giorno!\n\n- Piscina, jacuzzi e sauna,\n- 15 posti letto con biancheria fornita,\n- 6 camere da letto, molte con vista sul mare, 4 bagni con doccia e 5 WC,\n- 2 aree TV, abbonamento speciale Canal + sport,\n- 1 sala giochi, tavoli e sedie per un uso flessibile dello spazio,\n- 1 cucina XXL, 1 frigorifero americano, 2 forni, 2 lavastoviglie, 1 cantina,\n- 1 giardino recintato con mobili da esterno, 1 patio, 3 terrazze con diverse esposizioni\n- 6 posti auto dedicati\n\nL'incredibile combinazione a disposizione degli ospiti?\n\nA 500 metri di distanza, nel cuore del villaggio di Penthièvre, 2 campi da tennis, 1 tavolo da ping pong e campi da bocce completano l'offerta di attività sportive e ricreative!\n\nPrivilegiamo i partner locali, quindi per tutti i servizi aggiuntivi come ristoranti, sport acquatici, noleggio biciclette, ecc. possiamo fornirvi le guide dell'ufficio turistico della baia di Quiberon."
+        ],
+        "fr": [
+          "Bienvenue au Loft \"Les Palissades\", 400 m2, entièrement éco-rénovés en 2024, à Penthièvre, sur l'isthme de la Presqu'île de Quiberon.\nD’un côté la baie, de l’autre l’océan, en face …. les îles bretonnes.\nCette multitude de paysages offre un spectacle saisissant et une évasion assurée.\nVenez profiter d’un voyage iodé en Bretagne Sud.\n\nSitué à seulement 90 mètres de l’océan, le loft est à destination :\n- des famille et amis\n- des séminaires d’entreprise\n- des séjours bien-être & yoga\n\nEn intégrant des espaces de jeux, de créativité et de bien-être dans sa conception, le Loft offre une expérience de lieu unique, où confort, design, détente et convivialité sont au rendez-vous.\n\nLes équipements sont haut de gamme, pour vous apporter un maximum de confort et vous permettre de passer un agréable séjour dans notre Loft , qui devient le vôtre pour quelques jours ! \n\n- Piscine, jacuzzi et sauna,\n- 15 couchages avec linge de maison fourni, \n- 6 chambres avec nombreuses vue mer, 4 salles d'eau et 5 wc,\n- 2 espaces TV, abonnement canal + spécial sport,\n- 1 salle de jeux d'arcades, tables et chaises pour moduler les espaces,\n- 1 cuisine XXL, 1 frigo américain, 2 fours, 2 laves-vaisselles, 1 cave à vin,\n- 1 jardin clos avec mobilier extérieur, 1 patio, 3 terrasses d’expositions différentes \n- 6 Places de parking dédiées\n\nLe combo incroyable mis à la disposition des hôtes ….\n\nA 500 mètres, au coeur du village de Penthièvre, 2 terrains de tennis, 1 table de Ping Pong et des terrains de pétanque viennent compléter les activités sportives et ludiques!\n\nNous privilégions les partenaires locaux, aussi pour tous les services complémentaires de restauration, d'activités nautiques, de location de vélos, ...nous vous mettons à disposition les guides de l'office de tourisme de la Baie de Quiberon."
+        ],
+        "nl": [
+          "Welkom bij Loft \"Les Palissades\", 400 m2, volledig eco-gerenoveerd in 2024, in Penthièvre, op de landengte van het schiereiland Quiberon.\nAan de ene kant is de baai, aan de andere kant de oceaan, tegenover de Bretonse eilanden.\nDeze veelheid aan landschappen biedt een adembenemend schouwspel en een gegarandeerde ontsnapping.\nKom en geniet van een gejodeerde reis naar Zuid-Bretagne.\n\nDe loft ligt op slechts 90 meter van de oceaan en is ideaal voor :\n- families en vrienden\n- bedrijfsseminars\n- welzijn en yoga pauzes\n\nDoor het integreren van ruimtes voor spel, creativiteit en welzijn in het ontwerp, biedt de Loft een unieke ervaring van een plek waar comfort, design, ontspanning en gezelligheid aan de orde van de dag zijn.\n\nDe faciliteiten zijn van topklasse om je maximaal comfort te bieden en je te laten genieten van een aangenaam verblijf in onze Loft, die voor een paar dagen de jouwe wordt!\n\n- Zwembad, jacuzzi en sauna,\n- 15 bedden met linnengoed,\n- 6 slaapkamers, waarvan vele met uitzicht op zee, 4 doucheruimtes en 5 toiletten,\n- 2 tv-ruimtes, speciaal Canal + sportabonnement,\n- 1 speelhal, tafels en stoelen voor flexibel gebruik van de ruimte,\n- 1 XXL keuken, 1 Amerikaanse koelkast, 2 ovens, 2 vaatwassers, 1 wijnkelder,\n- 1 omheinde tuin met tuinmeubilair, 1 patio, 3 terrassen met verschillende exposities\n- 6 eigen parkeerplaatsen\n\nDe ongelooflijke combo beschikbaar voor gasten?\n\nOp 500 meter afstand, in het hart van het dorp Penthièvre, maken 2 tennisbanen, 1 pingpongtafel en petanquebanen het aanbod aan sport- en vrijetijdsactiviteiten compleet!\n\nWe geven voorrang aan lokale partners, dus voor alle extra diensten zoals restaurants, watersporten, fietsverhuur, enz. kunnen we je gidsen van het toeristenbureau van Quiberon Bay ter beschikking stellen."
+        ],
+        "es": [
+          "Bienvenido al Loft \"Les Palissades\", de 400 m2, completamente renovado ecológicamente en 2024, en Penthièvre, en el istmo de la península de Quiberon.\nDe un lado está la bahía, del otro el océano, frente a las islas bretonas.\nEsta multitud de paisajes ofrece un espectáculo impresionante y una evasión garantizada.\nVenga a disfrutar de un viaje yodado al Sur de Bretaña.\n\nSituado a sólo 90 metros del océano, el loft es ideal para :\n- familias y amigos\n- seminarios de empresa\n- estancias de bienestar y yoga\n\nAl integrar en su diseño espacios para el juego, la creatividad y el bienestar, el Loft ofrece una experiencia única de un lugar donde el confort, el diseño, la relajación y la convivencia están a la orden del día.\n\nLas instalaciones son de alta gama, para ofrecerle el máximo confort y permitirle disfrutar de una agradable estancia en nuestro Loft, ¡que pasa a ser suyo por unos días!\n\n- Piscina, jacuzzi y sauna,\n- 15 camas con ropa de cama incluida,\n- 6 habitaciones, muchas con vistas al mar, 4 cuartos de ducha y 5 WC,\n- 2 zonas de TV, suscripción especial Canal + deportes,\n- 1 sala de juegos, mesas y sillas para un uso flexible del espacio,\n- 1 cocina XXL, 1 frigorífico americano, 2 hornos, 2 lavavajillas, 1 bodega,\n- 1 jardín cerrado con mobiliario exterior, 1 patio, 3 terrazas con diferentes exposiciones\n- 6 plazas de aparcamiento dedicadas\n\n¿El increíble combo a disposición de los huéspedes?\n\nA 500 metros, en el corazón del pueblo de Penthièvre, 2 pistas de tenis, 1 mesa de ping-pong y pistas de petanca completan la oferta de actividades deportivas y de ocio\n\nDamos prioridad a los socios locales, por lo que para todos los servicios adicionales como restaurantes, deportes náuticos, alquiler de bicicletas, etc., podemos poner a su disposición guías de la oficina de turismo de la bahía de Quiberon."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4d42fb0e-bee5-3d4c-9f01-57af74fdeafe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ceead18-c4eb-3d44-97f3-b5e04bbbb796",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/738582b6-9043-36fd-8749-7b778c315ba0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7c7008f0-973e-3edc-b572-b28e36e2bd77",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea177c6e-257e-38eb-9e1f-c0e29283e83c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/16b2b286-304b-3325-9574-926701b8b9db",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/55e793fc-431b-34af-9e0f-8c12b71b0481",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "31 avenue de St Malo",
+            "Penthièvre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/13f586d6-cfc0-39e2-b2eb-181a63f28648",
+        "schema:latitude": "47.5508342",
+        "schema:longitude": "-3.1343335",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-07",
+  "lastUpdateDatatourisme": "2026-04-08T03:43:52.786Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/028a50b9-12c8-32e8-8faa-170f275a7e65",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

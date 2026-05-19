@@ -1,0 +1,636 @@
+{
+  "@id": "https://data.datatourisme.fr/38/aa8e4e40-541a-3167-9589-0b0f39f7890a",
+  "dc:identifier": "B0028BRE000001DI",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le 14 St-Michel"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3dec67bc-deb2-3d3f-9dba-9f340271121b",
+      "schema:telephone": [
+        "+33 2 97 22 24 24",
+        "+33 6 89 37 26 07"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.le14stmichel.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3dec67bc-deb2-3d3f-9dba-9f340271121b",
+      "schema:telephone": [
+        "+33 2 97 22 24 24",
+        "+33 6 89 37 26 07"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.le14stmichel.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ef722232-2286-3a2a-9665-0007c4f9173c",
+      "schema:legalName": "Le 14 St-Michel",
+      "schema:telephone": [
+        "+33 2 97 22 24 24",
+        "+33 6 89 37 26 07"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.le14stmichel.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0c194017-7ac6-38fe-aa51-41b2a60a96a8",
+      "dc:description": {
+        "de": [
+          "Das große Haus aus dem Jahr 1893 knüpft an den Familiengeist an und lädt Sie dazu ein, schöne Momente mit Ihren Lieben zu teilen. Mit viel Mut hat Viviane Stilmöbel, Vintage-Elemente und moderne Akzente kombiniert, um in den 5 Zimmern, darunter eine Familiensuite, ein zeitgenössisches Ambiente zu schaffen. Nach süßen Träumen laden der hausgemachte Joghurt und die warmen Crêpes dazu ein, die Gespräche unter dem Kronleuchter im Esszimmer oder in der Morgensonne auf der Terrasse zu verlängern."
+        ],
+        "en": [
+          "In keeping with the family spirit, this grand 1893 residence invites you to share special moments with your loved ones. Viviane has boldly combined period furniture, vintage elements and modern touches to create a contemporary ambience in her 5 bedrooms, including a family suite. After sweet dreams, homemade yoghurts and hot crêpes are the perfect excuse to prolong the discussion under the chandelier in the dining room or in the morning sun on the terrace."
+        ],
+        "it": [
+          "In linea con lo spirito familiare, questa grande residenza del 1893 vi invita a trascorrere del tempo di qualità con i vostri cari. Viviane ha combinato audacemente mobili d'epoca, elementi vintage e tocchi moderni per creare un ambiente contemporaneo nelle sue 5 camere da letto, tra cui una suite familiare. Dopo i sogni d'oro, lo yogurt fatto in casa e le crêpes calde sono la scusa perfetta per continuare la discussione sotto il lampadario della sala da pranzo o al sole del mattino sulla terrazza."
+        ],
+        "fr": [
+          "Renouant avec l'esprit de famille, la grande demeure de 1893 vous invite à partager de jolis moments avec vos proches. Avec audace, Viviane a associé meubles de style, éléments vintage et touches modernes pour composer une ambiance contemporaine dans ses 5 chambres dont une suite familiale. Après de doux rêves, les yaourts maison et les crêpes chaudes sont prétextes à prolonger la discussion sous le lustre de la salle à manger ou sous le soleil matinal de la terrasse."
+        ],
+        "nl": [
+          "In de geest van de familie nodigt deze grote woning uit 1893 je uit om wat quality time door te brengen met je geliefden. Viviane heeft een gedurfde combinatie gemaakt van antieke meubels, vintage elementen en moderne accenten om een eigentijdse sfeer te creëren in haar 5 slaapkamers, waaronder een familiesuite. Na het zoete dromen zijn zelfgemaakte yoghurt en warme crêpes het perfecte excuus om het gesprek voort te zetten onder de kroonluchter in de eetkamer of in de ochtendzon op het terras."
+        ],
+        "es": [
+          "En consonancia con el espíritu familiar, esta gran residencia de 1893 le invita a pasar un tiempo de calidad con sus seres queridos. Viviane ha combinado con audacia muebles de época, elementos vintage y toques modernos para crear un ambiente contemporáneo en sus 5 habitaciones, incluida una suite familiar. Después de dulces sueños, el yogur casero y los crêpes calientes son la excusa perfecta para continuar la tertulia bajo la lámpara de araña del comedor o al sol de la mañana en la terraza."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1a38979a-29d9-3a16-9327-f61f3c32e5f5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/79debcca-04de-31b5-ac05-692f87f3c953",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ae54d0e-d6b2-3b43-bbdb-15aa580f9b97",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5588042-0af2-3374-bcfa-fffb8acf07bc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ed0e2c66-c1a2-3d4c-9b86-3cf70412b715",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5d21d12b-fc8b-32b1-a190-2152cb81a6cb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2d7d9027-6e24-37e1-a4ba-cfa27237da63",
+          "schema:addressLocality": "Josselin",
+          "schema:postalCode": "56120",
+          "schema:streetAddress": [
+            "14 rue Saint-Michel"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56091",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Josselin"
+              ],
+              "pt": [
+                "Josselin"
+              ],
+              "en": [
+                "Josselin"
+              ],
+              "it": [
+                "Josselin"
+              ],
+              "fr": [
+                "Josselin"
+              ],
+              "nl": [
+                "Josselin"
+              ],
+              "es": [
+                "Josselin"
+              ]
+            },
+            "insee": "56091",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1057ff0b-7abd-3f50-8d31-704d475eab83",
+        "schema:latitude": "47.9548476",
+        "schema:longitude": "-2.547228",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/2910d72d-ec18-33b2-8a79-5078bcad6c8f",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-10-30T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-30",
+  "lastUpdateDatatourisme": "2026-05-01T03:45:26.551Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cfb470a7-3da3-3e6e-8f03-e47b7abd28db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

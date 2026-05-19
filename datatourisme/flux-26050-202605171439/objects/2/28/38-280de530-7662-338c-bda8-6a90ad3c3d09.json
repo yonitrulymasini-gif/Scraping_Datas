@@ -1,0 +1,354 @@
+{
+  "@id": "https://data.datatourisme.fr/38/280de530-7662-338c-bda8-6a90ad3c3d09",
+  "dc:identifier": "ASC4f84157ed5044",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Pêche en mer - Pesk'Anim"
+    ],
+    "fr": [
+      "Pêche en mer - Pesk'Anim"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/54d05ad7-31dc-3f2c-a7a0-5974204445fb",
+      "schema:telephone": [
+        "+33 6 24 73 64 20"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.peskanim.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/acc7dde6-c1bb-3ade-bb6d-9191882eea7e",
+      "dc:description": {
+        "de": [
+          "Angelführer, der auf das Angeln von Wolfsbarsch und anderen Raubfischen mit Ködern vom Boot aus (oder von einem Boot aus) spezialisiert ist.Abfahrt von Quiberon - Port-Haliguen.Tages- oder Halbtagesausflug.Montags geschlossen"
+        ],
+        "en": [
+          "Fishing guide specialized in bass and other carnivorous fishes with lures by boat (or from a boat).departure from Quiberon - Port-Haliguen.day or 1/2 day trip.closed on monday"
+        ],
+        "it": [
+          "Guida di pesca specializzata nella pesca della spigola e di altri carnivori con esche artificiali dalla barca (o da una barca).Partenza da Quiberon - Port-Haliguen.Gita di un giorno o di mezza giornata.Chiuso il lunedì"
+        ],
+        "fr": [
+          "Guide de pêche spécialisé dans la pêche du bar et autres carnassiers aux leurres en bateau (ou à partir d'un bateau).Départ de Quiberon - Port-Haliguen.Sortie journée ou 1/2 journée.Fermé le lundi"
+        ],
+        "nl": [
+          "Visgids gespecialiseerd in het vissen op baars en andere carnivoren met kunstaas vanuit een boot (of vanaf een boot).Vertrek vanuit Quiberon - Port-Haliguen.Dag of halve dag trip.Gesloten op maandag"
+        ],
+        "es": [
+          "Guía de pesca especializado en la pesca de lubinas y otros carnívoros con señuelos desde una embarcación (o desde un barco).Salida desde Quiberon - Port-Haliguen.Salida de un día o de medio día.Cerrado los lunes"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3000f8ea-830c-3c9b-bf8e-4d86cd9ff8f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6805c16a-ae2a-31e8-98c8-28657d273a0f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/77352d2d-096c-3ad0-a019-832b74b5ea5d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ab01b1fb-2654-3947-a683-26f827fdfa98",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3277761-30e2-396e-8729-fe85d7e8d36e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Fishing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Fischerei"
+        ],
+        "pt": [
+          "Pesca"
+        ],
+        "en": [
+          "Fishing"
+        ],
+        "it": [
+          "Pesca"
+        ],
+        "fr": [
+          "Pêche"
+        ],
+        "nl": [
+          "Visserij"
+        ],
+        "es": [
+          "Pesca"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/64cc4a3c-750a-3d53-b496-9ffc800927f3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ec44b3a7-78aa-33fa-abc3-8474c51d17b7",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "Place de Kerhillio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7f8fb755-ac92-3e72-8af9-cf74d2726e22",
+        "schema:latitude": "47.61554",
+        "schema:longitude": "-3.158686",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8eac11b0-540d-30a9-ab99-afeecd132df3",
+          "schema:validFrom": "2019-04-01T00:00:00",
+          "schema:validThrough": "2019-11-15T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.337Z"
+}

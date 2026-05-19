@@ -1,0 +1,304 @@
+{
+  "@id": "https://data.datatourisme.fr/38/5f389d94-894f-3b9b-a7ab-23d2e29e0070",
+  "dc:identifier": "LOIBRE035V50JJG7",
+  "@type": [
+    "Marina",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Port de Plaisance de Béganne"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/12a1baab-9011-380f-8e91-fb2ce040971d",
+    "schema:legalName": "OT - PAYS DE REDON",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a35b3aa3-c484-3341-88d3-b89831a3f8c9",
+      "schema:telephone": [
+        "+33 2 99 91 80 87"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/980f1a0a-1438-3002-9fab-c6fc53098459",
+      "dc:description": {
+        "de": [
+          "Schöner Landhafen am Ufer der Vilaine.  Duschen, Toiletten und Trinkwasser für Freizeitkapitäne verfügbar. Kai, Anlegestelle, mechanischer Kran, Slipanlage und Trockenwache"
+        ],
+        "en": [
+          "Pretty country port on the banks of the Vilaine.  Showers, toilets and drinking water available for boaters. Quay, mooring, mechanical crane, slipway and dry docking"
+        ],
+        "it": [
+          "Grazioso porto di campagna sulle rive della Vilaine.  Docce, servizi igienici e acqua potabile a disposizione dei diportisti. Banchina, ormeggio, gru meccanica, scivolo e rimessaggio a secco"
+        ],
+        "fr": [
+          "Joli port de campagne sur les rives de la Vilaine.  Douches, toilettes et eau potable disponible pour les plaisanciers. Quai, amarrage, grue mécanique, cale de mise à l'eau et gardiennage à sec"
+        ],
+        "nl": [
+          "Mooie landelijke haven aan de oever van de Vilaine.  Douches, toiletten en drinkwater beschikbaar voor watersporters. Kade, ligplaatsen, mechanische kraan, scheepshelling en droge opslag"
+        ],
+        "es": [
+          "Bonito puerto rural a orillas del Vilaine.  Duchas, aseos y agua potable a disposición de los navegantes. Muelle, amarre, grúa mecánica, varadero y almacén seco"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/53a968f9-7e88-3855-a931-822fcb4a05f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5bb5b63b-be39-3400-96de-be0a77e641f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/69f05859-4d7d-3825-b987-5df33b4e49de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/863a2be0-0cf5-31fc-a793-64959fcafa15",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1452a30-063b-3210-9987-391f113c25e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0c324bdd-1f6f-3c0a-a365-e8c1d3c70427",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b90f41a3-b95d-38bd-af4b-1058c4de65d3",
+          "schema:addressLocality": "Béganne",
+          "schema:postalCode": "56350",
+          "schema:streetAddress": [
+            "Foleux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56011",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Béganne"
+              ],
+              "pt": [
+                "Béganne"
+              ],
+              "en": [
+                "Béganne"
+              ],
+              "it": [
+                "Béganne"
+              ],
+              "fr": [
+                "Béganne"
+              ],
+              "nl": [
+                "Béganne"
+              ],
+              "es": [
+                "Béganne"
+              ]
+            },
+            "insee": "56011",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/283000d3-2024-3f05-a128-30239eb4df3b",
+        "schema:latitude": "47.5758782",
+        "schema:longitude": "-2.2838531",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-04",
+  "lastUpdateDatatourisme": "2026-02-05T04:15:01.022Z"
+}

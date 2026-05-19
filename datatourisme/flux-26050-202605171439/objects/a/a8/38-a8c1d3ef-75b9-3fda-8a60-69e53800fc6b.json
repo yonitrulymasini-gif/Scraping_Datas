@@ -1,0 +1,362 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a8c1d3ef-75b9-3fda-8a60-69e53800fc6b",
+  "dc:identifier": "FMABRE056V50DHYT",
+  "schema:endDate": [
+    "2026-07-21"
+  ],
+  "schema:startDate": [
+    "2026-07-21"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Product",
+    "schema:SportsEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "Product",
+    "Rambling",
+    "SportsEvent",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Jeu de piste Art et Nature"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/165e89a1-60f2-3cf4-ab76-add6fe747809",
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3a48cd69-2c2b-33cb-9908-cb16223ab8f8",
+      "schema:telephone": [
+        "+33 2 97 22 74 62"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://cpie-broceliande.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c5381527-f455-37df-92b3-2cfa9b3736e8",
+      "dc:description": {
+        "de": [
+          "Zwischen Kunst und Natur bietet Ihnen das CPIE einen außergewöhnlichen Spaziergang in einer natürlichen Umgebung in Concoret an.\nHaben Sie Spaß und lernen Sie mehr über die Natur, mit der Familie oder mit Freunden! Von 14:30 bis 17:00 Uhr."
+        ],
+        "en": [
+          "Between art and nature, the CPIE offers you an extraordinary walk in a natural environment in Concoret.\nHave fun and learn more about nature, with family and friends! From 2.30pm to 5pm."
+        ],
+        "it": [
+          "Tra arte e natura, il CPIE vi propone una straordinaria passeggiata in un ambiente naturale a Concoret.\nDivertitevi e imparate di più sulla natura, con la famiglia o con gli amici! Dalle 14.30 alle 17.00."
+        ],
+        "fr": [
+          "Entre art et nature le CPIE vous propose une balade extraordinaire dans un milieu naturel de Concoret.\nAmusez-vous et apprenez en plus sur la nature, en famille ou entre amis ! De 14h30 à 17h."
+        ],
+        "nl": [
+          "Tussen kunst en natuur biedt het CPIE je een buitengewone wandeling in een natuurlijke omgeving in Concoret.\nLeef je uit en leer meer over de natuur, met het gezin of met vrienden! Van 14.30 tot 17.00 uur."
+        ],
+        "es": [
+          "Entre arte y naturaleza, el CPIE le propone un extraordinario paseo en un entorno natural en Concoret.\nDiviértase y aprenda más sobre la naturaleza, ¡en familia o con amigos! De 14h30 a 17h00."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1ed82013-cc55-3ee5-9d4b-1658636d28a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5f8f737c-c510-335d-b9b0-ad20bd31f235",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b7466776-437f-3f17-a9bb-c93fbbaa7e52",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b80d97b0-2224-34d0-9f00-c6457f208ceb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb3cf870-3f79-3c44-8ccc-63c6a35969df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:NatureAndEnvironment",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Umwelt und Natur"
+        ],
+        "pt": [
+          "Ambiente e natureza"
+        ],
+        "en": [
+          "Nature and environment"
+        ],
+        "it": [
+          "Ambiente e natura"
+        ],
+        "fr": [
+          "Environnement et nature"
+        ],
+        "nl": [
+          "Milieu en natuur"
+        ],
+        "es": [
+          "Medioambiente y naturaleza"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6984888b-cbfe-35e3-a08d-c8877e6053f9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cc28701b-317f-324c-a2e8-562cf82a312b",
+          "schema:addressLocality": "Concoret",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "CPIE",
+            "Place du Pâtis Vert"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56043",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Concoret"
+              ],
+              "pt": [
+                "Concoret"
+              ],
+              "en": [
+                "Concoret"
+              ],
+              "it": [
+                "Concoret"
+              ],
+              "fr": [
+                "Concoret"
+              ],
+              "nl": [
+                "Concoret"
+              ],
+              "es": [
+                "Concoret"
+              ]
+            },
+            "insee": "56043",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/685f9088-0a18-3bb5-ab95-81b5253eed05",
+        "schema:latitude": "48.064107",
+        "schema:longitude": "-2.207833",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-25",
+  "lastUpdateDatatourisme": "2026-04-26T03:05:42.994Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7fd21bd8-219d-3c23-98d8-5f96858e773c",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-21",
+      "endTime": "17:00:00",
+      "startDate": "2026-07-21",
+      "startTime": "14:30:00"
+    }
+  ]
+}

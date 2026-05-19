@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/0f1ae98c-cb7a-3600-aa95-607d647b5640",
+  "dc:identifier": "HLO2673769a8b0f4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Maison Belle-Ile - Le Coz"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1f958516-d3d6-37f7-bdfc-7c6404fee571",
+      "schema:legalName": "La Maison Belle-Ile - Le Coz",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bbefb19d-4b5b-3c74-895d-31e4de655d8c",
+      "dc:description": {
+        "de": [
+          "Ihre Oase der Ruhe, nur wenige Schritte vom Ozean entfernt.\n\nDieses charmante Haus ist ideal gelegen, nur 600 Meter vom Strand entfernt, mit direktem Zugang über die Dünen, und bietet Platz für bis zu 9 Personen. Das geräumige und helle Haus erstreckt sich über zwei Ebenen und bietet allen Komfort, den Sie für einen unvergesslichen Aufenthalt benötigen.\n\nEin geselliger und eleganter Wohnraum:\n\n- Im ersten Stock befindet sich eine große, lichtdurchflutete Wohnküche, die sich zu einer schönen Terrasse hin öffnet. Hier finden Sie\n\n  Eine voll ausgestattete Küche mit allem, was Sie brauchen, um köstliche Mahlzeiten zuzubereiten: Geschirrspüler, Kühlschrank mit Gefrierfach, Gasherd, Backofen, Mikrowelle, Kaffeemaschine, Toaster, Wasserkocher und vieles mehr.\n  Ein geräumiges Esszimmer und ein gemütliches Wohnzimmer mit zwei Ledersofas und einem Flachbildfernseher.\n  Eine charmante Veranda, ideal für einen Aperitif oder eine Lesestunde mit Blick auf die Dünen und den Ozean.\n  Ein kleines, gemütliches Schlafzimmer mit einem Einzelbett (120 cm).\n  Ein separates WC.\n    \n- Die Terrasse ist mit Gartenmöbeln, Liegestühlen und einem Sonnenschirm ausgestattet und lädt zum Sonnenbaden oder zu einem Abendessen im Freien ein.\n\n- Zimmer mit Aussicht und Komfort\n\nIm 2. Stock befinden sich 4 gemütliche Schlafzimmer, die ideal für ruhige Nächte sind:\n  Eine Mastersuite mit einem Doppelbett, einem eigenen Badezimmer und einem Balkon, der einen atemberaubenden Blick auf den Ozean bietet.\n  Ein Doppelzimmer mit einem funktionalen Kleiderschrank.\n  Zwei Schlafzimmer mit je zwei Einzelbetten, ideal für Kinder oder Freunde.\n  Ein Badezimmer mit einer Badewanne mit Thermostat, einem Waschtisch und einem Handtuchheizkörper.\n  Ein zweites separates WC.\n\nPraktische und einfache Freizeitgestaltung\nIm Erdgeschoss stehen Ihnen eine private Waschküche mit Waschmaschine (nur für das Haus) und ein Abstellraum für Ihre Fahrräder oder Surfbretter zur Verfügung. Außerdem können Sie einen eingezäunten Garten mit einem festen Grill für Ihre Grillabende nutzen.\n\n- Die kleinen Extras, die den Unterschied ausmachen\n\n  Kostenloser WiFi-Internetzugang (Glasfaser), um in Verbindung zu bleiben.\n  Fußbodenheizung für optimalen Komfort zu jeder Jahreszeit.\n  Elektrische Rollläden an allen Fenstern und Erkerfenstern.\n  Privatparkplatz für Ihre Ruhe.\n  Eine gemeinsame Waschküche der \"Maisons de la Plage\" mit einem verfügbaren Wäschetrockner für Ihren punktuellen Bedarf.\n\nMit seiner einzigartigen Umgebung zwischen Meer und Natur ist dieses Haus der ideale Ort für einen entspannenden und erholsamen Urlaub mit der Familie oder mit Freunden. Buchen Sie jetzt und lassen Sie sich vom süßen Leben am Ozean verführen!"
+        ],
+        "en": [
+          "Your haven of peace just a stone's throw from the ocean.\n\nIdeally located just 600 meters from the beach, with direct access via the dunes, this charming house is perfect for up to 9 people. Spacious and bright, it extends over two levels and offers all the comforts you need for an unforgettable stay.\n\nA friendly, elegant living space:\n\n- On the 1st floor, enjoy a large, light-filled living room/kitchen that opens onto a lovely furnished terrace. You'll find :\n\n  A fully equipped kitchen with everything you need to prepare delicious meals: dishwasher, fridge-freezer, gas hob, oven, microwave, coffee maker, toaster, kettle, and much more.\n  A spacious dining room and comfortable living room with two leather sofas and flat-screen TV.\n  A charming veranda, ideal for an aperitif or a moment of reading facing the dunes and ocean.\n  A small, cosy bedroom with a single bed (120 cm).\n  Separate WC.\n    \n- Outside, the terrace is equipped with garden furniture, deckchairs and a parasol, perfect for sunbathing or dining al fresco.\n\n- Rooms with views and optimum comfort\n\nThe 2nd floor houses 4 cosy bedrooms, ideal for a peaceful night's sleep:\n  A master suite with a double bed, private shower room and balcony overlooking the ocean.\n  A double bedroom with a functional wardrobe.\n  Two bedrooms with 2 single beds each, perfect for children or friends.\n  A bathroom equipped with a bathtub with thermostatic faucet, vanity unit and towel warmer.\n  A second independent toilet.\n\nPracticality and leisure made easy\nOn the first floor, a private laundry room with washing machine (reserved exclusively for the house) and storage space for your bikes or surfboards are at your disposal. There's also an enclosed garden with a fixed barbecue for evening barbecues.\n\n- The little extras that make all the difference\n\n  Free WiFi Internet access (fiber) to stay connected.\n  Underfloor heating for optimum comfort in all seasons.\n  Electric roller shutters on all windows and bay windows.\n  Private parking for your peace and quiet.\n  A shared laundry room at \"Les Maisons de la Plage\" with a tumble dryer available for your occasional needs.\n\nWith its unique setting between sea and nature, this house is the ideal place for a relaxing and rejuvenating vacation with family or friends. Book now and let yourself be seduced by the gentle pace of life by the ocean!"
+        ],
+        "it": [
+          "Il vostro rifugio di pace a due passi dall'oceano.\n\nSituata in posizione ideale a soli 600 metri dalla spiaggia, con accesso diretto attraverso le dune, questa casa di charme è perfetta per ospitare fino a 9 persone. Spaziosa e luminosa, si estende su due livelli e offre tutti i comfort necessari per un soggiorno indimenticabile.\n\nUno spazio abitativo accogliente ed elegante:\n\n- Al 1° piano, un ampio e luminoso soggiorno/cucina si apre su una bella terrazza arredata. Troverete :\n\n  Una cucina completamente attrezzata con tutto il necessario per preparare pasti deliziosi: lavastoviglie, frigorifero-congelatore, piano cottura a gas, forno, microonde, macchina per il caffè, tostapane, bollitore e molto altro.\n  Una spaziosa sala da pranzo e un comodo salotto con due divani in pelle e una TV a schermo piatto.\n  Una graziosa veranda, ideale per un aperitivo o un momento di lettura con vista sulle dune e sull'oceano.\n  Una piccola e accogliente camera da letto con letto singolo (120 cm).\n  WC separato.\n    \n- All'esterno, la terrazza è attrezzata con mobili da giardino, sedie a sdraio e ombrellone, ideali per prendere il sole o cenare all'aperto.\n\n- Camere con vista e comfort ottimale\n\nIl 2° piano ospita 4 accoglienti camere da letto, ideali per un sonno tranquillo:\n  Una suite padronale con letto matrimoniale, bagno privato con doccia e balcone con vista mozzafiato sull'oceano.\n  Una camera matrimoniale con un armadio funzionale.\n  Due camere con 2 letti singoli ciascuna, perfette per i bambini o gli amici.\n  Un bagno dotato di vasca con rubinetto termostatico, mobiletto e scaldasalviette.\n  Un secondo WC separato.\n\nPraticità e svago semplificati\nAl piano terra si trova una lavanderia privata con lavatrice (riservata esclusivamente alla casa) e spazio per riporre le biciclette o le tavole da surf. C'è anche un giardino recintato con un barbecue fisso per le grigliate.\n\n- I piccoli extra che fanno la differenza\n\n  Accesso internet WiFi gratuito (fibra) per restare sempre connessi.\n  Riscaldamento a pavimento per un comfort ottimale in tutte le stagioni.\n  Tapparelle elettriche su tutte le finestre e bovindi.\n  Parcheggio privato per la vostra tranquillità.\n  Una lavanderia in comune a \"Les Maisons de la Plage\" con asciugatrice a disposizione per le vostre esigenze occasionali.\n\nCon il suo ambiente unico tra mare e natura, questa casa è il luogo ideale per una vacanza rilassante e rigenerante con la famiglia o gli amici. Prenotate subito e lasciatevi sedurre dal dolce stile di vita in riva al mare!"
+        ],
+        "fr": [
+          "Votre havre de paix à deux pas de l’océan.\n\nIdéalement située à seulement 600 mètres de la plage avec un accès direct par les dunes, cette maison de charme est parfaite pour accueillir jusqu’à 9 personnes. Spacieuse et lumineuse, elle s’étend sur deux niveaux et offre tout le confort nécessaire pour un séjour inoubliable.\n\nUn espace de vie convivial et élégant:\n\n- Au 1er étage, profitez d’un grand séjour-cuisine baigné de lumière qui s’ouvre sur une belle terrasse aménagée. Vous y trouverez :\n\n  Une cuisine entièrement équipée avec tout le nécessaire pour préparer de délicieux repas : lave-vaisselle, réfrigérateur-congélateur, plaques de cuisson gaz, four, micro-ondes, cafetière, grille-pain, bouilloire, et bien plus.\n  Une salle à manger spacieuse et un salon confortable doté de deux canapés en cuir et d’une télévision à écran plat.\n  Une charmante véranda, idéale pour un apéritif ou un moment de lecture face aux dunes et à l’océan.\n  Une petite chambre cosy avec un lit simple (120 cm).\n  Un WC indépendant.\n    \n- À l’extérieur, la terrasse est équipée d’un salon de jardin, de transats et d’un parasol, parfaits pour profiter du soleil ou d’un dîner en plein air.\n\n- Des chambres avec vue et confort optimal\n\nLe 2ème étage abrite 4 chambres chaleureuses, idéales pour des nuits paisibles :\n  Une suite parentale avec un lit double, une salle d’eau privative et un balcon offrant une vue imprenable sur l’océan.\n  Une chambre double avec une armoire fonctionnelle.\n  Deux chambres avec 2 lits simples chacune, parfaites pour les enfants ou les amis.\n  Une salle de bain équipée d’une baignoire avec robinet thermostatique, d’un meuble vasque et d’un radiateur sèche-serviettes.\n  Un second WC indépendant.\n\nPraticité et loisirs en toute simplicité\nAu rez-de-chaussée, une buanderie privée avec lave-linge (réservé exclusivement à la maison) et un espace de rangement pour vos vélos ou planches de surf sont à votre disposition. Vous pourrez également profiter d’un jardin clos, équipé d’un barbecue fixe pour vos soirées grillades.\n\n- Les petits plus qui font la différence\n\n  Accès Internet WiFi gratuit (fibre) pour rester connecté.\n  Chauffage par le sol pour un confort optimal en toute saison.\n  Volets roulants électriques sur toutes les fenêtres et baies vitrées.\n  Parking privé pour votre tranquillité.\n  Une buanderie commune aux \"Maisons de la Plage\" avec un sèche-linge disponible pour vos besoins ponctuels.\n\nAvec son cadre unique entre mer et nature, cette maison est le lieu idéal pour des vacances reposantes et ressourçantes en famille ou entre amis. Réservez dès maintenant et laissez-vous séduire par la douceur de vivre au bord de l’océan !"
+        ],
+        "es": [
+          "Tu remanso de paz a tiro de piedra del océano.\n\nIdealmente situada a sólo 600 metros de la playa, con acceso directo a través de las dunas, esta encantadora casa es perfecta para un máximo de 9 personas. Amplia y luminosa, consta de dos niveles y ofrece todas las comodidades necesarias para una estancia inolvidable.\n\nUn espacio acogedor y elegante:\n\n- En la 1ª planta, disfrute de un amplio y luminoso salón-cocina que se abre a una bonita terraza amueblada. Encontrará :\n\n  Una cocina totalmente equipada con todo lo necesario para preparar deliciosas comidas: lavavajillas, nevera-congelador, encimera de gas, horno, microondas, cafetera, tostadora, hervidor de agua y mucho más.\n  Un espacioso comedor y un cómodo salón con dos sofás de cuero y TV de pantalla plana.\n  Una encantadora veranda, ideal para un aperitivo o un momento de lectura con vistas a las dunas y al océano.\n  Una pequeña y acogedora habitación con una cama individual (120 cm).\n  WC separado.\n    \n- En el exterior, la terraza está equipada con muebles de jardín, tumbonas y una sombrilla, ideal para tomar el sol o comer al aire libre.\n\n- Habitaciones con vistas y un confort óptimo\n\nLa 2ª planta alberga 4 acogedoras habitaciones, ideales para dormir plácidamente:\n  Una suite principal con cama de matrimonio, cuarto de ducha privado y balcón con impresionantes vistas al océano.\n  Un dormitorio doble con un armario funcional.\n  Dos dormitorios con 2 camas individuales cada uno, perfectos para niños o amigos.\n  Un cuarto de baño equipado con bañera con grifo termostático, tocador y toallero calefactor.\n  Un segundo WC separado.\n\nPracticidad y ocio al alcance de la mano\nEn la planta baja, hay un lavadero privado con lavadora (reservada exclusivamente para la casa) y espacio para guardar sus bicicletas o tablas de surf. También hay un jardín cerrado con una barbacoa fija para hacer barbacoas.\n\n- Los pequeños extras que marcan la diferencia\n\n  Acceso gratuito a Internet WiFi (fibra) para mantenerte conectado.\n  Calefacción por suelo radiante para un confort óptimo en todas las estaciones.\n  Persianas eléctricas en todas las ventanas y ventanales.\n  Aparcamiento privado para su tranquilidad.\n  Lavandería compartida en \"Les Maisons de la Plage\" con secadora disponible para sus necesidades ocasionales.\n\nCon su entorno único entre mar y naturaleza, esta casa es el lugar ideal para unas vacaciones relajantes y rejuvenecedoras en familia o entre amigos. Reserve ahora y déjese seducir por la apacible vida junto al océano"
+        ],
+        "nl": [
+          "Een oase van rust op een steenworp afstand van de oceaan.\n\nDit charmante huis, ideaal gelegen op slechts 600 meter van het strand met directe toegang via de duinen, is perfect voor maximaal 9 personen. Het is ruim en licht, verdeeld over twee verdiepingen en biedt alle comfort voor een onvergetelijk verblijf.\n\nEen vriendelijke, elegante leefruimte:\n\n- Geniet op de 1e verdieping van een grote, lichte woonkamer/keuken die uitkomt op een heerlijk gemeubileerd terras. U vindt :\n\n  Een volledig uitgeruste keuken met alles wat je nodig hebt om heerlijke maaltijden te bereiden: vaatwasser, koelkast met vriesvak, gaskookplaat, oven, magnetron, koffiezetapparaat, broodrooster, waterkoker en nog veel meer.\n  Een ruime eetkamer en comfortabele woonkamer met twee leren banken en een flatscreen-tv.\n  Een charmante veranda, ideaal voor een aperitief of een leesmoment met uitzicht op de duinen en de oceaan.\n  Een kleine, gezellige slaapkamer met een eenpersoonsbed (120 cm).\n  Aparte WC.\n    \n- Buiten is het terras uitgerust met tuinmeubelen, ligstoelen en een parasol, ideaal om van de zon te genieten of om buiten te eten.\n\n- Kamers met uitzicht en optimaal comfort\n\nOp de 2e verdieping bevinden zich 4 gezellige slaapkamers, ideaal voor een rustige nachtrust:\n  Een master suite met een tweepersoonsbed, een eigen doucheruimte en een balkon met een adembenemend uitzicht op de oceaan.\n  Een tweepersoonsslaapkamer met een functionele kledingkast.\n  Twee slaapkamers met elk 2 eenpersoonsbedden, perfect voor kinderen of vrienden.\n  Een badkamer uitgerust met een bad met thermostaatkraan, een badmeubel en een verwarmd handdoekenrek.\n  Een tweede aparte WC.\n\nPraktisch en vrije tijd gemakkelijk gemaakt\nOp de begane grond is er een eigen wasruimte met een wasmachine (exclusief gereserveerd voor het huis) en opslagruimte voor je fietsen of surfplanken. Er is ook een omheinde tuin met een vaste barbecue om te barbecueën.\n\n- De kleine extra's die het verschil maken\n\n  Gratis WiFi-internet (glasvezel) om je verbonden te houden.\n  Vloerverwarming voor optimaal comfort in alle seizoenen.\n  Elektrische rolluiken voor alle ramen en erkers.\n  Privé parkeerplaats voor je rust.\n  Een gedeelde wasruimte bij \"Les Maisons de la Plage\" met een wasdroger beschikbaar voor je occasionele behoeften.\n\nMet zijn unieke ligging tussen zee en natuur is dit huis de ideale plek voor een ontspannende en verjongende vakantie met familie of vrienden. Boek nu en laat je verleiden door de zachte manier van leven aan de oceaan!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/431c0d25-6d4c-35d9-9d43-6cb9af6a0ca7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4a942765-e70c-3385-b616-c1266b5f7e5e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/61ccc84c-f5b9-3e6d-844b-a29044a9d8af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7bb9c39d-b883-3f32-9494-4b48e3e90792",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ddaa36b0-2e82-3420-94f4-26fb5bb82ae7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9cccd76d-83bc-3eb5-9554-8176c1579c8d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/74e5bfb9-76ca-3db7-b027-751446f4077e",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "51 Sentier de l'Océan -",
+            "Kerhillio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ac0a225b-15eb-3c5e-af30-6f0f1e133d54",
+        "schema:latitude": "47.6158838",
+        "schema:longitude": "-3.1541136",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9092d698-cd46-3a30-91be-85e642c42a10",
+          "schema:validFrom": "2026-01-03T00:00:00",
+          "schema:validThrough": "2026-12-26T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

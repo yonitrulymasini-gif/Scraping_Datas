@@ -1,0 +1,614 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ac0a2585-b1fc-3960-9e0c-60fff2462184",
+  "dc:identifier": "HLO5dbb57400cef4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Domaine du Ganquis"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d12d33b4-0466-3de7-99d4-d8febaf40dbd",
+      "schema:telephone": [
+        "+33 6 67 64 29 19"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.leganquis.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4ef76467-8a62-3ec7-95e0-dc59e3d419d4",
+      "schema:legalName": "Domaine du Ganquis",
+      "schema:telephone": [
+        "+33 6 67 64 29 19"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.leganquis.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d12d33b4-0466-3de7-99d4-d8febaf40dbd",
+      "schema:telephone": [
+        "+33 6 67 64 29 19"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.leganquis.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/96528c74-97cf-3e59-bfde-b37c0a3172b2",
+      "dc:description": {
+        "de": [
+          "Die Domaine du Ganquis befindet sich in einer erholsamen und grünen Umgebung zwischen Land und Meer auf dem Wanderweg GR 34, 700 Meter vom Meeresarm entfernt.\nDie Domäne besteht aus 9 Ferienhäusern, die alle über eine eingerichtete und ausgestattete Küche verfügen und das ganze Jahr über 2 bis 8 Personen beherbergen können.\n\nDie maximale Kapazität beträgt 30 Personen.\n\nEin großer kostenloser Parkplatz am Eingang des Anwesens steht Ihnen zur Verfügung.\n\nInbegriffen:\n- Bettwäsche\n- Handtücher\n- Geschirrtuch\n\n- Waschmaschinenraum 4?/Maschine"
+        ],
+        "en": [
+          "The Domaine du Ganquis is located in a restful, verdant setting between land and sea on the GR 34 trail, 700 meters from the sea inlet.\nThe estate comprises 9 gîtes, all with fully-equipped kitchens, for 2 to 8 people all year round.\n\nMaximum capacity 30 people.\n\nThere is ample free parking at the entrance to the estate.\n\nIncludes :\n- Bed linen\n- Bathroom linen\n- Tea towel\n\n- Washing machine room 4?/machine"
+        ],
+        "it": [
+          "Il Domaine du Ganquis si trova in un ambiente tranquillo e verdeggiante, tra terra e mare, sul sentiero GR 34, a 700 metri dall'insenatura del mare.\nLa tenuta comprende 9 gîtes, tutte con cucina completamente attrezzata, che possono ospitare da 2 a 8 persone tutto l'anno.\n\nCapacità massima 30 persone.\n\nAll'ingresso della tenuta si trova un ampio parcheggio gratuito.\n\nInclude :\n- Biancheria da letto\n- Biancheria da bagno\n- Asciugamano da tè\n\n- Lavatrice camera 4?/macchina"
+        ],
+        "fr": [
+          "Le Domaine du Ganquis se situe dans un cadre reposant et verdoyant entre terre et mer sur le parcours du GR 34 à 700 mètres du bras de mer. \nLe domaine est composé de 9 gîtes tous avec une cuisine aménagée et équipée accueillant de 2 à 8 personnes toute l’année.\n\nCapacité maximale 30 personnes.\n\nUn grand parking gratuit à l’entrée du domaine est à votre disposition.\n\nInclus :\n- Linge de lit\n- Linge de toilette\n- Torchon\n\n- Local de machine à laver 4€/machine"
+        ],
+        "nl": [
+          "Het Domaine du Ganquis ligt in een rustige, groene omgeving tussen land en zee aan de GR 34, op 700 meter van de zeearm.\nHet domein bestaat uit 9 gîtes, allemaal met volledig uitgeruste keuken, voor 2 tot 8 personen het hele jaar door.\n\nMaximale capaciteit 30 personen.\n\nEr is voldoende gratis parkeergelegenheid bij de ingang van het landgoed.\n\nInclusief :\n- Beddengoed\n- Badkamerlinnen\n- Theedoek\n\n- Wasmachine kamer 4?/machine"
+        ],
+        "es": [
+          "El Domaine du Ganquis se encuentra en un entorno tranquilo y frondoso, entre la tierra y el mar, en el sendero GR 34, a 700 metros de la entrada del mar.\nLa finca consta de 9 casas rurales, todas con cocina equipada, para 2 a 8 personas durante todo el año.\n\nCapacidad máxima 30 personas.\n\nAmplio aparcamiento gratuito a la entrada de la finca.\n\nIncluye :\n- Ropa de cama\n- Ropa de baño\n- Paños de cocina\n\n- Lavadora habitación 4?/máquina"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/34c6bbe2-0fc6-34c4-8b66-d513c8ab401f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/366e3489-4b22-39b1-b3c1-2369350a5b63",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/42584c7f-b98f-3020-851a-39cc1170bf67",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6c8d04ae-f2a5-3c8c-9d5e-52afb1da5341",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d99ec983-9e7c-363f-a875-00d1dfc04d26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c021a381-09da-3dbb-a27b-24862c6f1569",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c9b447a4-4692-3da8-b0e9-27976bbbf1ac",
+          "schema:addressLocality": "Belz",
+          "schema:postalCode": "56550",
+          "schema:streetAddress": [
+            "Le Ganquis"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56013",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Belz"
+              ],
+              "pt": [
+                "Belz"
+              ],
+              "en": [
+                "Belz"
+              ],
+              "it": [
+                "Belz"
+              ],
+              "fr": [
+                "Belz"
+              ],
+              "nl": [
+                "Belz"
+              ],
+              "es": [
+                "Belz"
+              ]
+            },
+            "insee": "56013",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6dcfd088-7b9a-3431-a463-42c341b45ded",
+        "schema:latitude": "47.6788173",
+        "schema:longitude": "-3.1587925",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.029Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

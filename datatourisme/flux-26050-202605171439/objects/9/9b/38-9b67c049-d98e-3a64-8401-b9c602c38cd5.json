@@ -1,0 +1,323 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9b67c049-d98e-3a64-8401-b9c602c38cd5",
+  "dc:identifier": "FMABRE056V50DIK7",
+  "schema:endDate": [
+    "2026-07-30"
+  ],
+  "schema:startDate": [
+    "2026-07-30"
+  ],
+  "@type": [
+    "schema:Event",
+    "Conference",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Conférence sur l'Intelligence Artificielle"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/83654c53-32db-3f7f-bab3-5d560d36830e",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.accstjoseph.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2d7bef64-5ca7-32e0-b5eb-3cb3c55af132",
+      "dc:description": {
+        "de": [
+          "konferenz mit Frau Louise Michel - Professorin in Paris - über \"Künstliche Intelligenz\""
+        ],
+        "en": [
+          "conference with Madame Louise Michel - Professor in Paris - on \"artificial intelligence\""
+        ],
+        "it": [
+          "conferenza con Louise Michel - docente a Parigi - sull'\"intelligenza artificiale\""
+        ],
+        "fr": [
+          "conférence avec Madame Louise Michel - Professeur à Paris- sur \"l'intelligence artificielle\""
+        ],
+        "nl": [
+          "conferentie met Louise Michel - professor in Parijs - over \"kunstmatige intelligentie\""
+        ],
+        "es": [
+          "conferencia con Louise Michel - profesora en París - sobre \"inteligencia artificial\""
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6b892c8c-71ee-3406-9b85-6e1df421bc64",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7caa9814-fd32-36da-9f14-d25976b67c3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ddffda0-0cff-3006-9937-a1184fbf3929",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd0f85b4-12aa-37cd-bd2b-43f080b3a575",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4e90d56-adf8-37ef-808b-109758226351",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/59494d3b-1fd0-334f-9e42-74296930bda1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8955e5dd-10d0-38ca-a814-77d03c7c931a",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "9 Rue Pasteur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8e090617-d55a-3636-82ee-f6f73366f183",
+        "schema:latitude": "47.52252",
+        "schema:longitude": "-3.12997",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-13",
+  "lastUpdateDatatourisme": "2026-04-14T03:24:08.26Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a14b7840-0a9c-3e47-bc1a-49c06f1157a6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-30",
+      "endTime": "22:00:00",
+      "startDate": "2026-07-30",
+      "startTime": "20:30:00"
+    }
+  ]
+}

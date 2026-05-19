@@ -1,0 +1,498 @@
+{
+  "@id": "https://data.datatourisme.fr/38/cda7e76f-69a1-3363-8642-56f16955f093",
+  "dc:identifier": "B0028BRE000001H6",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîtes du Val Illys, Les Lotus"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e3dc19f4-ed7b-34fc-9aee-5b6a695cdcb9",
+      "schema:telephone": [
+        "+33 2 97 39 81 48",
+        "+33 6 86 91 81 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/15ecf66c-f11d-3079-9b84-ab66c02a2c15",
+      "schema:legalName": "Gîtes du Val Illys, Les Lotus",
+      "schema:telephone": [
+        "+33 2 97 39 81 48",
+        "+33 6 86 91 81 48"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3dc19f4-ed7b-34fc-9aee-5b6a695cdcb9",
+      "schema:telephone": [
+        "+33 2 97 39 81 48",
+        "+33 6 86 91 81 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c69c667d-6b4d-33ef-ba52-b7b070fdd02f",
+      "dc:description": {
+        "de": [
+          "Dieses Ferienhaus befindet sich in idealer Lage im Epizentrum von drei renommierten Reisezielen: Brocéliande, Coeur de Bretagne und Golf von Morbihan. Wohnzimmer/Küche/Wohnzimmer, 3 Schlafzimmer (2 Doppelbetten, davon 1 160x200, 2 Einzelbetten), 2 Badezimmer, WC. Elektrische Heizung. Terrasse, Gartenmöbel, Grill. Holzpavillon auf Stelzen am Wasser mit Varangue und Terrasse. Gemeinsamer Garten von 3000 m² gegenüber den Unterkünften. GR38 in 10 km Entfernung. Gîte kann Personen mit eingeschränkter Mobilität in Begleitung aufnehmen. Gemeinsamer Wäschetrockner für beide Unterkünfte."
+        ],
+        "en": [
+          "This gîte is ideally located at the epicenter of 3 prestigious tourist destinations: Brocéliande, Coeur de Bretagne and Golfe du Morbihan. Living room/kitchen/lounge, 3 bedrooms (2 double beds, 1 of which 160X200, 2 single beds), 2 shower rooms, wc. Elec. heating. Terrace, garden furniture, barbecue. Wooden pavilion on stilts at water's edge with veranda and terrace. Shared garden of 3000 m² facing the gîtes. GR38 10 km away. Accompanied disabled guests welcome. Tumble dryer shared by both gîtes."
+        ],
+        "it": [
+          "Questo alloggio è situato in posizione ideale all'epicentro di 3 prestigiose destinazioni turistiche: Brocéliande, Coeur de Bretagne e Golfe du Morbihan. Soggiorno/cucina/salotto, 3 camere da letto (2 letti matrimoniali, di cui 1 160x200cm, 2 letti singoli), 2 bagni con doccia, wc. Riscaldamento elettrico. Terrazza, mobili da giardino, barbecue. Padiglione in legno su palafitte in riva al mare con veranda e terrazza. Giardino in comune di 3000 m² di fronte agli alloggi. GR38 a 10 km. La casa può accogliere ospiti disabili accompagnati. Asciugatrice in comune."
+        ],
+        "fr": [
+          "Ce gîte est idéalement situé à l'épicentre de 3 destinations touristiques prestigieuses : Brocéliande, Coeur de Bretagne et Golfe du Morbihan. Séjour/cuisine/salon, 3 chambres (2 lits 2 pers. dont 1 en 160X200, 2 lits 1 pers.), 2 salles d'eau, wc. Chauffage élec. Terrasse, salon de jardin, barbecue. Pavillon en bois sur pilotis au bord de l'eau avec varangue et terrasse. Jardin commun de 3000 m² face aux gîtes. GR38 à 10 km. Gîte pouvant accueillir des personnes à mobilité réduite accompagnées. Sèche-linge commun aux deux gîtes."
+        ],
+        "es": [
+          "Esta casa rural está idealmente situada en el epicentro de 3 prestigiosos destinos turísticos: Brocéliande, Coeur de Bretagne y Golfe du Morbihan. Salón/cocina/sala de estar, 3 habitaciones (2 camas dobles, 1 de ellas de 160x200cm, 2 camas individuales), 2 cuartos de ducha, wc. Calefacción eléctrica. Terraza, muebles de jardín, barbacoa. Pabellón de madera sobre pilotes a orillas del agua con porche y terraza. Jardín común de 3000 m² frente a las casas rurales. GR38 a 10 km. La casa rural puede acoger a personas minusválidas acompañadas. Secadora compartida."
+        ],
+        "nl": [
+          "Deze gîte is ideaal gelegen in het epicentrum van 3 prestigieuze toeristische bestemmingen: Brocéliande, Coeur de Bretagne en Golfe du Morbihan. Woonkamer/keuken/salon, 3 slaapkamers (2 tweepersoonsbedden, waarvan 1 160x200cm, 2 eenpersoonsbedden), 2 doucheruimtes, wc. Elektrische verwarming. Terras, tuinmeubelen, barbecue. Houten paviljoen op palen aan de waterkant met veranda en terras. Gemeenschappelijke tuin van 3000 m² tegenover de gîtes. GR38 op 10 km. Gîte is geschikt voor gasten met een handicap onder begeleiding. Gemeenschappelijke wasdroger."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0acf02ab-5e90-3eed-90f7-eb2f93204ed1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1c55db36-0669-3419-8e11-d93c205d4a2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/332ec9db-8354-3222-a524-892962dd82bb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e682066-338a-3e8c-bfcc-429f074e1cd7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f36dbd24-1289-39eb-84bc-11fddd7f7b91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/58c8a9c8-d4f1-3437-8470-6ee6dd183773",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1b9a0768-f68e-3a30-9c15-194cca87c97a",
+          "schema:addressLocality": "Évellys",
+          "schema:postalCode": "56500",
+          "schema:streetAddress": [
+            "Kergouguec- Gîtes du Val Illys",
+            "Moustoir-Remungol"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56144",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Évellys"
+              ],
+              "pt": [
+                "Évellys"
+              ],
+              "en": [
+                "Évellys"
+              ],
+              "it": [
+                "Évellys"
+              ],
+              "fr": [
+                "Évellys"
+              ],
+              "nl": [
+                "Évellys"
+              ],
+              "es": [
+                "Évellys"
+              ]
+            },
+            "insee": "56144",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8311ec91-214a-33b3-a2e4-0cf0a6657dac",
+        "schema:latitude": "47.971902",
+        "schema:longitude": "-2.897694",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/77f00e2a-1fe0-3582-b49d-05c01aa83d54",
+          "schema:validFrom": "2026-04-04T00:00:00",
+          "schema:validThrough": "2026-10-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.196Z"
+}

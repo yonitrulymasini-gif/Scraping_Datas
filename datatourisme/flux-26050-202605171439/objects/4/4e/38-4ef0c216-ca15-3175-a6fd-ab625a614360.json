@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4ef0c216-ca15-3175-a6fd-ab625a614360",
+  "dc:identifier": "FMABRE000V51KM9O",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Tous à la baratte"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d4bb4c45-7bd4-397e-8fb4-03821f0d8250",
+      "schema:telephone": [
+        "+33 2 97 57 66 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ecomusee-st-degan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/baa80871-97c2-33df-a8e6-182d25355cb2",
+      "dc:description": {
+        "de": [
+          "Entdeckung des Prozesses der Butterherstellung auf dem Bauernhof und der dazugehörigen Gegenstände. Experimentieren mit der Umwandlung von Sahne in Butter."
+        ],
+        "en": [
+          "Discover the process of making butter on the farm and the associated objects. Experiment with the transformation of cream into butter."
+        ],
+        "it": [
+          "Scoprite il processo di produzione del burro nella fattoria e gli oggetti associati. Sperimentare la trasformazione della panna in burro."
+        ],
+        "fr": [
+          "Découverte du processus de la fabrication du beurre à la ferme et des objets associés. Expérimentation de la transformation de la crème en beurre."
+        ],
+        "nl": [
+          "Ontdek het proces van boter maken op de boerderij en de bijbehorende voorwerpen. Experimenteer met de omzetting van room in boter."
+        ],
+        "es": [
+          "Descubre el proceso de elaboración de la mantequilla en la granja y los objetos asociados. Experimenta con la transformación de la nata en mantequilla."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/091030db-74d2-3c94-b04a-3207a043f2b9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c820b5f-c033-3df8-a670-7549e9bdbd4c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62312612-32a5-3efb-bcfb-86afb3649692",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a4206db-02b0-3d4b-8032-58ff64c1d72b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f37d8ccb-dcee-3f9d-b15c-3421a9e7ad19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/38876a55-652c-3b90-b896-b732ceb8ec7f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1aa8baee-6df2-3089-aa17-18db4168ddcc",
+          "schema:addressLocality": "Brech",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Ecomusée du Pays d'Auray",
+            "Saint-Dégan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brech"
+              ],
+              "pt": [
+                "Brech"
+              ],
+              "en": [
+                "Brech"
+              ],
+              "it": [
+                "Brech"
+              ],
+              "fr": [
+                "Brech"
+              ],
+              "nl": [
+                "Brech"
+              ],
+              "es": [
+                "Brech"
+              ]
+            },
+            "insee": "56023",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c45fec83-97e9-354b-8975-b5396f09124e",
+        "schema:latitude": "47.71066",
+        "schema:longitude": "-2.994961",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-07",
+  "lastUpdateDatatourisme": "2026-03-08T03:38:03.026Z"
+}

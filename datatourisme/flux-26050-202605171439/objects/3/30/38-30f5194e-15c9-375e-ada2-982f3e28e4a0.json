@@ -1,0 +1,292 @@
+{
+  "@id": "https://data.datatourisme.fr/38/30f5194e-15c9-375e-ada2-982f3e28e4a0",
+  "dc:identifier": "PNAca6a66478e264",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Bois et Etang de Pen Mur"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5d1752ed-2c17-381a-877a-34352346568b",
+      "dc:description": {
+        "de": [
+          "Dieses Naturgebiet rund um den 37 ha großen Teich von Pen Mur und seine Papiermühle bietet Ihnen eine Vielfalt an Landschaften, die Sie in den verschiedenen Tälern, die es durchquert, entdecken können. Für Wanderer lohnt es sich, die Laluisso-Schleife (ca. 2 km) zu begehen."
+        ],
+        "en": [
+          "This natural site, around the Pen Mur pond which extends over 37ha and its paper mill, offers you a variety of landscapes around the different valleys it crosses. For hikers, do not hesitate to take the loop of Laluisso (about 2km)."
+        ],
+        "it": [
+          "Questo sito naturale, intorno allo stagno di Pen Mur, che si estende per 37 ettari, e alla sua cartiera, offre una varietà di paesaggi nelle curve delle diverse valli che attraversa. Per gli escursionisti, non esitate a percorrere l'anello del Laluisso (circa 2 km)."
+        ],
+        "fr": [
+          "Ce site naturel, autour de l'étang de Pen Mur qui s'étend sur 37ha et de son moulin à papier, vous offre une variété de paysages au détour des différentes vallées qu'il traverse. Pour les randonneurs, n'hésitez-pas à emprunter la boucle de Laluisso (2km environ)."
+        ],
+        "es": [
+          "Este paraje natural, en torno al estanque de Pen Mur que se extiende por 37 ha y su molino de papel, le ofrece una variedad de paisajes en el recodo de los diferentes valles que atraviesa. Para los excursionistas, no duden en hacer el bucle de Laluisso (unos 2 km)."
+        ],
+        "nl": [
+          "Dit natuurgebied, rond de vijver van Pen Mur die zich uitstrekt over 37 ha en zijn papierfabriek, biedt u een verscheidenheid aan landschappen in de bocht van de verschillende valleien die het doorkruist. Voor wandelaars: aarzel niet om de Laluisso lus te nemen (ongeveer 2 km)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/08756a51-14ac-3a1d-bc82-f0885e56e3c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/579bba7b-f86b-32f2-87b4-c97487f24313",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98543325-f71f-35b6-b012-a742466899e4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9df92659-36ab-355f-ad92-bc1cedeee7e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b28425e1-967c-3b35-b9eb-a2f21f738abf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9aeb2afd-800c-3434-9fdb-3bde70c7972a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/af83102e-81c8-34ec-a9c7-f6074474a0f9",
+          "schema:addressLocality": "Muzillac",
+          "schema:postalCode": "56190",
+          "schema:streetAddress": [
+            "Pen Mur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56143",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Muzillac"
+              ],
+              "pt": [
+                "Muzillac"
+              ],
+              "en": [
+                "Muzillac"
+              ],
+              "it": [
+                "Muzillac"
+              ],
+              "fr": [
+                "Muzillac"
+              ],
+              "nl": [
+                "Muzillac"
+              ],
+              "es": [
+                "Muzillac"
+              ]
+            },
+            "insee": "56143",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c1c4ada4-3d91-35dc-a892-5fe33bdc51f2",
+        "schema:latitude": "47.56319",
+        "schema:longitude": "-2.491886",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2024-02-17T02:03:18.559Z"
+}

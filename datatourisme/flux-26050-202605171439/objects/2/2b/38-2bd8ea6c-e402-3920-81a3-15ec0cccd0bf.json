@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2bd8ea6c-e402-3920-81a3-15ec0cccd0bf",
+  "dc:identifier": "HLOb3bf754512b24",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ty Fanch Houat"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8a6410f9-193b-3b98-a4b6-af21558b73df",
+      "schema:telephone": [
+        "+33 6 73 40 07 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://locations-vacances-quiberon.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8a6410f9-193b-3b98-a4b6-af21558b73df",
+      "schema:telephone": [
+        "+33 6 73 40 07 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://locations-vacances-quiberon.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d1076f52-7d6d-3e79-9f1f-8ec2265e51bc",
+      "schema:legalName": "Ty Fanch Houat",
+      "schema:telephone": [
+        "+33 6 73 40 07 27"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://locations-vacances-quiberon.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/37e4f35b-88a4-382e-b432-a1ef969a81ef",
+      "dc:description": {
+        "de": [
+          "Wohnung für 4 Personen.\nDie Wohnung befindet sich im Stadtzentrum von Quiberon und 250 m vom Grande Plage entfernt.\nAlles ist zu Fuß erreichbar: Strand, Restaurants, Supermärkte, Geschäfte, Schwimmbad, Kino und Seebahnhof.\nDie Wohnung verfügt über eine ausgestattete Küche (Geschirrspüler und Backofen) und ein Schlafzimmer (1 Bett 140 und 1 Bett 80) mit Bad.\nEs besteht die Möglichkeit, ein zusätzliches Zimmer auf demselben Treppenabsatz zu mieten.\nSie können den Balkon nutzen und haben Zugang zum Garten (Grill und Tische) mit Jacuzzi."
+        ],
+        "en": [
+          "4-person apartment.\nThe apartment is located in Quiberon town center, 250 m from the Grande Plage.\nEverything is within walking distance: beach, restaurants, supermarkets, shops, swimming pool, cinema and ferry terminal.\nThe apartment has a fully-equipped kitchen (dishwasher and oven) and a bedroom (1 bed 140 and 1 bed 80) with bathroom.\nPossibility of renting an additional bedroom on the same floor.\nYou can enjoy the balcony and have access to the garden (barbecue and tables) with jacuzzi."
+        ],
+        "it": [
+          "Questo appartamento può ospitare 4 persone.\nL'appartamento si trova nel centro di Quiberon, a 250 m dalla Grande Plage.\nTutto è raggiungibile a piedi: spiaggia, ristoranti, supermercati, negozi, piscina, cinema e terminal dei traghetti.\nL'appartamento dispone di una cucina completamente attrezzata (lavastoviglie e forno) e di una camera da letto (1 letto da 140 cm e 1 letto da 80 cm) con bagno.\nUn'ulteriore camera da letto può essere affittata sullo stesso piano.\nPotrete godere del balcone e dell'accesso al giardino (barbecue e tavoli) con vasca idromassaggio."
+        ],
+        "fr": [
+          "Appartement 4 personnes. \nL'appartement se situe en centre-ville de Quiberon et à 250 m de la Grande Plage.\nTout est accessible à pied : plage, restaurants, supermarchés, commerces, piscine, cinéma et gare maritime.\nL'appartement dispose d'une cuisine équipée (lave-vaisselle et four) et d'une chambre (1 lit 140 et 1 lit 80) avec salle de bain.\nPossibilité d'une location complémentaire d'une chambre sur le même palier.\nVous pouvez profiter du balcon et vous avez accès au jardin (barbecue et tables) avec jacuzzi."
+        ],
+        "es": [
+          "Piso para 4 personas.\nEl piso está situado en el centro de Quiberon y a 250 m de la Grande Plage.\nTodo está a poca distancia: playa, restaurantes, supermercados, tiendas, piscina, cine y terminal de ferry.\nEl piso tiene una cocina totalmente equipada (lavavajillas y horno) y un dormitorio (1 cama de 140 cm y 1 cama de 80 cm) con cuarto de baño.\nSe puede alquilar un dormitorio adicional en la misma planta.\nPuede disfrutar del balcón y tener acceso al jardín (barbacoa y mesas) con jacuzzi."
+        ],
+        "nl": [
+          "Dit appartement is geschikt voor 4 personen.\nHet appartement ligt in het centrum van Quiberon en op 250 m van het Grande Plage.\nAlles is op loopafstand: strand, restaurants, supermarkten, winkels, zwembad, bioscoop en veerbootterminal.\nHet appartement heeft een volledig uitgeruste keuken (vaatwasser en oven) en een slaapkamer (1 x 140cm bed en 1 x 80cm bed) met badkamer.\nEen extra slaapkamer kan gehuurd worden op dezelfde verdieping.\nJe kunt genieten van het balkon en hebt toegang tot de tuin (barbecue en tafels) met jacuzzi."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3d6a1f2e-5671-392c-ace8-887135245218",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5dc8e644-248f-3032-bdd1-ef3b91b54d11",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/81ca2e6c-e0c7-39da-8637-767c484e0ce1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86cbfd07-fc0c-31c6-a9e5-805034db80bc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b750b010-eaea-3428-96b1-fbcbe99c8382",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f928bfb7-1660-337a-97a4-212e6e2d000d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2ea92757-9e15-304b-ab13-6bbe5bd1df67",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "44 rue du Manémeur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dbf79ad3-2c07-3e94-8dcc-c35a4e39b3fc",
+        "schema:latitude": "47.48263",
+        "schema:longitude": "-3.12412",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/28428ec4-7de3-3118-9d25-7078f0372d4f",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-10-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

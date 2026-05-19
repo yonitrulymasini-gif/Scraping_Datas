@@ -1,0 +1,290 @@
+{
+  "@id": "https://data.datatourisme.fr/38/cb4dcad2-096e-325f-9407-a06524e1785d",
+  "dc:identifier": "PNABRE056V50DH5Z",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "OutstandingTree",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "L'If remarquable"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/225b5e66-9dec-3f5c-ae17-bbdb02298d46",
+    "schema:legalName": "OT CENTRE MORBIHAN COMMUNAUTE",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c3cc93fd-1569-3c7f-bcc0-43e9d8d22c37",
+      "dc:description": {
+        "de": [
+          "In der Nähe eines Brunnens und eines Waschhauses. Ort: Kapelle Ste Anne. Schätzungsweise 400 Jahre alt, stammt wahrscheinlich aus der Zeit, als die Kapelle gebaut wurde."
+        ],
+        "en": [
+          "Near a fountain and a wash-house. Location: Chapelle Ste Anne. Estimated to be 400 years old, it probably dates from when the chapel was built."
+        ],
+        "it": [
+          "Vicino a una fontana e a un lavatoio. Località: Chapelle Ste Anne. Stimato a 400 anni, risale probabilmente alla costruzione della cappella."
+        ],
+        "fr": [
+          "A proximité d’une fontaine et d’un lavoir. Lieu-dit : Chapelle Ste Anne. Estimé à 400 ans, il date probablement de la construction de la chapelle."
+        ],
+        "es": [
+          "Cerca de una fuente y de un lavadero. Localidad: Chapelle Ste Anne. Con una antigüedad estimada de 400 años, data probablemente de la construcción de la capilla."
+        ],
+        "nl": [
+          "Bij een fontein en een wasplaats. Locatie: Kapel Ste Anne. Het wordt geschat op 400 jaar oud en dateert waarschijnlijk van de bouw van de kapel."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/23c5f1a3-9119-33e0-b5b0-bd0177544deb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/402e3718-53ca-31f9-8880-563216874ee8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d9e38df-dbb0-3ae5-916f-42fc378de65b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84ee56a9-7b73-3f15-87d7-e548f5da928f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8d3cfb5-3efa-3a31-bfbd-b69ea4d54ae7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d00742fe-daaf-3db5-91ba-64c23f3e9d66",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/67fb950d-ba05-3630-ae85-fc4b843ec7ed",
+          "schema:addressLocality": "Buléon",
+          "schema:postalCode": "56420",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56027",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Buléon"
+              ],
+              "pt": [
+                "Buléon"
+              ],
+              "en": [
+                "Buléon"
+              ],
+              "it": [
+                "Buléon"
+              ],
+              "fr": [
+                "Buléon"
+              ],
+              "nl": [
+                "Buléon"
+              ],
+              "es": [
+                "Buléon"
+              ]
+            },
+            "insee": "56027",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f2605f25-05b1-3450-894a-2f9051a49892",
+        "schema:latitude": "47.93503",
+        "schema:longitude": "-2.67683",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-25",
+  "lastUpdateDatatourisme": "2026-03-26T04:15:53.942Z"
+}

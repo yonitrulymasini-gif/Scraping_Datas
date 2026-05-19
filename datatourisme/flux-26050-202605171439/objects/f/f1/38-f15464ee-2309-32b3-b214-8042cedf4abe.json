@@ -1,0 +1,299 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f15464ee-2309-32b3-b214-8042cedf4abe",
+  "dc:identifier": "VILBRE056V508DCK",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "ClubOrHolidayVillage",
+    "CollectiveAccommodation",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Les Pierres Bleues - Rêves de Mer"
+    ],
+    "fr": [
+      "Les Pierres Bleues - Rêves de Mer"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ae65b637-7f58-3abe-a3a2-e26a3e393836",
+      "schema:telephone": [
+        "+33 2 30 25 01 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.revesdemer.com/nos-etablissements/les-pierres-bleues/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b0894b51-8d9d-3b6c-beaa-efb731b42515",
+      "dc:description": {
+        "de": [
+          "Feriendörfer / Jugendherbergen"
+        ],
+        "en": [
+          "Villages Vacances / Auberges de Jeunesse"
+        ],
+        "it": [
+          "Villaggi vacanze / Ostelli della gioventù"
+        ],
+        "fr": [
+          "Villages Vacances / Auberges de Jeunesse"
+        ],
+        "nl": [
+          "Vakantiedorpen / Jeugdherbergen"
+        ],
+        "es": [
+          "Ciudades de vacaciones / Albergues juveniles"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/031567fe-90a3-36ea-a477-9961aa07f266",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/49d2b65d-321d-3c85-b13b-7a6a681cc5ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6cfb2fe2-15df-3393-989d-bb943ea7b334",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8086e9a6-c83e-3fdf-93f8-0d50af91e907",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/774064ed-9f05-3c73-8446-c68984745f78",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fc2a3546-c46a-3966-bcf1-ed43c7141ece",
+          "schema:addressLocality": "Étel",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "39 Rue Brizeux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56055",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Étel"
+              ],
+              "pt": [
+                "Étel"
+              ],
+              "en": [
+                "Étel"
+              ],
+              "it": [
+                "Étel"
+              ],
+              "fr": [
+                "Étel"
+              ],
+              "nl": [
+                "Étel"
+              ],
+              "es": [
+                "Étel"
+              ]
+            },
+            "insee": "56055",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e4e579f9-51a5-3efb-a8bf-abd8277b9fe2",
+        "schema:latitude": "47.6623556",
+        "schema:longitude": "-3.1981106",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-09",
+  "lastUpdateDatatourisme": "2026-04-10T03:25:19.438Z"
+}

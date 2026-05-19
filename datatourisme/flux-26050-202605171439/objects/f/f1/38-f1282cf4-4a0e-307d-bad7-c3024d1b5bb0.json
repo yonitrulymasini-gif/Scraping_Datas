@@ -1,0 +1,531 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f1282cf4-4a0e-307d-bad7-c3024d1b5bb0",
+  "dc:identifier": "HLOBRE000V51K7X1",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Maison des 4 Vents"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2cbee802-8e69-327b-a25c-b4cc5d867573",
+      "schema:telephone": [
+        "+33 6 12 78 16 92"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2cbee802-8e69-327b-a25c-b4cc5d867573",
+      "schema:telephone": [
+        "+33 6 12 78 16 92"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/efca0cde-607b-3a7f-ae86-a66c6642f94d",
+      "schema:legalName": "La Maison des 4 Vents",
+      "schema:telephone": [
+        "+33 6 12 78 16 92"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3c734aa5-316e-3230-9a03-0329c974ff47",
+      "dc:description": {
+        "de": [
+          "Schönes Haus für 6 Personen, nach Süden ausgerichtet, sorgfältig renoviert.\n\nIm Erdgeschoss: Einbauküche, die sich zum Ess- und Wohnzimmer hin öffnet. Badezimmer mit italienischer Dusche mit Fenster. Separates WC . Waschküche.\nObergeschoss: 3 helle Schlafzimmer mit Parkettboden. 1 WC mit 2 Waschbecken.\n\nHaus mit schönem Tageslicht in einer ruhigen Gegend.\nSchöner Garten mit Blumen. Gesicherter Hof, der Platz für 2 Autos bietet.\n\nDie gesamte Bettwäsche und Handtücher werden gestellt\nChantal: 06 95 77 50 70\nCathy: 06 12 78 16 92"
+        ],
+        "en": [
+          "Beautifully renovated, south-facing house, sleeps 6.\n\nFirst floor: fitted kitchen opening onto dining room and living room. Bathroom with walk-in shower and window. Separate WC. Utility room.\nFirst floor: 3 bright bedrooms with parquet floors. 1 WC with 2-sink washbasin.\n\nHouse with plenty of natural light in a quiet neighborhood.\nPretty flower garden. Secure courtyard for 2 cars.\n\nAll bed linen and towels provided\nChantal : 06 95 77 50 70\nCathy : 06 12 78 16 92"
+        ],
+        "it": [
+          "Graziosa casa esposta a sud, 6 posti letto, ristrutturata con cura.\n\nPiano terra: cucina attrezzata che si apre sulla sala da pranzo e sul soggiorno. Bagno con cabina doccia e finestra. WC separato. Ripostiglio.\nPrimo piano: 3 camere da letto luminose con pavimenti in parquet. 1 WC con 2 lavabi.\n\nCasa con molta luce naturale in una zona tranquilla.\nGrazioso giardino con fiori. Cortile custodito con spazio per 2 auto.\n\nTutte le lenzuola e gli asciugamani sono forniti\nChantal : 06 95 77 50 70\nCathy : 06 12 78 16 92"
+        ],
+        "fr": [
+          "Jolie maison, d'une capacité de 6 personnes, exposée sud,  rénovée avec soin. \n\nAu rez-de-chaussée : cuisine équipée ouverte sur salle à manger et salon. Salle de bain avec douche à l’italienne avec une fenêtre. WC séparé . Buanderie.\nA l’étage : 3 chambres lumineuses avec parquet. 1 WC avec lavabo 2 vasques. \n\nMaison avec une belle lumière du jour dans un quartier calme.\nJoli jardin fleuri. Cour sécurisée pouvant accueillir 2 voitures. \n\nL’ensemble du linge de lit et serviette est fourni \nChantal : 06 95 77 50 70\nCathy : 06 12 78 16 92"
+        ],
+        "nl": [
+          "Mooi huis op het zuiden, 6 slaapplaatsen, liefdevol gerenoveerd.\n\nBegane grond: ingerichte keuken met toegang tot eetkamer en woonkamer. Badkamer met inloopdouche en raam. Aparte WC. Bijkeuken.\nEerste verdieping: 3 lichte slaapkamers met parketvloer. 1 WC met 2 wastafels.\n\nHuis met veel daglicht in een rustige omgeving.\nMooie tuin met bloemen. Beveiligde binnenplaats met plaats voor 2 auto's.\n\nAlle beddengoed en handdoeken aanwezig\nChantal : 06 95 77 50 70\nCathy : 06 12 78 16 92"
+        ],
+        "es": [
+          "Bonita casa orientada al sur, con capacidad para 6 personas, reformada con mucho cariño.\n\nPlanta baja: cocina equipada abierta al comedor y al salón. Cuarto de baño con ducha y ventana. WC separado. Lavadero.\nPrimera planta: 3 habitaciones luminosas con parquet. 1 WC con 2 lavabos.\n\nCasa con mucha luz natural en una zona tranquila.\nBonito jardín con flores. Patio seguro con espacio para 2 coches.\n\nRopa de cama y toallas incluidas\nChantal : 06 95 77 50 70\nCathy : 06 12 78 16 92"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/43f7c6a1-cd3e-3042-a99b-f1cae024333c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/51d2a432-f817-35f8-820c-7734dfd9620f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/72c292da-4cd8-37e7-ae78-88a9dd40dc2c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8754b410-7be3-3c03-997f-7e6c6a351c3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bafc1809-742f-3c57-891f-ae2fa0118d2d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6a78d6ab-4188-3c6e-b897-c411abf9f321",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/79235a50-9fa1-3cda-9738-f58f96131a2f",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "8 Rue des 4 Vents"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/21eced45-5292-3b1e-987e-05e936de2370",
+        "schema:latitude": "47.48377",
+        "schema:longitude": "-3.12858",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ea5893cf-74af-38f0-8e9e-25d7cf09672f",
+          "schema:validFrom": "2026-03-28T00:00:00",
+          "schema:validThrough": "2026-11-14T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-17",
+  "lastUpdateDatatourisme": "2026-03-18T04:32:00.408Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/863aba45-2f7a-3e12-ba5e-58604edde99c",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

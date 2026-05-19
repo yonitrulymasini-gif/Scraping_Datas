@@ -1,0 +1,242 @@
+{
+  "@id": "https://data.datatourisme.fr/38/8eab5b03-5c3b-3d16-bcf3-72ac2737f95c",
+  "dc:identifier": "B0032BRE000000CA",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Malestroit, Petite Cité de Caractère"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e51ac79e-c3bb-38de-ac48-c53673e6b949",
+    "dc:identifier": "3b58a92f-1120-4d67-8768-7ebc195c245a",
+    "schema:email": [
+      "contact@broceliande-vacances.com"
+    ],
+    "schema:legalName": "Destination Brocéliande - CRTBretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b712acb-5fd1-34af-910a-b3143db7d6da",
+      "schema:telephone": [
+        "+33 2 97 75 45 35"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/14ba1a78-43f9-3359-9dec-f7f21afdf1b1",
+      "schema:legalName": "Malestroit, Petite Cité de Caractère",
+      "schema:telephone": [
+        "+33 2 97 75 45 35"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3b712acb-5fd1-34af-910a-b3143db7d6da",
+      "schema:telephone": [
+        "+33 2 97 75 45 35"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/551b4b84-77e6-37d0-bce9-403b467228bc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8cb9dc61-73ec-314e-9cf4-767b8c8d4e9e",
+          "schema:addressLocality": "Malestroit",
+          "schema:postalCode": "56140",
+          "schema:streetAddress": [
+            "Place du Bouffay"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56124",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Malestroit"
+              ],
+              "pt": [
+                "Malestroit"
+              ],
+              "en": [
+                "Malestroit"
+              ],
+              "it": [
+                "Malestroit"
+              ],
+              "fr": [
+                "Malestroit"
+              ],
+              "nl": [
+                "Malestroit"
+              ],
+              "es": [
+                "Malestroit"
+              ]
+            },
+            "insee": "56124",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8ad2b319-cddd-33cd-9314-95ec36ad1dee",
+        "schema:latitude": "47.8098064",
+        "schema:longitude": "-2.3828769",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-28",
+  "lastUpdateDatatourisme": "2026-04-27T15:38:15.831Z",
+  "reducedMobilityAccess": true
+}

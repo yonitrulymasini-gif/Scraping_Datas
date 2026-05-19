@@ -1,0 +1,293 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6f09ac60-2bb5-3a9a-90f8-278bab2ec015",
+  "dc:identifier": "PNABRE056V508AMQ",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "OutstandingTree",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "If de l'église ND de Lorette"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/18f9838e-08e4-31bc-999f-afe7ce49e53e",
+      "dc:description": {
+        "de": [
+          "Die 400 Jahre alte Eibe versteckt sich hinter der Kirche von Roudouallec. Sie ist 13 m hoch und hat einen Umfang von 5,40 m."
+        ],
+        "en": [
+          "The 400-year-old yew hides behind the Roudouallec church. It measures 13 m high and 5.40 m in circumference."
+        ],
+        "it": [
+          "Il tasso di 400 anni si trova dietro la chiesa di Roudouallec. È alto 13 metri e ha una circonferenza di 5,40 metri."
+        ],
+        "fr": [
+          "L'if, âgé de 400 ans, se cache derrière l'église de Roudouallec. Il mesure 13 m de haut et 5,40 m de circonférence."
+        ],
+        "es": [
+          "Detrás de la iglesia de Roudouallec se alza un tejo de 400 años. Tiene 13 m de altura y una circunferencia de 5,40 m."
+        ],
+        "nl": [
+          "De 400 jaar oude taxusboom staat achter de kerk in Roudouallec. Hij is 13 m hoog en heeft een omtrek van 5,40 m."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2be8e125-ef8a-35e6-9f35-87ffc486ce4c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/407dacb6-c4fc-3177-a510-8ab0c2c5c1ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4876bf2f-7934-3760-8da1-ebdfb6b01087",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa9f7283-9de4-37d0-a130-25d045be87a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c44b8230-3e38-3bd3-9136-3776b21259ba",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4171f96c-0793-3f8c-a3e8-2363bfd621af",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5affcdc9-b946-39cd-8d24-6a85bb56982d",
+          "schema:addressLocality": "Roudouallec",
+          "schema:postalCode": "56110",
+          "schema:streetAddress": [
+            "Place de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56199",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Roudouallec"
+              ],
+              "pt": [
+                "Roudouallec"
+              ],
+              "en": [
+                "Roudouallec"
+              ],
+              "it": [
+                "Roudouallec"
+              ],
+              "fr": [
+                "Roudouallec"
+              ],
+              "nl": [
+                "Roudouallec"
+              ],
+              "es": [
+                "Roudouallec"
+              ]
+            },
+            "insee": "56199",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2e8fde23-99f4-3060-a57e-d2999ed81110",
+        "schema:latitude": "48.12624",
+        "schema:longitude": "-3.72023",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-04-15",
+  "lastUpdateDatatourisme": "2025-04-16T01:06:40.81Z"
+}

@@ -1,0 +1,625 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d852f837-2ca1-3df8-b763-f592e4578dbe",
+  "dc:identifier": "HLOBRE000FS000HD",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Fontaine Airmeth - Chambre Airmeth"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27eb6c0b-8dfb-320d-b508-14a61e91f06a",
+      "schema:telephone": [
+        "+33 6 29 27 04 10",
+        "+33 9 54 42 22 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fontaine-airmeth.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27eb6c0b-8dfb-320d-b508-14a61e91f06a",
+      "schema:telephone": [
+        "+33 6 29 27 04 10",
+        "+33 9 54 42 22 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fontaine-airmeth.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dcfc8cca-834b-3e5c-ac25-326645cccab2",
+      "schema:legalName": "La Fontaine Airmeth - Chambre Airmeth",
+      "schema:telephone": [
+        "+33 6 29 27 04 10",
+        "+33 9 54 42 22 22"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fontaine-airmeth.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1beec4fd-81f9-39e1-8c6c-314f60a05a7a",
+      "dc:description": {
+        "de": [
+          "Das Airmeth-Zimmer ist ein großes Zimmer für 2 Personen. Es befindet sich im Obergeschoss unseres Empfangsgebäudes in einem für die Bretagne typischen Steinhaus aus dem Jahr 1800 und verfügt über ein eigenes Badezimmer und eine eigene Toilette. Gemeinschaftsküche, Frühstücksraum und Laden befinden sich im Erdgeschoss. Im Rahmen unserer Umweltpolitik legen wir besonderen Wert auf biologische und lokale Produkte für das Frühstück, Mülltrennung, Energie- und Wassersparen, ökologische Haushaltsprodukte? Optionen: Nordisches Bad, Korb und Aperitif von Erzeugern, Taufe auf Bienenzucht."
+        ],
+        "en": [
+          "The Airmeth room is a large room for 2 people. Situated on the first floor of our reception building, in a 1800s stone house typical of central Brittany, it has its own bathroom and toilet. Shared kitchen, breakfast room and boutique on the first floor. As part of our environmental approach, we pay particular attention to organic and local products for breakfast, waste sorting, energy and water saving, ecological household products? Optional extras: Nordic bath, producer's basket and aperitif, beekeeping experience."
+        ],
+        "it": [
+          "La camera Airmeth è un'ampia camera per 2 persone. Situata al primo piano della nostra reception, in una casa in pietra del 1800 tipica della Bretagna centrale, dispone di un proprio bagno con doccia e servizi igienici. Cucina in comune, sala colazione e negozio al piano terra. Nell'ambito del nostro approccio ambientale, prestiamo particolare attenzione ai prodotti biologici e locali per la colazione, alla raccolta differenziata, al risparmio energetico e idrico, ai prodotti per la casa ecologici? Extra opzionali: bagno nordico, cestino dei produttori e aperitivo, esperienza di apicoltura."
+        ],
+        "fr": [
+          "La chambre Airmeth est une grande chambre pour 2 personnes. Située à l'étage de notre accueil, dans une maison 1800 en pierres typique du centre Bretagne, elle a sa propre salle d'eau et ses toilettes. Cuisine partagée, salle de petit déjeuner et boutique au rez-de-chaussée. Dans le cadre de notre démarche environnementale, nous portons une attention particulière aux produits bio et locaux pour le petit déjeuner, au tri des déchets, à l'économie d'énergie et d'eau, aux produits ménagers écologiques… En options : bain nordique, panier et apéritif producteurs, baptême d'apiculture."
+        ],
+        "es": [
+          "La habitación Airmeth es una habitación grande para 2 personas. Situada en el primer piso de nuestra recepción, en una casa de piedra de 1800 típica de la Bretaña central, tiene su propio cuarto de ducha y aseo. Cocina, sala de desayunos y tienda compartidas en la planta baja. Como parte de nuestro enfoque medioambiental, prestamos especial atención a los productos ecológicos y locales para el desayuno, la clasificación de residuos, el ahorro de energía y agua, los productos domésticos respetuosos con el medio ambiente.. Extras opcionales: baño nórdico, cesta de productores y aperitivo, experiencia apícola."
+        ],
+        "nl": [
+          "De Airmeth kamer is een grote kamer voor 2 personen. Gelegen op de eerste verdieping van onze receptie, in een stenen huis uit 1800 dat typisch is voor centraal Bretagne, heeft het een eigen doucheruimte en toilet. Gedeelde keuken, ontbijtruimte en winkel op de begane grond. In het kader van onze milieubewuste aanpak besteden we bijzondere aandacht aan biologische en lokale producten voor het ontbijt, afvalscheiding, energie- en waterbesparing, milieuvriendelijke huishoudelijke producten? Optionele extra's: Scandinavisch bad, producentenmand en aperitief, ervaring met bijenteelt."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0f6bb479-5102-3691-b8f8-332286b16e26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2b2936c6-14bb-3431-bf83-720b380e6a95",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4804e46e-b11e-3b67-a20c-cdf014548d18",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af00ccbd-5e60-395a-9e5f-c52d80ada608",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e456dfe7-2525-3dfd-950e-753227f59229",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/93c6b49e-80fa-3453-aca0-3454fa2eecdb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7d7480c0-e23c-33dc-b3bd-4549d4ff9684",
+          "schema:addressLocality": "Ploërdut",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "4 Kerio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56163",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ploërdut"
+              ],
+              "pt": [
+                "Ploërdut"
+              ],
+              "en": [
+                "Ploërdut"
+              ],
+              "it": [
+                "Ploërdut"
+              ],
+              "fr": [
+                "Ploërdut"
+              ],
+              "nl": [
+                "Ploërdut"
+              ],
+              "es": [
+                "Ploërdut"
+              ]
+            },
+            "insee": "56163",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/08826327-eaf0-367e-93a3-9fd5a6284368",
+        "schema:latitude": "48.076421",
+        "schema:longitude": "-3.276355",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-27",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cfb470a7-3da3-3e6e-8f03-e47b7abd28db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

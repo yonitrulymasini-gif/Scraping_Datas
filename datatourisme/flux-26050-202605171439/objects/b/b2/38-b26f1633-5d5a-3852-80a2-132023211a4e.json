@@ -1,0 +1,410 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b26f1633-5d5a-3852-80a2-132023211a4e",
+  "dc:identifier": "RESBRE056V50DB5O",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Délice de Mauron"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/2e1efb60-a1a7-343a-aa92-a2a24779fdd0",
+    "dc:identifier": "3676ee43-e208-4a4f-9af1-4d960949c488",
+    "schema:email": [
+      "tourisme@ploermelcommunaute.bzh"
+    ],
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d22bfd49-731e-3ace-9e4f-8869a5069455",
+      "schema:legalName": "Le Délice de Mauron",
+      "schema:telephone": [
+        "+33 2 56 61 18 52"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d22bfd49-731e-3ace-9e4f-8869a5069455",
+      "schema:legalName": "Le Délice de Mauron",
+      "schema:telephone": [
+        "+33 2 56 61 18 52"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3f9ed126-e65e-3b2b-8005-9a9276cc6e2f",
+      "dc:description": {
+        "de": [
+          "Coralie und Anthony bereiten ihre Pizzen und bearbeiteten Gerichte wie Entrecôte und Seelachsrücken mit Sorgfalt aus frischen, lokalen Produkten zu."
+        ],
+        "en": [
+          "Coralie and Anthony carefully prepare pizzas and dishes such as entrecote and saithe, using fresh local produce."
+        ],
+        "it": [
+          "Coralie e Anthony preparano con cura le loro pizze e piatti come la bistecca di entrecote e il merluzzo carbonaro, utilizzando prodotti freschi locali."
+        ],
+        "fr": [
+          "Coralie et Anthony vous préparent avec soin leurs pizzas et plats travaillés comme l'entrecôte et le dos de lieu noir, avec des produits frais et locaux."
+        ],
+        "es": [
+          "Coralie y Anthony preparan con esmero sus pizzas y platos como el entrecot y el carbonero, utilizando productos locales frescos."
+        ],
+        "nl": [
+          "Coralie en Anthony bereiden hun pizza's en gerechten zoals entrecote steak en koolvis zorgvuldig met verse lokale producten."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/307e5925-5269-3196-a9d0-23d506697786",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4de626a7-266a-334c-84a7-8f77c940917d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b030c4b3-9aab-3a3e-9964-e4d1b518c506",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ccb8c923-03b5-3555-89dc-4450677dc979",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ffd98913-5d1c-3465-b252-62a34881bc9f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2eea254f-e663-347f-909a-5d223a0f9e5d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/149e4118-fbc2-33dc-af45-da4433041448",
+          "schema:addressLocality": "Mauron",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "13 Rue du Plessis"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56127",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mauron"
+              ],
+              "pt": [
+                "Mauron"
+              ],
+              "en": [
+                "Mauron"
+              ],
+              "it": [
+                "Mauron"
+              ],
+              "fr": [
+                "Mauron"
+              ],
+              "nl": [
+                "Mauron"
+              ],
+              "es": [
+                "Mauron"
+              ]
+            },
+            "insee": "56127",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4c0da1d4-511d-3291-9300-031419e47b97",
+        "schema:latitude": "48.08067",
+        "schema:longitude": "-2.28615",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9f41f612-4143-3987-b57d-c5028d36a90b",
+          "schema:validFrom": "2026-01-02T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-19",
+  "lastUpdateDatatourisme": "2026-03-20T03:57:09.876Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b9905356-f711-3501-9606-e22445059a61",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

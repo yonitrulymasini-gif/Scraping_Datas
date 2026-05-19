@@ -1,0 +1,565 @@
+{
+  "@id": "https://data.datatourisme.fr/38/bb89fd46-14f0-3352-8e37-792cf54f9bff",
+  "dc:identifier": "HLO579541c8bc374",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Rêve Bleu"
+    ]
+  },
+  "availableLanguage": [
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/30f10b37-a3b2-3e17-8a45-629fcaebd898",
+      "schema:telephone": [
+        "+33 6 64 84 75 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/30f10b37-a3b2-3e17-8a45-629fcaebd898",
+      "schema:telephone": [
+        "+33 6 64 84 75 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f32e804b-67a1-36a6-8784-97dcc8b9f08e",
+      "schema:legalName": "Le Rêve Bleu",
+      "schema:telephone": [
+        "+33 6 64 84 75 05"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6b1093d3-542a-3018-8ae3-b20795612f85",
+      "dc:description": {
+        "de": [
+          "Haus für 4 Personen. Ruhig gelegenes, charmantes Haus mit Dekoration am Meer, in der Nähe der Strände, der Geschäfte, des SNCF-Bahnhofs und des Seebahnhofs, der Häfen und der Thalassotherapie, das ist ideal!\nSüdterrasse mit eingerichteter Pergola, Plancha und Wohnzimmer mit Blick auf den eingezäunten Garten, sehr angenehm!\nEingangsbereich, gut ausgestattete Küche, die sich zum Wohn- und Esszimmer hin öffnet, 3 Schlafzimmer, Badezimmer und Toilette. Privater Parkplatz. Die Preise beinhalten die laufenden Kosten (Strom, Wasser).\nMöglichkeit für zusätzliche Schlafplätze.\nEndreinigungsgebühr extra."
+        ],
+        "en": [
+          "House sleeps 4. Quiet, charming house with seaside decor, close to beaches, shops, SNCF and ferry terminals, ports and thalassotherapy, ideal!\nSouth-facing terrace with furnished pergola, plancha and lounge overlooking the enclosed garden, very pleasant!\nEntrance hall, well-equipped kitchen opening onto living room, 3 bedrooms, shower room and toilet. Private parking. Rates include electricity and water.\nExtra beds available.\nCleaning charges extra."
+        ],
+        "it": [
+          "Casa da 4 posti letto. Casa tranquilla e affascinante con arredamento marittimo, vicino a spiagge, negozi, stazione SNCF e terminal traghetti, porti e talassoterapia, è ideale!\nTerrazza esposta a sud con pergola attrezzata, plancha e salotto con vista sul giardino recintato, molto piacevole!\nIngresso, cucina ben attrezzata che si apre sul salone, 3 camere da letto, bagno con doccia e WC. Parcheggio privato. Le tariffe includono le utenze (elettricità, acqua).\nPossibilità di letti supplementari.\nSpese di pulizia extra."
+        ],
+        "fr": [
+          "Maison 4 personnes. Au calme, charmante maison à la décoration bord de mer, à proximité des plages, des commerces, de la gare SNCF et de la gare maritime, des ports et de la thalassothérapie, c'est idéal !\nTerrasse sud avec pergola aménagée, plancha et salon avec une vue sur le jardin clos, très agréable ! \nEntrée, cuisine bien équipée ouverte sur le séjour-salon, 3 chambres, salle d'eau et cabinet de toilette. Parking privé. Les tarifs comprennent les charges courantes (électricité, eau). \nPossibilité de couchages supplémentaires. \nFrais de ménage en supplément."
+        ],
+        "nl": [
+          "Huis voor 4 personen. Rustig, charmant huis met inrichting aan zee, dicht bij stranden, winkels, SNCF treinstation en veerbootterminal, havens en thalassotherapie, ideaal!\nTerras op het zuiden met ingerichte pergola, plancha en salon met uitzicht op de omheinde tuin, zeer aangenaam!\nInkomhal, goed uitgeruste keuken die uitgeeft op de zitkamer, 3 slaapkamers, doucheruimte en toilet. Privé parkeerplaats. Tarieven zijn inclusief nutsvoorzieningen (elektriciteit, water).\nExtra bedden beschikbaar.\nSchoonmaakkosten extra."
+        ],
+        "es": [
+          "Casa para 4 personas. Casa tranquila y encantadora con decoración marinera, cerca de playas, tiendas, estación de tren SNCF y terminal de ferry, puertos y talasoterapia, ¡es ideal!\nTerraza orientada al sur con pérgola equipada, plancha y salón con vistas al jardín cerrado, ¡muy agradable!\nHall de entrada, cocina bien equipada abierta al salón, 3 dormitorios, cuarto de ducha y aseo. Aparcamiento privado. El precio incluye los servicios (electricidad, agua).\nCamas supletorias disponibles.\nGastos de limpieza extra."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/21c79a91-c161-3be3-a8da-5668f2648090",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/34cb19f5-b59f-3107-ab8e-3f25e964574a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9bf1252e-53ce-366f-a6ff-7829bdf70a40",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb87652a-841e-3bf9-828f-caaa6e400aea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf724a0d-2934-37fe-afda-8168c2188ed9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f819abdf-3be7-32a5-a82b-4325a8e1f4de",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/18519252-b7a7-33da-bdff-9c4f7973eed1",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "44 rue du Roch Priol"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c8872a57-2137-35c0-a288-26d203ea5835",
+        "schema:latitude": "47.48127",
+        "schema:longitude": "-3.111711",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

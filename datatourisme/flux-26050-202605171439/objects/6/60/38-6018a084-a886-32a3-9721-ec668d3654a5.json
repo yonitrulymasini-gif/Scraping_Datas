@@ -1,0 +1,307 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6018a084-a886-32a3-9721-ec668d3654a5",
+  "dc:identifier": "FMABRE056V50DCPF",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Product",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Guémené, cité des Rohan"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d7db6d0-4376-39b6-b383-b4caf649fdd9",
+      "schema:telephone": [
+        "+33 6 80 30 06 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesbainsdelareine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3b972c63-8e7f-360c-86f0-173d21782b8d",
+      "dc:description": {
+        "de": [
+          "Erkunden Sie die Geschichte dieser mittelalterlichen Stadt, der Hauptstadt des ehemaligen Fürstentums der Rohan-Guémené."
+        ],
+        "en": [
+          "Explore the history of this medieval city, capital of the ancient principality of Rohan-Guémené."
+        ],
+        "it": [
+          "Esplorate la storia di questa città medievale, capitale dell'antico principato di Rohan-Guémené."
+        ],
+        "fr": [
+          "Explorez l’histoire de cette cité médiévale, capitale de l’ancienne principauté des Rohan-Guémené."
+        ],
+        "nl": [
+          "Ontdek de geschiedenis van deze middeleeuwse stad, hoofdstad van het oude prinsdom Rohan-Guémené."
+        ],
+        "es": [
+          "Explore la historia de esta ciudad medieval, capital del antiguo principado de Rohan-Guémené."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5fe2ba17-3100-3e48-ae45-cf1034f5a59c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/711326fd-c705-3559-8b55-3da9e12da343",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8419f7a6-536c-3f4c-b7f7-d76b39276f45",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f2d0ef0-539f-31e1-b167-e12a96e0575f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ec6374f5-b537-349a-81d5-a62cc75206ba",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0e259a9a-a188-3a2c-a3ed-0f4000614c3d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cf6a9f04-e2ae-3171-9664-d07267e41158",
+          "schema:addressLocality": "Le Faouët",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "Les Bains de la Reine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Faouët"
+              ],
+              "pt": [
+                "Le Faouët"
+              ],
+              "en": [
+                "Le Faouët"
+              ],
+              "it": [
+                "Le Faouët"
+              ],
+              "fr": [
+                "Le Faouët"
+              ],
+              "nl": [
+                "Le Faouët"
+              ],
+              "es": [
+                "Le Faouët"
+              ]
+            },
+            "insee": "56057",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/da2031f1-f631-34fc-bcb6-59ca541571dc",
+        "schema:latitude": "48.067395",
+        "schema:longitude": "-3.20772",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-22",
+  "lastUpdateDatatourisme": "2026-04-23T02:53:36.217Z"
+}

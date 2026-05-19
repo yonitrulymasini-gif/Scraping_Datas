@@ -1,0 +1,325 @@
+{
+  "@id": "https://data.datatourisme.fr/38/38ed90af-4c03-3c21-a953-558a615da777",
+  "dc:identifier": "FMABRE000V51K8ON",
+  "schema:endDate": [
+    "2026-08-14"
+  ],
+  "schema:startDate": [
+    "2026-08-14"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Festival",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Festival",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Fest Noz à Kerhostin"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d0bee723-ffb3-3e21-b0ba-0cbefa3c34a1",
+      "schema:telephone": [
+        "+33 2 97 30 88 91",
+        "+33 6 18 49 25 93"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c0794c81-e8ab-36c4-a1f9-bfd2dc9543d0",
+      "dc:description": {
+        "de": [
+          "Fest Noz\nMaufra-Platz in Kerhostin\n\nFreier Eintritt"
+        ],
+        "en": [
+          "Fest Noz\nPlace Maufra in Kerhostin\n\nFree admission"
+        ],
+        "it": [
+          "Festa Noz\nLuogo Maufra a Kerhostin\n\nIngresso libero"
+        ],
+        "fr": [
+          "Fest Noz \nPlace Maufra à Kerhostin \n\nEntrée gratuite"
+        ],
+        "es": [
+          "Fiesta Noz\nLugar Maufra en Kerhostin\n\nEntrada gratuita"
+        ],
+        "nl": [
+          "Fest Noz\nPlaats Maufra in Kerhostin\n\nGratis toegang"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2b1ab94e-5433-368a-abca-089c3b0d6da8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2c3884cb-5f0f-3421-9492-a0a32d6cf73e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2e277140-b56c-3d50-a4e3-9ad182f57a59",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/32548bce-8dec-3bbf-8a93-641dac174702",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b95f0c86-b385-3767-9e5f-887945de02bf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a5e2bebb-8a31-35fc-908a-27111eb89f29",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1c999fc9-7876-3057-86bc-7c41d8f3f0d3",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "Kerhostin",
+            "Place Maufra"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6daf2465-a500-354a-9ee9-e996aa6d2ca2",
+        "schema:latitude": "47.5367587",
+        "schema:longitude": "-3.132581",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-29",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.868Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0578e9ef-b474-369a-aa6d-06fac72a9932",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-14",
+      "startDate": "2026-08-14",
+      "startTime": "19:00:00"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1a7fc43c-4ef2-3ba4-8849-11cc33a0eaa1",
+  "dc:identifier": "HLOae0ae8216d954",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La maison de Francine"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/db9b4f89-158e-3afa-9204-eddce12cae4b",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 2 97 23 90 24"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/db9b4f89-158e-3afa-9204-eddce12cae4b",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 2 97 23 90 24"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ef6b715e-d022-32c2-b8f1-7628ee50240d",
+      "schema:legalName": "La maison de Francine",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 2 97 23 90 24"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5627f327-6f89-3b11-b460-df5898949072",
+      "dc:description": {
+        "de": [
+          "Im Herzen der unberührten Bretagne können Sie in der Umgebung auf den Wanderwegen spazieren gehen und die Natur genießen, während Sie das außergewöhnliche architektonische Erbe des Pays du Roi Morvan erkunden. Hier im Zentrum der Bretagne können Sie zu Tagesausflügen aufbrechen, um die schönsten Orte der Bretagne zu besichtigen: den Golf von Morbihan und seine Inseln, den Mont Saint Michel und die rosa Granitküste, die Pointe du Raz und die Monts d'Arrée...\nCharmantes Landhaus am Fuße des Minez Dû (höchster Punkt des Departements). Hier können Sie die Freuden des Landlebens genießen. Das Haus und der Garten haben ihren authentischen Charme bewahrt, inmitten eines sehr ruhigen Ortes und inmitten der Natur mit Wanderwegen vor Ort - Im Erdgeschoss finden Sie einen Wohnraum mit gepflegter Dekoration, der den Essbereich und die gemütliche Sitzecke umfasst. Im 1. Stock befinden sich 2 schöne und einladende Schlafzimmer (ein Schlafzimmer mit einem 140 cm breiten Bett, ein großes Schlafzimmer mit zwei 90 cm breiten Betten, die zu einem 180 cm breiten Bett und einem Babybett umgebaut werden können), ein Zwischengeschoss, ein Badezimmer und ein separates WC.Im Außenbereich befindet sich ein Garten mit Terrasse, Gartenmöbeln, Schaukel und Grill."
+        ],
+        "en": [
+          "In the heart of unspoilt Brittany, stroll along the surrounding hiking trails and enjoy nature while exploring the exceptional architectural heritage of the Pays du Roi Morvan. Here, in central Brittany, you can take day trips to some of Brittany's most beautiful sites: the Gulf of Morbihan and its islands, Mont Saint Michel and the pink granite coast, the Pointe du Raz and the Monts d'Arrée...\nCharming country house at the foot of Minez Dû (highest point in the département). Enjoy the pleasures of the countryside. The house and garden have retained their authentic charm, in the midst of a peaceful natural setting, with hiking trails on site.1 - On the first floor, you'll find a tastefully decorated living room with a cosy dining and sitting area. On the 1st floor, 2 attractive bedrooms (one with 1 double bed (140cm), one with 2 single beds (90cm) that can be converted into 1 double bed (180cm) and 1 cot), a mezzanine area, a bathroom and a separate toilet.Outside, a garden with terrace, garden furniture, portico and barbecue."
+        ],
+        "it": [
+          "Nel cuore della Bretagna incontaminata, passeggiate lungo i sentieri circostanti e godetevi la natura esplorando l'eccezionale patrimonio architettonico del Pays du Roi Morvan. Qui, nella Bretagna centrale, potrete fare escursioni giornaliere per visitare alcuni dei siti più belli della Bretagna: il Golfo di Morbihan e le sue isole, Mont Saint Michel e la costa di granito rosa, la Pointe du Raz e i Monts d'Arrée...\nIncantevole casa di campagna ai piedi di Minez Dû (punto più alto del dipartimento). Qui potrete godere dei piaceri della campagna. La casa e il giardino hanno conservato il loro fascino autentico, al centro di una zona molto tranquilla, nel cuore della natura, con sentieri escursionistici in loco - Al piano terra, troverete un soggiorno arredato con gusto con un'accogliente zona pranzo e un'area salotto. Al piano terra, troverete un soggiorno arredato con gusto con un'accogliente zona pranzo e un'area salotto, un'ampia cucina separata e ben attrezzata e una toilette.1° piano: 2 graziose e accoglienti camere da letto (una con letto matrimoniale (140 cm), un'ampia camera con 2 letti singoli (90 cm) che possono essere trasformati in 1 letto matrimoniale (180 cm) e 1 culla), una zona soppalcata, un bagno e una toilette separata.All'esterno, un giardino con terrazza, mobili da giardino, portico e barbecue."
+        ],
+        "fr": [
+          "Au coeur d'une Bretagne préservée, promenez-vous aux alentours sur les sentiers de randonnée et profitez de la nature tout en explorant l'exceptionnel patrimoine architectural du Pays du Roi Morvan. Ici, au centre Bretagne, vous pourrez partir pour des excursions à la journée pour visiter les plus beaux sites de Bretagne : le Golfe du Morbihan et ses îles, le Mont Saint Michel et la côte de granite rose, la pointe du Raz et les monts d'Arrée...\nCharmante maison de pays au pied du Minez Dû (point culminant du département). Vous y goûterez les plaisirs de la campagne. La maison et le jardin ont conservé leur charme authentique, au milieu d'un lieux très calme et en pleine nature avec circuits randonnées pédestres sur place.- Au rez-de-chaussée, vous trouverez une pièce de vie à la décoration soignée qui regroupe l'espace repas et le coin salon très cosy. Une grande cuisine séparée et bien équipée, et un wc.- Au 1er étage, 2 belles chambres accueillantes (une chambre avec 1 lit en 140, une grande chambre avec 2 lits 90 modulables en 1 lit en 180 et 1 lit bébé), un espace mezzanine, une salle de bains et un wc séparé.A l'extérieur, un jardin avec terrasse, salon de jardin, portique et barbecue."
+        ],
+        "nl": [
+          "In het hart van ongerept Bretagne kunt u wandelen langs de omliggende wandelpaden en genieten van de natuur terwijl u het uitzonderlijke architecturale erfgoed van het Pays du Roi Morvan verkent. Hier, in centraal Bretagne, kunt u dagtochten maken om de mooiste plekjes van Bretagne te bezoeken: de Golf van Morbihan en zijn eilanden, de Mont Saint Michel en de roze granietkust, de Pointe du Raz en de Monts d'Arrée...\nCharmant landhuis aan de voet van Minez Dû (hoogste punt van het departement). Hier kunt u genieten van de geneugten van het platteland. Het huis en de tuin hebben hun authentieke charme behouden, te midden van een zeer rustige omgeving en omgeven door natuur, met wandelpaden op het terrein - Op de begane grond vindt u een smaakvol ingerichte woonkamer met een gezellige eethoek en zithoek. Op de begane grond vindt u een smaakvol ingerichte woonkamer met een gezellige eethoek en zithoek, een grote, aparte, goed uitgeruste keuken en een toilet.1e verdieping: 2 mooie, gezellige slaapkamers (een met een tweepersoonsbed (140cm), een grote slaapkamer met 2 eenpersoonsbedden (90cm) die kunnen worden omgezet in 1 tweepersoonsbed (180cm) en 1 kinderbedje), een mezzanine, een badkamer en een apart toilet.Buiten, een tuin met terras, tuinmeubelen, veranda en barbecue."
+        ],
+        "es": [
+          "En el corazón de la Bretaña virgen, pasee por las rutas de senderismo de los alrededores y disfrute de la naturaleza mientras explora el excepcional patrimonio arquitectónico del Pays du Roi Morvan. Aquí, en el centro de Bretaña, podrá realizar excursiones de un día para visitar algunos de los lugares más bellos de Bretaña: el golfo de Morbihan y sus islas, el Mont Saint Michel y la costa de granito rosa, la Pointe du Raz y los Monts d'Arrée...\nEncantadora casa de campo al pie del Minez Dû (punto más alto del departamento). Aquí podrá disfrutar de los placeres del campo. La casa y el jardín han conservado su auténtico encanto, en medio de una zona muy tranquila, en plena naturaleza, con rutas de senderismo in situ - En la planta baja, encontrará un salón decorado con gusto, con una acogedora zona de comedor y una sala de estar. En la planta baja, encontrará una sala de estar decorada con buen gusto con una acogedora zona de comedor y sala de estar, una cocina grande, separada y bien equipada y un aseo.1ª planta: 2 dormitorios encantadores y acogedores (uno con una cama doble (140cm), un gran dormitorio con 2 camas individuales (90cm) que se puede convertir en 1 cama doble (180cm) y 1 cuna), una zona de entresuelo, un cuarto de baño y un aseo separado.En el exterior, un jardín con terraza, muebles de jardín, porche y barbacoa."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2c1c07d6-3383-3287-b8bb-5f3461a09ed3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5a99a693-3fda-308d-9b6b-ac552520cb56",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b92b0701-f189-3489-a62e-01cd496ab961",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c295ddc6-effc-3419-9df6-c9a98cb56976",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0efc5f7-22bf-366f-bb36-d9ab0db09b7d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/59d49b0d-5f0a-3967-845f-5c9483cdc0b5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4a7e908d-1cd8-3583-ba81-e422987b8234",
+          "schema:addressLocality": "Langonnet",
+          "schema:postalCode": "56630",
+          "schema:streetAddress": [
+            "La Trinité Langonnet",
+            "Yun"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56100",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Langonnet"
+              ],
+              "pt": [
+                "Langonnet"
+              ],
+              "en": [
+                "Langonnet"
+              ],
+              "it": [
+                "Langonnet"
+              ],
+              "fr": [
+                "Langonnet"
+              ],
+              "nl": [
+                "Langonnet"
+              ],
+              "es": [
+                "Langonnet"
+              ]
+            },
+            "insee": "56100",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f34e6451-4180-3741-8368-13e27806f273",
+        "schema:latitude": "48.1739445",
+        "schema:longitude": "-3.4533473",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.196Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ce3d8745-c354-351a-aed1-d18446451af9",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

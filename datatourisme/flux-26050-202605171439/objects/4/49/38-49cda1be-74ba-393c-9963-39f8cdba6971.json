@@ -1,0 +1,331 @@
+{
+  "@id": "https://data.datatourisme.fr/38/49cda1be-74ba-393c-9963-39f8cdba6971",
+  "dc:identifier": "FMABRE000V51KLKL",
+  "schema:endDate": [
+    "2026-06-10",
+    "2026-06-24"
+  ],
+  "schema:startDate": [
+    "2026-06-10",
+    "2026-06-24"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Product",
+    "schema:SportsEvent",
+    "ChildrensEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Game",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "SportsEvent",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Balade contée au Verger Conservatoire de Saint-Dégan"
+    ],
+    "fr": [
+      "Balade contée au Verger Conservatoire de Saint-Dégan"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/060dfa9d-0a87-338a-9068-38a8ccb2c6e9",
+      "schema:telephone": [
+        "+33 2 97 57 66 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9055534a-c0bc-3565-b91d-a538e70281d4",
+      "dc:description": {
+        "de": [
+          "Begeben Sie sich auf einen Märchenspaziergang zwischen Apfelbäumen und entlang bewaldeter Wege, um den Obstgarten von Saint-Dégan zu entdecken, und lassen Sie sich von Geschichten über Äpfel, Bäume und andere Geheimnisse mitreißen. Ab 8 Jahren."
+        ],
+        "en": [
+          "\"Morbihan Grandeur Nature\" - Treasure hunt in the orchard"
+        ],
+        "it": [
+          "Passeggiate tra i meli e lungo i sentieri boscosi per scoprire il giardino d'inverno di Saint-Dégan e lasciatevi trasportare da storie di mele, alberi e altri segreti. Per bambini a partire dagli 8 anni."
+        ],
+        "fr": [
+          "Partez pour une balade contée parmi les pommiers et le long des sentiers boisés, à la découverte du verger conservatoire de Saint-Dégan, en vous laissant emporter par des histoires de pommes, d’arbres et d’autres secrets. A partir de 8 ans."
+        ],
+        "es": [
+          "Pasee entre los manzanos y por los senderos arbolados para descubrir el huerto conservatorio de Saint-Dégan y déjese llevar por historias de manzanas, árboles y otros secretos. Para niños a partir de 8 años."
+        ],
+        "nl": [
+          "Maak een wandeling tussen de appelbomen en over de beboste paden om de boomgaard van het Conservatoire Saint-Dégan te ontdekken en laat je meeslepen door verhalen over appels, bomen en andere geheimen. Voor kinderen vanaf 8 jaar."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1d6c6808-cd72-318b-a817-c71049704379",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8abcd350-2bac-3afb-a8b7-44187a2e018f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b91be7f-7bd1-3c90-b3fd-d590b06ff054",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/da2de656-03c7-3bc1-b64d-bf23de94d41a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/09886dbf-8439-3afe-b404-e6dd8adacb1c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d194be6d-5053-35db-8e59-063e454caf01",
+          "schema:addressLocality": "Brech",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Verger conservatoire de Saint-Dégan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brech"
+              ],
+              "pt": [
+                "Brech"
+              ],
+              "en": [
+                "Brech"
+              ],
+              "it": [
+                "Brech"
+              ],
+              "fr": [
+                "Brech"
+              ],
+              "nl": [
+                "Brech"
+              ],
+              "es": [
+                "Brech"
+              ]
+            },
+            "insee": "56023",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eabd5b0d-bdc2-317d-9b95-5c7d12bd29dc",
+        "schema:latitude": "47.71013",
+        "schema:longitude": "-2.99317",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-11",
+  "lastUpdateDatatourisme": "2026-04-12T03:05:51.55Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a67e830b-8285-3e93-9bc4-ec03396d0f19",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-10",
+      "endTime": "17:00:00",
+      "startDate": "2026-06-10",
+      "startTime": "15:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f9f55752-9d6c-3178-8973-b5de457bcca9",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-24",
+      "endTime": "17:00:00",
+      "startDate": "2026-06-24",
+      "startTime": "15:00:00"
+    }
+  ]
+}

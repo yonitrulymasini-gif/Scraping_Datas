@@ -1,0 +1,235 @@
+{
+  "@id": "https://data.datatourisme.fr/38/af9a119c-3dd3-3639-9e09-3e6220e099b4",
+  "dc:identifier": "ASCBRE000V51HK3Q",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Trésors du Morbihan"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4799148d-d942-3ec9-9949-4f76a8dc6f32",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tresorsdumorbihan.bzh/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Geocaching",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Geocaching"
+        ],
+        "pt": [
+          "Geocaching"
+        ],
+        "en": [
+          "Geocaching"
+        ],
+        "it": [
+          "Geocaching"
+        ],
+        "fr": [
+          "Geocaching"
+        ],
+        "nl": [
+          "Geocaching"
+        ],
+        "es": [
+          "Geocaching"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cbf1063b-8748-3428-9340-d3c4bc1653d1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/47a262e8-b72b-38a0-b309-5b1986cf20b3",
+          "schema:addressLocality": "Sarzeau",
+          "schema:postalCode": "56370",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56240",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sarzeau"
+              ],
+              "pt": [
+                "Sarzeau"
+              ],
+              "en": [
+                "Sarzeau"
+              ],
+              "it": [
+                "Sarzeau"
+              ],
+              "fr": [
+                "Sarzeau"
+              ],
+              "nl": [
+                "Sarzeau"
+              ],
+              "es": [
+                "Sarzeau"
+              ]
+            },
+            "insee": "56240",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/556a2a9d-120d-36b7-a875-15a911249f09",
+        "schema:latitude": "47.524269",
+        "schema:longitude": "-2.7442001",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-18",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.332Z"
+}

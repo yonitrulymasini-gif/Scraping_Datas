@@ -1,0 +1,502 @@
+{
+  "@id": "https://data.datatourisme.fr/38/38b70593-1514-34e3-a6a6-dd09b6aae4b5",
+  "dc:identifier": "HLO168c9015f3104",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "GARNIER Joëlle & Raymond - Cottage de la Baie n°22"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a5ad6f67-500d-3fdc-b07b-3ebe7a18fce3",
+      "schema:telephone": [
+        "+33 2 99 00 51 46",
+        "+33 6 33 12 36 15",
+        "+33 6 84 95 40 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a5ad6f67-500d-3fdc-b07b-3ebe7a18fce3",
+      "schema:telephone": [
+        "+33 2 99 00 51 46",
+        "+33 6 33 12 36 15",
+        "+33 6 84 95 40 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e37d8f1b-746e-38ea-bff8-8c236427c7ef",
+      "schema:legalName": "GARNIER Joëlle & Raymond - Cottage de la Baie n°22",
+      "schema:telephone": [
+        "+33 2 99 00 51 46",
+        "+33 6 33 12 36 15",
+        "+33 6 84 95 40 67"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/89859ef3-9b96-397c-a119-d556261bb8db",
+      "dc:description": {
+        "de": [
+          "Reihenhaus weniger als 1 km vom Ortszentrum entfernt, Strand von Toul Keun 150 m. Im Obergeschoss, Meerblick auf die Bucht. Fläche: 48 m2 für 4 Personen. Im Gartengeschoss, ausgestattete Küche zum Wohnzimmer, Schlafzimmer mit 1 Doppelbett.\n\nIm Obergeschoss, 2 Mansardenzimmer mit 1 Einzelbett. Terrasse, Gartenmöbel, Liegestühle, kleine Grünfläche, Fahrradraum, Parkplatz in der Nähe des Eingangs."
+        ],
+        "en": [
+          "Semi-detached house less than 1 km from town center, Toul Keun beach 150 m away. Upstairs, sea view over the bay. Surface area: 48 m2 for 4 people. On garden level, kitchen opening onto living room, bedroom with 1 double bed.\n\nUpstairs, 2 bedrooms with 1 single bed. Terrace, garden furniture, deckchairs, small green area, bike storage, parking close to entrance."
+        ],
+        "it": [
+          "Casa bifamiliare a meno di 1 km dal centro città, spiaggia di Toul Keun a 150 m. Primo piano, vista mare sulla baia. Superficie: 48 m2 per 4 persone. Piano giardino: cucina attrezzata aperta sul soggiorno, camera con 1 letto matrimoniale.\n\nAl piano superiore, 2 camere con soffitti spioventi e 1 letto singolo. Terrazza, mobili da giardino, sedie a sdraio, piccola area verde, deposito biciclette, parcheggio vicino all'ingresso."
+        ],
+        "fr": [
+          "Maison mitoyenne à moins d'1 km du centre bourg, plage du Toul Keun à 150 m. A l'étage, vue mer sur la Baie. Surface : 48 m2 pour 4 personnes. En rez de jardin, cuisine équipée sur séjour, chambre 1 lit 2 places. \n\nA l'étage, 2 chambres mansardées 1 lit 1 place. Terrasse, salon de jardin, transats, petit espace vert, local vélos, parking proche de l'entrée."
+        ],
+        "nl": [
+          "Halfvrijstaand huis op minder dan 1 km van het stadscentrum, Toul Keun strand op 150 m afstand. Eerste verdieping, uitzicht op zee over de baai. Oppervlakte: 48 m2 voor 4 personen. Tuinniveau: ingerichte keuken met toegang tot de woonkamer, slaapkamer met 1 tweepersoonsbed.\n\nBoven, 2 slaapkamers met schuin plafond en 1 eenpersoonsbed. Terras, tuinmeubelen, ligstoelen, kleine groene zone, bergruimte voor fietsen, parkeerplaats bij de ingang."
+        ],
+        "es": [
+          "Casa adosada a menos de 1 km del centro de la ciudad, playa de Toul Keun a 150 m. Primera planta, vista al mar sobre la bahía. Superficie: 48 m2 para 4 personas. Nivel jardín: cocina equipada abierta al salón, habitación con 1 cama doble.\n\nArriba, 2 habitaciones con techos inclinados y 1 cama individual. Terraza, muebles de jardín, tumbonas, pequeña zona verde, espacio para guardar bicicletas, aparcamiento cerca de la entrada."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/35fb7e0e-c89b-3070-bfa9-8256f44e759e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/644496ca-6205-33c4-9c33-3aab9bc33a0b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d06908ce-7dda-33e6-af44-ab247fd479f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee0b809d-5f3e-3e56-8e3f-8e61a59b2144",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f239f409-a205-3cf9-97c6-2a5b7528559f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/82f70142-5de5-3d48-9592-7e0cdb9541b2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/72a7ccd8-8d0e-3a7d-9d9c-1775f4400bd2",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "12 An Toul Keun",
+            "Cottages de la Baie n°22"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/34649e02-9044-3c26-84d4-595e7ab9be70",
+        "schema:latitude": "47.56383",
+        "schema:longitude": "-2.94937",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9fe9637c-43dc-33ca-8029-a9cc81527c27",
+          "schema:validFrom": "2026-03-14T00:00:00",
+          "schema:validThrough": "2026-11-14T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-07",
+  "lastUpdateDatatourisme": "2026-03-08T04:07:25.562Z"
+}

@@ -1,0 +1,338 @@
+{
+  "@id": "https://data.datatourisme.fr/38/24dc0775-7abe-320d-8d1b-8fa5857cfaa3",
+  "dc:identifier": "FMABRE056V50DYW0",
+  "schema:endDate": [
+    "2026-05-23",
+    "2026-05-24"
+  ],
+  "schema:startDate": [
+    "2026-05-23",
+    "2026-05-24"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Festival",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Festival",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Fanfare du Bono : le dancefloor des 20 ans"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fec48aa0-fd1d-3fe4-b113-8e437c3c9ac5",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://canva.link/hcqvhsx2ws51mgy"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7474b726-809c-3b53-9e28-af5c91637ba2",
+      "dc:description": {
+        "de": [
+          "9 Fanfaren, Konzerte, ein Märchenspaziergang, Animationen für Kinder, Ausstellungen, ein Dancefloor zu den Klängen der Fanfaren unter einem Zeltdach, Imbiss, Verpflegung"
+        ],
+        "en": [
+          "A release of 9 brass bands, concerts, a storytelling walk, entertainment for children, exhibitions, a dancefloor with brass bands under a big top, refreshments and catering"
+        ],
+        "it": [
+          "Un'uscita di 9 bande di ottoni, concerti, una passeggiata narrativa, attività per bambini, mostre, una pista da ballo al suono delle bande di ottoni sotto un tendone, rinfreschi, catering, ecc"
+        ],
+        "fr": [
+          "Un lâcher de 9 fanfares, des concerts, une balade contée, des animations pour les enfants, des expos, un dancefloor au son des fanfares sous chapiteau, buvette, restauration"
+        ],
+        "es": [
+          "Una suelta de 9 bandas de música, conciertos, un paseo de cuentacuentos, actividades para niños, exposiciones, una pista de baile al son de las bandas de música bajo una carpa, refrescos, catering, etc"
+        ],
+        "nl": [
+          "Een release van 9 brassbands, concerten, een verhalenwandeling, activiteiten voor kinderen, tentoonstellingen, een dansvloer op het geluid van brassbands onder een big top, versnaperingen, catering, enz"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/32b9c2f7-67ba-3fdb-b10f-c00a59ebadeb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ba17bd6-e5e9-3efc-8743-244b428f4423",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/88a26f99-0cb8-3a60-8b27-73074f5309b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e48c27b-7d9a-37fb-8c29-6498a817f2a3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ed44af1d-440b-34af-852e-91cde2da3199",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b522b28a-969e-3a32-a37a-6b513e9bdfdf",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/56e98427-80ba-3cc4-8dd2-ae8e22a598b5",
+          "schema:addressLocality": "Le Bono",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "5 Rue Alfred Caravaniez"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Bono"
+              ],
+              "pt": [
+                "Le Bono"
+              ],
+              "en": [
+                "Le Bono"
+              ],
+              "it": [
+                "Le Bono"
+              ],
+              "fr": [
+                "Le Bono"
+              ],
+              "nl": [
+                "Le Bono"
+              ],
+              "es": [
+                "Le Bono"
+              ]
+            },
+            "insee": "56262",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d5fb4da7-12d8-35f5-82f0-c893230d4e72",
+        "schema:latitude": "47.7013907",
+        "schema:longitude": "-2.9607496",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:17:46.097Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0f07f2af-1dc8-3c29-81c8-17c7be6aced2",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-24",
+      "endTime": "00:00:00",
+      "startDate": "2026-05-24",
+      "startTime": "15:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/af54ae58-8ca7-3309-aeb7-d2d8d25d42bc",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-23",
+      "endTime": "01:00:00",
+      "startDate": "2026-05-23",
+      "startTime": "10:30:00"
+    }
+  ]
+}

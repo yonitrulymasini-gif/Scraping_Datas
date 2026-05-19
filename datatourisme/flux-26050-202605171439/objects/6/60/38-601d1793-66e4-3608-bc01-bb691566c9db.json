@@ -1,0 +1,777 @@
+{
+  "@id": "https://data.datatourisme.fr/38/601d1793-66e4-3608-bc01-bb691566c9db",
+  "dc:identifier": "RESBRE056V50DBCA",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Bistrot Italien"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a3ed6112-ad16-30b1-abcd-7785bb49c761",
+      "schema:legalName": "Le Bistrot Italien",
+      "schema:telephone": [
+        "+33 2 97 56 61 95"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a3ed6112-ad16-30b1-abcd-7785bb49c761",
+      "schema:legalName": "Le Bistrot Italien",
+      "schema:telephone": [
+        "+33 2 97 56 61 95"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d00eb706-d253-38a7-8084-fd22b8577a51",
+      "dc:description": {
+        "de": [
+          "Italienisches Restaurant und Pizzeria in Auray, Le Bistrot Italien bietet Ihnen hausgemachte italienische Küche, vor Ort oder zum Mitnehmen.\n\nUnsere modernen neapolitanischen Pizzen werden mit italienischem Premium-Mehl aus einer italienischen Familienmühle zubereitet, die für die Qualität und Auswahl ihres Weizens bekannt ist.\n\nA la carte: Pizzen, Pastas, Carpaccios und Rezepte, die von der italienischen Tradition inspiriert sind und aus vor Ort verarbeiteten Produkten italienischen Ursprungs hergestellt werden.\n\nDas Restaurant ist dienstags bis samstags mittags und abends in einer freundlichen Atmosphäre für ein Mittagessen, ein Abendessen oder eine Bestellung zum Mitnehmen in Auray geöffnet."
+        ],
+        "en": [
+          "Italian restaurant and pizzeria in Auray, Le Bistrot Italien offers home-made Italian cuisine, on the premises or to take away.\n\nOur contemporary Neapolitan pizzas are prepared with premium Italian flour from a family-run Italian flour mill renowned for the quality and selection of its wheat.\n\nÀ la carte: pizzas, pastas, carpaccios and recipes inspired by Italian tradition, made with products of Italian origin and processed on site.\n\nThe restaurant is open Tuesday to Saturday, lunchtime and evening, for lunch, dinner or takeaway in Auray."
+        ],
+        "it": [
+          "Ristorante e pizzeria italiano ad Auray, Le Bistrot Italien offre cucina italiana fatta in casa, sul posto o da asporto.\n\nLe nostre pizze napoletane contemporanee sono preparate con farina italiana di prima qualità proveniente da un mulino italiano a conduzione familiare rinomato per la qualità e la selezione del suo grano.\n\nAlla carta: pizze, paste, carpacci e ricette ispirate alla tradizione italiana, realizzate con prodotti di origine italiana e preparate sul posto.\n\nIl ristorante è aperto dal martedì al sabato, a pranzo e alla sera, in un'atmosfera accogliente, per pranzo, cena o asporto ad Auray."
+        ],
+        "fr": [
+          "Restaurant italien et pizzeria à Auray, Le Bistrot Italien vous propose une cuisine italienne maison, sur place ou à emporter.\n\nNos pizzas napolitaines contemporaines sont préparées avec une farine italienne premium, issue d’une minoterie familiale italienne reconnue pour la qualité et la sélection de ses blés.\n\nÀ la carte : pizzas, pastas, carpaccios et recettes inspirées de la tradition italienne, élaborées à partir de produits d’origine italienne et travaillés sur place.\n\nLe restaurant est ouvert du mardi au samedi, midi et soir, dans une ambiance conviviale, pour un déjeuner, un dîner ou une commande à emporter à Auray."
+        ],
+        "es": [
+          "Restaurante italiano y pizzería en Auray, Le Bistrot Italien ofrece cocina italiana casera, en el mismo local o para llevar.\n\nNuestras pizzas napolitanas contemporáneas se elaboran con harina italiana de primera calidad procedente de una harinera italiana familiar famosa por la calidad y la selección de su trigo.\n\nA la carta: pizzas, pastas, carpaccios y recetas inspiradas en la tradición italiana, elaboradas con productos de origen italiano y preparadas en el propio local.\n\nEl restaurante está abierto de martes a sábado, al mediodía y por la noche, en un ambiente acogedor, para comer, cenar o pedir para llevar en Auray."
+        ],
+        "nl": [
+          "Italiaans restaurant en pizzeria in Auray, Le Bistrot Italien biedt huisgemaakte Italiaanse gerechten, ter plaatse of om mee te nemen.\n\nOnze eigentijdse Napolitaanse pizza's worden gemaakt met eersteklas Italiaans meel van een Italiaanse meelfabriek die bekend staat om de kwaliteit en selectie van zijn tarwe.\n\nA la carte: pizza's, pasta's, carpaccio's en recepten geïnspireerd door de Italiaanse traditie, gemaakt met producten van Italiaanse oorsprong en ter plekke bereid.\n\nHet restaurant is geopend van dinsdag tot zaterdag, 's middags en 's avonds, in een gezellige sfeer, voor lunch, diner of afhaalmaaltijden in Auray."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/211c36c0-4b9b-34ed-b51c-9cd840a78edf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4bbac3e9-355d-35b3-9e4e-6795c3cd676a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fadfc3d-b122-3120-bab1-4b20cb888486",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50292eac-7015-3ca4-9799-8588b6f9f26b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a30a8a4-7de9-370a-a7e1-b04fff52662b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/4c642f38-eef1-3b92-883f-6f6c436a4ffa",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:ChangingTable",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Wickeltisch"
+            ],
+            "pt": [
+              "Fraldário"
+            ],
+            "en": [
+              "Changing table"
+            ],
+            "it": [
+              "Fasciatoio"
+            ],
+            "fr": [
+              "Table à langer"
+            ],
+            "nl": [
+              "Verschoningstafel"
+            ],
+            "es": [
+              "Cambiador para bebés"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9cb441-9e35-3ce2-a956-625b80b91c9f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BabyChair",
+          "@type": [
+            "CateringAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Hochstuhl"
+            ],
+            "pt": [
+              "Cadeira de bebé"
+            ],
+            "en": [
+              "Baby chair"
+            ],
+            "it": [
+              "Sedia per bambini"
+            ],
+            "fr": [
+              "Chaise bébé"
+            ],
+            "es": [
+              "Silla de bebé"
+            ],
+            "nl": [
+              "Kinderstoel"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bb3d2f7-e8ce-3de9-a0a1-43a6f39229c8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Terrace",
+          "@type": [
+            "CommonAmenity",
+            "ParkAndGardenTheme"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Terrasse"
+            ],
+            "pt": [
+              "Terraço"
+            ],
+            "en": [
+              "Terrace"
+            ],
+            "it": [
+              "Terrazzo"
+            ],
+            "fr": [
+              "Terrasse"
+            ],
+            "es": [
+              "Terraza"
+            ],
+            "nl": [
+              "Terras"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/df174465-2dab-31bc-a116-a36a0cd26122",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:PrivateParking",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Privater Parkplatz"
+            ],
+            "pt": [
+              "Parque de estacionamento privativo"
+            ],
+            "en": [
+              "Private parking"
+            ],
+            "it": [
+              "Parcheggio privato"
+            ],
+            "fr": [
+              "Parking privé"
+            ],
+            "nl": [
+              "Privéparking"
+            ],
+            "es": [
+              "Aparcamiento privado"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d6b4971f-3184-394e-970a-6646065f2e5b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1d7cb4a7-6833-3eee-8416-1748fb966dd9",
+          "schema:addressLocality": "Auray",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "144 Rue Abbé Philippe Le Gall"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auray"
+              ],
+              "pt": [
+                "Auray"
+              ],
+              "en": [
+                "Auray"
+              ],
+              "it": [
+                "Auray"
+              ],
+              "fr": [
+                "Auray"
+              ],
+              "nl": [
+                "Auray"
+              ],
+              "es": [
+                "Auray"
+              ]
+            },
+            "insee": "56007",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8b8ffb5b-b593-32a5-b19e-96223e7b3440",
+        "schema:latitude": "47.67615",
+        "schema:longitude": "-3.00484",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5b35ee90-15e4-3ef2-a031-dfa588a321c5",
+          "schema:validFrom": "2026-09-08T00:00:00",
+          "schema:validThrough": "2026-12-20T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d609138-18ab-3e88-a8cc-847d0af6dd61",
+          "schema:validFrom": "2026-05-12T00:00:00",
+          "schema:validThrough": "2026-08-23T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd2b4fe8-f6d2-3718-bc60-0d9404302c60",
+          "schema:validFrom": "2026-02-09T00:00:00",
+          "schema:validThrough": "2026-04-25T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-02",
+  "lastUpdateDatatourisme": "2026-05-03T03:03:09.427Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/5f1f050a-7af5-3c75-a4b9-23fd492c0c94",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:ChequesDejeunersTicketsRestaurants",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Essensgutscheine – Ticket Restaurant"
+            ],
+            "pt": [
+              "Vales-refeições — vales-restaurante"
+            ],
+            "en": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "it": [
+              "Buoni pasto - ticket restaurant"
+            ],
+            "fr": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "es": [
+              "Vales de comida - Cheques restaurante"
+            ],
+            "nl": [
+              "Ontbijtcheques - restauranttickets"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

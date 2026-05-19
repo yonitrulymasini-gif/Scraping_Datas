@@ -1,0 +1,326 @@
+{
+  "@id": "https://data.datatourisme.fr/38/493b8302-f8ed-31df-8d85-84798141cce9",
+  "dc:identifier": "FMABRE000V51L70L",
+  "schema:endDate": [
+    "2026-05-29",
+    "2026-07-29"
+  ],
+  "schema:startDate": [
+    "2026-05-29",
+    "2026-07-29"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Product",
+    "schema:SportsEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "Product",
+    "Rambling",
+    "SportsEvent",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Balade sensorielle dans la lande"
+    ],
+    "fr": [
+      "Balade sensorielle dans la lande"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8c4b55a8-5009-3fa1-8d00-3375a6f7c1b5",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.morbihan.fr/nos-actions/environnement-le-departement-un-acteur-engage/le-patrimoine-naturel-morbihannais/le-programme-morbihan-grandeur-nature"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a19affbe-9ee5-38bd-b65b-c3b6c0cc324c",
+      "dc:description": {
+        "de": [
+          "Eine von Morbihan Grandeur Nature angebotene Führung - Die Natur aus nächster Nähe beobachten -\n\nDas nächtliche Leben in der Heide\nBeobachtung von Schmetterlingsvögeln und Fledermäusen\n\nOnline-Reservierung"
+        ],
+        "en": [
+          "Guided tour offered by Morbihan Grandeur Nature - Observe nature up close -\n\nNightlife on the moor\nObservation of crespucular birds and bats\n\nBook online"
+        ],
+        "it": [
+          "Visita guidata proposta da Morbihan Grandeur Nature - Osservare la natura da vicino\n\nVita notturna nella brughiera\nOsservazione di uccelli e pipistrelli crespulari\n\nPrenota online"
+        ],
+        "fr": [
+          "Visite guidée proposée par Morbihan Grandeur Nature  - Observer la nature de plus près -\n\nLa vie nocturne de lande\nObservation des oiseaux créspuculaires et des chauves-souris\n\nRéservation en ligne"
+        ],
+        "es": [
+          "Visita guiada ofrecida por Morbihan Grandeur Nature - Observar la naturaleza de cerca -\n\nVida nocturna en el páramo\nObservación de aves crespuculares y murciélagos\n\nReservar en línea"
+        ],
+        "nl": [
+          "Rondleiding aangeboden door Morbihan Grandeur Nature - Bekijk de natuur van dichtbij\n\nNachtleven op het veen\nObservatie van vogels en vleermuizen\n\nReserveer online"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5e3b8896-5187-3206-b176-99919ab410de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70c4d951-4e07-31d4-8816-ef9b5a98655d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c216440a-3691-3f48-b55e-e3ccd6999393",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc16e8a7-e34f-313f-98a9-21f3b4561aa5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e393a597-d261-3bd5-9911-b605ed2e3125",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3b498fb4-153d-3b9b-8c4e-891efb74cb3c",
+          "schema:addressLocality": "Pluneret",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Lande du Téno"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56176",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pluneret"
+              ],
+              "pt": [
+                "Pluneret"
+              ],
+              "en": [
+                "Pluneret"
+              ],
+              "it": [
+                "Pluneret"
+              ],
+              "fr": [
+                "Pluneret"
+              ],
+              "nl": [
+                "Pluneret"
+              ],
+              "es": [
+                "Pluneret"
+              ]
+            },
+            "insee": "56176",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/258ea522-3bcf-368f-b8a3-7713293db705",
+        "schema:latitude": "47.67587",
+        "schema:longitude": "-2.95814",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-13",
+  "lastUpdateDatatourisme": "2026-04-14T03:24:08.26Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/334ea47a-9020-3388-9b13-5e969021d679",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-29",
+      "startDate": "2026-05-29",
+      "startTime": "21:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ec54104d-f462-3057-be40-b62d2d39257f",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-29",
+      "startDate": "2026-07-29",
+      "startTime": "18:00:00"
+    }
+  ]
+}

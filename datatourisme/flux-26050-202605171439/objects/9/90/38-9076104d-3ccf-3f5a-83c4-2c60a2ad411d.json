@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9076104d-3ccf-3f5a-83c4-2c60a2ad411d",
+  "dc:identifier": "ASCBRE000V51K397",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Yacht Gavrinis"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/98693512-1365-3827-9327-26945291c5e2",
+      "schema:telephone": [
+        "+33 6 33 70 04 69"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.yacht-gavrinis.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/696e58b9-9218-3ac7-b61e-72f9a34091e6",
+      "dc:description": {
+        "de": [
+          "Wie wäre es, wenn Sie eine Yacht für einen Abend reservieren? Die Yacht Gavrinis kann für Ihre privaten Partys, Veranstaltungen, Ausflüge, Seminare, Hochzeiten usw. gemietet werden. Oder warum nicht eine Woche an Bord bleiben?\n\nKontaktieren Sie uns für weitere Informationen..."
+        ],
+        "en": [
+          "How about booking a YACHT for an evening out? The Gavrinis Yacht can be privatized for your private parties, events, excursions, seminars, weddings... Or why not spend a week on board?\n\nContact us for more information..."
+        ],
+        "it": [
+          "Perché non prenotare uno YACHT per una serata fuori? Lo Yacht Gavrinis è disponibile per feste private, eventi, escursioni, seminari, matrimoni... O perché non trascorrere una settimana a bordo?\n\nContattateci per maggiori informazioni..."
+        ],
+        "fr": [
+          "Et si vous réserviez un YACHT pour une soirée? Le Yacht Gavrinis privatisable pour vos soirées privées, évènements, excursions, séminaires, mariage... Ou pourquoi pas pour séjourner une semaine à bord ?\n\nContactez nous pour plus de renseignements..."
+        ],
+        "es": [
+          "¿Por qué no reservar un YATES para una velada? El Gavrinis Yacht está disponible para fiestas privadas, eventos, excursiones, seminarios, bodas... O ¿por qué no pasar una semana a bordo?\n\nPóngase en contacto con nosotros para obtener más información..."
+        ],
+        "nl": [
+          "Waarom boek je geen JACHT voor een avondje uit? De Gavrinis Yacht is beschikbaar voor privéfeesten, evenementen, excursies, seminars, bruiloften... Of waarom niet een week aan boord?\n\nNeem contact met ons op voor meer informatie..."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0fdd2a8c-de7e-3ab4-8047-41c8770b6a19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3176ef37-7daf-360c-bb98-f2a73348b644",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82dc5661-732b-3bb3-90f1-afc70ecc4280",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e4eec40c-5144-3511-af81-4f0d4805840e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff16f502-41e2-3e0d-8a05-760bb5b3f77d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b73ccb2f-9db3-3a56-b257-d87df10d67d5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/22016682-5aac-3c9e-a248-613215f46dde",
+          "schema:addressLocality": "Vannes",
+          "schema:postalCode": "56000",
+          "schema:streetAddress": [
+            "15 allée Loïc Caradec - Ponton F"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56260",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vannes"
+              ],
+              "pt": [
+                "Vannes"
+              ],
+              "en": [
+                "Vannes"
+              ],
+              "it": [
+                "Vannes"
+              ],
+              "fr": [
+                "Vannes"
+              ],
+              "nl": [
+                "Vannes"
+              ],
+              "es": [
+                "Vannes"
+              ]
+            },
+            "insee": "56260",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/81bf76e9-23ca-324c-9178-f42ac5d8159b",
+        "schema:latitude": "47.6363767",
+        "schema:longitude": "-2.7626293",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:22:00.466Z"
+}

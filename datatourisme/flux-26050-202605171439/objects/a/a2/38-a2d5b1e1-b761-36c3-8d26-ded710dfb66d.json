@@ -1,0 +1,334 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a2d5b1e1-b761-36c3-8d26-ded710dfb66d",
+  "dc:identifier": "FMABRE056V50DX8I",
+  "schema:endDate": [
+    "2026-05-17"
+  ],
+  "schema:startDate": [
+    "2026-05-05"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Exposition de beaux livres et gravures"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d7b9b8a9-b7da-37fc-b37b-fec5b92b9659",
+      "schema:telephone": [
+        "+33 6 86 33 40 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f09979c5-1c82-3263-a47c-a169941de1dc",
+      "dc:description": {
+        "de": [
+          "Im Ausstellungsraum des Rathauses von Carnac\nvom 5. bis 17. Mai 2026\n\n\nInfo: 06.86.33.40.50"
+        ],
+        "en": [
+          "At the Carnac Town Hall Exhibition Hall\nfrom May 5 to 17, 2026\n\n\nInfo : 06.86.33.40.50"
+        ],
+        "it": [
+          "Nella sala espositiva del Municipio di Carnac\ndal 5 al 17 maggio 2026\n\n\nInfo : 06.86.33.40.50"
+        ],
+        "fr": [
+          "A la salle des Expositions de la Mairie de Carnac \ndu 5 au 17 mai 2026\n\n\nInfo : 06.86.33.40.50"
+        ],
+        "nl": [
+          "In de tentoonstellingszaal van het stadhuis van Carnac\nvan 5 tot 17 mei 2026\n\n\nInfo : 06.86.33.40.50"
+        ],
+        "es": [
+          "En la Sala de Exposiciones del Ayuntamiento de Carnac\ndel 5 al 17 de mayo de 2026\n\n\nInformación : 06.86.33.40.50"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/61eff2dc-5d11-3c72-9262-b3ad26aaadd8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8969c8be-7cee-310c-8520-64f7fc68d34f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b68974e-1f28-3653-9ffc-bcd6332fe13e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5bbc060-d7de-3cd4-898d-a7df4e400e51",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf49fea9-50fa-3e4b-8214-4f63910ff121",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0ba71c05-5b4b-3787-a3ff-998ac51c5123",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bfe14d12-370f-34a3-b371-9c5fc863f4dd",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Place de la Chapelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4db61b40-3921-3770-bd6d-d7507df7298d",
+        "schema:latitude": "47.58445",
+        "schema:longitude": "-3.08254",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-07",
+  "lastUpdateDatatourisme": "2026-05-08T03:36:20.692Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/50b217b1-444e-3692-ac4a-3ee32000803b",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-17",
+      "endTime": "18:00:00",
+      "startDate": "2026-05-05",
+      "startTime": "15:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79668198-e8bd-35f2-a8c0-265c23550aee",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-17",
+      "endTime": "12:30:00",
+      "startDate": "2026-05-05",
+      "startTime": "10:00:00"
+    }
+  ]
+}

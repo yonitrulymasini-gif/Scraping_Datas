@@ -1,0 +1,746 @@
+{
+  "@id": "https://data.datatourisme.fr/38/18b80e33-d4fc-3553-813f-53106e9123e0",
+  "dc:identifier": "RES46f463775a164",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Restaurant Le Cornély"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/11b4e222-6173-390b-aa74-38a84b29ce28",
+      "schema:legalName": "Restaurant Le Cornély",
+      "schema:telephone": [
+        "+33 2 97 29 88 17"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/11b4e222-6173-390b-aa74-38a84b29ce28",
+      "schema:legalName": "Restaurant Le Cornély",
+      "schema:telephone": [
+        "+33 2 97 29 88 17"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fc394d2b-84d0-3346-ad07-8abfad3e150b",
+      "dc:description": {
+        "de": [
+          "Nur eine Minute vom Strand entfernt ist Le Cornely mehr als nur ein Restaurant: Es ist ein Ferienhaus, in dem man sich erholen, austauschen und genießen kann.\nSchon am Morgen weckt das Frühstück die Sinne. Mittags sind die Gerichte in der bretonischen Region verwurzelt, lokal, frisch und immer der Jahreszeit entsprechend. Am Abend kleidet sich der Ort in diskrete Eleganz: inspirierte Küche, aufmerksamer Service, sorgfältig ausgewählte Weine.\nDie Speisekarte ist kurz, lebendig und richtet sich nach den Gezeiten und den Lieferungen unserer Produzenten. Hier kocht man die Bretagne ohne Folklore, mit Aufrichtigkeit und Finesse.\nDas Cornély bleibt die ganze Woche über von morgens bis abends geöffnet."
+        ],
+        "en": [
+          "Just a minute from the beach, Le Cornely is much more than a restaurant: it's a vacation home where you can recharge your batteries, share and enjoy.\nFrom the moment you wake up in the morning, Le Cornely is the place to be for breakfast. At lunchtime, the dishes are rooted in the Breton terroir, local, fresh and always in season. In the evening, the place is dressed in discreet elegance: inspired cuisine, attentive service and carefully selected wines.\nThe menu is short and lively, punctuated by the tides and the arrival of our producers. Here, Brittany is cooked without folklore, with sincerity and finesse.\nLe Cornély is open all week, from morning to night."
+        ],
+        "it": [
+          "A un minuto dalla spiaggia, Le Cornely è molto più di un ristorante: è una casa vacanze dove ricaricarsi, condividere e divertirsi.\nFin dal mattino, al risveglio, il ristorante offre una deliziosa colazione. A pranzo, i piatti sono radicati nel territorio bretone, locali, freschi e sempre di stagione. La sera, il locale si veste di un'eleganza discreta: cucina ispirata, servizio attento e vini scelti con cura.\nIl menu è breve e vivace, scandito dalle maree e dall'arrivo dei nostri produttori. Qui la Bretagna è cucinata senza folklore, con sincerità e finezza.\nLe Cornély è aperto tutta la settimana, dalla mattina alla sera."
+        ],
+        "fr": [
+          "À une minute de la plage, Le Cornely est bien plus qu’un restaurant : c’est une maison de vacances, où l’on vient se ressourcer, partager et savourer.\nDès le matin, l’adresse s’éveille avec douceur au petit-déjeuner. Le midi, les assiettes s’ancrent dans le terroir breton, locales, fraîches et toujours de saison. Le soir, le lieu s’habille d’élégance discrète : cuisine inspirée, service attentionné, vins soigneusement choisis.\nLa carte est courte, vivante, rythmée par les marées et les arrivages de nos producteurs. Ici, on cuisine la Bretagne sans folklore, avec sincérité et finesse.\nLe Cornély reste ouvert toute la semaine du matin au soir."
+        ],
+        "nl": [
+          "Op slechts een minuut van het strand is Le Cornely veel meer dan een restaurant: het is een vakantiehuis waar je kunt opladen, delen en genieten.\nVanaf het moment dat je 's ochtends wakker wordt, biedt het restaurant een heerlijk ontbijt. Tijdens de lunch zijn de gerechten geworteld in het Bretonse terroir, lokaal, vers en altijd in het seizoen. S Avonds is de zaak gekleed in discrete elegantie: geïnspireerde keuken, attente bediening en zorgvuldig gekozen wijnen.\nHet menu is kort en levendig, onderbroken door de getijden en de komst van onze producenten. Hier wordt Bretagne gekookt zonder folklore, met oprechtheid en finesse.\nLe Cornély is de hele week geopend, van 's ochtends vroeg tot 's avonds laat."
+        ],
+        "es": [
+          "A un minuto de la playa, Le Cornely es mucho más que un restaurante: es una casa de vacaciones donde recargar las pilas, compartir y disfrutar.\nDesde que se levanta por la mañana, el restaurante le ofrece un delicioso desayuno. Al mediodía, los platos se inspiran en el terruño bretón, local, fresco y siempre de temporada. Por la noche, el local se viste de discreta elegancia: cocina inspirada, servicio atento y vinos cuidadosamente elegidos.\nEl menú es corto y animado, puntuado por las mareas y la llegada de nuestros productores. Aquí, Bretaña se cocina sin folclore, con sinceridad y delicadeza.\nLe Cornély está abierto toda la semana, de la mañana a la noche."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0407c195-11f2-37d2-aa61-6c5fc1b6baef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/640c0206-f0a7-3425-b548-41941173052c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c7d9190-2eb5-3592-9abe-005710a13c6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac4e55c2-2cd5-305b-8c55-c00a16b6d6c1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb031e77-5caf-3a43-8a22-d9bf17cfdc55",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/27ec3055-5bba-3a90-8842-ad90cc3c1b46",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bar",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar"
+            ],
+            "pt": [
+              "Bar"
+            ],
+            "en": [
+              "Bar"
+            ],
+            "it": [
+              "Bar"
+            ],
+            "fr": [
+              "Bar"
+            ],
+            "nl": [
+              "Bar"
+            ],
+            "es": [
+              "Bar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5b20cd66-eb6c-3608-b26f-cf235f53a931",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Wifi",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "WLAN, Internetzugang"
+            ],
+            "pt": [
+              "Wi-Fi, acesso Internet"
+            ],
+            "en": [
+              "Wifi, internet access"
+            ],
+            "it": [
+              "Wifi, accesso a internet"
+            ],
+            "fr": [
+              "Wifi, accès internet"
+            ],
+            "nl": [
+              "Wifi, internettoegang"
+            ],
+            "es": [
+              "Wifi, acceso a internet"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9cb441-9e35-3ce2-a956-625b80b91c9f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BabyChair",
+          "@type": [
+            "CateringAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Hochstuhl"
+            ],
+            "pt": [
+              "Cadeira de bebé"
+            ],
+            "en": [
+              "Baby chair"
+            ],
+            "it": [
+              "Sedia per bambini"
+            ],
+            "fr": [
+              "Chaise bébé"
+            ],
+            "es": [
+              "Silla de bebé"
+            ],
+            "nl": [
+              "Kinderstoel"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bb3d2f7-e8ce-3de9-a0a1-43a6f39229c8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Terrace",
+          "@type": [
+            "CommonAmenity",
+            "ParkAndGardenTheme"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Terrasse"
+            ],
+            "pt": [
+              "Terraço"
+            ],
+            "en": [
+              "Terrace"
+            ],
+            "it": [
+              "Terrazzo"
+            ],
+            "fr": [
+              "Terrasse"
+            ],
+            "es": [
+              "Terraza"
+            ],
+            "nl": [
+              "Terras"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9c563280-209f-3118-961a-5fed70e826dc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/18434988-9461-3c43-8e99-019a13726234",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "40 boulevard de légenèse"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/00407963-bc9d-39f8-be5a-211702c6617e",
+        "schema:latitude": "47.5675466",
+        "schema:longitude": "-3.0850629",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/19dd97dc-8df8-3488-b9a8-66778a008853",
+          "schema:validFrom": "2026-06-16T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2539983a-28fa-332e-b21d-e33f442663f4",
+          "schema:validFrom": "2026-03-26T00:00:00",
+          "schema:validThrough": "2026-06-15T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "internetAccess": true,
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-26",
+  "lastUpdateDatatourisme": "2026-03-27T04:04:15.261Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/66196c04-5a42-3e3b-a9b4-4bb1c6ad94ea",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:ChequesDejeunersTicketsRestaurants",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Essensgutscheine – Ticket Restaurant"
+            ],
+            "pt": [
+              "Vales-refeições — vales-restaurante"
+            ],
+            "en": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "it": [
+              "Buoni pasto - ticket restaurant"
+            ],
+            "fr": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "es": [
+              "Vales de comida - Cheques restaurante"
+            ],
+            "nl": [
+              "Ontbijtcheques - restauranttickets"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

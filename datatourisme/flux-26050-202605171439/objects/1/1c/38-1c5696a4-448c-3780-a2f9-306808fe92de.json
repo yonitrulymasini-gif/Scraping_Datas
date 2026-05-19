@@ -1,0 +1,339 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1c5696a4-448c-3780-a2f9-306808fe92de",
+  "dc:identifier": "ASC7d2f2a2c60c84",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Tarz Heol - Randonnées accompagnées"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/38b90303-ea55-3c2f-a11d-26dc4f61ffff",
+      "schema:telephone": [
+        "+33 2 97 86 29 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/da4c82f5-05ca-3ce9-9c6f-e6e9d831b33c",
+      "dc:description": {
+        "de": [
+          "Über 60 km malerische Rundwege warten darauf, von Ihnen entdeckt zu werden.Im Sommer treffen Sie sich jeden Dienstag. Abfahrt 18:30 Uhr - Picknick mitbringen."
+        ],
+        "en": [
+          "More than 60kms of picturesque circuits to discover.in summer, appointment every Tuesday. Departure at 6:30 pm - bring a picnic."
+        ],
+        "it": [
+          "Oltre 60 km di circuiti pittoreschi da scoprire. Partenza alle ore 18.30. Portate con voi un picnic."
+        ],
+        "fr": [
+          "Plus de 60kms de circuits pittoresques à découvrir.En été, rendez-vous tous les mardis. Départ 18h30 – prévoir pique-nique."
+        ],
+        "nl": [
+          "Meer dan 60 km schilderachtige circuits om te ontdekken. Vertrek om 18.30 uur - breng een picknick mee."
+        ],
+        "es": [
+          "Más de 60 km de pintorescos circuitos por descubrir. Salida a las 18:30 horas. Traiga un picnic."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7e6848c4-5568-3abb-9209-ef80081b08dc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e2c954b-f815-3dec-8e18-a8f37d77fdf1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae8b73fb-3521-31f7-a0d2-1173ffd1c9b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6d44492-4010-3411-9e6e-0568634b8aa1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb623801-911a-3f2b-92e8-8f2522b0c4fb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sport",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Sport"
+        ],
+        "pt": [
+          "Desporto"
+        ],
+        "en": [
+          "Sport"
+        ],
+        "it": [
+          "Sport"
+        ],
+        "fr": [
+          "Sport"
+        ],
+        "nl": [
+          "Sport"
+        ],
+        "es": [
+          "Deporte"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4175cc81-d391-3e62-9cc8-6a91c0eb3427",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7c0ef1a7-55fe-3c3e-9ed8-46123b26ea11",
+          "schema:addressLocality": "Ploemeur",
+          "schema:postalCode": "56270",
+          "schema:streetAddress": [
+            "8 La Vraie  Croix",
+            "Maison des Associations"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56162",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ploemeur"
+              ],
+              "pt": [
+                "Ploemeur"
+              ],
+              "en": [
+                "Ploemeur"
+              ],
+              "it": [
+                "Ploemeur"
+              ],
+              "fr": [
+                "Ploemeur"
+              ],
+              "nl": [
+                "Ploemeur"
+              ],
+              "es": [
+                "Ploemeur"
+              ]
+            },
+            "insee": "56162",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eca08bb0-b481-30d9-a16e-c80b4ce21e32",
+        "schema:latitude": "47.71811",
+        "schema:longitude": "-3.385252",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

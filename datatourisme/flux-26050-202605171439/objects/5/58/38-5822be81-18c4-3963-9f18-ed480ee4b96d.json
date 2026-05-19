@@ -1,0 +1,342 @@
+{
+  "@id": "https://data.datatourisme.fr/38/5822be81-18c4-3963-9f18-ed480ee4b96d",
+  "dc:identifier": "ASC1a3076cf62b74",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Centre Equestre des Menhirs"
+    ],
+    "fr": [
+      "Centre Equestre des Menhirs"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c6b1bbcc-1fdd-37a1-8282-5a79c743199a",
+      "schema:telephone": [
+        "+33 2 97 55 73 45",
+        "+33 6 11 07 69 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.centre-equestre-les-menhirs.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1a6626ca-0303-31db-a316-28e8f7785c69",
+      "dc:description": {
+        "de": [
+          "Das Reitzentrum Les Menhirs ist das ganze Jahr über geöffnet.\nEr bietet Ihnen :\n\n- gruppen- und Privatunterricht,\n- ausritte und Wanderungen,\n- praktika für alle Niveaus,\n- praktika und Babykurse ab 4 Jahren,\n- pferdepensionen\n\nNach vorheriger Reservierung."
+        ],
+        "en": [
+          "This Horse riding center is open all year, near famous Megalithics alignments.\n \nIt offers:\n- Collective and individual lessons,\n- Walks and hikes,\n- Courses for all levels,\n- Seminars and courses baby from 4 years\n- Pension for horses"
+        ],
+        "it": [
+          "Il centro ippico Menhirs è aperto tutto l'anno.\nOffre :\n\n- lezioni di gruppo e private,\n- passeggiate ed escursioni,\n- corsi per tutti i livelli,\n- corsi e lezioni per bambini a partire dai 4 anni,\n- pensione per cavalli\n\nÈ necessaria la prenotazione."
+        ],
+        "fr": [
+          "Le centre équestre des Menhirs est ouvert toute l'année.\nIl vous propose :\n\n- des cours collectifs et particuliers,\n- des promenades et randonnées,\n- des stages tous niveaux,\n- des stages et cours baby à partir de 4 ans,\n- des pensions pour chevaux\n\nSur réservation préalable."
+        ],
+        "es": [
+          "El centro ecuestre Menhirs está abierto todo el año.\nOfrece :\n\n- clases particulares y en grupo,\n- paseos y excursiones,\n- cursos para todos los niveles,\n- cursos y clases para bebés a partir de 4 años,\n- pupilaje de caballos\n\nSe requiere reserva previa."
+        ],
+        "nl": [
+          "De Menhirs manege is het hele jaar geopend.\nHet biedt :\n\n- groeps- en privélessen,\n- ritten en excursies,\n- cursussen voor alle niveaus,\n- cursussen en lessen voor baby's vanaf 4 jaar,\n- paardenpension\n\nVooraf reserveren noodzakelijk."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0526bcf4-e9c5-3053-aa74-ccf0e38c6129",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0d4fcbc7-c0a3-367f-b56a-74ec003a1952",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1984f25c-aa45-377c-a651-975ee49ba424",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/73814339-e21d-3c91-811c-f07a07759d20",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/516a3ae8-91e8-3641-821a-69b39b7d8596",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c1524e2a-4d54-3a13-b0a5-c4d38648c6e3",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Kerlescan",
+            "Le Manio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/532e59b2-0aac-3939-9415-146a531743ed",
+        "schema:latitude": "47.602935",
+        "schema:longitude": "-3.0500409",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d2b64464-34c3-3677-b04b-02cd1f051332",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-14",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.328Z"
+}

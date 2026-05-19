@@ -1,0 +1,612 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e7646a2f-d4c6-3268-b155-e7c6981aea48",
+  "dc:identifier": "RESBRE000V51L6GH",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Midway"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a03595ad-4c14-3522-9417-24b830b078c4",
+      "schema:legalName": "Le Midway",
+      "schema:telephone": [
+        "+33 9 85 14 38 61"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a03595ad-4c14-3522-9417-24b830b078c4",
+      "schema:legalName": "Le Midway",
+      "schema:telephone": [
+        "+33 9 85 14 38 61"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f11d74a6-d5f4-34b5-8dd8-b11ea11e05eb",
+      "dc:description": {
+        "de": [
+          "Das 2023 eröffnete Le Midway bietet Ihnen eine traditionelle Küche im Stil einer Brasserie, Pizzas, Planchas, Aperitifbretter und hausgemachte Burger, die Sie vor Ort genießen oder mitnehmen können.\nDas Restaurant wird von Elsa und Camille geleitet, den ehemaligen Betreibern des Don Camillo, die beide von Beruf Restaurantfachleute sind und lange Zeit gereist sind, vor allem nach Australien.\nDas Midway setzt auf Industriedesign in einem Gebäude aus Sichtziegeln mit einem großen Glasdach und einer großen Terrasse mit Holzboden, die ideal für sonnige Tage ist.\nEin herzlicher Empfang mit einem Lächeln ist garantiert!"
+        ],
+        "en": [
+          "Opened in 2023, Le Midway offers traditional brasserie-style cuisine, pizzas, planchas, aperitif boards and homemade burgers to eat in or take away.\nAt the helm are Elsa and Camille, former managers of the Don Camillo, both restaurateurs by trade who have traveled extensively, notably in Australia.\nIn terms of décor, Le Midway plays the industrial design card in an exposed-brick building with a vast glass roof, a large terrace and its wooden floor, ideal for sunny days.\nA warm and friendly welcome guaranteed!"
+        ],
+        "it": [
+          "Inaugurato nel 2023, Le Midway offre una cucina tradizionale in stile brasserie, pizze, planche, taglieri per aperitivi e hamburger fatti in casa da mangiare o da portare via.\nIl ristorante è gestito da Elsa e Camille, ex gestori del Don Camillo, entrambe ristoratrici di professione che hanno viaggiato molto, soprattutto in Australia.\nPer quanto riguarda l'arredamento, Le Midway gioca la carta del design industriale in un edificio di mattoni a vista con un ampio tetto in vetro e una grande terrazza con pavimento in legno, ideale per le giornate di sole.\nUn'accoglienza calorosa e amichevole garantita!"
+        ],
+        "fr": [
+          "Ouvert en 2023, Le Midway vous propose une cuisine traditionnelle façon brasserie, des pizzas, des planchas, des planches apéritives et des burgers maison à déguster sur place ou à emporter.\nA sa tête, Elsa et Camille, anciens gérants du Don Camillo, tous deux restaurateurs de métier ayant longtemps voyagé, notamment en Australie. \nCôté décor, Le Midway joue la carte du design industriel dans un bâtiment en briques apparentes, doté d'une vaste verrière, d'une grande terrasse et son plancher de bois, idéale aux beaux jours. \nAccueil souriant et chaleureux garanti !"
+        ],
+        "nl": [
+          "Le Midway werd geopend in 2023 en biedt een traditionele keuken in brasseriestijl, pizza's, plancha's, aperitieven en huisgemaakte hamburgers om te eten of mee te nemen.\nHet restaurant wordt gerund door Elsa en Camille, voormalige managers van de Don Camillo, beiden restauranthouders van beroep die veel hebben gereisd, met name in Australië.\nQua inrichting speelt Le Midway in op industrieel design in een gebouw van zichtbare bakstenen met een groot glazen dak en een groot terras met houten vloer, ideaal voor zonnige dagen.\nEen warm en vriendelijk onthaal gegarandeerd!"
+        ],
+        "es": [
+          "Inaugurado en 2023, Le Midway ofrece cocina tradicional de brasserie, pizzas, planchas, tablas de aperitivos y hamburguesas caseras para comer en el restaurante o para llevar.\nEl restaurante está dirigido por Elsa y Camille, antiguas gerentes del Don Camillo, restauradoras de profesión que han viajado mucho, sobre todo por Australia.\nEn cuanto a la decoración, Le Midway juega la carta del diseño industrial en un edificio de ladrillo visto con un amplio techo acristalado y una gran terraza con suelo de madera, ideal para los días soleados.\nLe garantizamos una acogida cálida y acogedora"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00b9662b-2808-37e9-98c3-495dc92758ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/160ff8f4-cbbe-350f-8f57-35a10d789ae9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ed92a13-8ff0-3a7e-b8ee-d0ad006006da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50076a2c-3113-38ce-8b59-88509d4ed377",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/822cc6fc-4060-3c97-94d2-0724d9a44e7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/ead684ac-6364-6191-1236-54fd8501b9e2",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "7792fba1-6c39-44b8-8f3d-deaafcc0bf4d",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a6884f3a-8fe7-349e-97d6-13e168570801",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a52cdb8d-3e4b-3756-9bc9-1fbaad31ea87",
+          "schema:addressLocality": "Auray",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "2 Avenue de l'Océan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auray"
+              ],
+              "pt": [
+                "Auray"
+              ],
+              "en": [
+                "Auray"
+              ],
+              "it": [
+                "Auray"
+              ],
+              "fr": [
+                "Auray"
+              ],
+              "nl": [
+                "Auray"
+              ],
+              "es": [
+                "Auray"
+              ]
+            },
+            "insee": "56007",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0583feaa-14a9-38e4-814e-79dc8ec2d3ef",
+        "schema:latitude": "47.66634",
+        "schema:longitude": "-2.9951",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-19",
+  "lastUpdateDatatourisme": "2026-03-20T03:57:09.876Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b9905356-f711-3501-9606-e22445059a61",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": false
+}

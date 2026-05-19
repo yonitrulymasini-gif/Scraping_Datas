@@ -1,0 +1,342 @@
+{
+  "@id": "https://data.datatourisme.fr/38/89a62b5a-4f9f-3623-9715-eab15de143e1",
+  "dc:identifier": "ASC201c5bfe03214",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Guidel Rando"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bd7978b2-926b-32e7-acb5-12e9dfb3d558",
+      "schema:telephone": [
+        "+33 2 97 32 81 32",
+        "+33 6 86 42 03 93"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.guidelrando.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/48dcb390-1459-3beb-abd1-129fb2739105",
+      "dc:description": {
+        "de": [
+          "Guidel Rando organisiert Wanderungen jeden Donnerstag ganztägig und nachmittags sowie sonntags ganztägig alle zwei Wochen. Ihre nächste große Veranstaltung TRO GWIDEL findet am Sonntag, den 17. Mai 2015 statt. Weitere Informationen unter www.guidelrando.fr"
+        ],
+        "en": [
+          "Guidel Rando organizes hikes every Thursday for the day and afternoon as well as Sundays for the day every 15 days. Their next big event TRO GWIDEL will take place on Sunday 17 May 2015. More information on www.guidelrando.fr"
+        ],
+        "it": [
+          "Guidel Rando organizza passeggiate per tutto il giorno e il pomeriggio ogni giovedì e passeggiate per tutto il giorno la domenica ogni due settimane. Il loro prossimo grande evento TRO GWIDEL si terrà domenica 17 maggio 2015. Ulteriori informazioni su www.guidelrando.fr"
+        ],
+        "fr": [
+          "Guidel Rando organise des randonnées tous les jeudis à la journée et l’après-midi ainsi que le dimanche à la journée tous les 15 jours. Leur prochaine grande manifestation TRO GWIDEL aura lieu le dimanche 17 mai 2015. Plus d'information sur www.guidelrando.fr"
+        ],
+        "es": [
+          "Guidel Rando organiza paseos de todo el día y de la tarde todos los jueves y paseos de todo el día los domingos cada dos semanas. Su próximo gran evento TRO GWIDEL tendrá lugar el domingo 17 de mayo de 2015. Más información en www.guidelrando.fr"
+        ],
+        "nl": [
+          "Guidel Rando organiseert elke donderdag de hele dag en middagwandelingen en elke twee weken de hele dag op zondag. Hun volgende grote evenement TRO GWIDEL vindt plaats op zondag 17 mei 2015. Meer informatie op www.guidelrando.fr"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0904ffc7-5960-39e3-bdc4-36edd1c2f3d3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2850a915-7ad8-31f3-8154-d0f1c2f95e0f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5f48c365-ade2-39a3-818d-db570a92912f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8f4e27c3-bbd2-3033-b951-8f1502f18c75",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98808378-6966-3937-8015-7577d697e79f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sport",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Sport"
+        ],
+        "pt": [
+          "Desporto"
+        ],
+        "en": [
+          "Sport"
+        ],
+        "it": [
+          "Sport"
+        ],
+        "fr": [
+          "Sport"
+        ],
+        "nl": [
+          "Sport"
+        ],
+        "es": [
+          "Deporte"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ec67c5f8-b999-3e0e-96c8-7a4d41641220",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f52bd09f-a4d0-38ef-968c-abcf96ce3a06",
+          "schema:addressLocality": "Guidel",
+          "schema:postalCode": "56520",
+          "schema:streetAddress": [
+            "3 rue des Sirènes"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56078",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guidel"
+              ],
+              "pt": [
+                "Guidel"
+              ],
+              "en": [
+                "Guidel"
+              ],
+              "it": [
+                "Guidel"
+              ],
+              "fr": [
+                "Guidel"
+              ],
+              "nl": [
+                "Guidel"
+              ],
+              "es": [
+                "Guidel"
+              ]
+            },
+            "insee": "56078",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d7e75b23-5f75-3376-a8ac-a067432fc0ad",
+        "schema:latitude": "47.76726",
+        "schema:longitude": "-3.517937",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

@@ -1,0 +1,311 @@
+{
+  "@id": "https://data.datatourisme.fr/38/5f01434d-20ab-3f90-af9f-beaa9ad084ec",
+  "dc:identifier": "LOIBRE000V51K3G7",
+  "@type": [
+    "schema:AmusementPark",
+    "schema:LocalBusiness",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SightseeingBoat",
+    "SportsAndLeisurePlace",
+    "ThemePark"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "West Park"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6d253c85-0c08-34ac-b0d1-e39636da8d99",
+      "schema:telephone": [
+        "+33 2 30 91 98 85"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://westpark.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a312649-3fce-3a73-a76f-64c5b8a96ca7",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie unseren Wasserspielplatz mit seinen Rutschen, Ventriglisse, Parcours und Kletterwand... Spaß für Groß und Klein (ab 6 Jahren) ist garantiert! Beaufsichtigte und betreute Aktivität."
+        ],
+        "en": [
+          "Discover our play area on the water with its slides, ventriglisse, course and climbing wall...Fun guaranteed for young (from 6 years) and old! Supervised activity."
+        ],
+        "it": [
+          "Scoprite la nostra area giochi sull'acqua con scivoli, toboga, percorsi e pareti di arrampicata... Divertimento assicurato per grandi e piccini (dai 6 anni)! Attività sorvegliata."
+        ],
+        "fr": [
+          "Découvrez notre espace de jeux sur l'eau avec ses toboggans, ventriglisse, parcours et mur d’escalade...Rigolade assurée pour petits (dès 6 ans) et grands ! Activité surveillée et encadrée."
+        ],
+        "nl": [
+          "Ontdek onze speeltuin op het water met glijbanen, windglijbaan, parcours en klimmuur... Gegarandeerd plezier voor jong (vanaf 6 jaar) en oud! Activiteit onder toezicht."
+        ],
+        "es": [
+          "Descubra nuestra zona de juegos en el agua con sus toboganes, tobogán de viento, recorrido y rocódromo... ¡Diversión garantizada para pequeños (a partir de 6 años) y mayores! Actividad supervisada."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1303ce99-784c-30c3-a624-a68b03ea273f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2327a2d6-45f0-3315-b1bf-a0b54b733073",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a44fd51b-9980-34ad-a100-50338c3811c0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b8ef3f98-1b75-330e-aa0e-fc3ad0e94e21",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d5f0067f-f1e1-3637-9fe6-534d1f7ab4f4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/345eedd6-69ff-3cce-8685-648665c14686",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a25f238a-501e-379b-8c5e-1971d3b19112",
+          "schema:addressLocality": "Inzinzac-Lochrist",
+          "schema:postalCode": "56650",
+          "schema:streetAddress": [
+            "Carrière de Bonne-Nouvelle",
+            "Lieu dit \"Le Rudet\""
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56090",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Inzinzac-Lochrist"
+              ],
+              "pt": [
+                "Inzinzac-Lochrist"
+              ],
+              "en": [
+                "Inzinzac-Lochrist"
+              ],
+              "it": [
+                "Inzinzac-Lochrist"
+              ],
+              "fr": [
+                "Inzinzac-Lochrist"
+              ],
+              "nl": [
+                "Inzinzac-Lochrist"
+              ],
+              "es": [
+                "Inzinzac-Lochrist"
+              ]
+            },
+            "insee": "56090",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cbdb4df4-a581-3341-9686-1e589c754555",
+        "schema:latitude": "47.862318",
+        "schema:longitude": "-3.207304",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-28",
+  "lastUpdateDatatourisme": "2026-04-29T02:55:00.957Z"
+}

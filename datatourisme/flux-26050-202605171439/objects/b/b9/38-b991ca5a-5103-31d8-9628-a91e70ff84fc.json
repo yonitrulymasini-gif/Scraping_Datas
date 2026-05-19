@@ -1,0 +1,426 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b991ca5a-5103-31d8-9628-a91e70ff84fc",
+  "dc:identifier": "ASCBRE056V50CFTJ",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Silvarium"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7ca573c2-d813-3c16-a56b-90af33065dad",
+      "schema:telephone": [
+        "+33 6 87 02 89 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7572fae6-677c-320c-8056-4e5109c56b72",
+      "dc:description": {
+        "de": [
+          "Kuriositätenkabinett"
+        ],
+        "en": [
+          "Cabinet of curiosities"
+        ],
+        "it": [
+          "Gabinetto delle curiosità"
+        ],
+        "fr": [
+          "Cabinet de curiosités"
+        ],
+        "nl": [
+          "Rariteitenkabinet"
+        ],
+        "es": [
+          "Gabinete de curiosidades"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1edc9f62-7a1b-39a5-ac7d-bd79a5aa0773",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63613bae-ce2f-311d-8d87-cab1b5436d05",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78ffeb6b-e1bb-3b24-b998-2bb35b0c10d0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8cb20a23-8bf7-3c2e-a0bf-def6b13b1f86",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7b3ca51-4f20-3926-a07c-04618219674d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:PaintingGraphicArts",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Gemälde, Grafiken"
+        ],
+        "pt": [
+          "Pintura, artes gráficas"
+        ],
+        "en": [
+          "Painting, graphic arts"
+        ],
+        "it": [
+          "Dipinti, arti grafiche"
+        ],
+        "fr": [
+          "Peintures, arts graphiques"
+        ],
+        "nl": [
+          "Schilderijen, grafische kunst"
+        ],
+        "es": [
+          "Pintura, artes gráficas"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Pottery",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tonwaren"
+        ],
+        "pt": [
+          "Olaria"
+        ],
+        "en": [
+          "Pottery"
+        ],
+        "it": [
+          "Vasellame"
+        ],
+        "fr": [
+          "Poterie"
+        ],
+        "es": [
+          "Cerámica"
+        ],
+        "nl": [
+          "Aardewerk"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sculpture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Skulptur"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "en": [
+          "Sculpture"
+        ],
+        "it": [
+          "Scultura"
+        ],
+        "fr": [
+          "Sculpture"
+        ],
+        "nl": [
+          "Sculptuur"
+        ],
+        "es": [
+          "Escultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Woodworking",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Holzarbeiten"
+        ],
+        "pt": [
+          "Trabalho da madeira"
+        ],
+        "en": [
+          "Woodworking"
+        ],
+        "it": [
+          "Lavorazione del legno"
+        ],
+        "fr": [
+          "Travail du bois"
+        ],
+        "es": [
+          "Trabajo de la madera"
+        ],
+        "nl": [
+          "Houtbewerking"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e8f8fc09-cab6-35f0-a08c-739472514d29",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7282807a-0960-3fff-a8a3-28dd4107878b",
+          "schema:addressLocality": "La Gacilly",
+          "schema:postalCode": "56200",
+          "schema:streetAddress": [
+            "Rue du Relais Postal"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56061",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Gacilly"
+              ],
+              "pt": [
+                "La Gacilly"
+              ],
+              "en": [
+                "La Gacilly"
+              ],
+              "it": [
+                "La Gacilly"
+              ],
+              "fr": [
+                "La Gacilly"
+              ],
+              "nl": [
+                "La Gacilly"
+              ],
+              "es": [
+                "La Gacilly"
+              ]
+            },
+            "insee": "56061",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4c610075-edb3-3748-b690-8ab28330686a",
+        "schema:latitude": "47.76332",
+        "schema:longitude": "-2.12987",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-06",
+  "lastUpdateDatatourisme": "2026-03-07T03:53:50.122Z"
+}

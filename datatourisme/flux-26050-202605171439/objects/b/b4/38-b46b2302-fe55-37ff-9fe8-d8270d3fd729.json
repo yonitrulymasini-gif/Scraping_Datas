@@ -1,0 +1,328 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b46b2302-fe55-37ff-9fe8-d8270d3fd729",
+  "dc:identifier": "FMABRE056V50DRM4",
+  "schema:endDate": [
+    "2026-05-22"
+  ],
+  "schema:startDate": [
+    "2026-05-22"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Pépé Ly - Rock-Punk-Jazz"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b267bf77-da56-3d90-b60d-d890abaca190",
+      "schema:telephone": [
+        "+33 2 97 93 48 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lechampcommun.fr/la-prog"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7f26f9f9-cd03-39d9-b499-b93e37af0200",
+      "dc:description": {
+        "de": [
+          "Eine zärtliche Explosion, eine wilde Mischung aus den Wurzeln von Rock, Punk und Jazz, Texte, die beißen und streicheln. Man vergleicht sie mit den Rita Mitsouko, Janis Joplin und Nina Hagen."
+        ],
+        "en": [
+          "A tender deflagration, a wild mix of rock, punk and jazz roots, lyrics that bite and caress. They've been compared to Rita Mitsouko, Janis Joplin and Nina Hagen."
+        ],
+        "it": [
+          "Un'esplosione di tenerezza, un mix selvaggio di rock, punk e jazz, testi che mordono e accarezzano. Sono stati paragonati a Rita Mitsouko, Janis Joplin e Nina Hagen."
+        ],
+        "fr": [
+          "Une déflagration tendre, un mélange sauvage aux racines du rock, du punk et du jazz, des textes qui mordent et qui caressent. On les compare aux Rita Mitsouko, à Janis Joplin, à Nina Hagen."
+        ],
+        "es": [
+          "Una tierna explosión, una mezcla salvaje de rock, punk y jazz, letras que muerden y acarician. Se las ha comparado con Rita Mitsouko, Janis Joplin y Nina Hagen."
+        ],
+        "nl": [
+          "Een tedere explosie, een wilde mix van rock, punk en jazz, teksten die bijten en strelen. Ze zijn vergeleken met Rita Mitsouko, Janis Joplin en Nina Hagen."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0df41141-f76a-3f42-b5ab-e3b42003fed5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/23ebdcee-bfaa-3c85-a036-6a12ee6c9daa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2838ee58-0616-30f1-80fe-e6afa2d5c7fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ef6c070-97e0-3e5d-bd36-7c0b92aa4fa5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/94781351-8407-3986-8366-80a120797021",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/388bc5bb-7875-33c5-94d9-bfa2a78ec47f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6b680f73-0e85-38c2-8b07-470d9946bff0",
+          "schema:addressLocality": "Augan",
+          "schema:postalCode": "56800",
+          "schema:streetAddress": [
+            "1 rue du Clos Bily",
+            "Le Champ Commun"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56006",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Augan"
+              ],
+              "pt": [
+                "Augan"
+              ],
+              "en": [
+                "Augan"
+              ],
+              "it": [
+                "Augan"
+              ],
+              "fr": [
+                "Augan"
+              ],
+              "nl": [
+                "Augan"
+              ],
+              "es": [
+                "Augan"
+              ]
+            },
+            "insee": "56006",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/022a6108-c194-3cfa-a46e-9d8df23913dc",
+        "schema:latitude": "47.9201045",
+        "schema:longitude": "-2.2800305",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.834Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0061f0be-1734-3cbb-8063-e6062428277d",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-22",
+      "endTime": "22:30:00",
+      "startDate": "2026-05-22",
+      "startTime": "21:00:00"
+    }
+  ]
+}

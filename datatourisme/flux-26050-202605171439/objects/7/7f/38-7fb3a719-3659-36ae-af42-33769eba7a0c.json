@@ -1,0 +1,306 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7fb3a719-3659-36ae-af42-33769eba7a0c",
+  "dc:identifier": "ASC1090d077ff4f4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Ecuries de Manuella"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/82c6b567-57df-33f3-9feb-caaa74da4580",
+      "schema:telephone": [
+        "+33 6 25 62 11 47"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5f733c42-0230-31bc-8667-531efd164e82",
+      "dc:description": {
+        "de": [
+          "In Kernivilit Pension für Pferde und Ponys auf Wiesen und in Boxen. Es gibt auch Steinbrüche. Ausritte im Mai für Kinder und Erwachsene."
+        ],
+        "en": [
+          "In Kernivilit, horses and ponies boarding in meadows and boxes. Careers. Rides in May for children and adults."
+        ],
+        "it": [
+          "A Kernivilit, pensione per cavalli e pony in prati e stalle. Cave. Giri a maggio per bambini e adulti."
+        ],
+        "fr": [
+          "A Kernivilit, pensions de chevaux et poneys dans prés et box. Carrières. Balade en mai pour les enfants et adultes."
+        ],
+        "nl": [
+          "In Kernivilit, paarden- en ponypension in weiden en stallen. Steengroeven. Ritten in mei voor kinderen en volwassenen."
+        ],
+        "es": [
+          "En Kernivilit, alojamiento de caballos y ponis en prados y establos. Canteras. Paseos en mayo para niños y adultos."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/46ce003b-f58f-351d-91da-fcfccc6a8ce4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/673fec02-3a30-353d-858d-2a595a159e8c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a217e5e5-6150-3e27-9d57-84339b21b238",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/be073960-661c-30bd-bdfa-356ed724de4a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe8cea56-5065-3e8c-8dab-5c7fc6eb0d74",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/23e83fed-3526-3bc4-b663-3c022c88c9b3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/386729d9-f2c5-36bc-baa3-6c5b62349ad9",
+          "schema:addressLocality": "Saint-Philibert",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "Kernivilite="
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56233",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Philibert"
+              ],
+              "pt": [
+                "Saint-Philibert"
+              ],
+              "en": [
+                "Saint-Philibert"
+              ],
+              "it": [
+                "Saint-Philibert"
+              ],
+              "fr": [
+                "Saint-Philibert"
+              ],
+              "nl": [
+                "Saint-Philibert"
+              ],
+              "es": [
+                "Saint-Philibert"
+              ]
+            },
+            "insee": "56233",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0f9d8a29-6d5b-307d-8c79-f8359ff73a47",
+        "schema:latitude": "47.57957",
+        "schema:longitude": "-3.002445",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T03:54:24.599Z"
+}

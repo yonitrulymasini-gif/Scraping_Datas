@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/60d41f27-b8b4-3356-ab5e-38653be9acff",
+  "dc:identifier": "FMABRE056V50DWQJ",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Atelier grainothèque : fabrication d'un encens naturel"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/88c30545-3bc8-3b41-b68f-11ad00242753",
+      "schema:telephone": [
+        "+33 2 99 93 74 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://c3rb.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d297d96d-ff07-32ad-8cf0-0c8a4313f955",
+      "dc:description": {
+        "de": [
+          "Zu Ehren des Sommers lernen Sie mit Laëtitia, wie man Räucherwerk aus magischen Pflanzen und Gewürzen herstellt."
+        ],
+        "en": [
+          "In honor of summer, come and discover with Laëtitia how to make incense with magical plants and spices."
+        ],
+        "it": [
+          "In onore dell'estate, venite a scoprire con Laëtitia come fare l'incenso con piante e spezie magiche."
+        ],
+        "fr": [
+          "En l'honneur de l'été, venez découvrir avec Laëtitia comment confectionner de l'encens avec des plantes et des épices magiques."
+        ],
+        "nl": [
+          "Kom ter ere van de zomer samen met Laëtitia ontdekken hoe je wierook kunt maken met magische planten en kruiden."
+        ],
+        "es": [
+          "En honor del verano, venga a descubrir con Laëtitia cómo hacer incienso con plantas y especias mágicas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/106e73af-fbf5-362c-9cde-7db15ad2af76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/19e49e9d-3bb0-3c73-a6bd-c2f9d621e451",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b06d3641-a43e-37ef-9481-f4f0228009b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd6d82b1-eddf-3b6d-9d54-ff80476fb615",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bef728a3-e49f-3365-b984-5569e5162953",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fea4ea7e-2652-3dd0-8afe-9aba94af6213",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/97af1bfa-8e10-360e-8625-08229e5f53e3",
+          "schema:addressLocality": "Carentoir",
+          "schema:postalCode": "56910",
+          "schema:streetAddress": [
+            "2 rue du Presbytère",
+            "Médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56033",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carentoir"
+              ],
+              "pt": [
+                "Carentoir"
+              ],
+              "en": [
+                "Carentoir"
+              ],
+              "it": [
+                "Carentoir"
+              ],
+              "fr": [
+                "Carentoir"
+              ],
+              "nl": [
+                "Carentoir"
+              ],
+              "es": [
+                "Carentoir"
+              ]
+            },
+            "insee": "56033",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a57d3732-756d-3f27-9710-34c040fae3b3",
+        "schema:latitude": "47.8172821",
+        "schema:longitude": "-2.1328272",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-07",
+  "lastUpdateDatatourisme": "2026-05-08T03:36:20.692Z"
+}

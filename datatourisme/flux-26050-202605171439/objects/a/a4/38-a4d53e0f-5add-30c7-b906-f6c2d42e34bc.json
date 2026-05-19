@@ -1,0 +1,387 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a4d53e0f-5add-30c7-b906-f6c2d42e34bc",
+  "dc:identifier": "FMABRE056V50DJR4",
+  "schema:endDate": [
+    "2026-08-20"
+  ],
+  "schema:startDate": [
+    "2026-08-20"
+  ],
+  "@type": [
+    "schema:Event",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "ShowEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Contes et marionnettes - Le Roman de Renart"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/165e89a1-60f2-3cf4-ab76-add6fe747809",
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5511ba31-8515-36fe-8e57-d5aa83711d59",
+      "schema:telephone": [
+        "+33 2 97 22 79 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://broceliande-centre-arthurien.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/75e3cb03-59f2-38ca-9477-56cd042fa58f",
+      "dc:description": {
+        "de": [
+          "Die Abenteuer des neckischen und klugen mittelalterlichen Helden stehen auf dem Programm der neuen Abenteuer in Brocéliande des Marionettentheaters der Compagnie Coppélius.\nReservierungen werden empfohlen."
+        ],
+        "en": [
+          "The adventures of the mischievous medieval hero are on the program of the Compagnie Coppélius puppet theater's new adventures in Brocéliande.\nReservations recommended."
+        ],
+        "it": [
+          "Le avventure del dispettoso eroe medievale sono in programma per le nuove avventure di Brocéliande del teatro di marionette della Compagnie Coppélius.\nSi consiglia la prenotazione."
+        ],
+        "fr": [
+          "Les aventures du héros médiéval taquin et malin sont au programme des nouvelles aventures en Brocéliande du théâtre de marionnettes de la Compagnie Coppélius.\nRéservation conseillée."
+        ],
+        "es": [
+          "Las aventuras del travieso héroe medieval están en el programa de las nuevas aventuras en Brocéliande del teatro de marionetas de la Compagnie Coppélius.\nSe recomienda reservar."
+        ],
+        "nl": [
+          "De avonturen van de ondeugende middeleeuwse held staan op het programma voor de nieuwe avonturen in Brocéliande van de Compagnie Coppélius poppentheater.\nReserveren aanbevolen."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/25444b57-10c1-3fb0-9be0-084a0ac8e3dc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7596f0d1-92c7-3980-813e-55edebfb7cdb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/797612be-90c1-3ca4-b774-926cc1773dd4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/837254b3-ed7f-3ecf-9b0e-dbc20cacc372",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c69f9199-e33b-318a-bcd3-7dc55ef188a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/30029dc8-edd0-3904-8b59-9ef17629df15",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c837a7ea-4f62-30e9-b219-0655e2a9fd85",
+          "schema:addressLocality": "Concoret",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "Centre de l'Imaginaire Arthurien",
+            "Château de Comper"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56043",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Concoret"
+              ],
+              "pt": [
+                "Concoret"
+              ],
+              "en": [
+                "Concoret"
+              ],
+              "it": [
+                "Concoret"
+              ],
+              "fr": [
+                "Concoret"
+              ],
+              "nl": [
+                "Concoret"
+              ],
+              "es": [
+                "Concoret"
+              ]
+            },
+            "insee": "56043",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/53f41116-ba0f-3846-896c-1a5ec4ca5ac6",
+        "schema:latitude": "48.0704478",
+        "schema:longitude": "-2.1731778",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-25",
+  "lastUpdateDatatourisme": "2026-04-26T03:05:42.994Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/83d295cd-499b-3c82-8807-00d6b1cd8d5d",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-20",
+      "endTime": "17:00:00",
+      "startDate": "2026-08-20",
+      "startTime": "16:00:00"
+    }
+  ]
+}

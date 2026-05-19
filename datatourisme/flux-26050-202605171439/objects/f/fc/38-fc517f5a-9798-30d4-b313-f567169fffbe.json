@@ -1,0 +1,352 @@
+{
+  "@id": "https://data.datatourisme.fr/38/fc517f5a-9798-30d4-b313-f567169fffbe",
+  "dc:identifier": "ASC2d0abe3c63134",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Rioux Nautique - location bateaux à moteur"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a2984c63-3cbf-3cb5-80f5-655ecc1f0e65",
+      "schema:telephone": [
+        "+33 2 97 55 85 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.rioux-nautique.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/86b41ded-424a-3035-8d80-fc80cea95136",
+      "dc:description": {
+        "de": [
+          "Rioux Nautique bietet Ihnen eine große Auswahl an Motorbootvermietungen: RIBs und offene Rümpfe der Marken Zodiac und Lomac. Es besteht die Möglichkeit, Wasserskis, Wakeboards und Schleppbojen mit Schnellboot zu mieten."
+        ],
+        "en": [
+          "Rioux Nautique offers a wide range of motorboat rentals: RIBs and open hulls, from Zodiac and Lomac. Possibility of renting water skis, wakeboards and towable buoys with speedboat."
+        ],
+        "it": [
+          "Rioux Nautique offre un'ampia gamma di noleggi di barche a motore: RIB e scafi aperti, Zodiac e Lomac. Possibilità di noleggiare sci d'acqua, wakeboard e boe trainabili con motoscafo."
+        ],
+        "fr": [
+          "Rioux Nautique vous propose un large choix de location de bateaux à moteur : semi-rigides et coques open, des marques Zodiac et Lomac. Possibilité de location de skis nautiques, wakeboards et bouées tractables avec vedette."
+        ],
+        "es": [
+          "Rioux Nautique ofrece una amplia gama de alquiler de embarcaciones a motor: semirrígidas y cascos abiertos, de Zodiac y Lomac. Posibilidad de alquilar esquís acuáticos, wakeboards y boyas remolcables con lancha."
+        ],
+        "nl": [
+          "Rioux Nautique biedt een breed scala aan verhuur van motorboten: RIBs en open rompen, van Zodiac en Lomac. Mogelijkheid tot het huren van waterski's, wakeboards en sleepboeien met speedboot."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4a56a230-97ea-3792-9b86-19c89f4becc5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6da94200-7632-3f6e-af21-c4b2f6fbbcc1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa2e1db0-24f4-3559-8b8a-ddc5bae7939c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2d1176b-89a9-3045-82f8-15ef11ac5fed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c54276ea-3288-3808-bc30-ee7a99e5d17a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:WaterSkiing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Wasserski"
+        ],
+        "pt": [
+          "Esqui náutico"
+        ],
+        "en": [
+          "Water skiing"
+        ],
+        "it": [
+          "Sci d'acqua"
+        ],
+        "fr": [
+          "Ski nautique"
+        ],
+        "nl": [
+          "Waterskiën"
+        ],
+        "es": [
+          "Esquí acuático"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5b554816-b391-32b3-92f1-f0e08bc00b0a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c5e44ea8-890c-3a3f-9536-78996dac3534",
+          "schema:addressLocality": "La Trinité-sur-Mer",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "15 rue de Carnac",
+            " "
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56258",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Trinité-sur-Mer"
+              ],
+              "pt": [
+                "La Trinité-sur-Mer"
+              ],
+              "en": [
+                "La Trinité-sur-Mer"
+              ],
+              "it": [
+                "La Trinité-sur-Mer"
+              ],
+              "fr": [
+                "La Trinité-sur-Mer"
+              ],
+              "nl": [
+                "La Trinité-sur-Mer"
+              ],
+              "es": [
+                "La Trinité-sur-Mer"
+              ]
+            },
+            "insee": "56258",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/623f8a85-70c3-3e35-9b43-4d193272b050",
+        "schema:latitude": "47.58674",
+        "schema:longitude": "-3.032292",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4d05073b-cbbf-3af6-b9ff-fe0a147013f8",
+          "schema:validFrom": "2017-01-01T00:00:00",
+          "schema:validThrough": "2017-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.339Z"
+}

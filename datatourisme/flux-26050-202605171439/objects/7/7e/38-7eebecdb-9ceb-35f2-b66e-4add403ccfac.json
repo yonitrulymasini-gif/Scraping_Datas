@@ -1,0 +1,325 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7eebecdb-9ceb-35f2-b66e-4add403ccfac",
+  "dc:identifier": "FMABRE056V505KDJ",
+  "schema:endDate": [
+    "2026-06-30"
+  ],
+  "schema:startDate": [
+    "2026-06-01"
+  ],
+  "@type": [
+    "schema:Event",
+    "ChildrensEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Jeu-Concours \"Le football\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6deb492a-5d86-373f-8377-82ed02e4ab74",
+      "schema:telephone": [
+        "+33 6 72 75 31 17"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://le-ptitmonde-de-zabelle.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a05fe7c-8e76-35fb-93d3-da76851a63b4",
+      "dc:description": {
+        "de": [
+          "Spielheft im Buchladen erhältlich oder auf der Website herunterladbar.  In den Buchladen zurückbringen oder in den Briefkasten werfen.\nFür alle offen. Kostenlos"
+        ],
+        "en": [
+          "Games booklet available from the bookshop or downloadable from the website.  Return to the bookshop or put in your letterbox.\nOpen to all. Free"
+        ],
+        "it": [
+          "Il libretto dei giochi è disponibile in libreria o scaricabile dal sito web.  Da restituire in libreria o da inserire nella cassetta delle lettere.\nAperto a tutti. Gratuito"
+        ],
+        "fr": [
+          "Fascicule de jeux disponible à la librairie ou téléchargeable sur le site.  À rapporter à la librairie ou à mettre dans la boîte aux lettres.\nOuvert à tous. Gratuit"
+        ],
+        "nl": [
+          "Spelletjesboekje verkrijgbaar in de boekwinkel of te downloaden van de website.  Inleveren bij de boekwinkel of in de brievenbus doen.\nVoor iedereen toegankelijk. Gratis"
+        ],
+        "es": [
+          "Folleto de juegos disponible en la librería o descargable de la página web.  Devuélvalo a la librería o deposítelo en su buzón.\nAbierto a todos. Gratis"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3c21c2dc-ed7c-36f3-ab8e-ab63cee1220a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/69386f75-35de-3d3e-8bfe-ec7bb186d5a2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6dcb1ba9-df26-302e-9e8c-6c5e72ab56a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a6594480-5a04-36e4-89fc-e9f957abfefd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe7bb26a-84fb-307f-bfe9-66424a65bd4c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9d5afb1f-a855-38b2-8f79-1f61d092ba38",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/aa5374ad-473e-39bb-828f-a2afb09453a2",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "15 Rue Saint-Cornely",
+            "Le p'tit Monde de Zabelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/11e9ddfe-9b51-3a26-8824-e52233a7dfa5",
+        "schema:latitude": "47.58347",
+        "schema:longitude": "-3.08074",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-04",
+  "lastUpdateDatatourisme": "2026-05-05T02:47:05.725Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2c2730fc-a1a3-3821-a713-801f07ae4bdc",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-30",
+      "startDate": "2026-06-01"
+    }
+  ]
+}

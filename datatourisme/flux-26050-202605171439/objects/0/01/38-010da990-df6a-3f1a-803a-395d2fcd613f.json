@@ -1,0 +1,367 @@
+{
+  "@id": "https://data.datatourisme.fr/38/010da990-df6a-3f1a-803a-395d2fcd613f",
+  "dc:identifier": "FMABRE056V50CBT8",
+  "schema:endDate": [
+    "2026-05-15",
+    "2026-06-12"
+  ],
+  "schema:startDate": [
+    "2026-05-15",
+    "2026-06-12"
+  ],
+  "@type": [
+    "schema:Event",
+    "ChildrensEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La rentrée des histoires de KA & CO"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3130757b-58e7-312c-9f2f-3d2bb62e86b4",
+      "schema:telephone": [
+        "+33 2 97 55 41 80"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9e59915a-c557-3441-ae2e-f58e4f97c8d7",
+      "dc:description": {
+        "de": [
+          "Die Mediathek lädt Sie ein, den Geschichten und Kinderreimen von Karin und Corine zu lauschen.\n\nLesungen für 0-3-Jährige.\n\nKostenlos mit Anmeldung: 02 97 55 41 80 oder mediatheque@mairiebelz.com"
+        ],
+        "en": [
+          "The multimedia library invites you to listen to stories and rhymes by Karine and Corine.\n\nReadings for 0-3 year olds.\n\nFree with registration: 02 97 55 41 80 or mediatheque@mairiebelz.com"
+        ],
+        "it": [
+          "La biblioteca multimediale invita ad ascoltare le storie e le filastrocche di Karine e Corine.\n\nLetture per bambini da 0 a 3 anni.\n\nGratuito con iscrizione: 02 97 55 41 80 o mediatheque@mairiebelz.com"
+        ],
+        "fr": [
+          "La médiathèque vous invite à écouter les histoires et comptines de Karine et Corine.\n\nLectures pour les 0-3 ans.\n\nGratuit sur inscription : 02 97 55 41 80 ou mediatheque@mairiebelz.com"
+        ],
+        "es": [
+          "La biblioteca multimedia le invita a escuchar cuentos y canciones infantiles de Karine y Corine.\n\nLecturas para niños de 0 a 3 años.\n\nGratuito previa inscripción: 02 97 55 41 80 o mediatheque@mairiebelz.com"
+        ],
+        "nl": [
+          "De mediatheek nodigt je uit om te luisteren naar verhalen en kinderliedjes van Karine en Corine.\n\nVoorlezen voor kinderen van 0-3 jaar.\n\nGratis bij inschrijving: 02 97 55 41 80 of mediatheque@mairiebelz.com"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/33fc8b52-45f3-3e92-9e98-ddcfb94c340c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3e36c633-f0fb-3e59-aa19-23ae8d03c25e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac4a39f2-3cec-3668-bc03-b688693127cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb0cdfd4-da1d-38ed-8a0f-920d53c0d415",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e7f45e1c-06cb-3249-887b-6952da657c9b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/48fee8b4-9559-3138-868b-9e41e7c7fb1e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/38b65b24-8766-3c87-a215-28eb960474f5",
+          "schema:addressLocality": "Belz",
+          "schema:postalCode": "56550",
+          "schema:streetAddress": [
+            "34 Rue Général de Gaulle",
+            "Médiathèque Le Passe Temps -"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56013",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Belz"
+              ],
+              "pt": [
+                "Belz"
+              ],
+              "en": [
+                "Belz"
+              ],
+              "it": [
+                "Belz"
+              ],
+              "fr": [
+                "Belz"
+              ],
+              "nl": [
+                "Belz"
+              ],
+              "es": [
+                "Belz"
+              ]
+            },
+            "insee": "56013",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/17f1eb69-bff3-3b42-9e53-38f80bee6514",
+        "schema:latitude": "47.6758114",
+        "schema:longitude": "-3.1683249",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T03:34:47.251Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a5ec0a77-b341-36f0-a491-0a6aa853f757",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-15",
+      "endTime": "10:45:00",
+      "startDate": "2026-05-15",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b124155f-ac7c-3389-b134-7a5344fddeb0",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-12",
+      "endTime": "10:45:00",
+      "startDate": "2026-06-12",
+      "startTime": "10:00:00"
+    }
+  ]
+}

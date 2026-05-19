@@ -1,0 +1,685 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ffa83285-798e-36d0-b95c-e8dbe8c78707",
+  "dc:identifier": "HLOdb5d612024eb4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "L'Arbre Voyageur"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8ddc5211-b1b1-308f-9e22-35e76e0191e9",
+      "schema:telephone": [
+        "+33 2 97 55 32 71",
+        "+33 6 08 31 46 95"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larbrevoyageur.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5595a779-2981-39ce-98b2-51c71fdc44d7",
+      "schema:legalName": "L'Arbre Voyageur",
+      "schema:telephone": [
+        "+33 2 97 55 32 71",
+        "+33 6 08 31 46 95"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larbrevoyageur.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8ddc5211-b1b1-308f-9e22-35e76e0191e9",
+      "schema:telephone": [
+        "+33 2 97 55 32 71",
+        "+33 6 08 31 46 95"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larbrevoyageur.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3bbb169e-c9e1-3081-b545-4fc5bd146dcf",
+      "dc:description": {
+        "de": [
+          "L'arbre Voyageur Gästezimmer mit Charme\nL'arbre Voyageur ist ein wunderschönes, ruhig gelegenes neobretonisches Bauernhaus mit 5 komfortablen und geräumigen Zimmern mit eleganter und harmonischer Dekoration. Corinne und Hugues bereiten Ihnen dort einen herzlichen Empfang und stehen Ihnen während Ihres gesamten Aufenthalts zur Verfügung. Sie werden das beheizte Hallenbad und den schönen Landschaftspark von 6500m² genießen."
+        ],
+        "en": [
+          "L'arbre Voyageur charming guest rooms\nL'arbre Voyageur is a superb, peaceful neo-Bretonne farmhouse with 5 comfortable, spacious rooms decorated in an elegant, harmonious style. Corinne and Hugues will give you a warm welcome and will be at your service throughout your stay. Take advantage of the heated indoor swimming pool and the beautiful landscaped park of 6500m²."
+        ],
+        "it": [
+          "L'arbre Voyageur camere di charme\nL'arbre Voyageur è una splendida e tranquilla fattoria neo-bretone con 5 camere confortevoli e spaziose, arredate in uno stile elegante e armonioso. Corinne e Hugues vi daranno un caloroso benvenuto e saranno a vostra disposizione per tutto il soggiorno. Approfittate della piscina interna riscaldata e dello splendido parco paesaggistico di 6500 m²."
+        ],
+        "fr": [
+          "L'arbre Voyageur chambres d'hôtes de charme\nL'arbre Voyageur est une superbe longère néobretonne au calme avec 5 chambres confortables et spacieuses à la décoration élégante et harmonieuse. Corinne et Hugues vous y réservent un accueil chaleureux et sont à votre écoute tout au long de votre séjour. Vous profiterez de la piscine couverte et chauffée et du beau parc paysager de 6500m²."
+        ],
+        "nl": [
+          "L'arbre Voyageur charmante gastenkamers\nL'arbre Voyageur is een prachtige, rustige neo-Bretonse boerderij met 5 comfortabele, ruime kamers ingericht in een elegante, harmonieuze stijl. Corinne en Hugues heten je van harte welkom en staan gedurende je hele verblijf voor je klaar. Profiteer van het verwarmde binnenzwembad en het prachtig aangelegde terrein van 6500m²."
+        ],
+        "es": [
+          "Habitaciones con encanto de L'arbre Voyageur\nL'arbre Voyageur es una magnífica y tranquila granja neo-bretona con 5 habitaciones confortables y espaciosas decoradas con un estilo elegante y armonioso. Corinne y Hugues le darán una cálida bienvenida y estarán a su servicio durante toda su estancia. Disfrute de la piscina cubierta climatizada y de los 6500 m² de jardines."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/9593287a-a729-3d74-9900-51305068aae8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/96f70f5d-f5d0-375f-9e2f-ec50a2a1f12d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c481b14d-88db-3500-9a05-f09a6aa1bf59",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d02e8ec7-274b-3e17-bf48-6f24b2be78ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e4861548-995a-3460-8670-95427dad3b16",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/08a26c69-99d9-3ec8-9f02-21343395afc6",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:IndoorPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überdachter Swimmingpool"
+            ],
+            "pt": [
+              "Piscina coberta"
+            ],
+            "en": [
+              "Indoor pool"
+            ],
+            "it": [
+              "Piscina coperta"
+            ],
+            "fr": [
+              "Piscine couverte"
+            ],
+            "es": [
+              "Piscina cubierta"
+            ],
+            "nl": [
+              "Overdekt zwembad"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7a531d24-7cb5-32fb-99c7-e6e24880e38a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eaae0ac2-0d8c-3918-9fd0-bc4321fe536a",
+          "schema:addressLocality": "Locoal-Mendon",
+          "schema:postalCode": "56550",
+          "schema:streetAddress": [
+            "27 Lieu-dit Ty Er Chir"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56119",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locoal-Mendon"
+              ],
+              "pt": [
+                "Locoal-Mendon"
+              ],
+              "en": [
+                "Locoal-Mendon"
+              ],
+              "it": [
+                "Locoal-Mendon"
+              ],
+              "fr": [
+                "Locoal-Mendon"
+              ],
+              "nl": [
+                "Locoal-Mendon"
+              ],
+              "es": [
+                "Locoal-Mendon"
+              ]
+            },
+            "insee": "56119",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/028e8165-d497-30c8-b9ef-449e5393ca4e",
+        "schema:latitude": "47.6866955",
+        "schema:longitude": "-3.1173978",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-05-07",
+  "lastUpdateDatatourisme": "2026-05-08T03:57:32.231Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

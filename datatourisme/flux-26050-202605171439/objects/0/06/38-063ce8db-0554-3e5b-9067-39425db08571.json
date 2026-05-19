@@ -1,0 +1,783 @@
+{
+  "@id": "https://data.datatourisme.fr/38/063ce8db-0554-3e5b-9067-39425db08571",
+  "dc:identifier": "PCUBRE029V51WZMI",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Sous-marin Flore-S645 et son Musée"
+    ]
+  },
+  "availableLanguage": [
+    "en"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/3963187e-faf1-3ee5-912b-42e6526320af",
+    "dc:identifier": "818a18e0-4dce-4aa8-a6c6-ff8198d299de",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/893f1673-afe4-348f-9612-a654b1af8e4f",
+        "schema:addressLocality": "Moëlan-sur-Mer",
+        "schema:postalCode": "29350",
+        "schema:streetAddress": [
+          "18 rue des écoles"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:29150",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Moëlan-sur-Mer"
+            ],
+            "pt": [
+              "Moëlan-sur-Mer"
+            ],
+            "en": [
+              "Moëlan-sur-Mer"
+            ],
+            "it": [
+              "Moëlan-sur-Mer"
+            ],
+            "fr": [
+              "Moëlan-sur-Mer"
+            ],
+            "nl": [
+              "Moëlan-sur-Mer"
+            ],
+            "es": [
+              "Moëlan-sur-Mer"
+            ]
+          },
+          "insee": "29150",
+          "isPartOfDepartment": {
+            "@id": "kb:France5329",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Finistère"
+              ],
+              "pt": [
+                "Finistère"
+              ],
+              "en": [
+                "Finistère"
+              ],
+              "it": [
+                "Finistère"
+              ],
+              "fr": [
+                "Finistère"
+              ],
+              "nl": [
+                "Finistère"
+              ],
+              "es": [
+                "Finistère"
+              ]
+            },
+            "insee": "29",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@quimperle-lesrias.bzh"
+    ],
+    "schema:legalName": "OT QUIMPERLE LES RIAS",
+    "schema:telephone": [
+      "+33 2 98 39 67 28"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.quimperle-lesrias.bzh/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/dd2af64b-75e1-3194-9dc6-438ce4806265",
+      "schema:telephone": [
+        "+33 2 97 65 56 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.la-flore.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2ade5edc-829d-374c-8db3-57319a34b7ec",
+      "schema:legalName": "Le Sous-marin Flore-S645 et son Musée",
+      "schema:telephone": [
+        "+33 2 97 65 56 56"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.la-flore.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd2af64b-75e1-3194-9dc6-438ce4806265",
+      "schema:telephone": [
+        "+33 2 97 65 56 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.la-flore.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b95531fb-a021-3661-b8b5-0923550a50b6",
+      "dc:description": {
+        "de": [
+          "In einer Zelle des ehemaligen U-Boot-Stützpunkts können Sie in einem schönen Ausstellungsraum das Leben an Bord, die Funktionsweise dieser mysteriösen Militärschiffe und die Geschichte des strategischen Hafens Lorient entdecken. Abschließend können Sie dieses authentische U-Boot mit einem Audioguide besichtigen, der über das Leben an Bord berichtet. Geheimmissionen: 2 Schnitzeljagden für Erwachsene und Kinder zum kostenlosen Download."
+        ],
+        "en": [
+          "In an alveolus of the former submarine base, discover life on board, the workings of these mysterious military vessels and the history of Lorient, a strategic port. End your visit with a tour of this authentic submarine, complete with audio guide to life on board. Secret missions: 2 downloadable treasure hunts (free) for adults and children."
+        ],
+        "it": [
+          "In una cella dell'ex base sottomarina, scoprite la vita a bordo, il funzionamento di queste misteriose navi militari e la storia di Lorient, un porto strategico. Concludete la vostra visita con un tour di questo autentico sottomarino, completo di audioguida che racconta la vita a bordo. Missioni \"segrete\": 2 cacce al tesoro scaricabili (gratuite) per adulti e bambini."
+        ],
+        "fr": [
+          "Dans une alvéole de l’ancienne base de sous-marins, découvrez à travers un bel espace d’exposition la vie à bord, le fonctionnement de ces mystérieux bateaux militaires et l’histoire de Lorient, port stratégique. Terminez par la visite de cet authentique sous-marin, muni d’un audioguide relatant la vie à bord. Missions « secrètes » : 2 jeux de piste,  téléchargeables (gratuitement) pour adultes et enfants."
+        ],
+        "nl": [
+          "Ontdek in een cel van de voormalige onderzeeërbasis het leven aan boord, de werking van deze mysterieuze militaire vaartuigen en de geschiedenis van Lorient, een strategische haven. Sluit je bezoek af met een rondleiding in deze authentieke onderzeeër, compleet met audiogids die vertelt over het leven aan boord. Geheime\" missies: 2 downloadbare schattenjachten (gratis) voor volwassenen en kinderen."
+        ],
+        "es": [
+          "En una celda de la antigua base de submarinos, descubra la vida a bordo, el funcionamiento de estos misteriosos navíos militares y la historia de Lorient, un puerto estratégico. Termine su visita con un recorrido por este auténtico submarino, completado con una audioguía que relata la vida a bordo. Misiones \"secretas\": 2 búsquedas del tesoro descargables (gratuitas) para adultos y niños."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/066d898e-9d07-367c-84b6-7949fd4c6f8f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bed88a73-ecf5-3a72-895a-22262b690f73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c23b299b-3d0c-31ac-9756-8ac22d1c5e3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d328e8b5-5c6a-3078-b6a1-9f82c487abb4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0a7361d-09cb-3ee6-967f-db0349f43736",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/245143b2-6c69-04c0-2ffc-64b3cbcb5282",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "a1bcd832-a763-40ac-a9a7-14bd90dd296f",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/27ec3055-5bba-3a90-8842-ad90cc3c1b46",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bar",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar"
+            ],
+            "pt": [
+              "Bar"
+            ],
+            "en": [
+              "Bar"
+            ],
+            "it": [
+              "Bar"
+            ],
+            "fr": [
+              "Bar"
+            ],
+            "nl": [
+              "Bar"
+            ],
+            "es": [
+              "Bar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/618fb16c-c665-3fb5-9c0e-062d3e4e868d",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Restaurant",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Restaurant"
+            ],
+            "pt": [
+              "Restaurante"
+            ],
+            "en": [
+              "Restaurant"
+            ],
+            "it": [
+              "Ristorante"
+            ],
+            "fr": [
+              "Restaurant"
+            ],
+            "es": [
+              "Restaurante"
+            ],
+            "nl": [
+              "Restaurant"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/75a0123d-886a-3aa7-b825-df8ce4f16210",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Shop",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Laden"
+            ],
+            "pt": [
+              "Loja"
+            ],
+            "en": [
+              "Shop"
+            ],
+            "it": [
+              "Negozio"
+            ],
+            "fr": [
+              "Boutique"
+            ],
+            "nl": [
+              "Winkel"
+            ],
+            "es": [
+              "Tienda"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d8c8d9a3-cff5-3cfb-8c1f-38b22d8e8ea6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f0965c4c-67a4-399a-9a2f-a73291285922",
+          "schema:addressLocality": "Lorient",
+          "schema:postalCode": "56100",
+          "schema:streetAddress": [
+            "Lorient La Base",
+            "Rue Rolland Morillot"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56121",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lorient"
+              ],
+              "pt": [
+                "Lorient"
+              ],
+              "en": [
+                "Lorient"
+              ],
+              "it": [
+                "Lorient"
+              ],
+              "fr": [
+                "Lorient"
+              ],
+              "nl": [
+                "Lorient"
+              ],
+              "es": [
+                "Lorient"
+              ]
+            },
+            "insee": "56121",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2cc91a85-88af-37c9-9f6b-7744de716cff",
+        "schema:latitude": "47.7299443",
+        "schema:longitude": "-3.3719139",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-13",
+  "lastUpdateDatatourisme": "2026-04-27T15:40:23.31Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

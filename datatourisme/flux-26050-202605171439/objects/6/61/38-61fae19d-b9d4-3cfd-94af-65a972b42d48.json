@@ -1,0 +1,351 @@
+{
+  "@id": "https://data.datatourisme.fr/38/61fae19d-b9d4-3cfd-94af-65a972b42d48",
+  "dc:identifier": "FMABRE056V50E03K",
+  "schema:endDate": [
+    "2026-05-30"
+  ],
+  "schema:startDate": [
+    "2026-05-30"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Concert Atipycs"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/108fca49-4886-33cb-aad9-03f2bef46099",
+    "schema:legalName": "OT BAUD Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ee4ca3a0-579d-3455-8e5f-f7f71d870720",
+      "schema:telephone": [
+        "+33 7 68 91 20 99"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b9165084-0a84-3e7f-9173-6a5511b991e7",
+      "dc:description": {
+        "de": [
+          "Live-Konzert Trip-Hop/Soul.\n19:30 Uhr - Anmeldung erforderlich, da begrenzte Platzzahl."
+        ],
+        "en": [
+          "Live trip-hop/soul concert.\n7:30pm - Registration required as places are limited."
+        ],
+        "it": [
+          "Concerto live trip-hop/soul.\n19.30 - Iscrizione obbligatoria perché i posti sono limitati."
+        ],
+        "fr": [
+          "Concert live trip-hop/soul. \n19h30 - Inscription nécessaire car nombre de place limité."
+        ],
+        "nl": [
+          "Live trip-hop/soul concert.\n19.30 - Inschrijving verplicht, want het aantal plaatsen is beperkt."
+        ],
+        "es": [
+          "Concierto en directo de trip-hop/soul.\n19.30 h - Inscripción obligatoria, ya que las plazas son limitadas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/003006f9-8540-3355-b515-5891837a5783",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1a7474d6-0db9-30d1-99b2-28400412a30d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/331ca2e4-7ef4-3f8f-9c4c-989f88a9677a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/81a191ba-ac22-3b7e-9b02-26b41db9cb13",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcf886a8-cd10-3985-bb71-69f3f8b7fbcb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Music",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Musik"
+        ],
+        "pt": [
+          "Música"
+        ],
+        "en": [
+          "Music"
+        ],
+        "it": [
+          "Musica"
+        ],
+        "fr": [
+          "Musique"
+        ],
+        "nl": [
+          "Muziek"
+        ],
+        "es": [
+          "Música"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e8cdf817-902f-3d47-b228-e6075de0c96b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eef0faf6-6a2b-37c3-8cf9-8b550e20db53",
+          "schema:addressLocality": "La Chapelle-Neuve",
+          "schema:postalCode": "56500",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56039",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Chapelle-Neuve"
+              ],
+              "pt": [
+                "La Chapelle-Neuve"
+              ],
+              "en": [
+                "La Chapelle-Neuve"
+              ],
+              "it": [
+                "La Chapelle-Neuve"
+              ],
+              "fr": [
+                "La Chapelle-Neuve"
+              ],
+              "nl": [
+                "La Chapelle-Neuve"
+              ],
+              "es": [
+                "La Chapelle-Neuve"
+              ]
+            },
+            "insee": "56039",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dfb2bfd7-1fe3-3706-ac43-d5bb6a9e68ca",
+        "schema:latitude": "47.86482",
+        "schema:longitude": "-2.94192",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T03:34:47.252Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a07773e0-2e55-351f-bf47-b849f7ab7bb8",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-30",
+      "startDate": "2026-05-30",
+      "startTime": "19:30:00"
+    }
+  ]
+}

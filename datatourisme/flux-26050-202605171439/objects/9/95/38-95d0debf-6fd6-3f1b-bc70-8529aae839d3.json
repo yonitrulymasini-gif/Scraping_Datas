@@ -1,0 +1,532 @@
+{
+  "@id": "https://data.datatourisme.fr/38/95d0debf-6fd6-3f1b-bc70-8529aae839d3",
+  "dc:identifier": "HLOBRE056V5097A4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Entre Mer et Golfe"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0652eab2-48b9-3332-9635-466dbcb214b8",
+      "schema:telephone": [
+        "+33 6 30 22 15 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0652eab2-48b9-3332-9635-466dbcb214b8",
+      "schema:telephone": [
+        "+33 6 30 22 15 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/94ae0399-c9b1-3ed1-9e0c-a523554dc3a3",
+      "schema:legalName": "Entre Mer et Golfe",
+      "schema:telephone": [
+        "+33 6 30 22 15 90"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bab32ffa-c3bb-31aa-8d29-75f6c92cb292",
+      "dc:description": {
+        "de": [
+          "Wir bieten Ihnen die Vermietung eines 80m² großen Hauses in Locmariaquer auf halbem Weg zwischen dem Golf von Morbihan (3 Kilometer) und der Bucht von Quiberon (4 Kilometer).\n\nDieses 2-Sterne-Ferienhaus für 6 Personen liegt 5 km von der Stadt Locmariaquer entfernt und verfügt über 3 Schlafzimmer, ein Wohnzimmer, eine Küche, ein Badezimmer, ein WC und einen schönen Garten in einem ruhigen Wohngebiet.\n\n- Ein Zimmer mit einem Bett für 2 Personen: 160X200\n- Ein Zimmer mit einem Bett für 2 Personen: 140X190\n- Ein Schlafzimmer mit 2 Einzelbetten: 90X190\n\nDie Küche ist mit einem Kühl-/Gefrierschrank, Induktionskochplatten, einem Backofen, einer Mikrowelle und einem Geschirrspüler sowie Kochutensilien ausgestattet.\n\nDie Strände des Golfs oder des Ozeans sind nur wenige Kilometer entfernt und mit dem Fahrrad erreichbar (Verleih im bourg).\nIn den Städten Locmariaquer oder Crac?h finden Sie alle nützlichen Geschäfte und im Sommer zweimal pro Woche einen Markt.\n\nSie können nur samstags ab 16 Uhr anreisen und am darauffolgenden Samstag vor 10 Uhr abreisen.\nDie Kurtaxe wird zusätzlich in Rechnung gestellt und beträgt 0,90 ?/Tag und pro Erwachsenen über 18 Jahre.\nHaustiere sind nicht erlaubt.\nDie Kaution beträgt 850 ? und muss per Scheck zusammen mit der Vertragsunterzeichnung gesendet werden.\n\nEin sehr schöner Aufenthalt in Aussicht."
+        ],
+        "en": [
+          "We offer you the rental of an 80m² house located in Locmariaquer, halfway between the Gulf of Morbihan (3 kilometers) and Quiberon Bay (4 kilometers).\n\nThis 2-star rental for 6 people, 5 kilometers from the town of Locmariaquer, has 3 bedrooms, a living room/kitchen, a bathroom, a toilet and a pleasant garden in a quiet residential area.\n\n- One bedroom with double bed: 160X200\n- One bedroom with double bed: 140X190\n- One bedroom with 2 twin beds: 90X190\n\nThe kitchen is equipped with fridge/freezer, induction hob, oven, microwave, dishwasher and cooking equipment.\n\nThe beaches of the Gulf or the ocean are just a few kilometers away, and can be reached by bike (rental in the village).\nIn Locmariaquer or Crac?h, you'll find all the shops you need, plus a twice-weekly market in summer.\n\nArrivals are only possible on Saturdays from 4pm, and departures on the following Saturday before 10am.\nTourist tax will be charged at 0.90 ?/day per adult over 18.\nPets are not accepted.\nA security deposit of ?850 must be sent by check with the signature of the contract.\n\nWe look forward to welcoming you."
+        ],
+        "it": [
+          "Vi offriamo la possibilità di affittare una casa di 80 m² situata a Locmariaquer, a metà strada tra il Golfo di Morbihan (3 km) e la Baia di Quiberon (4 km).\n\nQuesta casa a 2 stelle per 6 persone, a 5 km dalla città di Locmariaquer, dispone di 3 camere da letto, un soggiorno/cucina, un bagno, una toilette e un piacevole giardino in una tranquilla zona residenziale.\n\n- Una camera con letto matrimoniale: 160X200\n- Una camera con letto matrimoniale: 140x190\n- Una camera con 2 letti singoli: 90x190\n\nLa cucina è dotata di frigorifero/congelatore, piano cottura a induzione, forno, microonde, lavastoviglie e attrezzatura da cucina.\n\nLe spiagge del Golfo o dell'oceano sono a pochi chilometri di distanza e possono essere raggiunte in bicicletta (noleggio in paese).\nNelle città mercato di Locmariaquer e Crac?h troverete tutti i negozi necessari e un mercato due volte a settimana in estate.\n\nGli arrivi sono possibili solo il sabato a partire dalle 16:00 e le partenze il sabato successivo entro le 10:00.\nLa tassa di soggiorno viene addebitata a 0,90 euro al giorno per adulto di età superiore ai 18 anni.\nGli animali domestici non sono accettati.\nIl deposito cauzionale è di 850 euro e deve essere inviato tramite assegno con la firma del contratto.\n\nSi prospetta un soggiorno molto piacevole."
+        ],
+        "fr": [
+          "Nous vous proposons la location d’une maison de 80m² située à Locmariaquer à mi-chemin entre le golfe du Morbihan (3 kilomètres) et de la baie de Quiberon (4 kilomètres).\n\nCette location classée 2 étoiles pour 6 personnes à 5 kilomètres du bourg de Locmariaquer, dispose de 3 chambres, d’un salon séjour cuisine, d’une salle de bain, d’un WC et d’un agréable jardin dans un quartier résidentiel au calme.\n\n- Une chambre avec un lit 2 personnes : 160X200\n- Une chambre avec un lit 2 personnes : 140X190\n- Une chambre avec 2 lits jumeaux : 90X190\n\nLa cuisine est équipée d’un réfrigérateur/congélateur, plaques à induction, un four, un micro ondes et un lave vaisselle et des équipements pour cuisiner.\n\nLes plages du Golfe ou de l’océan se trouvent à quelques kilomètres et sont accessibles à vélo (location au bourg).\nDans le bourg de Locmariaquer, ou celui de Crac’h, vous trouverez tous les commerces utiles et un marché deux fois par semaine en période estivale.\n\nLes arrivées se font uniquement le samedi à partir de 16h et les départs le samedi suivant avant 10h.\nLa taxe de séjour sera facturée en sus au tarif de 0,90 €/jour et par adulte de +18 ans.\nLes animaux ne sont pas acceptés.\nLe dépôt de garantie s’élève à 850 € et doit être envoyé par chèque avec la signature du contrat.\n\nUn très bon séjour en perspective."
+        ],
+        "nl": [
+          "Wij bieden je de mogelijkheid om een huis van 80 m² te huren in Locmariaquer, halverwege de Golf van Morbihan (3 kilometer) en de baai van Quiberon (4 kilometer).\n\nDeze 2-sterrenaccommodatie voor 6 personen, op 5 km van de stad Locmariaquer, heeft 3 slaapkamers, een woonkamer/keuken, een badkamer, een toilet en een aangename tuin in een rustige woonwijk.\n\n- Een slaapkamer met een tweepersoonsbed: 160X200\n- Een slaapkamer met een tweepersoonsbed: 140x190\n- Een slaapkamer met 2 aparte bedden: 90x190\n\nDe keuken is uitgerust met een koelkast/vriezer, inductiekookplaat, oven, magnetron, vaatwasser en kookgerei.\n\nDe stranden van de Golf of de oceaan liggen op een paar kilometer afstand en zijn bereikbaar met de fiets (te huur in het dorp).\nIn de marktstadjes Locmariaquer en Crac?h vind je alle winkels die je nodig hebt en in de zomer twee keer per week een markt.\n\nAankomst is alleen mogelijk op zaterdag vanaf 16.00 uur en vertrek op de volgende zaterdag voor 10.00 uur.\nDe toeristenbelasting bedraagt 0,90 € per dag per volwassene vanaf 18 jaar.\nHuisdieren zijn niet toegestaan.\nDe aanbetaling bedraagt 850 euro en moet met een cheque worden betaald bij de ondertekening van het contract.\n\nEen zeer aangenaam verblijf in het vooruitzicht."
+        ],
+        "es": [
+          "Le ofrecemos la oportunidad de alquilar una casa de 80m² situada en Locmariaquer, a medio camino entre el golfo de Morbihan (3 kilómetros) y la bahía de Quiberon (4 kilómetros).\n\nEste alquiler de 2 estrellas para 6 personas, a 5 km de la ciudad de Locmariaquer, dispone de 3 dormitorios, una sala de estar/cocina, un cuarto de baño, un aseo y un agradable jardín en una zona residencial tranquila.\n\n- Un dormitorio con cama doble: 160X200\n- Un dormitorio con cama de matrimonio: 140x190\n- Un dormitorio con 2 camas individuales: 90x190\n\nLa cocina está equipada con frigorífico/congelador, placa de inducción, horno, microondas, lavavajillas y utensilios de cocina.\n\nLas playas del Golfo o el océano están a pocos kilómetros y se puede llegar en bicicleta (alquiler en el pueblo).\nEn las ciudades mercado de Locmariaquer y Crac?h, encontrará todos los comercios que necesite y un mercado dos veces por semana en verano.\n\nLas llegadas sólo son posibles los sábados a partir de las 16h y las salidas el sábado siguiente antes de las 10h.\nSe cobrará una tasa turística de 0,90 €/día por adulto mayor de 18 años.\nNo se aceptan animales de compañía.\nLa fianza es de 850€ y debe enviarse por cheque a la firma del contrato.\n\nUna estancia muy agradable en perspectiva."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/25230d14-709c-334c-a84b-b1276039d978",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/345eb3eb-28bd-31d6-babd-20603d6f4161",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70948fa0-ddf8-3149-a6ff-97fdf7e42b9d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/776b86c0-43cb-3d1f-8211-9ceb53f8a73f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a3f9faf7-db1e-316f-9224-8583afd7fa41",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5dd0fb83-04d6-3d13-844a-e10f290ac709",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/442783e0-45ce-362c-8f7a-33189096a24b",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "28 Allée des Mimosas"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/98aea0fb-5309-311e-9c8f-1c7d3212b59e",
+        "schema:latitude": "47.58835",
+        "schema:longitude": "-2.97739",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b5876baf-6bd9-3696-9fe4-b60235d143c7",
+          "schema:validFrom": "2026-06-13T00:00:00",
+          "schema:validThrough": "2026-09-19T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-21",
+  "lastUpdateDatatourisme": "2026-04-22T03:20:42.59Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/028a50b9-12c8-32e8-8faa-170f275a7e65",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

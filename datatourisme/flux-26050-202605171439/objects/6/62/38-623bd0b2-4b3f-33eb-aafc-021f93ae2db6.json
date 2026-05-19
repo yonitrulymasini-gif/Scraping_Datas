@@ -1,0 +1,561 @@
+{
+  "@id": "https://data.datatourisme.fr/38/623bd0b2-4b3f-33eb-aafc-021f93ae2db6",
+  "dc:identifier": "HLOBRE056V503GTM",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte d'étape communal"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2f5a0e6b-f0b7-37a6-bf66-3956587a33ad",
+      "schema:telephone": [
+        "+33 2 97 34 71 49",
+        "+33 6 77 18 03 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/23ae5a6e-f471-3ac5-8063-94327a244001",
+      "schema:legalName": "Gîte d'étape communal",
+      "schema:telephone": [
+        "+33 2 97 34 71 49",
+        "+33 6 77 18 03 48"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2f5a0e6b-f0b7-37a6-bf66-3956587a33ad",
+      "schema:telephone": [
+        "+33 2 97 34 71 49",
+        "+33 6 77 18 03 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/830afa42-f820-3fa7-94f5-2ed216d4e896",
+      "dc:description": {
+        "de": [
+          "Im Herzen von Le saint, einer kleinen zentralbretonischen Gemeinde mit dem Label \"Village fleuri\", bietet dieses ehemalige Pfarrhaus, das zu einer Ferienwohnung umgebaut wurde, funktionale und komfortable Zimmer. Die ausgestattete Küche und der Gemeinschaftsbereich öffnen sich auf eine große Terrasse. Tische sowie ein Grill stehen zur Verfügung. Der blühende Garten wird von Wanderern und anderen Besuchern sehr geschätzt. Für Reiter gibt es einen Pferdetreff, der sich nur wenige Schritte von der Unterkunft entfernt befindet. Die Gemeinde verfügt über einen Multisportplatz (Tennis, Basketball, Fußball...) und einen Spielplatz."
+        ],
+        "en": [
+          "In the heart of Le Saint, a small village in central Brittany with the \"Village fleuri\" label, this former presbytery has been renovated as a gîte d'étape, offering comfortable, functional rooms. The fully-equipped kitchen and communal area open onto a large terrace. Tables and a barbecue are available. The flower-filled garden is much appreciated by hikers and other visitors. For horse riders, there is a horse-riding facility just a few steps from the gîte. The commune has a multi-sports ground (tennis, basketball, soccer...) and a playground."
+        ],
+        "it": [
+          "Nel cuore di Le Saint, un piccolo villaggio della Bretagna centrale che ha ottenuto il marchio \"Village fleuri\", questo ex presbiterio è stato ristrutturato come gîte d'étape e offre camere funzionali e confortevoli. La cucina completamente attrezzata e la zona comune si aprono su un'ampia terrazza. Sono disponibili tavoli e barbecue. Il giardino fiorito è molto apprezzato dagli escursionisti e dagli altri visitatori di passaggio. Per gli appassionati di equitazione, c'è un centro di equitazione a pochi passi dall'alloggio. Il comune dispone di un campo polisportivo (tennis, basket, calcio, ecc.) e di un parco giochi."
+        ],
+        "fr": [
+          "Au cœur de Le saint, une petite commune centre-bretonne labellisée  « Village fleuri », cet ancien presbytère rénové en gîte d'étape offre des chambres fonctionnelles et confortables. La cuisine équipée et l'espace commun s'ouvrent sur une grande terrasse. Des tables ainsi qu'un barbecue sont à disposition. Le jardin fleuri est très apprécié des randonneurs et autres visiteurs de passage. Pour les cavaliers, un accueil chevaux se trouve à quelques pas du gîte. La commune dispose d'un terrain multisports (tennis, basket, football...) et d'une aire de jeux."
+        ],
+        "nl": [
+          "In het hart van Le Saint, een klein stadje in centraal Bretagne dat het label \"Village fleuri\" heeft gekregen, is deze voormalige pastorie gerenoveerd tot een gîte d'étape, met functionele, comfortabele kamers. De volledig uitgeruste keuken en gemeenschappelijke ruimte komen uit op een groot terras. Er zijn tafels en een barbecue beschikbaar. De bloemrijke tuin wordt erg gewaardeerd door wandelaars en andere bezoekers op doorreis. Voor ruiters is er een manege op een steenworp afstand van de gîte. De gemeente beschikt over een multisportterrein (tennis, basketbal, voetbal...) en een speeltuin."
+        ],
+        "es": [
+          "En el corazón de Le Saint, pequeño pueblo de la Bretaña central galardonado con el sello \"Village fleuri\", este antiguo presbiterio ha sido renovado como casa rural y ofrece habitaciones funcionales y confortables. La cocina totalmente equipada y la zona común se abren a una gran terraza. Dispone de mesas y barbacoa. El jardín florido es muy apreciado por los senderistas y otros visitantes de paso. Para los jinetes, hay un centro ecuestre a pocos pasos de la casa rural. El municipio cuenta con un terreno polideportivo (tenis, baloncesto, fútbol, etc.) y un parque infantil."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2414ec0a-11c3-3649-83b1-6ae51e3d7658",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/51c20991-51a5-359f-862f-0167879efd80",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/64730b0b-aff9-3abc-8a0e-0492f905a6b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7af54ac6-f99a-347f-b829-ddaee37f9141",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9b42646-01f3-3ac0-a2d5-26786405f86d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a67abee2-f0e7-343e-abe3-ce5c0092a17f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e21064b4-b33a-3fe3-9557-8c6444db2df1",
+          "schema:addressLocality": "Le Saint",
+          "schema:postalCode": "56110",
+          "schema:streetAddress": [
+            "Rue Cadéron"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56201",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Saint"
+              ],
+              "pt": [
+                "Le Saint"
+              ],
+              "en": [
+                "Le Saint"
+              ],
+              "it": [
+                "Le Saint"
+              ],
+              "fr": [
+                "Le Saint"
+              ],
+              "nl": [
+                "Le Saint"
+              ],
+              "es": [
+                "Le Saint"
+              ]
+            },
+            "insee": "56201",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1555dcdd-0c56-309b-9fae-0df5bf0d5330",
+        "schema:latitude": "48.0888405",
+        "schema:longitude": "-3.5604998",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-13",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.552Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

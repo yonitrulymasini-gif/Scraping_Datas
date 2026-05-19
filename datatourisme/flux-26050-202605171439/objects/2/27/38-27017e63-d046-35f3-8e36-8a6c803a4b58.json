@@ -1,0 +1,345 @@
+{
+  "@id": "https://data.datatourisme.fr/38/27017e63-d046-35f3-8e36-8a6c803a4b58",
+  "dc:identifier": "FMABRE000V505DRK",
+  "schema:endDate": [
+    "2026-07-12"
+  ],
+  "schema:startDate": [
+    "2026-07-10"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Festival",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Festival",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Fête du Bruit"
+    ],
+    "fr": [
+      "Fête du Bruit"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fc8b3f12-9d31-3730-9a88-ecb753e51c2e",
+      "schema:telephone": [
+        "+33 2 98 30 30 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://stnolff.festival-fetedubruit.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/28f84f01-1fab-3024-b92b-af4c3d7c6784",
+      "dc:description": {
+        "de": [
+          "Das Fête du Bruit ist wieder in Saint-Nolff! Finden Sie alle praktischen Informationen unter www.festival-fetedubruit.com Der Kartenvorverkauf findet an den üblichen Vorverkaufsstellen statt."
+        ],
+        "en": [
+          "."
+        ],
+        "it": [
+          "La Fête du Bruit torna a Saint-Nolff! Per tutti i dettagli pratici, visitate il sito www.festival-fetedubruit.com I biglietti sono disponibili presso i punti vendita abituali."
+        ],
+        "fr": [
+          "La Fête du Bruit est de retour à Saint-Nolff  ! Retrouvez toutes les informations pratiques sur www.festival-fetedubruit.com La billetterie est disponible dans les points de vente habituels."
+        ],
+        "es": [
+          "¡Vuelve la Fête du Bruit a Saint-Nolff! Para todos los detalles prácticos, visite www.festival-fetedubruit.com Las entradas están disponibles en los puntos de venta habituales."
+        ],
+        "nl": [
+          "Het Fête du Bruit is terug in Saint-Nolff! Ga voor alle praktische details naar www.festival-fetedubruit.com Tickets zijn verkrijgbaar bij de gebruikelijke verkooppunten."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/93824e20-2764-3b04-aa94-9e7e90d51a21",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9628bbdc-9496-3dbb-949e-f7ea316df92f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a55c8080-414f-384d-a06c-bfb647fcafea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d84d1176-0964-30e1-8c67-3847d5d6e408",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Music",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Musik"
+        ],
+        "pt": [
+          "Música"
+        ],
+        "en": [
+          "Music"
+        ],
+        "it": [
+          "Musica"
+        ],
+        "fr": [
+          "Musique"
+        ],
+        "nl": [
+          "Muziek"
+        ],
+        "es": [
+          "Música"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b770ef0e-0b05-35f6-9c22-df56ca37f7aa",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cfe63b7f-cca0-3525-9d3b-934d92f642bb",
+          "schema:addressLocality": "Saint-Nolff",
+          "schema:postalCode": "56250",
+          "schema:streetAddress": [
+            "Kerboulard"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56231",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Nolff"
+              ],
+              "pt": [
+                "Saint-Nolff"
+              ],
+              "en": [
+                "Saint-Nolff"
+              ],
+              "it": [
+                "Saint-Nolff"
+              ],
+              "fr": [
+                "Saint-Nolff"
+              ],
+              "nl": [
+                "Saint-Nolff"
+              ],
+              "es": [
+                "Saint-Nolff"
+              ]
+            },
+            "insee": "56231",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/15840368-aacc-3309-ad3c-2825166c4a95",
+        "schema:latitude": "47.70299",
+        "schema:longitude": "-2.659715",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-12-19",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.861Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b87f4197-00ee-359e-9bac-db386ec336f0",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-12",
+      "startDate": "2026-07-10"
+    }
+  ]
+}

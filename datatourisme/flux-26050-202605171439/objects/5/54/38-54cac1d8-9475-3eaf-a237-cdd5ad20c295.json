@@ -1,0 +1,585 @@
+{
+  "@id": "https://data.datatourisme.fr/38/54cac1d8-9475-3eaf-a237-cdd5ad20c295",
+  "dc:identifier": "HLOBRE056V508DYC",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Moulin de Kerdavid - Gîte de la Rivière"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/34a74b4c-9f8f-3119-b0dc-ae51d4fc1502",
+      "schema:telephone": [
+        "+33 6 71 13 69 79",
+        "+33 6 83 93 34 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.moulindekerdavid.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/34a74b4c-9f8f-3119-b0dc-ae51d4fc1502",
+      "schema:telephone": [
+        "+33 6 71 13 69 79",
+        "+33 6 83 93 34 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.moulindekerdavid.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4faea9a7-7e1a-3331-8142-2b8a7d4dc9c4",
+      "schema:legalName": "Moulin de Kerdavid - Gîte de la Rivière",
+      "schema:telephone": [
+        "+33 6 71 13 69 79",
+        "+33 6 83 93 34 49"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.moulindekerdavid.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c1b92d20-67f8-3d96-b9f0-a292250d1d3a",
+      "dc:description": {
+        "de": [
+          "Diese charmante Mühle liegt inmitten einer grünen Landschaft im Herzen des Loch-Tals.\nDiese Oase des Friedens, umgeben von 4 Hektar Natur, bietet Ruhe und Abwechslung für einen erholsamen Urlaub: Spaziergänge, Angeln, Schwimmbad und Entspannung im Garten, der von einem Fluss gesäumt wird.\n\nDas Anwesen ist ideal gelegen, um das Morbihan zu erkunden: 20 Minuten von Auray und seinem Hafen Saint-Goustan, 30 Minuten von den Kunst- und Geschichtsstädten Vannes und Lorient und 30 km von den schönen feinen Sandstränden entfernt.\n\nDiese ebenerdige Unterkunft, die sich am südlichen Ende des Bauernhauses befindet, umfasst :\n\n- Ein voll ausgestatteter Küchenbereich,\n- Ein Wohn- und Esszimmer,\n- Ein Schlafzimmer mit einem Doppelbett,\n- Ein Badezimmer mit einer begehbaren Dusche und zwei Waschbecken.\n \nDie Wohnung bietet Platz für 2 bis 3 Personen (zwei Erwachsene und ein Kind).\n\nZu den Außenanlagen gehören ein vom 1. Mai bis zum 30. September beheizter Pool und ein Bouleplatz.\n\nWas die Gruppenvermietung betrifft, so können Sie je nach Verfügbarkeit die Gîtes du Bief und du Moulin mieten."
+        ],
+        "en": [
+          "Charming mill nestled in a green setting in the heart of the Loch valley.\nThis haven of peace, surrounded by 4 hectares of nature, offers a peaceful change of scenery for a relaxing vacation: walks, fishing, swimming pool and relaxation in the garden bordered by a river.\n\nThe property is ideally located for exploring the Morbihan region: 20 minutes from Auray and its Port of Saint-Goustan, 30 minutes from Vannes and Lorient, towns of Art and History, and 30 km from the beautiful sandy beaches.\n\nThis single-storey gîte, nestled at the southern end of the longère, comprises :\n\n- A fully-equipped kitchen area,\n- A living-dining room,\n- One bedroom with double bed,\n- A bathroom with a walk-in shower and two basins.\n \nSleeps 2 to 3 (two adults and one child).\n\nOutside facilities include a heated swimming pool (May 1 to September 30) and a pétanque court.\n\nFor group rentals, the Bief and Moulin gîtes are available subject to availability."
+        ],
+        "it": [
+          "Incantevole mulino immerso nel verde nel cuore della valle del Loch.\nQuesta oasi di pace, circondata da 4 ettari di natura, offre tranquillità e un cambiamento di scenario per una vacanza rilassante: passeggiate, pesca, piscina e relax nel giardino costeggiato da un fiume.\n\nLa proprietà è situata in posizione ideale per esplorare la regione del Morbihan: a 20 minuti da Auray e dal suo porto di Saint-Goustan, a 30 minuti da Vannes e Lorient, città d'arte e di storia, e a 30 km dalle splendide spiagge di sabbia.\n\nQuesto gîte a un piano, situato all'estremità sud della casa colonica, è composto da :\n\n- Una cucina completamente attrezzata,\n- Un soggiorno/sala da pranzo,\n- Una camera con letto matrimoniale,\n- Un bagno con cabina doccia e due lavandini.\n \nPuò ospitare da 2 a 3 persone (due adulti e un bambino).\n\nLe strutture esterne comprendono una piscina riscaldata dal 1° maggio al 30 settembre e un'area per le bocce.\n\nPer le prenotazioni di gruppo, è possibile affittare le gîtes Bief e Moulin, in base alla disponibilità."
+        ],
+        "fr": [
+          "Charmant moulin niché dans un écrin de verdure, au cœur de la vallée du Loch. \nCe havre de paix, entouré de 4 hectares de nature, offre calme et dépaysement pour des vacances reposantes : balades, pêche, piscine et détente dans le jardin bordé par une rivière.\n\nIdéalement située, la propriété permet d'explorer le Morbihan : à 20 minutes d'Auray et de son Port de Saint-Goustan, à 30 minutes de Vannes et Lorient, villes d'Art et d'Histoire et à 30 km, des belles plages de sable fin.\n\nCe gîte de plain-pied, niché à l'extrémité sud de la longère, comprend :\n\n- Un espace cuisine entièrement équipé, \n- Un salon-salle à manger,\n- Une chambre munie d'un lit double,\n- Une salle de bain pourvue d'une douche à l'italienne et de deux vasques.\n \nDoté d'une capacité d'accueil de 2 à 3 personnes (deux adultes et un enfant). \n\nQuant aux aménagements extérieurs, ils comprennent une piscine chauffée du 1er mai au 30 septembre et un terrain de pétanque. \n\nConcernant la location de groupes, il est possible de louer les gîtes du Bief et du Moulin selon les disponibilités."
+        ],
+        "es": [
+          "Encantador molino enclavado en un entorno verde en el corazón del valle del Loch.\nEste remanso de paz, rodeado de 4 hectáreas de naturaleza, ofrece tranquilidad y un cambio de aires para unas vacaciones relajantes: paseos, pesca, piscina y descanso en el jardín bordeado por un río.\n\nLa propiedad goza de una ubicación ideal para explorar la región de Morbihan: a 20 minutos de Auray y su puerto de Saint-Goustan, a 30 minutos de Vannes y Lorient, ciudades de Arte e Historia, y a 30 km de las hermosas playas de arena.\n\nEsta casa rural de una sola planta, situada en el extremo sur de la granja, consta de..:\n\n- Una cocina totalmente equipada,\n- Un salón comedor,\n- Una habitación con cama de matrimonio,\n- Un cuarto de baño con ducha y dos lavabos.\n \nCapacidad para 2 a 3 personas (dos adultos y un niño).\n\nLas instalaciones exteriores incluyen una piscina climatizada del 1 de mayo al 30 de septiembre y una zona de petanca.\n\nPara reservas de grupos, es posible alquilar las casas rurales Bief y Moulin, según disponibilidad."
+        ],
+        "nl": [
+          "Charmante molen genesteld in een groene omgeving in het hart van de Loch-vallei.\nDeze oase van rust, omringd door 4 hectare natuur, biedt rust en een andere omgeving voor een ontspannen vakantie: wandelingen, vissen, zwembad en ontspannen in de tuin die wordt begrensd door een rivier.\n\nDe woning is ideaal gelegen om de regio Morbihan te verkennen: 20 minuten van Auray en de haven van Saint-Goustan, 30 minuten van Vannes en Lorient, steden van kunst en geschiedenis, en 30 km van de prachtige zandstranden.\n\nDeze gelijkvloerse gîte, genesteld aan de zuidkant van de boerderij, bestaat uit :\n\n- Een volledig uitgeruste keuken,\n- Een zit/eetkamer,\n- Een slaapkamer met een tweepersoonsbed,\n- Een badkamer met inloopdouche en twee wastafels.\n \nVoor 2 tot 3 personen (twee volwassenen en een kind).\n\nBuiten is er een verwarmd zwembad van 1 mei tot 30 september en een petanqueterrein.\n\nVoor groepsreserveringen is het mogelijk om de gîtes Bief en Moulin te huren, afhankelijk van beschikbaarheid."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/403bf874-7c54-3e95-8dbc-4f79c24ac8fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/85856698-7c2d-3081-8181-8d6e4d900c9a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b7c7a1a1-82dc-3581-bd23-c53110558ac3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ccc77e75-f634-3a01-9ba8-034ba2326b03",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9e8e3ae-43c0-3e00-adda-64261f7b5819",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/80fc6ca6-9a67-3a14-9179-e9e82a4f1d1d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9e3044a9-5ad2-3b18-baeb-aa0a313642fe",
+          "schema:addressLocality": "Pluvigner",
+          "schema:postalCode": "56330",
+          "schema:streetAddress": [
+            "326 Melin Kerdavid",
+            "Moulin de Kerdavid"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56177",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pluvigner"
+              ],
+              "pt": [
+                "Pluvigner"
+              ],
+              "en": [
+                "Pluvigner"
+              ],
+              "it": [
+                "Pluvigner"
+              ],
+              "fr": [
+                "Pluvigner"
+              ],
+              "nl": [
+                "Pluvigner"
+              ],
+              "es": [
+                "Pluvigner"
+              ]
+            },
+            "insee": "56177",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/62fbd75d-fa5e-3651-8eff-4e47ef06c531",
+        "schema:latitude": "47.78384",
+        "schema:longitude": "-2.95804",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/28428ec4-7de3-3118-9d25-7078f0372d4f",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-10-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-13T03:47:10.153Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/028a50b9-12c8-32e8-8faa-170f275a7e65",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

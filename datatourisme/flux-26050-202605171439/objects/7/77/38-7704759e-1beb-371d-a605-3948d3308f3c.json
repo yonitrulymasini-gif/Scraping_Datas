@@ -1,0 +1,694 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7704759e-1beb-371d-a605-3948d3308f3c",
+  "dc:identifier": "HLOBRE035V51RUIX",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Répit de l'Oust"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/71142d68-875d-3ce5-a01f-20e8728f5d92",
+    "dc:identifier": "79702992-cf23-4467-a8fd-1d934fb569fb",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/e6abbc5d-adfa-3910-a07b-ee555bc07298",
+        "schema:addressLocality": "Redon",
+        "schema:postalCode": "35600",
+        "schema:streetAddress": [
+          "Place de la République"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35236",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Redon"
+            ],
+            "pt": [
+              "Redon"
+            ],
+            "en": [
+              "Redon"
+            ],
+            "it": [
+              "Redon"
+            ],
+            "fr": [
+              "Redon"
+            ],
+            "nl": [
+              "Redon"
+            ],
+            "es": [
+              "Redon"
+            ]
+          },
+          "insee": "35236",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "accueil@tourisme-pays-redon.com"
+    ],
+    "schema:legalName": "OT - PAYS DE REDON",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/138720c3-849b-3ef7-bbab-6d9a0e0e92b7",
+      "schema:telephone": [
+        "+33 6 11 13 72 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.repitdeloust.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/138720c3-849b-3ef7-bbab-6d9a0e0e92b7",
+      "schema:telephone": [
+        "+33 6 11 13 72 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.repitdeloust.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/28c9b399-2d81-3c25-b678-cf8ce9b98feb",
+      "schema:legalName": "Le Répit de l'Oust",
+      "schema:telephone": [
+        "+33 6 11 13 72 29"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.repitdeloust.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/57a275b1-f109-3112-a7c9-73f989d90f46",
+      "dc:description": {
+        "de": [
+          "Ganz in der Nähe des Kanals von Nantes nach Brest. 10 Minuten von Redon, La Gacilly, Rochefort en Terre, Malestroit und 40 Minuten von den ersten Stränden entfernt. Idealer Ort für eine echte Naturpause.\n\nGeräumige und umweltfreundliche Unterkünfte. Vermietung von Etappenzimmern oder private Vermietung der Unterkunft für eine Gruppe.\nDiese neue und umweltfreundliche Unterkunft umfasst 5 große Zimmer mit eigenem Bad und WC. Gesunde und angenehme Umgebung mit einem Garten, einem Gemüsegarten und einem Hühnerhof.\nKomfort, Hygiene und Sicherheit werden von Annick und Mathieu, zwei professionellen Gastgebern, die Ihnen während Ihres Aufenthalts zu Diensten stehen, respektiert.\n\nVon der Unterkunft aus erwarten Sie mehrere Fahrradtouren und Wanderwege, auf denen Sie atypische und bemerkenswerte Naturlandschaften entdecken können.\nEin sicherer Fahrradraum, eine Gepäckaufbewahrung und eine Waschküche stehen Ihnen kostenlos zur Verfügung.\nFormel 1/2 Pension mit Frühstück im Etappenzimmer.\n\nDie Unterkunft befindet sich etwa 1 Autostunde von Nantes und Rennes und 45 Minuten von Vannes und dem Golf von Morbihan entfernt. Der Bahnhof von Redon ist 10 min entfernt. Es besteht die Möglichkeit, Ihr Gepäck kostenlos abzuholen."
+        ],
+        "en": [
+          "Close to the Nantes-Brest canal. 10 min from Redon, La Gacilly, Rochefort en Terre, Malestroit and 40 min from the first beaches. Ideal place for a real nature break.\n\nSpacious, environmentally-friendly accommodation. Bed and breakfast or private rental of the gîte for groups.\nThis new, eco-friendly accommodation comprises 5 large bedrooms with private bathrooms and toilets. Pleasant, healthy environment with a garden, vegetable patch and farmyard.\nAnnick and Mathieu, two professional hosts, will ensure your comfort, hygiene and safety throughout your stay.\n\nFrom the gîte, a number of cycling and hiking trails await you, enabling you to discover some remarkable and atypical natural landscapes.\nA secure bike room, luggage storage and laundry facilities are available free of charge.\nHalf-board package with breakfast in a stopover room.\n\nThe gîte is about 1 hour's drive from Nantes and Rennes, and 45 minutes from Vannes and the Golfe du Morbihan. Redon station is 10 min away. Luggage can be collected free of charge."
+        ],
+        "it": [
+          "Vicino al canale Nantes-Brest. A 10 minuti da Redon, La Gacilly, Rochefort en Terre, Malestroit e a 40 minuti dalle prime spiagge. Luogo ideale per una vera pausa nella natura.\n\nAlloggi spaziosi e rispettosi dell'ambiente. Camere con angolo cottura o affitto privato del gîte per gruppi.\nQuesto nuovo alloggio ecologico dispone di 5 ampie camere da letto con bagno privato e servizi igienici. Ambiente piacevole e sano con giardino, orto e aia.\nAnnick e Mathieu, due padroni di casa professionisti, si occuperanno del vostro comfort, della vostra salute e della vostra sicurezza durante tutto il soggiorno.\n\nDal gîte vi aspettano numerosi percorsi ciclistici ed escursionistici che vi permetteranno di scoprire paesaggi naturali insoliti e notevoli.\nSono disponibili gratuitamente un deposito sicuro per le biciclette, un deposito bagagli e una lavanderia.\nPossibilità di mezza pensione con colazione in camera di sosta.\n\nL'alloggio si trova a circa 1 ora di auto da Nantes e Rennes e a 45 minuti da Vannes e dal Golfe du Morbihan. La stazione di Redon dista 10 minuti. Possiamo ritirare i vostri bagagli gratuitamente."
+        ],
+        "fr": [
+          "Tout proche du canal de Nantes à Brest. A 10 min de Redon, La Gacilly, Rochefort en Terre, Malestroit et 40 min des premières plages. Lieu idéal pour une vraie pause nature.\n\nHébergement spacieux et respectueux de l'environnement. Location chambres d'étape ou location privatisée du gîte pour un groupe.\nCet hébergement neuf et écologique, comporte 5 grandes chambres avec salle de bain et wc privés. Environnement sain et agréable avec un jardin, un potager, une basse-cour.\nConfort, Hygiène et Sécurité seront respectés par Annick et Mathieu, deux hôtes professionnels à votre service durant le séjour.\n\nDepuis le gîte, plusieurs circuits vélos et chemins de randonnée vous attendent pour découvrir des paysages naturels atypiques et remarquables.\nUn local vélo sécurisé, une bagagerie, une buanderie vous sont accessibles gratuitement.\nFormule 1/2 pension avec petit-déjeuner en chambre d'étape.\n\nLe gîte se situe à environ 1 h de route de Nantes, Rennes et 45 min de Vannes et du Golfe du Morbihan. La gare de Redon est à 10 min. Possibilité de venir chercher vos bagages gratuitement."
+        ],
+        "nl": [
+          "Vlakbij het kanaal Nantes-Brest. Op 10 minuten van Redon, La Gacilly, Rochefort en Terre, Malestroit en 40 minuten van de eerste stranden. Ideale plek voor een echte natuurvakantie.\n\nRuime, milieuvriendelijke accommodatie. Bed and breakfast beschikbaar voor verhuur, of de gîte kan privé gehuurd worden voor groepen.\nDeze nieuwe, milieuvriendelijke accommodatie heeft 5 grote slaapkamers met eigen badkamer en toilet. Aangename, gezonde omgeving met een tuin, moestuin en boerderij.\nAnnick en Mathieu, twee professionele gastheren, zorgen voor uw comfort, gezondheid en veiligheid tijdens uw verblijf.\n\nVanuit de gîte kun je verschillende fiets- en wandelroutes volgen om ongewone en opmerkelijke natuurlandschappen te ontdekken.\nEen beveiligde fietsenstalling, bagageopslag en wasserette zijn gratis beschikbaar.\nMogelijkheid tot halfpension met ontbijt in een overnachtingskamer.\n\nDe gîte ligt op ongeveer 1 uur rijden van Nantes en Rennes en op 45 minuten van Vannes en de Golfe du Morbihan. Het station van Redon ligt op 10 minuten afstand. We kunnen je bagage gratis ophalen."
+        ],
+        "es": [
+          "Cerca del canal Nantes-Brest. A 10 minutos de Redon, La Gacilly, Rochefort en Terre, Malestroit y a 40 minutos de las primeras playas. Lugar ideal para una auténtica escapada a la naturaleza.\n\nAlojamiento espacioso y respetuoso con el medio ambiente. Posibilidad de alquiler con desayuno o de alquiler privado para grupos.\nEste nuevo alojamiento respetuoso con el medio ambiente dispone de 5 amplias habitaciones con baño y aseos privados. Entorno agradable y sano con jardín, huerto y corral.\nAnnick y Mathieu, dos anfitriones profesionales, velarán por su comodidad, salud y seguridad durante toda su estancia.\n\nDesde la casa rural, le esperan numerosas rutas de ciclismo y senderismo que le permitirán descubrir paisajes naturales insólitos y notables.\nDispone de una sala segura para bicicletas, consigna de equipaje y lavandería gratuitas.\nOpción de media pensión con desayuno en habitación de paso.\n\nLa casa rural está a 1 hora en coche de Nantes y Rennes y a 45 minutos de Vannes y el golfo de Morbihan. La estación de Redon está a 10 minutos. Podemos recoger su equipaje gratuitamente."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/16748b44-46b1-38d3-948b-120d9c95b13c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3ad6575c-a80e-331a-9436-a0ac706b912d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5df7a669-224f-3cd7-b94e-e7e7be880615",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/693fa5ae-90b7-3727-91a5-1b54a3034cdf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8f98732d-8401-38be-84f0-9dea6a242542",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/f0aa2ea9-5cfc-bc61-a6cb-4d5bd5fb3da1",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "b245a68d-8f77-4757-baaa-f31210824500",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7d7d7f8a-d8aa-35df-9dcb-6bd8cb9010d3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7dc45164-201d-3865-9f0f-9ed9c79a8af0",
+          "schema:addressLocality": "Peillac",
+          "schema:postalCode": "56220",
+          "schema:streetAddress": [
+            "14 rue Monseigneur Trégaro"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56154",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Peillac"
+              ],
+              "pt": [
+                "Peillac"
+              ],
+              "en": [
+                "Peillac"
+              ],
+              "it": [
+                "Peillac"
+              ],
+              "fr": [
+                "Peillac"
+              ],
+              "nl": [
+                "Peillac"
+              ],
+              "es": [
+                "Peillac"
+              ]
+            },
+            "insee": "56154",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4e249389-a644-3c68-b861-d4323bb0c8d2",
+        "schema:latitude": "47.7118553",
+        "schema:longitude": "-2.2216333",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-23",
+  "lastUpdateDatatourisme": "2026-04-24T03:27:11.61Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cfb470a7-3da3-3e6e-8f03-e47b7abd28db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

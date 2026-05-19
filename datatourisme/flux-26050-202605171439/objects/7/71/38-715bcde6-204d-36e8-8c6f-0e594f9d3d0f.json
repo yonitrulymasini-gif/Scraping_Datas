@@ -1,0 +1,307 @@
+{
+  "@id": "https://data.datatourisme.fr/38/715bcde6-204d-36e8-8c6f-0e594f9d3d0f",
+  "dc:identifier": "LOIBRE000V51J7G2",
+  "@type": [
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Base de loisirs de Réguiny"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bc3027e2-b1d3-301f-9976-3e5a2663dada",
+      "schema:telephone": [
+        "+33 2 97 38 73 50",
+        "+33 7 97 38 66 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.reguiny.com/base-de-loisirs"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f43a8153-f746-3f9c-888b-27c9c24c7d90",
+      "dc:description": {
+        "de": [
+          "Freizeitanlage mit freiem Zugang :\nTennisplatz, 2,1 km Wanderweg (rund um den Wasserplan), Buckelpiste für Mountainbikes, Seilbahn und Kinderspielplatz, Minigolf (Materialverleih in der Bar du Foyer)"
+        ],
+        "en": [
+          "Free-access leisure facilities:\nTennis court, 2.1km walking trail (around the lake), mogul track for mountain bikes, zip line and children's games, mini-golf (equipment available on loan from the Bar du Foyer)"
+        ],
+        "it": [
+          "Centro ricreativo con accesso gratuito:\nCampo da tennis, percorso a piedi di 2,1 km (intorno al lago), pista per mountain bike, teleferica e giochi per bambini, minigolf (attrezzatura disponibile in prestito presso il Bar du Foyer)"
+        ],
+        "fr": [
+          "Base de loisirs en accès libre : \nTerrain de tennis, 2,1km de sentier pédestre (tour du plan d'eau), piste à bosses pour les VTT, tyrolienne et jeux pour enfant, mini-golf (prêt de matériel au Bar du Foyer)"
+        ],
+        "nl": [
+          "Vrijetijdscentrum met gratis toegang:\nTennisbaan, wandelpad van 2,1 km (rond het meer), buckelpiste voor mountainbikes, tokkelbaan en kinderspelen, minigolf (materiaal te leen bij de Bar du Foyer)"
+        ],
+        "es": [
+          "Centro de ocio de acceso gratuito:\nPista de tenis, ruta de senderismo de 2,1 km (alrededor del lago), pista de mogul para bicicletas de montaña, tirolina y juegos infantiles, minigolf (material disponible en préstamo en el Bar du Foyer)"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2618316b-2098-3e10-b024-d385020e08f8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/496e9099-e22d-3be7-bd2c-98ca08a9dc7d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/518f49bc-bf72-31bc-9325-cbc26794a31d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2d3d356-481c-32f7-bb13-70d2e4143790",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a368db02-5ba1-3b18-938c-2ba3c63a6981",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/17e44d32-69c9-3ff1-bea4-8d0c9f120b93",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ddb4329a-8b82-3c12-82e6-0cff5c59fe3d",
+          "schema:addressLocality": "Réguiny",
+          "schema:postalCode": "56500",
+          "schema:streetAddress": [
+            "Rue de la piscine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56190",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Réguiny"
+              ],
+              "pt": [
+                "Réguiny"
+              ],
+              "en": [
+                "Réguiny"
+              ],
+              "it": [
+                "Réguiny"
+              ],
+              "fr": [
+                "Réguiny"
+              ],
+              "nl": [
+                "Réguiny"
+              ],
+              "es": [
+                "Réguiny"
+              ]
+            },
+            "insee": "56190",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/34a1de2f-bd63-3592-b3ba-aeab05b82e9a",
+        "schema:latitude": "47.9700748",
+        "schema:longitude": "-2.7508766",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-01-08T03:33:52.738Z"
+}

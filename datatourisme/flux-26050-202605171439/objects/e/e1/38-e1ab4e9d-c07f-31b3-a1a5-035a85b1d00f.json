@@ -1,0 +1,354 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e1ab4e9d-c07f-31b3-a1a5-035a85b1d00f",
+  "dc:identifier": "FMABRE056V50D7ZA",
+  "schema:endDate": [
+    "2026-06-16"
+  ],
+  "schema:startDate": [
+    "2026-06-09"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Exposition - Il était une fois les livres animés : Contes en relief"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/165e89a1-60f2-3cf4-ab76-add6fe747809",
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ebb0ff99-67d7-31eb-a599-7fa0345ecd70",
+      "schema:telephone": [
+        "+33 2 97 73 57 99"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/45ab6e2c-0878-36ae-9236-e60efa77551e",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie eine Sammlung von Pop'up-Märchenbüchern und -Alben, die von Julien Laparade, einem Pop'Up-Spezialisten und -Liebhaber, ausgeliehen wurden. Zu sehen während der Öffnungszeiten der Mediathek. Kostenlos."
+        ],
+        "en": [
+          "Discover a collection of Pop'up storybooks and albums, on loan from Julien Laparade, Pop'Up specialist and enthusiast. On display during library opening hours. Free admission."
+        ],
+        "it": [
+          "Scoprite una collezione di libri e album di storie Pop'up, prestati da Julien Laparade, specialista e appassionato di Pop'up. In mostra durante gli orari di apertura della biblioteca. Ingresso libero."
+        ],
+        "fr": [
+          "Découvrez une collection de livres et albums de contes Pop'up, prêtée par Julien Laparade, spécialiste et passionné de Pop'Up. Visible aux horaires d'ouverture de la médiathèque. Gratuit."
+        ],
+        "nl": [
+          "Ontdek een verzameling Pop'up-verhalenboeken en -albums, uitgeleend door Julien Laparade, een Pop'Up-specialist en -liefhebber. Te bezichtigen tijdens openingsuren van de bibliotheek. Gratis toegang."
+        ],
+        "es": [
+          "Descubra una colección de libros y álbumes de cuentos Pop'up, prestados por Julien Laparade, especialista y entusiasta del Pop'Up. Expuesta durante las horas de apertura de la biblioteca. Entrada gratuita."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/01bc01a1-267f-3a8c-a8b8-d684a8237cae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/17b51004-8b3e-35f8-9677-6f04896dad81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d05af36-2cea-3aba-b6a2-04c5a59db651",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8551d1dc-4b4b-3539-b87d-404d1d3be6f0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd2057a8-7363-3542-ae2b-07239965e3ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/267c02b6-102d-31c7-82ae-84e522199341",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/61669aa0-2687-3462-ad82-312ee2ac5074",
+          "schema:addressLocality": "Mauron",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "Médiathèque Il était une fois",
+            "Rue de la Libération"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56127",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mauron"
+              ],
+              "pt": [
+                "Mauron"
+              ],
+              "en": [
+                "Mauron"
+              ],
+              "it": [
+                "Mauron"
+              ],
+              "fr": [
+                "Mauron"
+              ],
+              "nl": [
+                "Mauron"
+              ],
+              "es": [
+                "Mauron"
+              ]
+            },
+            "insee": "56127",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8aa8f0ed-7da4-36a7-b3f2-ee4e916cb287",
+        "schema:latitude": "48.0843426",
+        "schema:longitude": "-2.2828797",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T03:34:47.252Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/eb376661-8bcc-38b3-a481-618df5689411",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-16",
+      "startDate": "2026-06-09"
+    }
+  ]
+}

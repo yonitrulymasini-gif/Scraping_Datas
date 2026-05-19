@@ -1,0 +1,617 @@
+{
+  "@id": "https://data.datatourisme.fr/38/92c834bc-27f0-3bc2-9722-7418a3dbeba4",
+  "dc:identifier": "HLO42d2f49d418a4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Menglas"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/919d6159-e0b7-36d3-9bcf-7564d1be6203",
+      "schema:telephone": [
+        "+33 6 83 90 62 18",
+        "+33 7 88 14 65 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lemenglas.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/919d6159-e0b7-36d3-9bcf-7564d1be6203",
+      "schema:telephone": [
+        "+33 6 83 90 62 18",
+        "+33 7 88 14 65 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lemenglas.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d557bffa-8ba2-3c3d-95f8-1848b5cc3ed6",
+      "schema:legalName": "Le Menglas",
+      "schema:telephone": [
+        "+33 6 83 90 62 18",
+        "+33 7 88 14 65 60"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lemenglas.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/29c14d35-5304-3d8e-9ce9-f3aedf6c4af0",
+      "dc:description": {
+        "de": [
+          "Komfortables ebenerdiges Haus von 100m², ruhig auf dem Land gelegen, mit Küche, Wohnzimmer, Wohnraum, 3 Schlafzimmern (1 Bett 160 + 1 Bett 140 + 2 Betten 90 + Babybett auf Anfrage), Waschmaschine, Geschirrspüler, TV, Badezimmer und separates WC. Großer Garten von 2300m², Gartenmöbel, Liegestühle, Grill, Fahrräder zur Verfügung. In der Nähe von Geschäften, Menhiren und Wanderwegen. 2,5 km von den Stränden entfernt. Haustiere sind unter Vorbehalt erlaubt. Ab einer Mietdauer von 2 Wochen werden Bettwäsche und Handtücher bereitgestellt. Wasser und Strom kosten extra."
+        ],
+        "en": [
+          "Comfortable single-storey house 100m², in quiet country setting, comprising kitchen, lounge, living room, 3 bedrooms (1 bed 160 + 1 bed 140 + 2 beds 90 + crib on request), washing machine, dishwasher, TV, shower room and separate WC. Large 2300m² garden, garden furniture, deckchairs, barbecue, bicycles available. Close to shops, menhirs and hiking trails. 2.5 km from beaches. Pets accepted subject to reservation. Bed linen and household linen provided for rentals of 2 weeks or more. Water and electricity extra."
+        ],
+        "it": [
+          "Confortevole casa a un piano (100m²), in posizione tranquilla in campagna, composta da cucina, salotto, soggiorno, 3 camere da letto (1 letto 160 + 1 letto 140 + 2 letti 90 + culla su richiesta), lavatrice, lavastoviglie, TV, bagno con doccia e WC separato. Ampio giardino di 2300 m², mobili da giardino, sedie a sdraio, barbecue, biciclette a disposizione. Vicino a negozi, menhir e sentieri escursionistici. 2,5 km dalle spiagge. Animali accettati su prenotazione. Biancheria da letto e da casa fornita a partire da 2 settimane di affitto. Acqua ed elettricità extra."
+        ],
+        "fr": [
+          "Confortable maison de plain pied de 100m², au calme à la campagne, comprenant cuisine, salon, séjour, 3 chambres (1 lit 160 + 1 lit 140 + 2 lits 90 + lit bébé sur demande), lave linge, lave vaisselle, TV, salle d'eau et WC indépendants. Grand jardin de 2300m², salon de jardin, transats, barbecue, vélos à disposition. Proche des commerces, des menhirs et des sentiers de randonnée. A 2,5 km des plages. Animaux acceptés sous réserve. Dès 2 semaines de location, le linge de lit et de maison est fourni. Eau et électricité en supplément."
+        ],
+        "nl": [
+          "Comfortabel gelijkvloers huis (100m²), rustig gelegen op het platteland, bestaande uit keuken, woonkamer, woonkamer, 3 slaapkamers (1 bed van 160 + 1 bed van 140 + 2 bedden van 90 + kinderbedje op aanvraag), wasmachine, vaatwasser, TV, doucheruimte en aparte WC. Grote tuin van 2300 m², tuinmeubels, ligstoelen, barbecue, fietsen beschikbaar. Dicht bij winkels, menhirs en wandelpaden. Op 2,5 km van de stranden. Huisdieren toegestaan na reservering. Beddengoed en huishoudlinnen aanwezig vanaf 2 weken huur. Water en elektriciteit extra."
+        ],
+        "es": [
+          "Cómoda casa de una sola planta (100m²), en un lugar tranquilo en el campo, que consta de cocina, salón, sala de estar, 3 dormitorios (1 cama 160 + 1 cama 140 + 2 camas 90 + cuna bajo petición), lavadora, lavavajillas, TV, cuarto de ducha y WC separado. Gran jardín de 2300m², muebles de jardín, tumbonas, barbacoa, bicicletas disponibles. Cerca de tiendas, menhires y rutas de senderismo. A 2,5 km de las playas. Se aceptan animales previa reserva. Ropa de cama y de casa proporcionada a partir de 2 semanas de alquiler. Agua y electricidad extra."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/36475642-2243-3687-9723-30030ddb5d1a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/47dd6b15-4919-3041-a06b-59cccdca68e2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/609dbafa-1ffa-3dee-835c-a8a5a0e441f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cda8bc72-9420-3025-b75e-3b21c58c217e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9665e61-40c0-3826-98be-fd90a3538f57",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/618fb16c-c665-3fb5-9c0e-062d3e4e868d",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Restaurant",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Restaurant"
+            ],
+            "pt": [
+              "Restaurante"
+            ],
+            "en": [
+              "Restaurant"
+            ],
+            "it": [
+              "Ristorante"
+            ],
+            "fr": [
+              "Restaurant"
+            ],
+            "es": [
+              "Restaurante"
+            ],
+            "nl": [
+              "Restaurant"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9487cf18-2d33-366c-b5ac-78e9805f6110",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7d05936f-8207-3e0b-b212-f81c71ec0aa2",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "56 rue des Menhirs"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/aa4cdc59-c7ff-3c62-94e5-5eaffef72fa2",
+        "schema:latitude": "47.63511",
+        "schema:longitude": "-3.149811",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.172Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

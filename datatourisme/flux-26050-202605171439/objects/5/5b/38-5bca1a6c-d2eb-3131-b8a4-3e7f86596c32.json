@@ -1,0 +1,635 @@
+{
+  "@id": "https://data.datatourisme.fr/38/5bca1a6c-d2eb-3131-b8a4-3e7f86596c32",
+  "dc:identifier": "HLOBRE056V50D5G8",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Forêt Totem - Douglas"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9cb566ec-351b-3ccf-b73b-e227dbc38ed3",
+      "schema:telephone": [
+        "+33 6 75 25 76 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.foret-totem.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9cb566ec-351b-3ccf-b73b-e227dbc38ed3",
+      "schema:telephone": [
+        "+33 6 75 25 76 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.foret-totem.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f0f78eb4-ec5a-37b4-95a4-abda977577f3",
+      "schema:legalName": "Forêt Totem - Douglas",
+      "schema:telephone": [
+        "+33 6 75 25 76 30"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.foret-totem.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ac34ff87-3aee-35dc-ba6f-cf9601b2b9c3",
+      "dc:description": {
+        "de": [
+          "Ein Aufenthalt in einem Tiny House ist eine Einladung zum Entspannen inmitten der Natur.\nEin gemütlicher Kokon, der Ihnen einen unvergesslichen Aufenthalt beschert. Dieses kleine Holzhaus steckt voller Charme und Einfallsreichtum. Das Netz im Zwischengeschoss ist ein perfekter Rückzugsort, um die Natur zu beobachten und zu träumen, ebenso wie die Terrasse, die mit Holzsesseln ausgestattet ist und auf den Wald blickt. Stellen Sie sich vor, wie Sie mit einem guten Buch ein paar Stunden in Ruhe verbringen..."
+        ],
+        "en": [
+          "A stay in a tiny house is an invitation to relax in the heart of nature.\nA cozy cocoon for an unforgettable stay, this little wooden house is brimming with charm and ingenuity. The mezzanine net is a perfect refuge for observing nature and dreaming, as is the terrace, equipped with wooden armchairs facing the forest. Imagine spending a few hours in the peace and quiet with a good book..."
+        ],
+        "it": [
+          "Un soggiorno in una casetta è un invito a rilassarsi nel cuore della natura.\nUn accogliente bozzolo per un soggiorno indimenticabile, questa minuscola casa in legno è ricca di fascino e ingegno. La rete sul soppalco è un rifugio perfetto per osservare la natura e sognare, così come la terrazza, dotata di poltrone in legno affacciate sul bosco. Immaginate di trascorrere qualche ora in pace e tranquillità con un buon libro..."
+        ],
+        "fr": [
+          "Un séjour en tiny house, c'est une invitation à la détente au cœur de la nature.\nUn cocon douillet pour vous offrir un séjour inoubliable, cette petite maison en bois regorge de charme et d’ingéniosité. Le filet en mezzanine est un refuge parfait pour observer la nature et rêver, tout comme la terrasse, équipée de fauteuils en bois face à la forêt. Imaginez-vous avec un bon livre passer quelques heures au calme..."
+        ],
+        "es": [
+          "Una estancia en una casita es una invitación a relajarse en plena naturaleza.\nAcogedor capullo para una estancia inolvidable, esta casita de madera rebosa encanto e ingenio. La red del entresuelo es un refugio perfecto para observar la naturaleza y soñar, al igual que la terraza, equipada con sillones de madera orientados hacia el bosque. Imagínese pasar unas horas en paz y tranquilidad con un buen libro..."
+        ],
+        "nl": [
+          "Een verblijf in een tiny house is een uitnodiging om te ontspannen in het hart van de natuur.\nDit kleine houten huisje is een gezellige cocon voor een onvergetelijk verblijf en barst van de charme en vindingrijkheid. Het net op de mezzanine is een perfect toevluchtsoord om de natuur te observeren en te dromen, net als het terras, uitgerust met houten leunstoelen die uitkijken op het bos. Stel je voor dat je een paar uur in alle rust kunt doorbrengen met een goed boek..."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0fd08c6c-fd5f-3d9b-bf22-8f4d96cf0133",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1441ec2f-3012-3809-ac8d-af0762458bd6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf4d4316-b2e4-3bc8-ade1-fafd24b2649c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf6cc6e6-26ae-38e1-a584-924860c73e06",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e9a1f4ff-ce9f-3568-b5ff-64f8170d783a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/396c2df1-9c34-3781-bcb1-27beb7deac9b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2d0f930d-7c89-30e8-bee5-46aa2737d239",
+          "schema:addressLocality": "Persquen",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "2 Couetilliec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56156",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Persquen"
+              ],
+              "pt": [
+                "Persquen"
+              ],
+              "en": [
+                "Persquen"
+              ],
+              "it": [
+                "Persquen"
+              ],
+              "fr": [
+                "Persquen"
+              ],
+              "nl": [
+                "Persquen"
+              ],
+              "es": [
+                "Persquen"
+              ]
+            },
+            "insee": "56156",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ca5edebc-40b5-3896-b310-9a62a2fe3d4c",
+        "schema:latitude": "47.9868059",
+        "schema:longitude": "-3.2388427",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b60dbe6c-91c7-333e-970e-8072f532fa5c",
+          "schema:validFrom": "2026-02-27T00:00:00",
+          "schema:validThrough": "2026-11-29T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T04:04:12.744Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cfb470a7-3da3-3e6e-8f03-e47b7abd28db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "@id": "https://data.datatourisme.fr/38/16868dab-4531-3bd8-bdb6-7bb183e2698d",
+  "dc:identifier": "FMABRE000V51L7L5",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Product",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Les coulisses des archives"
+    ],
+    "fr": [
+      "Les coulisses des archives"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9edd5526-4a41-31b6-90b9-d3e108b567c9",
+      "schema:telephone": [
+        "+33 2 97 24 18 32"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b9bf4aea-845f-3049-bc31-3a1c33566c4c",
+      "dc:description": {
+        "de": [
+          "Auf einem Rundgang durch das Kulturzentrum Athena können Sie einen Blick hinter die Kulissen werfen, unsere Aufgaben kennenlernen und eine Auswahl an Archivdokumenten betrachten, wobei jedes Mal ein neues Thema im Vordergrund steht!\n\n8 Personen\n\nNach Online-Anmeldung"
+        ],
+        "en": [
+          "Take a tour of the Athena Cultural Centre and discover what goes on behind the scenes, our missions and a selection of archive documents, with a new theme in the spotlight at each visit!\n\nCapacity: 8 people\n\nOnline registration required"
+        ],
+        "it": [
+          "Fate un giro nel Centro Culturale Athena e scoprite cosa succede dietro le quinte, le nostre missioni e una selezione di documenti d'archivio, con un nuovo tema in primo piano ad ogni visita!\n\nCapacità: 8 persone\n\nÈ richiesta la registrazione online"
+        ],
+        "fr": [
+          "Au gré d'un parcours au sein du Centre Culturel Athéna, profitez d'un temps pour découvrir l'envers du décor, nos missions et une sélection de documents d'archives avec, à chaque rendez-vous, un nouveau thème à l'honneur !\n\nJauge de 8 personnes\n\nSur inscription en ligne"
+        ],
+        "es": [
+          "Visite el Centro Cultural Athena y descubra lo que ocurre entre bastidores, nuestras misiones y una selección de documentos de archivo, con un nuevo tema en el punto de mira en cada visita\n\nCapacidad: 8 personas\n\nInscripción en línea obligatoria"
+        ],
+        "nl": [
+          "Maak een rondleiding door het Athena Cultuurcentrum en ontdek wat er achter de schermen gebeurt, onze missies en een selectie archiefstukken, met bij elk bezoek een nieuw thema in de schijnwerpers!\n\nCapaciteit: 8 personen\n\nOnline inschrijving vereist"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/c5398fd4-0d2e-3826-8e58-9522eea9927e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cdd240f6-cf5a-370f-b7d8-86a4d40f5836",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ce9a5a7b-09c9-38f9-9ef7-5f24ad3182de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcb3f92b-3369-3bc2-a460-4e28d4ef6fa2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8b29a515-b1dc-3df7-bbe9-412a28af3b83",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/843517c4-92dd-3830-88fd-2a4e4130818a",
+          "schema:addressLocality": "Auray",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Espace Culturel Athéna",
+            "Place du Golhérez"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auray"
+              ],
+              "pt": [
+                "Auray"
+              ],
+              "en": [
+                "Auray"
+              ],
+              "it": [
+                "Auray"
+              ],
+              "fr": [
+                "Auray"
+              ],
+              "nl": [
+                "Auray"
+              ],
+              "es": [
+                "Auray"
+              ]
+            },
+            "insee": "56007",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/942e9884-6101-3494-a14d-640eb3570d2f",
+        "schema:latitude": "47.66516",
+        "schema:longitude": "-2.98944",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.835Z"
+}

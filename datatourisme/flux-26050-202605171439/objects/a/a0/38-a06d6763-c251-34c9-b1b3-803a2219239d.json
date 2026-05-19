@@ -1,0 +1,233 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a06d6763-c251-34c9-b1b3-803a2219239d",
+  "dc:identifier": "B0036BRE0000000C",
+  "@type": [
+    "schema:LocalBusiness",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SightseeingBoat",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Port miniature"
+    ],
+    "fr": [
+      "Port miniature"
+    ]
+  },
+  "COVID19SpecialMeasures": {
+    "de": [
+      "die Gesundheitsbedingungen eingehalten werden."
+    ],
+    "en": [
+      "les conditions sanitaires seront respectées."
+    ],
+    "it": [
+      "le condizioni igienico-sanitarie saranno rispettate."
+    ],
+    "fr": [
+      "les conditions sanitaires seront respectées."
+    ],
+    "es": [
+      "se respetarán las condiciones sanitarias."
+    ],
+    "nl": [
+      "de hygiënische omstandigheden in acht worden genomen."
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d807f1c3-1cf9-3249-90cc-6e4425fb35c1",
+      "schema:telephone": [
+        "+33 2 99 08 21 75",
+        "+33 7 63 50 68 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.broceliande-vacances.com/"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4eeef212-f381-36f6-889c-94afe9b21990",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/991db7ba-22a5-3b06-b6f8-79bc728ddbd2",
+          "schema:addressLocality": "Saint-Malo-de-Beignon",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "Base de Loisirs",
+            "Etang d'Aleth"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56226",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Malo-de-Beignon"
+              ],
+              "pt": [
+                "Saint-Malo-de-Beignon"
+              ],
+              "en": [
+                "Saint-Malo-de-Beignon"
+              ],
+              "it": [
+                "Saint-Malo-de-Beignon"
+              ],
+              "fr": [
+                "Saint-Malo-de-Beignon"
+              ],
+              "nl": [
+                "Saint-Malo-de-Beignon"
+              ],
+              "es": [
+                "Saint-Malo-de-Beignon"
+              ]
+            },
+            "insee": "56226",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1a023fe4-9edd-3d7d-b43d-f64c763d004f",
+        "schema:latitude": "47.9623018",
+        "schema:longitude": "-2.1547583",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-01-08T03:33:52.738Z"
+}

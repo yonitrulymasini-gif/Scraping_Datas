@@ -1,0 +1,602 @@
+{
+  "@id": "https://data.datatourisme.fr/38/60df0d45-7f7d-3cc7-a662-0ee60f5d04da",
+  "dc:identifier": "HLOBRE056V503C2E",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Domaine de Kernolo"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/ec6b903c-7465-31c8-ac51-6bfe5fc7299c",
+    "dc:identifier": "b695c8d6-ddbb-4a6b-9019-9e5421118097",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/9c617542-85a4-37ce-8ac1-ce59ee3cc7ab",
+        "schema:addressLocality": "Le Faouët",
+        "schema:postalCode": "56320",
+        "schema:streetAddress": [
+          "3 rue des cendres"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56057",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Le Faouët"
+            ],
+            "pt": [
+              "Le Faouët"
+            ],
+            "en": [
+              "Le Faouët"
+            ],
+            "it": [
+              "Le Faouët"
+            ],
+            "fr": [
+              "Le Faouët"
+            ],
+            "nl": [
+              "Le Faouët"
+            ],
+            "es": [
+              "Le Faouët"
+            ]
+          },
+          "insee": "56057",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@tourismepaysroimorvan.com"
+    ],
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "schema:telephone": [
+      "+33 2 97 23 23 23"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.tourismepaysroimorvan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/de1156d4-99c7-3764-9519-1c83583b2061",
+      "schema:telephone": [
+        "+33 2 97 34 55 41",
+        "+33 7 82 92 87 38"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lesgitesdekernolo.jimdofree.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bd5c8807-252f-3c61-9089-16a391731877",
+      "schema:legalName": "Domaine de Kernolo",
+      "schema:telephone": [
+        "+33 2 97 34 55 41",
+        "+33 7 82 92 87 38"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lesgitesdekernolo.jimdofree.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/de1156d4-99c7-3764-9519-1c83583b2061",
+      "schema:telephone": [
+        "+33 2 97 34 55 41",
+        "+33 7 82 92 87 38"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lesgitesdekernolo.jimdofree.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/01cf47b7-52a6-3b30-9e62-76b1a6ae140d",
+      "dc:description": {
+        "de": [
+          "In einer grünen Umgebung öffnet ein authentischer Weiler mit Charakter und Charme aus dem 17. Jahrhundert seine Türen für Sie... Alter Brotofen, Brunnen, mehrere hundert Jahre alte Eichen. Das Anwesen besteht aus 5 Ferienhäusern und einem Saal für schöne Tage. Sie sind geschmackvoll eingerichtet und bieten Ihnen allen modernen Komfort während Ihres Aufenthalts im Herzen der Bretagne. Persönlicher und herzlicher Empfang."
+        ],
+        "en": [
+          "In a green setting, an authentic 17th-century hamlet of character and charm opens its doors to you... Old bread oven, well, centuries-old oak trees. The estate's 5 gîtes, plus a summer room, are tastefully decorated and offer all modern comforts for your stay in the heart of Brittany. A warm, personalized welcome."
+        ],
+        "it": [
+          "In un ambiente verdeggiante, un autentico borgo del XVII secolo pieno di carattere e fascino vi apre le porte... Antico forno per il pane, pozzo e querce secolari. La tenuta è composta da 5 gîtes e una sala estiva, tutte arredate con gusto e dotate di tutti i comfort moderni per il vostro soggiorno nel cuore della Bretagna. Un'accoglienza calorosa e personalizzata."
+        ],
+        "fr": [
+          "Dans un écrin de verdure, un authentique hameau de caractère et de charme du XVIIe siècle, vous ouvre ses portes... Vieux four à pain, puits, chênes pluri centenaires. Le domaine composé de 5 gîtes et d'une salle aux beaux jours sont décorés avec goût et vous apporteront tout le confort moderne lors de votre séjour en cœur de Bretagne. Accueil personnalisé et chaleureux."
+        ],
+        "es": [
+          "En medio de una exuberante vegetación, esta auténtica aldea del siglo XVII con carácter y encanto le abre sus puertas... Antiguo horno de pan, pozo y robles centenarios. La finca consta de 5 casas rurales y una sala de verano, todas decoradas con gusto y que ofrecen todas las comodidades modernas para su estancia en el corazón de Bretaña. Una acogida cálida y personalizada."
+        ],
+        "nl": [
+          "Dit authentieke 17e-eeuwse gehucht met karakter en charme ligt te midden van weelderig groen en opent zijn deuren voor je... Oude broodoven, waterput en eeuwenoude eiken. Het landgoed bestaat uit 5 gîtes en een zomerkamer, allemaal smaakvol ingericht en voorzien van alle moderne comfort voor uw verblijf in het hart van Bretagne. Een warm en persoonlijk onthaal."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/189ff7ca-362f-3c19-92cd-3f6c06ce6fb1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4f7e2329-5914-3b04-9010-57e0dbfe6843",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67ae4d6f-81ee-3e67-82f3-b7b4bd7e424d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cfe60ced-34de-382f-b51f-4981baf47a66",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e237c3b5-55fd-37ad-8825-b534e06625d9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c52ef8bc-5108-38f4-8129-de2c125551c0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/49413318-df05-3aed-b18b-aca66fc36dfc",
+          "schema:addressLocality": "Plouray",
+          "schema:postalCode": "56770",
+          "schema:streetAddress": [
+            "4 kernolo"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56170",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Plouray"
+              ],
+              "pt": [
+                "Plouray"
+              ],
+              "en": [
+                "Plouray"
+              ],
+              "it": [
+                "Plouray"
+              ],
+              "fr": [
+                "Plouray"
+              ],
+              "nl": [
+                "Plouray"
+              ],
+              "es": [
+                "Plouray"
+              ]
+            },
+            "insee": "56170",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0f36f0aa-93c6-351f-b06f-795cc1585719",
+        "schema:latitude": "48.1067035",
+        "schema:longitude": "-3.4053317",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.552Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

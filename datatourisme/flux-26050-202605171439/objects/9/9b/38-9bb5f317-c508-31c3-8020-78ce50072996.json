@@ -1,0 +1,324 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9bb5f317-c508-31c3-8020-78ce50072996",
+  "dc:identifier": "FMABRE056V50DIKJ",
+  "schema:endDate": [
+    "2026-08-04"
+  ],
+  "schema:startDate": [
+    "2026-08-04"
+  ],
+  "@type": [
+    "schema:Event",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Découverte des plantes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f3c3ba5d-ac59-362e-9352-65b1fe4957e4",
+      "schema:telephone": [
+        "+33 2 97 30 94 89"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.accstjoseph.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3da7908c-c0f0-358e-b262-ded166c60c45",
+      "dc:description": {
+        "de": [
+          "Entdeckung der Pflanzen anhand des Buches von Herrn Michel Lonsdale \"Kleine Spiritualität der Blumen\" mit Herrn Michel Damblant und Sr. Corine"
+        ],
+        "en": [
+          "Plant discovery based on Mr Michel Lonsdale's book \"Petite spiritualité des fleurs\" with Mr Michel Damblant and Sr Corine"
+        ],
+        "it": [
+          "Scoperta delle piante sulla base del libro \"Petite spiritualité des fleurs\" di Michel Lonsdale con Michel Damblant e Sr Corine"
+        ],
+        "fr": [
+          "Découverte des plantes à partir du livre Mr Michel Lonsdale \"Petite spiritualité des fleurs \" avec Mr Michel Damblant et Sr Corine"
+        ],
+        "nl": [
+          "Ontdekking van planten op basis van het boek \"Petite spiritualité des fleurs\" van Michel Lonsdale met Michel Damblant en Corine"
+        ],
+        "es": [
+          "Descubrimiento de plantas a partir del libro del Sr. Michel Lonsdale \"Petite spiritualité des fleurs\" con el Sr. Michel Damblant y la Hna. Corine"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4c4adf11-8886-3537-9d6c-34e9506fd3d8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/52df922e-20ae-3861-955b-17412cfab4b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b7b3928d-c756-3a91-b15a-59ffdabf026c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0fa51de-2075-3f6c-abc4-5d4af8f77eff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7c608aa-ebfc-3c58-90af-0851b499075e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/59494d3b-1fd0-334f-9e42-74296930bda1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8955e5dd-10d0-38ca-a814-77d03c7c931a",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "9 Rue Pasteur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8e090617-d55a-3636-82ee-f6f73366f183",
+        "schema:latitude": "47.52252",
+        "schema:longitude": "-3.12997",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-13",
+  "lastUpdateDatatourisme": "2026-04-14T03:24:08.262Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b5dbd788-015f-3d4f-ac43-ed4e99937dea",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-04",
+      "endTime": "22:00:00",
+      "startDate": "2026-08-04",
+      "startTime": "20:30:00"
+    }
+  ]
+}

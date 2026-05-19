@@ -1,0 +1,383 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ac8e8246-a8ff-3fc1-9cbb-672daa46b118",
+  "dc:identifier": "ASC9f4f30b1408d4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Cat Atlantic - Sorties en catamaran"
+    ],
+    "fr": [
+      "Cat Atlantic - Sorties en catamaran"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bc61055b-d1e7-3f83-872c-bd5c8d9f62db",
+      "schema:telephone": [
+        "+33 6 75 06 41 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.catatlantic.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b6fe216c-9e50-3678-a393-393d4ed02b95",
+      "dc:description": {
+        "de": [
+          "CAT ATLANTIC entwirft maßgeschneiderte Reisen mit einem bewohnbaren Katamaran entlang der Atlantikküste. Route, Zwischenstopps, Essen - lassen Sie uns gemeinsam Ihre nächste Kreuzfahrt planen!"
+        ],
+        "en": [
+          "CAT ATLANTIC designs tailor-made trips in catamaran on the Atlantic coast. Itinerary, stopovers, food, let's prepare your next cruise together!"
+        ],
+        "it": [
+          "CAT ATLANTIC progetta viaggi su misura in catamarano abitabile sulla costa atlantica. Itinerario, scali, cibo, prepariamo insieme la vostra prossima crociera!"
+        ],
+        "fr": [
+          "CAT ATLANTIC conçoit des voyages à la carte en catamaran habitable sur le littoral atlantique. Itinéraire, escales, nourriture, préparons ensemble votre prochaine croisière !"
+        ],
+        "nl": [
+          "CAT ATLANTIC ontwerpt reizen op maat in catamarans die aan de Atlantische kust kunnen worden bewoond. Routebeschrijving, tussenstops, eten, laten we samen uw volgende cruise voorbereiden!"
+        ],
+        "es": [
+          "CAT ATLANTIC diseña viajes a medida en catamarán habitable en la costa atlántica. Itinerario, escalas, comida, ¡preparemos juntos su próximo crucero!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/914b89a1-3ced-3cf2-9c2e-010f2b8ee955",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a4d55e5b-3bce-3f60-ba8a-ad498086bb54",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d3b859c4-6d14-3d67-b7c1-69be336f471d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0a35ecc-646f-3930-b8c6-6ecdb89392a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f92d2256-cd52-3004-81ef-a5f4791c3c05",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Catamaran",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Katamaran"
+        ],
+        "pt": [
+          "Catamarã"
+        ],
+        "en": [
+          "Catamaran"
+        ],
+        "it": [
+          "Catamarano"
+        ],
+        "fr": [
+          "Catamaran"
+        ],
+        "nl": [
+          "Catamaran"
+        ],
+        "es": [
+          "Catamarán"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8053f874-f6dc-380c-a2a1-b8af71e27f75",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b908b076-50b2-3302-bd6a-2bcf19fca6fa",
+          "schema:addressLocality": "La Trinité-sur-Mer",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "Port de la Trinité"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56258",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Trinité-sur-Mer"
+              ],
+              "pt": [
+                "La Trinité-sur-Mer"
+              ],
+              "en": [
+                "La Trinité-sur-Mer"
+              ],
+              "it": [
+                "La Trinité-sur-Mer"
+              ],
+              "fr": [
+                "La Trinité-sur-Mer"
+              ],
+              "nl": [
+                "La Trinité-sur-Mer"
+              ],
+              "es": [
+                "La Trinité-sur-Mer"
+              ]
+            },
+            "insee": "56258",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4a5d3881-790c-3aec-b1b9-9e101b512847",
+        "schema:latitude": "47.58743",
+        "schema:longitude": "-3.0271149",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ccd840dd-1135-3833-afd1-317fefad1da1",
+          "schema:validFrom": "2019-06-05T00:00:00",
+          "schema:validThrough": "2019-06-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.334Z"
+}

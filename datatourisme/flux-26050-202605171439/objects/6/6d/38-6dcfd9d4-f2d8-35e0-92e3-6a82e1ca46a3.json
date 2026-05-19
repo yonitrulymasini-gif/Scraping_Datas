@@ -1,0 +1,279 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6dcfd9d4-f2d8-35e0-92e3-6a82e1ca46a3",
+  "dc:identifier": "PCUBRE000V506LO3",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Atelier Régional de Restauration"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/a654a02e-09ae-3e28-97ca-7bbcdb1c1fca",
+    "dc:identifier": "63869361-f5c1-4a3c-8dfc-d2ada1172a45",
+    "schema:email": [
+      "contact@broceliande-vacances.com"
+    ],
+    "schema:legalName": "OT CMC - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/315f0c83-878f-3797-870c-89c25cd896f0",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://atelierregionalderestauration.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/29229b7e-d9b3-3352-be91-1f38058ab044",
+      "schema:legalName": "Atelier Régional de Restauration",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://atelierregionalderestauration.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/315f0c83-878f-3797-870c-89c25cd896f0",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://atelierregionalderestauration.com/"
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/e135d17b-f1da-31fa-8792-dd8c60b4f3f2",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:EquippedMeetingRoom",
+          "@type": [
+            "RoomAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Ausgestatteter Sitzungsraum"
+            ],
+            "pt": [
+              "Sala de reuniões equipada"
+            ],
+            "en": [
+              "Equipped meeting room"
+            ],
+            "it": [
+              "Sala riunioni attrezzata"
+            ],
+            "fr": [
+              "Salle de réunion équipée"
+            ],
+            "nl": [
+              "Uitgeruste vergaderzaal"
+            ],
+            "es": [
+              "Sala de reuniones equipada"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/816bd0ef-b1da-3ffe-bd25-6235640a4860",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2ed349bf-0218-3d6f-9f12-22f4bf0cb2e9",
+          "schema:addressLocality": "Bignan",
+          "schema:postalCode": "56500",
+          "schema:streetAddress": [
+            "Kerguehennec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56017",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bignan"
+              ],
+              "pt": [
+                "Bignan"
+              ],
+              "en": [
+                "Bignan"
+              ],
+              "it": [
+                "Bignan"
+              ],
+              "fr": [
+                "Bignan"
+              ],
+              "nl": [
+                "Bignan"
+              ],
+              "es": [
+                "Bignan"
+              ]
+            },
+            "insee": "56017",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1a16c130-25e3-3e64-a99f-f61f60033347",
+        "schema:latitude": "47.885904",
+        "schema:longitude": "-2.734925",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-20",
+  "lastUpdateDatatourisme": "2026-04-27T15:38:15.832Z",
+  "reducedMobilityAccess": true
+}

@@ -1,0 +1,603 @@
+{
+  "@id": "https://data.datatourisme.fr/38/0df2ee96-ced4-3b1d-bf96-14afe29402aa",
+  "dc:identifier": "B0028BRE000001DN",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Manoir Desnachez"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8718a8ca-bd4b-3707-9c20-7666d0762575",
+      "schema:telephone": [
+        "+33 2 97 74 65 03"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.manoir-desnachez.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8718a8ca-bd4b-3707-9c20-7666d0762575",
+      "schema:telephone": [
+        "+33 2 97 74 65 03"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.manoir-desnachez.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5fb1201-ff5c-399d-83e2-0ba0dbb63835",
+      "schema:legalName": "Manoir Desnachez",
+      "schema:telephone": [
+        "+33 2 97 74 65 03"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.manoir-desnachez.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d0a4f683-71f1-301c-b607-3a3622a9f6cb",
+      "dc:description": {
+        "de": [
+          "Im Grünen und in absoluter Ruhe gelegen, verführt das Herrenhaus aus dem 15. Jahrhundert schon auf den ersten Blick. Der authentische Charme wird durch eine komfortable Modernität in den Badezimmern, dem Spa oder der Sauna gefärbt. Die fünf Schlafzimmer, von denen einige über ein eigenes Badezimmer und eine Sitzecke verfügen, sind geschmackvoll eingerichtet. Eines davon versteckt sich in einem Holzchalet neben einem Teich. Hochwertige Bettwäsche, 5000 m² großer Landschaftspark, Whirlpool, Sauna, Pflege, Spielzimmer mit Tischfußball und Billard. Abendessen sind ebenfalls auf Vorbestellung erhältlich."
+        ],
+        "en": [
+          "Surrounded by greenery and surrounded by absolute calm, this 15th-century residence is immediately appealing. Authentic charm is tinged with a comfortable modernity in the bathrooms, spa and sauna. The five bedrooms, some with en-suite shower rooms and sitting areas, are tastefully decorated. One of them is tucked away in a wooden chalet next to a pond. Top-of-the-range bedding, 5,000 m² of landscaped grounds, jacuzzi, sauna, treatments, games room with table soccer and billiards. Dinners are also available on reservation."
+        ],
+        "it": [
+          "Immersa nel verde e circondata da una pace e una tranquillità assolute, questa dimora del XV secolo suscita un immediato fascino. Il fascino autentico si tinge di una confortevole modernità nei bagni, nella spa e nella sauna. Le cinque camere da letto, alcune delle quali dotate di bagno con doccia e zona salotto, sono arredate con gusto. Una di esse è nascosta in uno chalet di legno accanto a un laghetto. Biancheria da letto di alta gamma, 5.000 m² di parco paesaggistico, jacuzzi, sauna, trattamenti, sala giochi con calcio balilla e tavolo da biliardo. Su prenotazione sono disponibili anche cene."
+        ],
+        "fr": [
+          "Dans la verdure et le calme absolu, la demeure du 15e s. séduit dès le premier coup d'œil. Le charme authentique se teinte d'une confortable modernité dans les salles de bain, le spa ou le sauna. Les cinq chambres, avec salle d'eau et coin salon pour certaines, sont décorées avec goût. L'une d'elles se cache dans un chalet bois près d'un bassin. Literie haut de gamme, parc paysager de 5000 m²,  jacuzzi, sauna, soin, salle de jeux avec baby-foot, billard. Les dîners sont aussi disponibles sur réservation."
+        ],
+        "es": [
+          "Rodeada de vegetación y rodeada de una tranquilidad absoluta, esta residencia del siglo XV atrae de inmediato. El encanto auténtico se matiza con una confortable modernidad en los cuartos de baño, el spa y la sauna. Las cinco habitaciones, algunas de ellas con baño privado y zona de estar, están decoradas con gusto. Una de ellas se encuentra en un chalet de madera junto a un estanque. Ropa de cama de alta gama, 5.000 m² de terreno ajardinado, jacuzzi, sauna, tratamientos, sala de juegos con futbolín y mesa de billar. También se ofrecen cenas previa reserva."
+        ],
+        "nl": [
+          "Dit 15e-eeuwse verblijf wordt omringd door groen en absolute rust en is meteen aantrekkelijk. De authentieke charme is getint met een comfortabele moderniteit in de badkamers, spa en sauna. De vijf slaapkamers, waarvan sommige met eigen badkamer met douche en zithoek, zijn smaakvol ingericht. Een ervan ligt verscholen in een houten chalet naast een vijver. Topkwaliteit beddengoed, 5000 m² aangelegd terrein, jacuzzi, sauna, behandelingen, speelkamer met tafelvoetbal en biljart. Diners zijn ook mogelijk op reservering."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3b385329-ce86-3c87-ae56-651cc659752d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/646a5b15-f3f1-3038-b0f6-22b1386e2f93",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e427959-26e6-33ee-9c17-a2bedd38d299",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c319255c-6d3c-377d-a672-c1429b1c79dc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d66cfc4d-d574-3ed7-ae46-36e7d99a152c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f8430719-ec90-389c-9535-265b898b9036",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/08f39cbf-1f8c-3cbe-980c-f895d895ee2e",
+          "schema:addressLocality": "Taupont",
+          "schema:postalCode": "56800",
+          "schema:streetAddress": [
+            "7 rue du domaine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56249",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Taupont"
+              ],
+              "pt": [
+                "Taupont"
+              ],
+              "en": [
+                "Taupont"
+              ],
+              "it": [
+                "Taupont"
+              ],
+              "fr": [
+                "Taupont"
+              ],
+              "nl": [
+                "Taupont"
+              ],
+              "es": [
+                "Taupont"
+              ]
+            },
+            "insee": "56249",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3bcebbf0-e0c1-3add-9900-e5d22431d401",
+        "schema:latitude": "47.9836264",
+        "schema:longitude": "-2.4576952",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-19",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.555Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2583cfc1-e3a1-3891-9d3e-99b57baaea54",
+  "dc:identifier": "FMABRE000V51KJTI",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "en": [
+      "La nature à votre porte"
+    ],
+    "fr": [
+      "La nature à votre porte"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bd6a7014-54c3-3b85-a168-6f195ead94be",
+      "schema:telephone": [
+        "+33 2 97 57 79 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/32f6d862-3842-37c0-8ba3-05f9dab3736d",
+      "dc:description": {
+        "de": [
+          "Fotografische Ausstellung\n\nNehmen Sie im Rahmen der Ausstellung \"Die Natur vor Ihrer Haustür\" an einem Fotoworkshop mit Mitgliedern des Vereins Chercheurs d'images teil.\n\nBegrenzte Platzzahl, Anmeldung bei der Mediathek per Telefon oder E-Mail"
+        ],
+        "en": [
+          "Photographic exhibition \n\nAs part of the \"Nature on your doorstep\" exhibition, take part in a photo workshop with members of the association Chercheurs d'images.\n\nPlaces are limited, so register with the media library by phone or email."
+        ],
+        "it": [
+          "Mostra fotografica\n\nNell'ambito della mostra \"La natura alle porte di casa\", partecipate a un workshop fotografico con i membri dell'associazione Chercheurs d'images.\n\nI posti sono limitati, quindi è necessario registrarsi presso la mediateca per telefono o via e-mail"
+        ],
+        "fr": [
+          "Exposition photographique \n\nDans le cadre de l’exposition « La nature à votre porte », participez à un atelier photo en compagnie des membres de l’association Chercheurs d’images.\n\nNombre de place limité, inscription auprès de la médiathèque  par téléphone ou par mail"
+        ],
+        "nl": [
+          "Fototentoonstelling\n\nNeem in het kader van de tentoonstelling \"Natuur voor de deur\" deel aan een fotoworkshop met leden van de vereniging Chercheurs d?images.\n\nHet aantal plaatsen is beperkt, dus schrijf je in bij de mediatheek via telefoon of e-mail"
+        ],
+        "es": [
+          "Exposición fotográfica\n\nEn el marco de la exposición \"La naturaleza a su puerta\", participe en un taller fotográfico con los miembros de la asociación Chercheurs d'images.\n\nLas plazas son limitadas, inscríbase en la mediateca por teléfono o correo electrónico"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2af02536-b810-3f8c-b332-32d08d2aa850",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2e7e0b92-4736-3e54-83bf-1ed9dcc29d9a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b50840f9-6164-36aa-9cf7-68cc80063361",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1d180cd-ba00-3060-8531-5eb63ce71ea1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/83907ed9-ba03-3ac9-95ef-bf39e4f3861b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c179d943-76fc-3439-a67e-caf63e2e0144",
+          "schema:addressLocality": "Brech",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "2 Rue Park Ar Fetan",
+            "Médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brech"
+              ],
+              "pt": [
+                "Brech"
+              ],
+              "en": [
+                "Brech"
+              ],
+              "it": [
+                "Brech"
+              ],
+              "fr": [
+                "Brech"
+              ],
+              "nl": [
+                "Brech"
+              ],
+              "es": [
+                "Brech"
+              ]
+            },
+            "insee": "56023",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a1a310e4-7801-3f4d-b233-a607d3633ec6",
+        "schema:latitude": "47.7191624",
+        "schema:longitude": "-2.9968116",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-15",
+  "lastUpdateDatatourisme": "2026-04-16T03:26:30.339Z"
+}

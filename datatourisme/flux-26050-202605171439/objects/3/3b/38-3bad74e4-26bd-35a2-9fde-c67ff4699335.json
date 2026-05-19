@@ -1,0 +1,562 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3bad74e4-26bd-35a2-9fde-c67ff4699335",
+  "dc:identifier": "HLOBRE000V51K3H4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La maison de Louisette"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e5c7b0ad-47ba-306c-9011-aa258934104d",
+      "schema:telephone": [
+        "+33 2 97 23 22 61",
+        "+33 6 23 25 03 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lamaisondelouisette.bzh/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2fbc8cf8-483e-3f36-854a-72b99f1fe1a7",
+      "schema:legalName": "La maison de Louisette",
+      "schema:telephone": [
+        "+33 2 97 23 22 61",
+        "+33 6 23 25 03 72"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lamaisondelouisette.bzh/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e5c7b0ad-47ba-306c-9011-aa258934104d",
+      "schema:telephone": [
+        "+33 2 97 23 22 61",
+        "+33 6 23 25 03 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lamaisondelouisette.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3d0dc28b-1c50-3925-9032-1a9ab997bde3",
+      "dc:description": {
+        "de": [
+          "La maison de Louisette ist ein ehemaliges Hotel aus dem Jahr 1914, das zu einem charmanten Gästehaus umgebaut wurde.\nEs befindet sich nur wenige Schritte von den Markthallen aus dem 16. Jahrhundert und dem Musée de Peintures entfernt, das sich im ehemaligen Ursulinenkloster aus dem 17.\nIm Laufe der Jahre hat dieses Gästehaus in seinen Mauern eine reiche Vergangenheit bewahrt. Auf zwei Etagen bieten wir Ihnen fünf Zimmer mit allem Komfort, die komplett ausgestattet sind.\nSie wurden geschmackvoll in einem \"Vintage & Modern\"-Look gestaltet und dekoriert, um Sie einzuladen, neue Energie zu tanken und die Natur zu genießen. Sie können den Ort für eine Hochzeit, einen Geburtstag, eine Familienfeier oder ein Geschäftstreffen privatisieren."
+        ],
+        "en": [
+          "La maison de Louisette is an old hotel built in 1914 and renovated into a charming guest house.\nJust a stone's throw from the 16th-century halles and the Musée de Peintures, housed in the former 17th-century ursuline convent.\nOver the years, this guesthouse has preserved a rich past within its walls. On 2 floors, we offer five comfortable, fully-equipped rooms.\nThey have been tastefully designed and decorated in a \"vintage & modern\" spirit, inviting you to recharge your batteries in a natural setting. You can privatize the premises for weddings, birthdays, family events or business meetings."
+        ],
+        "it": [
+          "La maison de Louisette è un ex hotel costruito nel 1914 e ristrutturato come guest house di charme.\nSi trova a pochi passi dal mercato coperto del XVI secolo e dal Musée de Peintures, ospitato nell'ex convento delle Orsoline del XVII secolo.\nNel corso degli anni, questa guest house ha conservato un ricco passato tra le sue mura. Su due piani, offriamo cinque camere completamente attrezzate e confortevoli.\nSono state progettate e arredate con gusto in stile \"vintage & moderno\", invitandovi a fare il pieno di energia in un ambiente naturale. È possibile prenotare le camere per un matrimonio, un compleanno, un evento familiare o una riunione di lavoro."
+        ],
+        "fr": [
+          "La maison de Louisette est un ancien hôtel construit en 1914 et rénové en maison d'hôtes de charme.\nSituée à quelques pas des halles datant du XVIème et du musée de Peintures qui se trouve dans l'ancien couvent des ursulines du XVIIe.\nAu fil des ans, cette maison d'hôtes a su conserver dans ses murs un riche passé. Sur 2 étages, nous vous proposons cinq chambres tout confort, entièrement équipées. \nElles ont été conçues et décorées avec goût dans un esprit « vintage & moderne » pour vous inviter à vous ressourcer, au naturel. Vous pouvez privatiser le lieu pour un mariage, un anniversaire, un évènement familial ou une réunion professionnelle."
+        ],
+        "nl": [
+          "La maison de Louisette is een voormalig hotel uit 1914 dat is gerenoveerd tot een charmant pension.\nHet ligt op een steenworp afstand van de 16e-eeuwse overdekte markt en het Musée de Peintures, gehuisvest in het voormalige 17e-eeuwse Ursulinenklooster.\nDoor de jaren heen heeft dit pension binnen zijn muren een rijk verleden bewaard. Op 2 verdiepingen bieden we vijf volledig uitgeruste, comfortabele kamers.\nZe zijn smaakvol ontworpen en ingericht in een \"vintage & moderne\" stijl en nodigen je uit om nieuwe energie op te doen in een natuurlijke omgeving. Je kunt de kamers boeken voor een bruiloft, verjaardag, familiebijeenkomst of zakelijke bijeenkomst."
+        ],
+        "es": [
+          "La maison de Louisette es un antiguo hotel construido en 1914 y renovado como casa de huéspedes con encanto.\nEstá a dos pasos del mercado cubierto del siglo XVI y del Musée de Peintures, ubicado en el antiguo convento de las Ursulinas del siglo XVII.\nA lo largo de los años, esta casa de huéspedes ha conservado un rico pasado entre sus muros. En 2 plantas, ofrecemos cinco habitaciones confortables y totalmente equipadas.\nHan sido diseñadas y decoradas con gusto en un estilo \"vintage & moderno\", invitándole a recargar las pilas en un entorno natural. Puede reservar las habitaciones para celebrar una boda, un cumpleaños, un acontecimiento familiar o una reunión de negocios."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/71fc8777-5971-3246-ba28-944ba6711d69",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e8779f1-14a7-32d8-b5b2-0c7615e8cd47",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/addcad12-818c-348f-9610-8fb2af674576",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcbf4af9-31d9-3f82-8118-167bb1d19645",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f48b51cf-8354-3dd4-b484-1e9062708b94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/35287f13-ed66-b851-bf3d-95a9c86b0e6e",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "56c24225-bbb4-4878-b630-fdd45e5cd0a0",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f5510505-4456-35eb-a247-e86ae83a6233",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b1397832-1a98-322e-842e-0bf4bd56f4eb",
+          "schema:addressLocality": "Le Faouët",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "24 Rue des Cendres"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Faouët"
+              ],
+              "pt": [
+                "Le Faouët"
+              ],
+              "en": [
+                "Le Faouët"
+              ],
+              "it": [
+                "Le Faouët"
+              ],
+              "fr": [
+                "Le Faouët"
+              ],
+              "nl": [
+                "Le Faouët"
+              ],
+              "es": [
+                "Le Faouët"
+              ]
+            },
+            "insee": "56057",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d507419c-f198-3b03-8584-c4d7cc8ba87d",
+        "schema:latitude": "48.03362",
+        "schema:longitude": "-3.49168",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-11",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z"
+}

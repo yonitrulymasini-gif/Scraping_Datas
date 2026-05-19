@@ -1,0 +1,341 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d01c10a5-8ca3-3ed8-9a45-d2637a8c6023",
+  "dc:identifier": "ASC747d47a931c94",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Equitation : La Ferme du Poney Bleu"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8ea709f1-8b81-3676-b15b-70aee59eaa17",
+      "schema:telephone": [
+        "+33 2 97 31 64 32"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.perso.wanadoo.fr/poneybleu/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c3b3ad05-cdc2-32f7-a76f-6d4d3d88504f",
+      "dc:description": {
+        "de": [
+          "Das ganze Jahr über geöffnet.\nReiten, Spaziergänge, Wanderungen an der wilden Küste. Erwachsene, Kinder. Staatlich geprüfte Reitlehrer.\nVorbereitungslehrgänge für die eidgenössischen Brevets."
+        ],
+        "en": [
+          "Open all year round.\nHorse riding, walks, hiking on the wild coast. Adults, children. State-qualified instructors.\nPreparation courses for federal certificates."
+        ],
+        "it": [
+          "Aperto tutto l'anno.\nEquitazione, passeggiate, escursioni sulla costa selvaggia. Adulti e bambini. Istruttori qualificati dallo Stato.\nCorsi di preparazione alle qualifiche federali."
+        ],
+        "fr": [
+          "Ouvert toute l'année.\nÉquitation, promenades, rando sur la côte sauvage. Adultes, enfants. Moniteurs diplômés d'Etat. \nStages de préparation aux brevets fédéraux."
+        ],
+        "nl": [
+          "Het hele jaar geopend.\nPaardrijden, wandelingen, trektochten langs de wilde kust. Volwassenen en kinderen. Door de staat gediplomeerde instructeurs.\nCursussen ter voorbereiding op federale kwalificaties."
+        ],
+        "es": [
+          "Abierto todo el año.\nPaseos a caballo, caminatas, senderismo por la costa salvaje. Adultos y niños. Monitores titulados por el Estado.\nCursos de preparación para la obtención de títulos federativos."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/49532931-0f43-31d4-8326-e5ffc57afce6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5495500b-f78c-3334-929b-d47feb362cbc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a91d378-26d7-3398-b203-19b929fa47d6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b903c8b0-2883-3755-b7d5-4fc033b53145",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8003768-006e-37c8-be14-879f6aa348c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7c42f4f1-a006-37f5-aeab-7eb86f8d3c28",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8437c8c9-8bd8-3dfc-8e5d-596651aac682",
+          "schema:addressLocality": "Sauzon",
+          "schema:postalCode": "56360",
+          "schema:streetAddress": [
+            "Anterre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56241",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sauzon"
+              ],
+              "pt": [
+                "Sauzon"
+              ],
+              "en": [
+                "Sauzon"
+              ],
+              "it": [
+                "Sauzon"
+              ],
+              "fr": [
+                "Sauzon"
+              ],
+              "nl": [
+                "Sauzon"
+              ],
+              "es": [
+                "Sauzon"
+              ]
+            },
+            "insee": "56241",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/589d1ba5-56d7-3269-b745-f674b488f3a0",
+        "schema:latitude": "47.371129",
+        "schema:longitude": "-3.221835",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-04-17",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.337Z"
+}

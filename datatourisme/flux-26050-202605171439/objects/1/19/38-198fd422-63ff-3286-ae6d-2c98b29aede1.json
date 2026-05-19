@@ -1,0 +1,241 @@
+{
+  "@id": "https://data.datatourisme.fr/38/198fd422-63ff-3286-ae6d-2c98b29aede1",
+  "dc:identifier": "ASCBRE000V506JV4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Iroise Croisière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b492d080-758e-3be1-b96d-6fa4564786c0",
+      "schema:telephone": [
+        "+33 6 87 63 73 06"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://iroise-croisiere.com/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cef9ed86-6235-3f98-8fe7-926d1f654eb9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c7a48523-f550-3213-a6e8-3e52b23d91f4",
+          "schema:addressLocality": "Larmor-Plage",
+          "schema:postalCode": "56260",
+          "schema:streetAddress": [
+            "Christophe Weibel",
+            "Port de kernével"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56107",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Larmor-Plage"
+              ],
+              "pt": [
+                "Larmor-Plage"
+              ],
+              "en": [
+                "Larmor-Plage"
+              ],
+              "it": [
+                "Larmor-Plage"
+              ],
+              "fr": [
+                "Larmor-Plage"
+              ],
+              "nl": [
+                "Larmor-Plage"
+              ],
+              "es": [
+                "Larmor-Plage"
+              ]
+            },
+            "insee": "56107",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c86b27e5-bde9-3644-926c-ebefe58dd0a4",
+        "schema:latitude": "47.705772",
+        "schema:longitude": "-3.383522",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-01-13",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.329Z"
+}

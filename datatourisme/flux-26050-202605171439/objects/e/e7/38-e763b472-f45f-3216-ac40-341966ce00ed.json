@@ -1,0 +1,576 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e763b472-f45f-3216-ac40-341966ce00ed",
+  "dc:identifier": "HLO5748a41ba1554",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gite  \"Bon Temps\""
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c732ec2d-b82b-3be0-ae5b-7cc64ccc6f41",
+      "schema:telephone": [
+        "+33 2 97 59 77 27",
+        "+33 6 86 43 29 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mygitesbreizh.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/852e1da5-27c6-33ac-85f9-3265acbd6636",
+      "schema:legalName": "Gite  \"Bon Temps\"",
+      "schema:telephone": [
+        "+33 2 97 59 77 27",
+        "+33 6 86 43 29 61"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mygitesbreizh.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c732ec2d-b82b-3be0-ae5b-7cc64ccc6f41",
+      "schema:telephone": [
+        "+33 2 97 59 77 27",
+        "+33 6 86 43 29 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mygitesbreizh.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f22fc402-4e6b-3d3d-85e3-42d792a8ee4c",
+      "dc:description": {
+        "de": [
+          "Im Erdgeschoss: Wohnraum mit Küche/Wohnzimmer/Wohnzimmer und Waschküche.\nIm 1. Stock: 2 Schlafzimmer (1 Bett 160 cm, 1 Bett 140 cm, 2 Etagenbetten 90 cm), Badezimmer mit kleiner Badewanne und WC. In einer ruhigen Gasse in einer Einbahnstraße gelegen, können Sie einen kleinen Tisch mit Stühlen aufstellen, um Kaffee zu trinken und dabei die Sonne zu genießen.\nPrivater Parkplatz vor dem Ferienhaus. Hier ist alles inbegriffen: Nebenkosten (Wasser, Strom und Heizung), Bettwäsche, Handtücher und Tischwäsche.\nHaustiere sind willkommen: Bitte wenden Sie sich an die Eigentümerin (Reitmöglichkeiten).\nDas Meer ist hier nie weit entfernt. Wenn Sie gerne wandern, können Sie die Küstenpfade nutzen und je nach Wetterlage die verschiedenen Panoramen bewundern.\nDas Ferienhaus, ein ehemaliges Fischerhaus, hat den Vorteil, dass es nur 500 m vom Strand und den Geschäften des Viertels entfernt liegt. Das Haus, typisch bretonisch, mit seinen alten Steinen und Balken wird Sie begeistern."
+        ],
+        "en": [
+          "First floor: living room with kitchen/lounge and laundry room.\n1st floor: 2 bedrooms (1 x 160cm bed, 1 x 140cm bed, 2 x 90cm bunk beds), bathroom with small bathtub and toilet. Situated in a quiet, one-way street, you'll be able to set up a small table and chairs to enjoy a cup of coffee in the sunshine.\nPrivate parking space in front of the gite. Everything is included: utilities (water, electricity and heating), bed linen, towels and table linen.\nPets welcome: see owner (equestrian possibilities).\nThe sea is never far away. For hiking enthusiasts, you can take the coastal paths and marvel at the different panoramas, depending on the weather.\nThe gite, an old fisherman's cottage, has the advantage of being just 500m from the beach and local shops. The house, typically Breton, with its old stones and beams, is sure to seduce you."
+        ],
+        "it": [
+          "Piano terra: soggiorno con cucina/salotto e ripostiglio.\n1° piano: 2 camere da letto (1 letto da 160 cm, 1 letto da 140 cm, 2 letti a castello da 90 cm), bagno con piccola vasca e WC. Situato in una tranquilla strada a senso unico, è possibile sistemare un tavolino e delle sedie per godersi una tazza di caffè al sole.\nParcheggio privato di fronte alla casa. Tutto è incluso: utenze (acqua, elettricità e riscaldamento), biancheria da letto, da bagno e da tavola.\nAnimali domestici ammessi: consultare il proprietario (possibilità di equitazione).\nIl mare non è mai lontano. Chi ama le escursioni può percorrere i sentieri costieri e ammirare i diversi panorami, a seconda del tempo.\nLa casa, un vecchio cottage di pescatori, ha il vantaggio di trovarsi a soli 500 m dalla spiaggia e dai negozi locali. La casa è tipicamente bretone, con le sue vecchie pietre e travi, ed è di sicuro gradimento."
+        ],
+        "fr": [
+          "Au rez-de-chaussée, une pièce de vie avec cuisine/séjour/salon et une buanderie.\nAu 1er étage : 2 chambres (1 lit en 160, 1 lit en 140, 2 lits en 90 superposés), salle de bain avec petite baignoire et wc. Situé dans une ruelle au calme et en sens unique, vous pourrez installer une petite table avec chaises pour prendre le café tout en profitant du soleil.\nPlace de stationnement privée devant le gite. Ici, tout est compris : charges (eau, électricité et chauffage), draps, linge de toilette et linge de table. \nAccueil animaux: voir avec la propriétaire (possibilités équestres). \nIci, la mer n'est jamais très loin. Pour les amateurs de randonnées, vous pourrez emprunter les sentiers côtiers et vous émerveiller devant les différents panoramas, en fonction de la météo. \nLe gite, ancienne maison de pêcheur, a l'avantage d'être situé à 500m de la plage et des commerces de quartier. La maison, typiquement bretonne, avec ses vieilles pierres et poutres saura vous séduire."
+        ],
+        "es": [
+          "Planta baja: salón con cocina/sala de estar y lavadero.\n1ª planta: 2 dormitorios (1 cama de 160 cm, 1 cama de 140 cm, 2 literas de 90 cm), cuarto de baño con bañera pequeña y aseo. Situado en una tranquila calle de sentido único, se puede establecer una pequeña mesa y sillas para disfrutar de una taza de café en el sol.\nAparcamiento privado delante de la casa. Todo está incluido: servicios (agua, electricidad y calefacción), ropa de cama, toallas y mantelería.\nSe admiten animales: consulte al propietario (posibilidades ecuestres).\nEl mar nunca está lejos. Si le gusta el senderismo, puede tomar los senderos costeros y maravillarse con los diferentes panoramas, según el tiempo.\nLa casa rural, antigua cabaña de pescadores, tiene la ventaja de estar a sólo 500 m de la playa y de los comercios locales. La casa es típicamente bretona, con sus viejas piedras y vigas, y seguro que le gustará."
+        ],
+        "nl": [
+          "Begane grond: woonkamer met keuken/salon en bijkeuken.\n1e verdieping: 2 slaapkamers (1 x 160cm bed, 1 x 140cm bed, 2 x 90cm stapelbed), badkamer met klein bad en toilet. Gelegen in een rustige straat met eenrichtingsverkeer, kunt u een kleine tafel en stoelen neerzetten om te genieten van een kopje koffie in de zon.\nPrivé parkeerplaats voor de gite. Alles is inbegrepen: nutsvoorzieningen (water, elektriciteit en verwarming), beddengoed, handdoeken en tafellinnen.\nHuisdieren welkom: zie de eigenaar (ruitermogelijkheden).\nDe zee is nooit ver weg. Als je van wandelen houdt, kun je de kustpaden nemen en je vergapen aan de verschillende panorama's, afhankelijk van het weer.\nDe gite, een oud vissershuisje, heeft het voordeel dat het op slechts 500m van het strand en de plaatselijke winkels ligt. Het huis is typisch Bretons, met zijn oude stenen en balken, en zal zeker in de smaak vallen."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/025fd285-4901-3929-a497-fccde1bfadfb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/08c0c40f-ad2f-3bc0-a6b7-6eab70327ae8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a180abb-8d01-3698-a156-26888e9b0c58",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/445ee078-a3c7-3c23-8aa8-b037b4ea3f73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/455e7142-4b04-348b-9d75-65bc131abe2d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/91b324be-6187-3f44-bcd5-ad0a01e7e830",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9a13caa5-9a76-3fad-ba5a-65f918a4a457",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "15 Place Du Grand Rohu"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9b3cbeeb-ef6e-3514-b218-d7d00e585d40",
+        "schema:latitude": "47.50877",
+        "schema:longitude": "-3.12574",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9f41f612-4143-3987-b57d-c5028d36a90b",
+          "schema:validFrom": "2026-01-02T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:47:10.152Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

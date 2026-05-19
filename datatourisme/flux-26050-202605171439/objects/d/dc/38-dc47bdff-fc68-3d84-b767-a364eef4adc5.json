@@ -1,0 +1,292 @@
+{
+  "@id": "https://data.datatourisme.fr/38/dc47bdff-fc68-3d84-b767-a364eef4adc5",
+  "dc:identifier": "PNAa6c1d2a9023c4",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Dunes et bois de Kerver"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f93b86a7-a013-38c8-ac1b-91010df58183",
+      "dc:description": {
+        "de": [
+          "Dünen und Wälder zwischen Arzon und St Gildas de Rhuys gelegen. Direkter Zugang zum Strand von Kerver (im Juli und August überwacht)."
+        ],
+        "en": [
+          "Dunes and woods located between Arzon and St Gildas de Rhuys. Direct access to the beach of Kerver (supervised in July-August)."
+        ],
+        "it": [
+          "Dune e boschi situati tra Arzon e St Gildas de Rhuys. Accesso diretto alla spiaggia di Kerver (sorvegliata in luglio e agosto)."
+        ],
+        "fr": [
+          "Dunes et bois situés entre Arzon et St Gildas de Rhuys. Accès direct à la plage du Kerver (surveillée en juillet-août)."
+        ],
+        "es": [
+          "Dunas y bosques situados entre Arzon y St Gildas de Rhuys. Acceso directo a la playa de Kerver (vigilada en julio y agosto)."
+        ],
+        "nl": [
+          "Duinen en bossen gelegen tussen Arzon en St Gildas de Rhuys. Directe toegang tot het Kerver-strand (bewaakt in juli en augustus)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/48465d68-a1f1-33a0-bbf1-9698450c0c8f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5601e645-9e54-3c46-8102-a633fb2dd560",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9a6d59ce-097d-37cd-8108-7d6aae0acf9f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e3890456-23f6-37cc-8ff0-f3ac43dd3398",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f231c3f1-fe39-382d-81f4-84a7815d4db5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d282cf30-d7cd-3754-889a-19c113743d1c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a38006e8-e486-39ef-8cd0-e45604602dea",
+          "schema:addressLocality": "Arzon",
+          "schema:postalCode": "56640",
+          "schema:streetAddress": [
+            "Kerver"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56005",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Arzon"
+              ],
+              "pt": [
+                "Arzon"
+              ],
+              "en": [
+                "Arzon"
+              ],
+              "it": [
+                "Arzon"
+              ],
+              "fr": [
+                "Arzon"
+              ],
+              "nl": [
+                "Arzon"
+              ],
+              "es": [
+                "Arzon"
+              ]
+            },
+            "insee": "56005",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/46a60132-7759-3b26-90e0-c1d1bfe6f83d",
+        "schema:latitude": "47.52555",
+        "schema:longitude": "-2.862968",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2024-02-17T02:03:18.559Z"
+}

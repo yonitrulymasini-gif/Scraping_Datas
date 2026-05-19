@@ -1,0 +1,360 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c80e0bae-17f8-36b7-841a-eeab7ac4575f",
+  "dc:identifier": "FMABRE056V50DF4B",
+  "schema:endDate": [
+    "2026-05-31"
+  ],
+  "schema:startDate": [
+    "2026-05-30"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "ShowEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Festival breton brésilien \"Un souffle sur la Breizh\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5af6d2b7-1372-3a7a-baaf-9300f8d592a5",
+      "schema:telephone": [
+        "+33 6 42 80 00 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://percussionspourtous56.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b6694ced-ba0c-3273-ad7a-71a7d72c1196",
+      "dc:description": {
+        "de": [
+          "Wenn die Bretagne auf Brasilien trifft!\nMusikalisches und gemischtes Festival Bretagne - Brasilien.\nDas Prinzip ist einfach und gewagt: brasilianische Perkussion und den Atem der traditionellen bretonischen Musik in einen Dialog zu bringen.\nKonzerte und Tanz.\nMusik und Tanz."
+        ],
+        "en": [
+          "Brittany meets Brazil!\nBrittany-Brazil musical festival.\nThe principle is simple and daring: bring together Brazilian percussion and traditional Breton music.\nConcerts and dance.\nMusic and dance."
+        ],
+        "it": [
+          "La Bretagna incontra il Brasile!\nUn festival musicale della Bretagna e del Brasile.\nL'idea è semplice ma audace: far incontrare le percussioni brasiliane con la musica tradizionale bretone.\nConcerti e danza.\nMusica e danza."
+        ],
+        "fr": [
+          "Quand la Bretagne rencontre le Brésil !\nFestival musical et métissé Bretagne - Brésil.\nLe principe est simple et audacieux : faire dialoguer les percussions brésiliennes et le souffle des musiques bretonnes traditionnelles.\nConcerts et danse.\nMusique et bal."
+        ],
+        "nl": [
+          "Bretagne ontmoet Brazilië!\nEen muzikaal festival van Bretagne en Brazilië.\nHet idee is eenvoudig maar gedurfd: Braziliaanse percussie en traditionele Bretonse muziek samenbrengen.\nConcerten en dans.\nMuziek en dans."
+        ],
+        "es": [
+          "Bretaña y Brasil\nUn festival musical de Bretaña y Brasil.\nLa idea es sencilla pero atrevida: reunir la percusión brasileña y la música tradicional bretona.\nConciertos y danza.\nMúsica y danza."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7f579999-db3e-3b1c-8708-9094f39efa25",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/96545b4f-fd45-3316-b342-e5d525eea415",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a76fade0-c4b8-3fcc-b5cd-1bb213896a9b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4556699-24ad-3492-acaf-7bdbc629c512",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb4d0d7d-4f78-3fee-b74e-dc9c4ce7759a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Dance",
+      "@type": [
+        "CulturalTheme",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tanz"
+        ],
+        "pt": [
+          "Dança"
+        ],
+        "en": [
+          "Dance"
+        ],
+        "it": [
+          "Danza"
+        ],
+        "fr": [
+          "Danse"
+        ],
+        "es": [
+          "Danza"
+        ],
+        "nl": [
+          "Dansen"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/73472cdd-e4a4-3a1e-a646-4f83600348b7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e6816c58-d017-3a8d-9003-f91e476104e0",
+          "schema:addressLocality": "Saint-Gildas-de-Rhuys",
+          "schema:postalCode": "56730",
+          "schema:streetAddress": [
+            "Salle Kercaradec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56214",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "pt": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "en": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "it": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "fr": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "nl": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "es": [
+                "Saint-Gildas-de-Rhuys"
+              ]
+            },
+            "insee": "56214",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e58a4f15-b229-3797-a05d-af2024842d6c",
+        "schema:latitude": "47.5042527",
+        "schema:longitude": "-2.8422203",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-10",
+  "lastUpdateDatatourisme": "2026-03-11T04:07:58.978Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d90c9bb9-ed0d-3a51-824f-c7f31ddfd2c2",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-31",
+      "endTime": "01:00:00",
+      "startDate": "2026-05-30",
+      "startTime": "18:00:00"
+    }
+  ]
+}

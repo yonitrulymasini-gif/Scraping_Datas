@@ -1,0 +1,290 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2bb0fa32-cd87-318d-b0b1-929e27890204",
+  "dc:identifier": "PNABRE056V50DH67",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "OutstandingTree",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le poirier de Moréac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/225b5e66-9dec-3f5c-ae17-bbdb02298d46",
+    "schema:legalName": "OT CENTRE MORBIHAN COMMUNAUTE",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d4cf1d64-27da-3316-9ab7-e262ccdf545e",
+      "dc:description": {
+        "de": [
+          "Sehr schönes Exemplar eines Birnbaums. Wahrscheinlich 200 Jahre alt. Standort: Keraudren."
+        ],
+        "en": [
+          "A very fine pear tree. Probably 200 years old. Location: Keraudren."
+        ],
+        "it": [
+          "Un esemplare molto bello di albero di pere. Probabilmente ha 200 anni. Località: Keraudren."
+        ],
+        "fr": [
+          "Très beau spécimen de poirier. Probablement 200 ans. Lieu-dit : Keraudren."
+        ],
+        "es": [
+          "Un ejemplar muy fino de peral. Probablemente tiene 200 años. Localización: Keraudren."
+        ],
+        "nl": [
+          "Een heel mooi exemplaar van een perenboom. Waarschijnlijk 200 jaar oud. Locatie: Keraudren."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/214927ba-6212-3226-a945-60d8be5dde74",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4380dcc6-1396-3ca6-bc83-50947846f8a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/600bcad8-d194-3cc5-ad7c-3257ffea4cd9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b65e4282-1708-3ab5-872b-35d2526244e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b763a20b-f167-3d03-8441-6905e78d788a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/656c5bc9-94a0-37b1-941e-6ed080d259ed",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/18631529-12d2-3222-91ef-57fe81740c01",
+          "schema:addressLocality": "Moréac",
+          "schema:postalCode": "56500",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56140",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Moréac"
+              ],
+              "pt": [
+                "Moréac"
+              ],
+              "en": [
+                "Moréac"
+              ],
+              "it": [
+                "Moréac"
+              ],
+              "fr": [
+                "Moréac"
+              ],
+              "nl": [
+                "Moréac"
+              ],
+              "es": [
+                "Moréac"
+              ]
+            },
+            "insee": "56140",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1ffd16b4-ab7a-3d0d-a56c-b5346ff161e1",
+        "schema:latitude": "47.91955",
+        "schema:longitude": "-2.82151",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-25",
+  "lastUpdateDatatourisme": "2026-03-26T04:15:53.942Z"
+}

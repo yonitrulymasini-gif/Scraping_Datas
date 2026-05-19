@@ -1,0 +1,316 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ea5eb279-63b4-33a2-bf19-f1f31e15fa1a",
+  "dc:identifier": "FMABRE056V50CZG9",
+  "schema:endDate": [
+    "2026-10-17"
+  ],
+  "schema:startDate": [
+    "2026-10-17"
+  ],
+  "@type": [
+    "schema:Event",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le festi-pâtes d'Agathe"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/00d7d2ba-99fa-3eca-a1a6-42bed769c6aa",
+      "schema:telephone": [
+        "+33 6 08 00 71 21"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/300d8e22-86ce-3bbf-96a3-44d664ebbcc1",
+      "dc:description": {
+        "de": [
+          "2. Ausgabe. Die Köche schwingen wieder die Kochtöpfe für einen guten Zweck!"
+        ],
+        "en": [
+          "2nd edition. Cooks put the kettles back on for a good cause!"
+        ],
+        "it": [
+          "seconda edizione. Gli chef rimettono in funzione i bollitori per una buona causa!"
+        ],
+        "fr": [
+          "2e édition. Les cuisiniers remettent les marmites à chauffer pour la bonne cause !"
+        ],
+        "nl": [
+          "2e editie. De chefs zetten de ketels weer op voor een goed doel!"
+        ],
+        "es": [
+          "2ª edición. ¡Los chefs vuelven a poner las calderas en marcha por una buena causa!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/20f2752e-2de1-325f-acdb-1df3257788b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86a6ebd2-e96d-3e7a-9c0f-6ae7e9d964a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ed55ae0-0a48-3652-bbfa-87752a87d011",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1a0f8f4-11c2-33bb-862f-600f21a80013",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ca9e8ef0-b75f-3888-a4ed-57b2dd00cc99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6cb59393-e5b7-3331-b268-787efb8a62cc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/74a2d772-28ee-34de-8736-983072bf0149",
+          "schema:addressLocality": "Ploërdut",
+          "schema:postalCode": "56160",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56163",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ploërdut"
+              ],
+              "pt": [
+                "Ploërdut"
+              ],
+              "en": [
+                "Ploërdut"
+              ],
+              "it": [
+                "Ploërdut"
+              ],
+              "fr": [
+                "Ploërdut"
+              ],
+              "nl": [
+                "Ploërdut"
+              ],
+              "es": [
+                "Ploërdut"
+              ]
+            },
+            "insee": "56163",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6288286d-74d4-3949-9d1a-bc5481306ed1",
+        "schema:latitude": "48.0747491",
+        "schema:longitude": "-3.2310604",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-12-29",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.878Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6fecde01-d7f1-3918-8788-33691da4dfcd",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-10-17",
+      "startDate": "2026-10-17"
+    }
+  ]
+}

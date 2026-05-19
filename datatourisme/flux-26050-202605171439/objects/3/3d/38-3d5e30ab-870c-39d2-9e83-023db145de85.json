@@ -1,0 +1,439 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3d5e30ab-870c-39d2-9e83-023db145de85",
+  "dc:identifier": "ASCdf23bf671e574",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ecole de Voile du Roaliguen"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/40cb6e14-9969-39fc-9994-cdaa9225c488",
+      "schema:telephone": [
+        "+33 2 97 47 94 17"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.le-roaliguen.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/649f7f71-50a6-3189-8b91-df7cb261d0f2",
+      "dc:description": {
+        "de": [
+          "Die Segelschule von Roaliguen empfängt Sie von April bis September und bietet: Gruppenkurse, Privatunterricht und Vermietung von Katamaranen, Surfbrettern und Jollen.Geöffnet von April bis September."
+        ],
+        "en": [
+          "The Roaliguen Sailing School welcomes you, from April to September, and offers: group courses, private lessons and rental of catamarans, windsurfers and dinghies."
+        ],
+        "it": [
+          "La Scuola di Vela di Roaliguen vi accoglie da aprile a settembre e offre: corsi di gruppo, lezioni private e noleggio di catamarani, windsurf e gommoni."
+        ],
+        "fr": [
+          "L’Ecole de Voile du Roaliguen vous accueille, d’avril à septembre, et propose : des stages collectifs, cours particuliers et location de catamarans, planches et dériveurs.Ouvert d'avril à septembre."
+        ],
+        "es": [
+          "La Escuela de Vela de Roaliguen le da la bienvenida de abril a septiembre y le ofrece: cursos en grupo, clases particulares y alquiler de catamaranes, windsurf y botes."
+        ],
+        "nl": [
+          "De Zeilschool Roaliguen verwelkomt u van april tot september en biedt: groepscursussen, privélessen en catamaran-, windsurf- en rubberbootverhuur."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1f9f1fea-789d-3307-ba9b-eec2ce2c5a22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/248196dc-250d-3899-ab69-3a03eb05ebdf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/49f7cbd4-ef9a-3696-b343-44808cd232d1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/915d2c45-d249-3369-8220-434f4d23ca40",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c6cde249-b532-39cf-9dc5-af75f13f6eeb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:CanoeingKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kanu-Kajakfahren"
+        ],
+        "pt": [
+          "Canoa caiaque"
+        ],
+        "en": [
+          "Canoeing-kayaking"
+        ],
+        "it": [
+          "Canoismo"
+        ],
+        "fr": [
+          "Canoé kayak"
+        ],
+        "es": [
+          "Piraguas y kayak"
+        ],
+        "nl": [
+          "Kano/kajak"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    },
+    {
+      "@id": "kb:SeaKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Seekajak"
+        ],
+        "pt": [
+          "Caiaque marítimo"
+        ],
+        "en": [
+          "Sea kayaking"
+        ],
+        "it": [
+          "Kayak da mare"
+        ],
+        "fr": [
+          "Kayak de mer"
+        ],
+        "nl": [
+          "Zeekajakken"
+        ],
+        "es": [
+          "Kayak de mar"
+        ]
+      }
+    },
+    {
+      "@id": "kb:StandupPaddleboarding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Stand-up Paddle (SUP)"
+        ],
+        "pt": [
+          "Paddle de pé (SUP)"
+        ],
+        "en": [
+          "Standup paddleboarding"
+        ],
+        "it": [
+          "Stand up paddle (SUP)"
+        ],
+        "fr": [
+          "Stand up paddle sup"
+        ],
+        "es": [
+          "Tabla de pádel surf"
+        ],
+        "nl": [
+          "Suppen"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1a24ea74-cea2-3fe7-b0c9-6d07fda05a2d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8002b648-1cc8-3dba-b4cb-cd9d13db1dc7",
+          "schema:addressLocality": "Sarzeau",
+          "schema:postalCode": "56370",
+          "schema:streetAddress": [
+            "Le Roaliguen",
+            " "
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56240",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sarzeau"
+              ],
+              "pt": [
+                "Sarzeau"
+              ],
+              "en": [
+                "Sarzeau"
+              ],
+              "it": [
+                "Sarzeau"
+              ],
+              "fr": [
+                "Sarzeau"
+              ],
+              "nl": [
+                "Sarzeau"
+              ],
+              "es": [
+                "Sarzeau"
+              ]
+            },
+            "insee": "56240",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bdda436f-31c8-3da9-9525-b0b77c27ecbd",
+        "schema:latitude": "47.49788",
+        "schema:longitude": "-2.765434",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8e8c4cc8-d4be-3c28-9dbf-8d8fc5165701",
+          "schema:validFrom": "2020-04-01T00:00:00",
+          "schema:validThrough": "2020-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

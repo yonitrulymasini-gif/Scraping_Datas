@@ -1,0 +1,537 @@
+{
+  "@id": "https://data.datatourisme.fr/38/24be683a-c350-3f3a-8668-b94b6ff4da19",
+  "dc:identifier": "B0028BRE000001HB",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte Louessard"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cb01b9e9-993c-3d26-b6d6-45f87569c29f",
+      "schema:telephone": [
+        "+33 2 56 61 14 11",
+        "+33 6 77 03 08 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2774b74d-d04f-3545-a34f-d71c7c06d175",
+      "schema:legalName": "Gîte Louessard",
+      "schema:telephone": [
+        "+33 2 56 61 14 11",
+        "+33 6 77 03 08 41"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb01b9e9-993c-3d26-b6d6-45f87569c29f",
+      "schema:telephone": [
+        "+33 2 56 61 14 11",
+        "+33 6 77 03 08 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e36e5168-4812-31e4-bcd9-24593b178c4e",
+      "dc:description": {
+        "de": [
+          "Im Herzen eines ruhigen Dorfes, nahe der Stadt Taupont, bietet Ihnen dieses unabhängige Haus alle Annehmlichkeiten, um einen schönen Aufenthalt zu verbringen. Ein geräumiges Grundstück mit Parkplatz steht Ihnen zur Verfügung, damit Sie sich in der grünen Landschaft voll und ganz erholen können. Der 5 km entfernte Lac au Duc bietet Ihnen verschiedene Wassersportaktivitäten, Wandern, Angeln... Einkaufsmöglichkeiten in der Nähe."
+        ],
+        "en": [
+          "In the heart of a quiet village, close to the market town of Taupont, this detached house offers all the amenities you need for a pleasant stay. A spacious plot with parking is at your disposal, allowing you to relax in the lush green countryside. 5 kms away, the Lac au Duc offers a variety of water sports, hiking, fishing... Shops nearby."
+        ],
+        "it": [
+          "Nel cuore di un tranquillo villaggio, vicino alla città mercato di Taupont, questa casa indipendente offre tutti i servizi necessari per un piacevole soggiorno. Un ampio terreno con parcheggio è a disposizione per rilassarsi nella rigogliosa campagna. A 5 km di distanza, il Lac au Duc offre una serie di sport acquatici, escursioni e pesca... Negozi nelle vicinanze."
+        ],
+        "fr": [
+          "Au cœur d’un village calme, proche du bourg de Taupont,  cette maison indépendante vous offre toutes les commodités pour passer un bon séjour. Un terrain spacieux avec parking est à votre disposition pour vous reposer pleinement dans la campagne verdoyante. A 5 kms, le Lac au Duc vous propose diverses  activités nautiques, de la randonnée, la pêche... Commerces à proximité."
+        ],
+        "nl": [
+          "In het hart van een rustig dorp, vlakbij het marktstadje Taupont, biedt dit vrijstaande huis alle voorzieningen die je nodig hebt voor een aangenaam verblijf. Een ruim perceel met parkeergelegenheid is beschikbaar voor u om te ontspannen in de weelderige natuur. Op 5 km afstand biedt het Lac au Duc een scala aan watersporten, wandelen en vissen... Winkels in de buurt."
+        ],
+        "es": [
+          "En el corazón de un pueblo tranquilo, cerca de la ciudad de mercado de Taupont, esta casa unifamiliar ofrece todas las comodidades necesarias para una estancia agradable. Dispone de una amplia parcela con aparcamiento para relajarse en la exuberante campiña. A 5 km, el Lac au Duc ofrece una gama de deportes acuáticos, senderismo y pesca... Comercios cercanos."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/010af782-aab1-3c0c-a991-38b7c7b4623b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/101d343f-3111-399a-8eb6-da79166047c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2baca406-1db4-39ec-82af-715126d12668",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/362a72fe-477e-3f38-a8b7-b82752e08804",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/429f6766-49d3-305e-b4d7-283e3cb826b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/72dadf8c-6537-3548-8192-a5d1bcc41c19",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3c340938-94ce-3836-9c10-fcb0c2955044",
+          "schema:addressLocality": "Taupont",
+          "schema:postalCode": "56800",
+          "schema:streetAddress": [
+            "3 rue des prés verts",
+            "Lézillac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56249",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Taupont"
+              ],
+              "pt": [
+                "Taupont"
+              ],
+              "en": [
+                "Taupont"
+              ],
+              "it": [
+                "Taupont"
+              ],
+              "fr": [
+                "Taupont"
+              ],
+              "nl": [
+                "Taupont"
+              ],
+              "es": [
+                "Taupont"
+              ]
+            },
+            "insee": "56249",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4ee9d256-80a3-34bb-ba83-0b6f4548b910",
+        "schema:latitude": "47.9646509",
+        "schema:longitude": "-2.4339242",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/28428ec4-7de3-3118-9d25-7078f0372d4f",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-10-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.555Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/863aba45-2f7a-3e12-ba5e-58604edde99c",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

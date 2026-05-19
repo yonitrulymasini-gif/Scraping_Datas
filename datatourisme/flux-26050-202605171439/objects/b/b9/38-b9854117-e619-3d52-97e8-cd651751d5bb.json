@@ -1,0 +1,306 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b9854117-e619-3d52-97e8-cd651751d5bb",
+  "dc:identifier": "B0037BRE00000047",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Promenade en calèche"
+    ],
+    "fr": [
+      "Promenade en calèche"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/34b30747-d853-3886-af6f-fcf35e7bd481",
+    "schema:legalName": "Destination Brocéliande - CRTBretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/58f90f6e-661f-35b2-959b-3c4b7a5e823f",
+      "schema:telephone": [
+        "+33 2 99 08 12 80"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a18378e4-5d12-3bd2-8e58-99774c2868cc",
+      "dc:description": {
+        "de": [
+          "La Chapelle Gaceline ist stolz darauf, Ihnen sein Gemeindegespann zu präsentieren und lädt Sie ein, darin Platz zu nehmen!Für Reservierungen: Kontaktieren Sie das Rathaus von La Chapelle Gaceline unter 02 99 08 12 80."
+        ],
+        "en": [
+          "La Chapelle Gaceline is proud to present its communal carriage and invites you to take a seat! For reservations: contact the town hall of La Chapelle Gaceline at 02 99 08 12 80."
+        ],
+        "it": [
+          "La Chapelle Gaceline è orgogliosa di presentare la sua carrozza comunale e vi invita ad accomodarvi! Per prenotazioni: contattate il municipio di La Chapelle Gaceline al numero 02 99 08 12 80."
+        ],
+        "fr": [
+          "La Chapelle Gaceline est fière de vous présenter son attelage communal et vous invite à y prendre place !Pour des réservations : contactez la mairie de La Chapelle Gaceline au 02 99 08 12 80."
+        ],
+        "es": [
+          "La Chapelle Gaceline se enorgullece de presentar su carroza comunal y le invita a tomar asiento. Para reservar: póngase en contacto con el ayuntamiento de La Chapelle Gaceline en el número 02 99 08 12 80."
+        ],
+        "nl": [
+          "La Chapelle Gaceline presenteert met trots haar gemeentewagen en nodigt u uit om plaats te nemen! Voor reserveringen: neem contact op met het gemeentehuis van La Chapelle Gaceline op 02 99 08 12 80."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/02dd0513-a24e-31e8-aafd-7e0c91f70558",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0d5c7557-d0b7-3ebb-a764-0fdba868fcb7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2c52e79d-be34-38c3-8e9a-b6b84f6d5805",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b0abcba-ca20-367f-ab8a-da887e955393",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/55aa62d0-92eb-3aa3-82fc-ca657bb982c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c15fc699-5a10-316a-aa31-591e736ec778",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8d800568-cfd0-3034-89ed-87e4fe7cdb16",
+          "schema:addressLocality": "La Gacilly",
+          "schema:postalCode": "56200",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56061",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Gacilly"
+              ],
+              "pt": [
+                "La Gacilly"
+              ],
+              "en": [
+                "La Gacilly"
+              ],
+              "it": [
+                "La Gacilly"
+              ],
+              "fr": [
+                "La Gacilly"
+              ],
+              "nl": [
+                "La Gacilly"
+              ],
+              "es": [
+                "La Gacilly"
+              ]
+            },
+            "insee": "56061",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fdeb32ca-9123-3e9a-9412-5d2e065ca52d",
+        "schema:latitude": "47.78313",
+        "schema:longitude": "-2.105979",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-02-01",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.335Z"
+}

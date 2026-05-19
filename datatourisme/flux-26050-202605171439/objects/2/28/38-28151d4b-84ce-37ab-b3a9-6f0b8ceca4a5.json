@@ -1,0 +1,325 @@
+{
+  "@id": "https://data.datatourisme.fr/38/28151d4b-84ce-37ab-b3a9-6f0b8ceca4a5",
+  "dc:identifier": "FMABRE056V509HMU",
+  "schema:endDate": [
+    "2026-06-19"
+  ],
+  "schema:startDate": [
+    "2026-06-19"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Fête de la musique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1d82e075-95d0-35da-a914-1a75ddfdaf97",
+      "schema:telephone": [
+        "+33 2 97 23 83 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lagrandeboutique.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/18ea785c-c967-3ee0-8276-67412b0608a1",
+      "dc:description": {
+        "de": [
+          "Wie jedes Jahr schließen sich die Grande Boutique und die Gemeinde Langonnet zusammen, um eine Reihe von Konzerten anzubieten."
+        ],
+        "en": [
+          "As every year, La Grande Boutique and the commune of Langonnet join forces to offer a series of concerts."
+        ],
+        "it": [
+          "Ogni anno, La Grande Boutique e la città di Langonnet uniscono le forze per offrire una serie di concerti."
+        ],
+        "fr": [
+          "Comme chaque année, la Grande Boutique et la commune de Langonnet s’associent pour proposer une série de concerts."
+        ],
+        "nl": [
+          "Elk jaar slaan La Grande Boutique en de stad Langonnet de handen ineen voor een reeks concerten."
+        ],
+        "es": [
+          "Cada año, La Grande Boutique y la ciudad de Langonnet se unen para ofrecer una serie de conciertos."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7676369c-ac2e-3851-b576-a7b93e1a3d23",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b8004d6-919b-34a1-b036-d58a973415f1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97eee9db-ba6a-3fea-beca-0c1ec014ef2b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98d65150-e70e-3160-aab1-56a26ea3f5cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f2343a86-d795-338a-ad78-671ea63e8006",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6f175d5c-b593-3ecd-8b24-c1cd5d60bf2d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a8f6c682-7add-3d5b-877c-83b46cd36b2d",
+          "schema:addressLocality": "Langonnet",
+          "schema:postalCode": "56630",
+          "schema:streetAddress": [
+            "Place Plantée"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56100",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Langonnet"
+              ],
+              "pt": [
+                "Langonnet"
+              ],
+              "en": [
+                "Langonnet"
+              ],
+              "it": [
+                "Langonnet"
+              ],
+              "fr": [
+                "Langonnet"
+              ],
+              "nl": [
+                "Langonnet"
+              ],
+              "es": [
+                "Langonnet"
+              ]
+            },
+            "insee": "56100",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9fa2c1ff-ce80-3a4e-93e9-5ac1f29467a9",
+        "schema:latitude": "48.1270079",
+        "schema:longitude": "-3.4836752",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.857Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8b6ee175-4c8c-3123-9fd9-a4943fabc46e",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-19",
+      "startDate": "2026-06-19"
+    }
+  ]
+}

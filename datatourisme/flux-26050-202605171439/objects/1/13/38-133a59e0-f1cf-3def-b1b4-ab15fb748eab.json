@@ -1,0 +1,356 @@
+{
+  "@id": "https://data.datatourisme.fr/38/133a59e0-f1cf-3def-b1b4-ab15fb748eab",
+  "dc:identifier": "FMABRE000V51KL8K",
+  "schema:endDate": [
+    "2026-06-07"
+  ],
+  "schema:startDate": [
+    "2026-06-07"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Concert Shook Me"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/108fca49-4886-33cb-aad9-03f2bef46099",
+    "schema:legalName": "OT BAUD Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c3087b36-d4e9-3553-8f22-eecf72b47409",
+      "schema:telephone": [
+        "+33 6 83 81 53 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/56e25c94-9664-39ef-a8d8-884395a00de4",
+      "dc:description": {
+        "de": [
+          "Shook Me ist eine musikalische Zeitmaschine!\nLillah Politzer (Gesang) und Florian Ebel (Gitarre) haben sich entschieden, ein intensiv bluesiges Repertoire mit einem Hauch von Modernität neu zu interpretieren!\n17 Uhr - freier Preis. Organisiert vom Komitee der Kapelle Sainte-Prisce."
+        ],
+        "en": [
+          "Shook Me is a musical time machine!\nLillah Politzer (vocals) and Florian Ebel (guitar) have chosen to reinterpret an intensely bluesy repertoire with a modern twist!\n5pm - free admission. Organized by the Comité de la chapelle Sainte-Prisce."
+        ],
+        "it": [
+          "Shook Me è una macchina del tempo musicale!\nLillah Politzer (voce) e Florian Ebel (chitarra) hanno scelto di reinterpretare un repertorio intensamente blues con un tocco moderno!\nore 17.00 - Ingresso libero. Organizzato dal Comitato della Cappella Sainte-Prisce."
+        ],
+        "fr": [
+          "Shook Me est une machine musicale à remonter le temps !\nLillah Politzer (chant) et Florian Ebel (guitare) ont choisi de réinterpréter avec une touche de modernité un répertoire intensément blues !\n17h - prix libre. Organisé par le Comité de la chapelle Sainte-Prisce."
+        ],
+        "es": [
+          "¡Shook Me es una máquina del tiempo musical!\nLillah Politzer (voz) y Florian Ebel (guitarra) han optado por reinterpretar un repertorio intensamente bluesero con un toque moderno\n17.00 h - entrada gratuita. Organizado por el Comité de la Capilla Sainte-Prisce."
+        ],
+        "nl": [
+          "Shook Me is een muzikale tijdmachine!\nLillah Politzer (zang) en Florian Ebel (gitaar) hebben ervoor gekozen om een intens bluesy repertoire te herinterpreteren met een moderne twist!\n17.00 uur - gratis toegang. Georganiseerd door het comité van de Sainte-Prisce kapel."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/450e9abe-a0b7-375b-a7f4-b4f34f648956",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6340689d-7b31-352f-8bee-5a9d5c689b81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/72cf302b-ad72-3b28-9781-cec2515656f8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7dd90792-9993-338b-885d-257a45926d2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82f20f5e-3397-3b06-a653-85688ef06d29",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Music",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Musik"
+        ],
+        "pt": [
+          "Música"
+        ],
+        "en": [
+          "Music"
+        ],
+        "it": [
+          "Musica"
+        ],
+        "fr": [
+          "Musique"
+        ],
+        "nl": [
+          "Muziek"
+        ],
+        "es": [
+          "Música"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/df5ef41a-0ed7-322e-a137-e94ae516a819",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/541fcd4f-08f7-3400-8dad-b94310dcb5f0",
+          "schema:addressLocality": "Melrand",
+          "schema:postalCode": "56310",
+          "schema:streetAddress": [
+            "Chapelle",
+            "Sainte-Prisce"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56128",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Melrand"
+              ],
+              "pt": [
+                "Melrand"
+              ],
+              "en": [
+                "Melrand"
+              ],
+              "it": [
+                "Melrand"
+              ],
+              "fr": [
+                "Melrand"
+              ],
+              "nl": [
+                "Melrand"
+              ],
+              "es": [
+                "Melrand"
+              ]
+            },
+            "insee": "56128",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8608d937-cb0e-36d7-bd5f-04c1f8d25d91",
+        "schema:latitude": "47.9561309",
+        "schema:longitude": "-3.1135146",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-13",
+  "lastUpdateDatatourisme": "2026-04-14T03:24:08.261Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/61426e82-03fe-311f-b746-bf621e616a51",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-07",
+      "endTime": "18:00:00",
+      "startDate": "2026-06-07",
+      "startTime": "17:00:00"
+    }
+  ]
+}

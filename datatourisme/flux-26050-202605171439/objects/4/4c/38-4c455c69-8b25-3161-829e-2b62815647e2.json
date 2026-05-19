@@ -1,0 +1,341 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4c455c69-8b25-3161-829e-2b62815647e2",
+  "dc:identifier": "ASCBRE056V50CF9Y",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Emeline Ruffin Maroquinerie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/92431cbc-b239-36cb-9c0f-66351cfbf6bb",
+      "schema:telephone": [
+        "+33 6 65 17 13 88"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://emelineruffin-maroquinerie.sumupstore.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b5c092a4-47af-36f0-972f-a3c333ac1186",
+      "dc:description": {
+        "de": [
+          "Einzigartige Kreationen von handgefertigten Lederartikeln"
+        ],
+        "en": [
+          "Unique creations of handmade leather goods"
+        ],
+        "it": [
+          "Creazioni uniche di articoli in pelle fatti a mano"
+        ],
+        "fr": [
+          "Créations uniques d'articles en cuir faits main"
+        ],
+        "nl": [
+          "Unieke creaties van handgemaakte lederwaren"
+        ],
+        "es": [
+          "Creaciones únicas de artículos de cuero hechos a mano"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1eada601-8cf6-3131-b9e8-d82b7a29b5e4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/38f71624-1d90-3637-9c6f-c3d1f2a026e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/39a7ab00-d3c8-3d6e-854c-7306beb49017",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a84eea0-df07-3d92-8e71-58b451b045da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/89c98ce1-e816-33f7-b9c1-f4d48a1f164b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:NeedleWork",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Nadelarbeiten"
+        ],
+        "pt": [
+          "Costura"
+        ],
+        "en": [
+          "Needle work"
+        ],
+        "it": [
+          "Cucito"
+        ],
+        "fr": [
+          "Travaux d'aiguille"
+        ],
+        "nl": [
+          "Handwerk"
+        ],
+        "es": [
+          "Costura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0536fc4c-6a1e-33fc-996f-7d68a155522f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2ccbdc86-1931-37fc-81af-499d204d91d8",
+          "schema:addressLocality": "Cournon",
+          "schema:postalCode": "56200",
+          "schema:streetAddress": [
+            "2 Rue de la Grée Saint-Jean"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56044",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cournon"
+              ],
+              "pt": [
+                "Cournon"
+              ],
+              "en": [
+                "Cournon"
+              ],
+              "it": [
+                "Cournon"
+              ],
+              "fr": [
+                "Cournon"
+              ],
+              "nl": [
+                "Cournon"
+              ],
+              "es": [
+                "Cournon"
+              ]
+            },
+            "insee": "56044",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8ed7bea4-29cf-3a48-9980-feefe24b2ce4",
+        "schema:latitude": "47.75986",
+        "schema:longitude": "-2.12851",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T03:36:16.914Z"
+}

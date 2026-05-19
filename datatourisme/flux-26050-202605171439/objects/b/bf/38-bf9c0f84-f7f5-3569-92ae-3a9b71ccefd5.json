@@ -1,0 +1,684 @@
+{
+  "@id": "https://data.datatourisme.fr/38/bf9c0f84-f7f5-3569-92ae-3a9b71ccefd5",
+  "dc:identifier": "HLO8cbb0b0b898e4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Villa Bruyeride"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr",
+    "pt"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/73baee6b-85f2-30b7-aafb-5a4683393808",
+      "schema:telephone": [
+        "+33 6 67 13 82 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://villa-bruyeride.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/114f4e8d-9f8d-30f5-893a-6c1e95974007",
+      "schema:legalName": "Villa Bruyeride",
+      "schema:telephone": [
+        "+33 6 67 13 82 83"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://villa-bruyeride.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/73baee6b-85f2-30b7-aafb-5a4683393808",
+      "schema:telephone": [
+        "+33 6 67 13 82 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://villa-bruyeride.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9161763d-d2c5-3bb3-a4ff-a9c4613bc728",
+      "dc:description": {
+        "de": [
+          "Villa Bruyeride in Saint-Philibert, Ihr Hafen des Friedens in der Südbretagne, zwischen dem Golf von Morbihan und der Halbinsel Quiberon\n\nBuchen Sie jetzt und erhalten Sie 10% Rabatt, wenn Sie mindestens 6 Monate vor Ihrem Aufenthalt buchen!\n\nStellen Sie sich einen Moment lang vor: Sie erwachen sanft zum Gesang der Vögel in einer kleinen, friedlichen Sackgasse in Saint-Philibert.\nSie öffnen die Fensterläden und entdecken einen Garten, in dem die Rosen zart nach Meeresluft duften. Dann genießen Sie in aller Ruhe Ihren Morgenkaffee auf einer lichtdurchfluteten Veranda.\nDas ist kein Traum, das ist die Villa Bruyeride, die bereit ist, Sie für Ihren nächsten Urlaub in der Südbretagne zu empfangen.\n\nUnser Haus mit dem Label Clévacances 3 clés und der Klassifizierung Meublé de Tourisme 3 étoiles wurde für Ihren Komfort konzipiert.\nWir haben es im Laufe der Jahre eingerichtet, indem wir uns die Bemerkungen unserer Gäste angehört haben, mit dem ehrlichen Wunsch, einen Ort zu schaffen, an dem man sich sofort wie zu Hause fühlt.\nOb Sie mit Ihrer Familie den Golf von Morbihan erkunden, mit Freunden auf den Küstenpfaden wandern oder einfach als Paar neue Energie tanken wollen, hier finden Sie die perfekte Mischung aus Ruhe und Nähe zu allen Reichtümern der Region.\n\n- Ein echter Familienkokon, in dem alles geplant ist\n\nDie Villa erstreckt sich über 90 m², die auf zwei Ebenen verteilt sind. Fünf Personen können hier bequem wohnen, mit genügend Platz, damit jeder seine ruhige Ecke findet.\nBei Ihrer Ankunft werden Sie von unserer Freundin persönlich begrüßt. Sie nimmt sich die Zeit, Ihnen alles zu zeigen und beantwortet Ihre Fragen mit einem Lächeln.\n\nDas Herzstück des Hauses ist ein schöner, heller Wohnraum, in dem sich alle gerne aufhalten.\nDie Dekoration wurde sorgfältig ausgewählt, um eine warme, aber nicht übertriebene Atmosphäre zu schaffen. Das große Dreisitzersofa ist sehr bequem ? unsere Gäste bestätigen das oft!\nNach einem Tag auf dem GR34 oder bei der Besichtigung der Megalithen ist es ein wahres Vergnügen, sich darauf niederzulassen. Die beiden Sessel sind ebenso einladend und perfekt, um in Ruhe zu schmökern.\n\nFür entspannte Abende steht Ihnen ein 109 cm großer Smart TV mit Netflix und Amazon Prime Video inklusive zur Verfügung!\nDVDs sind ebenfalls erhältlich und das kostenlose Wi-Fi ermöglicht es Ihnen, in Kontakt zu bleiben oder Ihre Urlaubsfotos zu teilen.\n\nIn der zum Wohnzimmer hin offenen Küche können Sie leckere Gerichte zubereiten und sich dabei unterhalten.\nSie ist komplett ausgestattet: Geschirrspüler, Waschmaschine, Backofen, Mikrowelle, Gasherd? Wir haben auch die Filterkaffeemaschine und die Tassimo-Maschine für Kapselfans nicht vergessen!\n\nIm Obergeschoss können Sie richtig gut schlafen.\nDas Hauptschlafzimmer verfügt über ein großes Queensize-Bett mit einer Matratze von Emma?, die nach mehreren Tests ausgewählt wurde, damit Ihre Nächte perfekt sind.\nDas andere Schlafzimmer hat zwei Einzelbetten (Bultex-Matratzen), ideal für Kinder oder Freunde.\nIn der Mezzanine-Ecke empfängt ein hochwertiges Schlafsofa eine fünfte Person mit einer echten Matratze. Ein kleiner Bereich mit Waschbecken ist ebenfalls vorhanden, praktisch am Morgen.\n\nUnten befindet sich das geräumige Badezimmer mit einer großen Badewanne, in der Sie sich nach einem anstrengenden Tag entspannen können.\nDie Toilette ist separat, was den Alltag bei mehreren Personen vereinfacht.\n\nFür Ihr Auto oder Ihre Fahrräder gibt es eine abschließbare Garage mit kostenlosen Parkplätzen in weniger als 100 m Entfernung.\n\n- Dieser Garten und diese Veranda, in die sich unsere Gäste verlieben\n\nEs ist oft der Außenbereich, der unsere Besucher verführt!\nDie 20 m² große, nach Süden ausgerichtete Veranda ist ein ganz besonderer Ort. Durch die großen Glasschiebefenster fällt den ganzen Tag über Licht ein.\nUnsere Gäste lieben es, dort in der Sonne zu frühstücken oder sich zum Lesen niederzulassen.\n\nDer 400 m² große, umzäunte Garten ist unser ganzer Stolz. Die Rosen duften abends himmlisch, die Sträucher blühen im Laufe der Jahreszeiten und das Heidekraut erinnert daran, warum wir diesen Namen für das Haus gewählt haben.\nDie Kinder können sicher spielen, während die Eltern sich entspannen.\n\nUm die schönen Tage zu genießen, gibt es einen Teakholztisch, an dem sechs Personen bequem Platz finden. Es gibt auch Liegestühle für die Siesta und Gartenmöbel mit Sonnenschirm für den Schatten.\nFür Mahlzeiten im Freien können Sie zwischen einem Weber-Kohlegrill oder einer Campingaz-Plancha wählen.\nStellen Sie sich vor, Sie grillen Fisch und Meeresfrüchte, die Sie am Morgen im Hafen von La Trinité gekauft haben Ein wahrer Genuss!\n\n- Saint-Philibert, Eine wirklich gute Lage, um alles zu entdecken\n\nDie Lage der Villa ist ideal. Am Ende einer ruhigen Sackgasse ist Ruhe garantiert, und trotzdem ist alles in der Nähe. Die Geschäfte für Brot und die täglichen Einkäufe sind 800 m entfernt.\n\nDie feinen Sandstrände sind weniger als 2 km entfernt und für Wanderfreunde zu Fuß erreichbar.\nSaint-Philibert und seine Umgebung bieten mehrere schöne Strände zum Baden und für Wassersportaktivitäten.\nMit fast 1?900 Sonnenstunden pro Jahr und einem milden ozeanischen Klima können Sie die Sonne von Ostern bis Allerheiligen genießen.\n\nDer Hafen von La Trinité-sur-Mer liegt direkt gegenüber. Machen Sie einen Spaziergang entlang der Kais und bewundern Sie die Segel- und Sportboote.\nEs herrscht eine angenehme Atmosphäre mit kleinen Meeresfrüchterestaurants und Eisdielen.\n\nDie Megalithen von Carnac, die am 12. Juli 2025 zum UNESCO-Weltkulturerbe erklärt wurden, sind nur wenige Minuten entfernt und faszinieren Jung und Alt.\nDas Dorf Carnac ist charmant mit seinen bewachten Stränden und dem lebhaften Zentrum.\n\nAuch der GR34 führt hier vorbei und bietet herrliche Ausblicke auf den Ozean, die Inseln des Golfs und die Halbinsel Quiberon.\n\n-So viele schöne Dinge, die es um Sie herum zu entdecken gibt\n\nDer Golf von Morbihan bietet eine Landschaft, die sich mit den Gezeiten verändert. Eine Bootsfahrt zur Île aux Moines oder zur Île d'Arz ist ein unvergessliches Erlebnis.\nAuch die Halbinsel Quiberon ist einen Besuch wert: Auf der Ostseite befinden sich geschützte Strände für Familien, auf der Westseite die wilde Küste mit Wellen an den Felsen.\nSie können auch mit dem Schiff nach Belle-Île-en-Mer fahren.\n\nGeschichtsinteressierte sollten sich Rochefort-en-Terre und das Schloss von Josselin ansehen, ebenso wie Vannes und Lorient\n\n Die lokale Gastronomie sollten Sie sich nicht entgehen lassen: Austern, Meeresfrüchte, bretonische Crêpes, noch lauwarmer Kuign-Amann und Karamellbonbons mit gesalzener Butter.\nAuf den Märkten gibt es viele frische Produkte, die Sie in der voll ausgestatteten Küche zubereiten können.\n\n- Unsere Art, Sie zu begrüßen\n\nWir sorgen dafür, dass Ihr Aufenthalt unvergesslich bleibt. Die Bettwäsche wird gestellt, die Betten sind bei Ihrer Ankunft gemacht und die Endreinigung ist im Preis inbegriffen.\n\nFür Babys sind Kinderbett und Hochstuhl vorhanden.\nGezeitenuhr und Wetterstation werden bereitgestellt, um Ihre Tage zu organisieren.\nKleine Haustiere sind gegen einen Aufpreis erlaubt.\n\nUnsere Gäste schätzen oft unsere Hilfsbereitschaft und den tadellosen Zustand des Hauses. Diese Rückmeldungen motivieren uns, uns jedes Jahr zu verbessern.\n\n- Kommen Sie zu uns!\n\nWir würden uns freuen, Sie in der Villa Bruyeride begrüßen zu dürfen.\n\nDie Preise beginnen bei 112?/Übernachtung, was ein hervorragendes Preis-Leistungs-Verhältnis ist.\nUnd vergessen Sie nicht: Wenn Sie mindestens 6 Monate im Voraus buchen, erhalten Sie 10?% Rabatt auf Ihren Aufenthalt!\n\nDie ideale Reisezeit ist von April bis Juni und September: angenehmes Wetter, weniger Menschen, günstigere Preise.\n\nKontaktieren Sie uns, um zu buchen oder Ihre Fragen zu stellen.\nDie Südbretagne wartet auf Sie, der Golf von Morbihan hat seine Geheimnisse zu enthüllen, und die Villa Bruyeride ist bereit, Sie für eine Auszeit zu empfangen, in der Komfort, Authentizität und Entdeckungen harmonisch miteinander verschmelzen."
+        ],
+        "en": [
+          "Villa Bruyeride in Saint-Philibert, your haven of peace in Southern Brittany, between the Gulf of Morbihan and the Quiberon peninsula\n\nBook now and benefit from a 10% discount if you book at least 6 months before your stay!\n\nImagine waking up to the sound of birdsong in a quiet cul-de-sac in Saint-Philibert.\nYou open the shutters and discover a garden where roses delicately scent the sea air. Then you quietly savor your morning coffee on a veranda bathed in light.\nIt's not a dream, it's Villa Bruyeride, ready to welcome you for your next vacation in Southern Brittany.\n\nOur house has been awarded the Clévacances 3-key label and is classified as a 3-star Meublé de Tourisme, and has been designed with your comfort in mind.\nOver the years, we've fitted it out by listening to our guests' comments, with the sincere desire to create a place where you immediately feel at home.\nWhether you've come to discover the Golfe du Morbihan with your family, walk the coastal paths with friends or simply recharge your batteries as a couple, you'll find here the perfect blend of calm and proximity to all the riches of the region.\n\n- A Real Family Cocoon Where Everything's Planned\n\nThe villa extends over 90 m² on two levels. It sleeps five comfortably, with enough space for everyone to find their own quiet corner.\nAs soon as you arrive, our friend will welcome you personally. She'll take the time to show you around and answer your questions with a smile.\n\nThe heart of the house is a beautiful, light-filled living room where everyone loves to get together.\nThe decor has been carefully chosen to create a warm atmosphere without excess. The large three-seater sofa is very comfortable - as our guests often confirm!\nAfter a day on the GR34 or visiting the megaliths, it's a real pleasure to settle in. The two armchairs are just as welcoming, perfect for a quiet book.\n\nFor your evenings of relaxation, there's a 109 cm Smart TV with Netflix and Amazon Prime Video included!\nDVDs are also available, and free Wi-Fi lets you keep in touch or share your vacation photos.\n\nThe kitchen opens onto the living room, allowing you to prepare delicious meals while chatting.\nIt comes complete with dishwasher, washing machine, oven, microwave, gas stove? We haven't forgotten the filter coffee maker or the Tassimo machine for capsule lovers!\n\nUpstairs, you'll sleep really well.\nThe master bedroom has a large Queen Size bed with an Emma? mattress chosen after several tests to ensure your nights are perfect.\nThe other bedroom has two single beds (Bultex mattresses), ideal for children or friends.\nIn the mezzanine area, a quality convertible sofa can accommodate a fifth person with a real mattress. A small space with washbasin is also available, handy in the morning.\n\nDownstairs, the bathroom is spacious, with a large bathtub for relaxing after a busy day.\nThe toilet is separate, which makes daily life easier for several people.\n\nFor your car or bikes, a lockable garage is available, with free parking spaces less than 100 m away.\n\n- This Garden and Veranda Our Guests Fall In Love With\n\nIt's often the outside that seduces our guests!\nThe 20 m² south-facing veranda is a privileged spot. With its large sliding windows, light floods in all day long.\nOur guests love to enjoy breakfast in the sunshine, or settle down to read.\n\nThe 400 m² walled garden is our pride and joy. The roses smell divine in the evening, the shrubs bloom with the seasons and the heather reminds us why we chose this name for the house.\nChildren can play safely while parents relax.\n\nTo make the most of the fine weather, a teak table seats six comfortably. There are also deckchairs for naps and garden furniture with parasol for shade.\nFor outdoor meals, choose between a Weber charcoal barbecue or a Campingaz plancha.\nImagine grilling fish and seafood bought in the morning at the port of La Trinité? A real treat!\n\n- Saint-Philibert, the perfect place to discover everything\n\nThe villa's location is ideal. At the end of a quiet cul-de-sac, you're guaranteed peace and quiet, yet close to everything. The shops are just 800 m away for bread and daily shopping.\n\nThe sandy beaches are less than 2 km away, within easy walking distance for those who enjoy walking.\nSaint-Philibert and the surrounding area offer several beautiful beaches for swimming and water sports.\nWith almost 1,900 hours of sunshine a year and a mild oceanic climate, you can enjoy it from Easter to All Saints' Day.\n\nThe port of La Trinité-sur-Mer is just across the road. Stroll along the quays to admire the sailboats and pleasure boats.\nThe atmosphere is pleasant, with small seafood restaurants and ice cream parlors.\n\nThe megaliths of Carnac, listed as a UNESCO World Heritage Site on July 12, 2025, are just a few minutes away, fascinating young and old alike.\nThe village of Carnac is charming, with its supervised beaches and lively center.\n\nThe GR34 also passes through, offering splendid views of the ocean, the Gulf Islands and the Quiberon peninsula.\n\n-So Many Beautiful Things to Discover Around You\n\nThe Golfe du Morbihan offers a landscape that changes with the tides. A boat trip to Île aux Moines or Île d'Arz leaves a lasting impression.\nThe Quiberon peninsula is well worth a visit: on the east side, sheltered beaches for families; on the west side, the wild coastline with its waves on the rocks.\nYou can also set sail for Belle-Île-en-Mer.\n\nFor history buffs, Rochefort-en-Terre and the Château de Josselin are well worth a visit, as are Vannes and Lorient\n\n The local gastronomy is not to be missed: oysters, seafood, Breton crepes, warm kouign-amann and salted butter caramels.\nThe markets are full of fresh produce that you can cook in the fully-equipped kitchen.\n\n- Our way of welcoming you\n\nWe make sure your stay is unforgettable. Linen is provided, beds are made on arrival, and end-of-stay cleaning is included.\n\nFor babies, cots and high chairs are available.\nA tide clock and weather station are provided to help you plan your day.\nSmall pets are accepted at an extra charge.\n\nOur guests often appreciate our availability and the impeccable condition of the house. This feedback motivates us to improve every year.\n\n- Come and join us!\n\nWe look forward to welcoming you to Villa Bruyeride.\n\nRates start from 112?/night, which is excellent value for money.\nAnd don?t forget: book at least 6 months in advance and enjoy a 10% discount on your stay!\n\nApril to June and September are the ideal periods to enjoy the region to the full: pleasant weather, fewer people, lower rates.\n\nContact us for bookings or questions.\nSouthern Brittany awaits you, the Gulf of Morbihan has its secrets to reveal, and Villa Bruyeride is ready to welcome you for a break where comfort, authenticity and discovery blend harmoniously."
+        ],
+        "it": [
+          "Villa Bruyeride a Saint-Philibert, la vostra oasi di pace nel sud della Bretagna, tra il Golfo di Morbihan e la penisola di Quiberon\n\nPrenotate ora e beneficiate di uno sconto del 10% se prenotate almeno 6 mesi prima del vostro soggiorno!\n\nImmaginate di svegliarvi al suono del canto degli uccelli in un piccolo e tranquillo cul-de-sac di Saint-Philibert.\nAprite le imposte e scoprite un giardino dove le rose profumano delicatamente l'aria di mare. Poi si assapora tranquillamente il caffè del mattino in una veranda inondata di luce.\nNon è un sogno, è Villa Bruyeride, pronta ad accogliervi per la vostra prossima vacanza nel sud della Bretagna.\n\nLa nostra casa, insignita del marchio Clévacances 3 clés e classificata come Meublé de Tourisme 3 stelle, è stata progettata pensando al vostro comfort.\nNel corso degli anni, l'abbiamo arredata ascoltando i commenti dei nostri ospiti, con il sincero desiderio di creare un luogo in cui vi sentirete subito a casa.\nChe siate venuti a scoprire il Golfe du Morbihan con la famiglia, a percorrere i sentieri costieri con gli amici o semplicemente a fare il pieno di energia in coppia, qui troverete il mix perfetto di tranquillità e vicinanza a tutte le ricchezze della regione.\n\n- Un vero e proprio bozzolo familiare dove tutto è previsto\n\nLa villa si estende per 90 m² su due livelli. Può ospitare comodamente cinque persone, con spazio sufficiente perché ognuno possa trovare il proprio angolo di tranquillità.\nAppena arrivati, la nostra amica vi accoglierà personalmente. Si prenderà il tempo necessario per mostrarvi tutto e rispondere alle vostre domande con un sorriso.\n\nIl cuore della casa è un bellissimo e luminoso soggiorno dove tutti amano riunirsi.\nL'arredamento è stato scelto con cura per creare un'atmosfera calda senza eccessi. Il grande divano a tre posti è molto comodo, come confermano spesso i nostri ospiti!\nDopo una giornata trascorsa sul GR34 o a visitare i megaliti, è un vero piacere sistemarsi. Le due poltrone sono altrettanto accoglienti, perfette per una lettura tranquilla.\n\nPer le vostre serate rilassanti, c'è una Smart TV da 109 cm con Netflix e Amazon Prime Video inclusi!\nSono disponibili anche DVD e la connessione Wi-Fi gratuita vi permetterà di restare in contatto o di condividere le foto delle vostre vacanze.\n\nLa cucina si apre sul soggiorno, così potrete preparare piatti gustosi mentre chiacchierate.\nÈ completa di lavastoviglie, lavatrice, forno, microonde e fornelli a gas E non abbiamo dimenticato la macchina per il caffè a filtro o la macchina Tassimo per chi ama le capsule!\n\nAl piano superiore, dormirete davvero bene.\nLa camera da letto principale ha un grande letto queen size con un materasso Emma? scelto dopo numerosi test per garantire un sonno perfetto.\nL'altra camera da letto ha due letti singoli (materassi Bultex), ideali per bambini o amici.\nNella zona soppalcata, un divano letto di qualità può ospitare una quinta persona con un vero materasso. C'è anche un piccolo spazio con un lavabo, utile al mattino.\n\nAl piano inferiore, il bagno è spazioso, con una grande vasca per rilassarsi dopo una giornata intensa.\nLa toilette è separata, il che facilita la vita quotidiana quando ci sono più persone.\n\nPer l'auto o le biciclette è disponibile un garage con serratura e un parcheggio gratuito a meno di 100 m di distanza.\n\n- Il giardino e la veranda di cui i nostri ospiti sono innamorati\n\nSpesso è l'esterno che piace ai nostri ospiti!\nLa veranda di 20 m² esposta a sud è un luogo davvero speciale. Con le sue grandi finestre scorrevoli, è inondata di luce per tutto il giorno.\nI nostri ospiti amano fare colazione al sole o sedersi a leggere.\n\nIl giardino recintato di 400 m² è il nostro orgoglio e la nostra gioia. Le rose hanno un profumo divino la sera, gli arbusti fioriscono con le stagioni e l'erica ci ricorda perché abbiamo scelto questo nome per la casa.\nI bambini possono giocare in tutta sicurezza mentre i genitori si rilassano.\n\nPer approfittare del bel tempo, un tavolo in teak può ospitare comodamente sei persone. Ci sono anche sedie a sdraio per i pisolini e mobili da giardino con ombrellone per l'ombra.\nPer mangiare all'aperto, potete scegliere tra un barbecue a carbonella Weber o una plancha Campingaz.\nImmaginate di grigliare pesce e frutti di mare acquistati al mattino nel porto di La Trinité? Una vera delizia!\n\n- Saint-Philibert, un luogo davvero ideale per scoprire ogni cosa\n\nLa posizione della villa è ideale. Alla fine di un tranquillo vicolo cieco, vi garantisce pace e tranquillità, pur essendo vicina a tutto. I negozi sono a 800 m per il pane e la spesa quotidiana.\n\nLe spiagge di sabbia fine sono a meno di 2 km, facilmente raggiungibili a piedi per chi ama le passeggiate.\nSaint-Philibert e la zona circostante offrono una serie di bellissime spiagge per nuotare e praticare sport acquatici.\nCon quasi 1.900 ore di sole all'anno e un clima oceanico mite, potrete goderne da Pasqua a Ognissanti.\n\nIl porto di La Trinité-sur-Mer si trova proprio di fronte. Fate una passeggiata lungo le banchine per ammirare le barche a vela e le imbarcazioni da diporto.\nL'atmosfera è piacevole, con piccoli ristoranti di pesce e gelaterie.\n\nI megaliti di Carnac, dichiarati Patrimonio dell'Umanità dall'UNESCO il 12 luglio 2025, sono a pochi minuti di distanza e affascinano i visitatori di tutte le età.\nIl villaggio di Carnac è affascinante, con le sue spiagge sorvegliate e il suo centro vivace.\n\nIl GR34 passa anche da qui e offre splendide viste sull'oceano, sulle isole del Golfo e sulla penisola di Quiberon.\n\n-Tante cose belle da scoprire intorno a voi\n\nIl Golfe du Morbihan offre paesaggi che cambiano con le maree. Una gita in barca all'Île aux Moines o all'Île d'Arz vi lascerà ricordi indimenticabili.\nLa penisola di Quiberon merita una visita: sul lato est, spiagge riparate per le famiglie; sul lato ovest, la costa selvaggia con le sue onde sulle rocce.\nPotete anche salpare per Belle-Île-en-Mer.\n\nPer gli appassionati di storia, Rochefort-en-Terre e il Castello di Josselin meritano una visita, così come Vannes e Lorient\n\n La cucina locale è imperdibile: ostriche, frutti di mare, crêpes bretoni, kouign-amann caldi e caramelle al burro salato.\nI mercati sono pieni di prodotti freschi che potrete cucinare nella cucina completamente attrezzata.\n\n- Il nostro modo di accogliervi\n\nCi assicuriamo che il vostro soggiorno sia indimenticabile. La biancheria è fornita, i letti sono fatti all'arrivo e la pulizia di fine soggiorno è inclusa.\n\nPer i bambini sono disponibili una culla e un seggiolone.\nUn orologio per le maree e una stazione meteorologica sono a disposizione per aiutarvi a pianificare la vostra giornata.\nGli animali domestici di piccola taglia sono accettati a un costo aggiuntivo.\n\nI nostri ospiti apprezzano spesso la nostra disponibilità e lo stato impeccabile della casa. Questo feedback ci spinge a migliorare ogni anno.\n\n- Venite a trovarci!\n\nSaremo lieti di accogliervi a Villa Bruyeride.\n\nLe tariffe partono da 112€/notte, un ottimo rapporto qualità-prezzo.\nE non dimenticate: prenotate con almeno 6 mesi di anticipo e otterrete uno sconto del 10% sul vostro soggiorno!\n\nI periodi ideali per visitare la regione sono da aprile a giugno e settembre: clima piacevole, meno gente, prezzi più bassi.\n\nContattateci per prenotare o per qualsiasi domanda.\nLa Bretagna meridionale vi aspetta, il Golfo di Morbihan ha i suoi segreti da svelare e Villa Bruyeride è pronta ad accogliervi per un soggiorno in cui comfort, autenticità e scoperta si fondono armoniosamente."
+        ],
+        "fr": [
+          "Villa Bruyeride à Saint-Philibert, votre Havre de Paix en Bretagne Sud, entre Golfe du Morbihan et Presqu'île de Quiberon\n\nRéservez dès maintenant et bénéficiez de 10% de réduction si vous réservez au moins 6 mois avant votre séjour !\n\nImaginez un instant : vous vous réveillez doucement au chant des oiseaux dans une petite impasse paisible de Saint-Philibert.\nVous ouvrez les volets et découvrez un jardin où les roses embaument délicatement l'air marin. Puis vous savourez tranquillement votre café du matin dans une véranda baignée de lumière.\nCe n'est pas un rêve, c'est la Villa Bruyeride, prête à vous accueillir pour vos prochaines vacances en Bretagne Sud.\n\nNotre maison labellisée Clévacances 3 clés et classée Meublé de Tourisme 3 étoiles a été pensée pour votre confort.\nNous l'avons aménagée au fil des années en écoutant les remarques de nos hôtes, avec l'envie sincère de créer un lieu où l'on se sent immédiatement chez soi.\nQue vous veniez découvrir le Golfe du Morbihan en famille, marcher sur les sentiers côtiers entre amis ou simplement vous ressourcer en couple, vous trouverez ici le mélange parfait de calme et de proximité avec toutes les richesses de la région.\n\n- Un Vrai Cocon Familial Où Tout Est Prévu\n\nLa villa s'étend sur 90 m² répartis sur deux niveaux. Cinq personnes peuvent y loger confortablement, avec assez d'espace pour que chacun trouve son coin tranquille.\nDès votre arrivée, notre amie vous accueille personnellement. Elle prend le temps de tout vous montrer et répond à vos questions avec le sourire.\n\nLe cœur de la maison est une belle pièce à vivre lumineuse où tout le monde aime se retrouver.\nLa décoration a été choisie avec soin pour créer une ambiance chaleureuse sans excès. Le grand canapé trois places est très confortable – nos hôtes le confirment souvent !\nAprès une journée sur le GR34 ou à visiter les mégalithes, c'est un vrai plaisir de s'y installer. Les deux fauteuils sont tout aussi accueillants, parfaits pour bouquiner tranquillement.\n\nPour vos soirées détente, vous disposez d'une Smart TV de 109 cm avec Netflix et Amazon Prime Video inclus !\nDes DVD sont aussi disponibles et le Wi-Fi gratuit permet de rester en contact ou de partager vos photos de vacances.\n\nLa cuisine ouverte sur le salon permet de préparer de bons petits plats tout en discutant. \nElle est complète : lave-vaisselle, lave-linge, four, micro-ondes, cuisinière gaz… On n'a pas oublié la cafetière filtre ni la machine Tassimo pour les amateurs de capsules !\n\nÀ l'étage, vous dormirez vraiment bien.\nLa chambre principale dispose d'un grand lit Queen Size avec un matelas Emma – choisi après plusieurs tests pour que vos nuits soient parfaites.\nL'autre chambre a deux lits simples (matelas Bultex), idéale pour les enfants ou les amis.\nDans le coin mezzanine, un canapé convertible de qualité accueille une cinquième personne avec un vrai matelas. Un petit espace avec lavabo est aussi disponible, pratique le matin.\n\nEn bas, la salle de bains est spacieuse avec une grande baignoire pour se détendre après une journée bien remplie.\nLes toilettes sont séparées, ce qui simplifie la vie quotidienne quand on est plusieurs.\n\nPour votre voiture ou vos vélos, un garage fermé à clé est disponible, avec des places de parking gratuites à moins de 100 m.\n\n- Ce Jardin et Cette Véranda Dont Nos Hôtes Tombent Amoureux\n\nC'est souvent l'extérieur qui séduit nos visiteurs !\nLa véranda de 20 m² orientée plein sud est un endroit privilégié. Avec ses grandes baies vitrées coulissantes, la lumière y entre toute la journée.\nNos hôtes aiment y prendre leur petit-déjeuner au soleil ou s'y installer pour lire.\n\nLe jardin clos de 400 m² est notre fierté. Les roses sentent divinement bon le soir, les arbustes fleurissent au fil des saisons et les bruyères rappellent pourquoi nous avons choisi ce nom pour la maison.\nLes enfants peuvent jouer en toute sécurité pendant que les parents se détendent.\n\nPour profiter des beaux jours, une table en teck accueille six personnes confortablement. Il y a aussi des transats pour la sieste et un salon de jardin avec parasol pour l’ombre.\nPour les repas en plein air, choisissez entre un barbecue Weber au charbon ou une plancha Campingaz.\nImaginez-vous en train de griller poissons et fruits de mer achetés le matin au port de La Trinité… Un vrai régal !\n\n- Saint-Philibert, Vraiment Bien Situé Pour Tout Découvrir\n\nL'emplacement de la villa est idéal. Au fond d'une impasse tranquille, le calme est garanti, tout en restant proche de tout. Les commerces sont à 800 m pour le pain et les courses quotidiennes.\n\nLes plages de sable fin sont à moins de 2 km, accessibles à pied pour les amateurs de marche.\nSaint-Philibert et ses environs, proposent plusieurs belles plages pour se baigner et pratiquer des activités nautiques.\nAvec près de 1?900 heures de soleil par an et un climat océanique doux, vous pourrez en profiter de Pâques à la Toussaint.\n\nLe port de La Trinité-sur-Mer est juste en face. Promenez-vous le long des quais pour admirer les voiliers et bateaux de plaisance.\nL'ambiance est agréable, avec petits restaurants de fruits de mer et glaciers.\n\nLes mégalithes de Carnac, classés patrimoine mondial de l'UNESCO le 12 juillet 2025, sont à quelques minutes, fascinants pour petits et grands.\nLe village de Carnac est charmant avec ses plages surveillées et son centre animé.\n\nLe GR34 passe également par là, offrant des vues splendides sur l’océan, les îles du Golfe et la presqu’île de Quiberon.\n\n-Tant de Belles Choses à Découvrir Autour de Vous\n\nLe Golfe du Morbihan offre des paysages changeants selon les marées. Une sortie en bateau vers l’Île aux Moines ou l’Île d’Arz laisse des souvenirs mémorables.\nLa presqu’île de Quiberon vaut le détour : côté est, des plages abritées pour les familles ; côté ouest, la côte sauvage avec ses vagues sur les rochers.\nVous pouvez aussi embarquer pour Belle-Île-en-Mer.\n\nPour les amateurs d’histoire, Rochefort-en-Terre et le château de Josselin sont à voir, tout comme Vannes et Lorient\n\n La gastronomie locale est à ne pas manquer : huîtres, fruits de mer, crêpes bretonnes, kouign-amann encore tiède, caramels au beurre salé.\nLes marchés regorgent de produits frais que vous pouvez cuisiner dans la cuisine équipée.\n\n- Notre Façon de Vous Accueillir\n\nNous veillons à ce que votre séjour reste inoubliable. Le linge de maison est fourni, les lits sont faits à votre arrivée, et le ménage de fin de séjour est inclus.\n\nPour les bébés, lit parapluie et chaise haute sont disponibles.\nHorloge des marées et station météo sont fournies pour organiser vos journées.\nLes petits animaux sont acceptés moyennant un supplément.\n\nNos hôtes apprécient souvent notre disponibilité et l’état impeccable de la maison. Ces retours nous motivent à nous améliorer chaque année.\n\n- Venez Nous Rejoindre !\n\nNous serons heureux de vous accueillir à la Villa Bruyeride.\n\nLes tarifs commencent à partir de 112€/nuitée, ce qui est un excellent rapport qualité-prix.\nEt n’oubliez pas : réservez au moins 6 mois à l’avance et profitez de 10?% de réduction sur votre séjour !\n\nLes périodes idéales pour profiter pleinement de la région sont d’avril à juin et septembre : météo agréable, moins de monde, tarifs plus doux.\n\nContactez-nous pour réserver ou poser vos questions.\nLa Bretagne Sud vous attend, le Golfe du Morbihan a ses secrets à révéler, et la Villa Bruyeride est prête à vous accueillir pour une parenthèse où confort, authenticité et découvertes se mêlent harmonieusement."
+        ],
+        "nl": [
+          "Villa Bruyeride in Saint-Philibert, uw oase van rust in Zuid-Bretagne, tussen de Golf van Morbihan en het schiereiland Quiberon\n\nBoek nu en profiteer van 10% korting als u ten minste 6 maanden voor uw verblijf boekt!\n\nStel je voor dat je wakker wordt met het gezang van de vogels in een kleine, rustige doodlopende straat in Saint-Philibert.\nJe opent de luiken en ontdekt een tuin waar de rozen delicaat de zeelucht ruiken. Dan geniet je rustig van je ochtendkoffie in een veranda die baadt in het licht.\nHet is geen droom, het is Villa Bruyeride, klaar om je te verwelkomen voor je volgende vakantie in Zuid-Bretagne.\n\nOns huis, bekroond met het label Clévacances 3 clés en geclassificeerd als 3-sterren Meublé de Tourisme, is ontworpen met jouw comfort in gedachten.\nIn de loop der jaren hebben we het ingericht door te luisteren naar de opmerkingen van onze gasten, met de oprechte wens om een plek te creëren waar je je meteen thuis voelt.\nOf je nu komt om de Golfe du Morbihan te ontdekken met je gezin, om de kustpaden te bewandelen met vrienden of gewoon om als koppel nieuwe energie op te doen, hier vind je de perfecte combinatie van rust en nabijheid van alle rijkdommen van de streek.\n\n- Een echte familiecocon waar aan alles is gedacht\n\nDe villa beslaat 90 m² op twee verdiepingen. Het biedt comfortabel plaats aan vijf personen, met genoeg ruimte voor iedereen om zijn eigen rustige hoekje te vinden.\nZodra je aankomt, zal onze vriendin je persoonlijk verwelkomen. Ze neemt de tijd om je alles te laten zien en je vragen met een glimlach te beantwoorden.\n\nHet hart van het huis is een mooie, lichte woonkamer waar iedereen graag samenkomt.\nDe inrichting is zorgvuldig gekozen om een warme sfeer te creëren zonder overdaad. De grote driezitsbank is erg comfortabel - zoals onze gasten vaak bevestigen!\nNa een dag op de GR34 of een bezoek aan de megalieten is het een waar genoegen om je hier te installeren. De twee fauteuils zijn net zo gastvrij, perfect om rustig te lezen.\n\nVoor je ontspannen avonden is er een 109 cm Smart TV met Netflix en Amazon Prime Video inbegrepen!\nEr zijn ook dvd's beschikbaar en met de gratis Wi-Fi kun je contact houden of je vakantiefoto's delen.\n\nDe keuken komt uit op de woonkamer zodat je lekkere gerechten kunt bereiden terwijl je kletst.\nDe keuken is compleet met vaatwasser, wasmachine, oven, magnetron en gasfornuis En we zijn het filterkoffiezetapparaat niet vergeten, of het Tassimo apparaat voor de liefhebbers van capsules!\n\nBoven zul je heerlijk slapen.\nDe ouderslaapkamer heeft een groot queensize bed met een Emma? matras, gekozen na verschillende tests om een perfecte nachtrust te garanderen.\nDe andere slaapkamer heeft twee eenpersoonsbedden (Bultex matrassen), ideaal voor kinderen of vrienden.\nOp de tussenverdieping staat een slaapbank van goede kwaliteit die plaats biedt aan een vijfde persoon met een echte matras. Er is ook een kleine ruimte met een wastafel, handig voor 's ochtends.\n\nBeneden is de badkamer ruim, met een groot bad om te ontspannen na een drukke dag.\nHet toilet is apart, wat het dagelijks leven gemakkelijker maakt als er meerdere mensen zijn.\n\nVoor je auto of fietsen is er een afsluitbare garage beschikbaar, met gratis parkeergelegenheid op minder dan 100 m afstand.\n\n- De tuin en veranda waar onze gasten verliefd op worden\n\nHet is vaak de buitenkant die onze gasten aanspreekt!\nDe veranda van 20 m² op het zuiden is een heel bijzondere plek. Met zijn grote schuiframen is het er de hele dag licht.\nOnze gasten vinden het heerlijk om in de zon te ontbijten of te zitten lezen.\n\nDe omheinde tuin van 400 m² is onze trots. De rozen ruiken 's avonds heerlijk, de struiken bloeien met de seizoenen mee en de heide herinnert ons eraan waarom we deze naam voor het huis kozen.\nKinderen kunnen hier veilig spelen terwijl de ouders ontspannen.\n\nOm optimaal van het mooie weer te kunnen genieten, staat er een teakhouten tafel die comfortabel plaats biedt aan zes personen. Er zijn ook ligstoelen voor een dutje en tuinmeubilair met parasol voor de schaduw.\nOm buiten te eten kun je kiezen tussen een Weber houtskoolbarbecue of een Campingaz plancha.\nVis en zeevruchten grillen die je 's ochtends in de haven van La Trinité koopt? Een echte traktatie!\n\n- Saint-Philibert, een echt goede plek om alles te ontdekken\n\nDe ligging van de villa is ideaal. Aan het einde van een rustige doodlopende straat ben je verzekerd van rust en toch overal dichtbij. De winkels liggen op 800 m voor brood en dagelijkse boodschappen.\n\nDe fijne zandstranden liggen op minder dan 2 km, op loopafstand voor wie van een ontspannen wandeling houdt.\nSaint-Philibert en de omgeving bieden een aantal prachtige stranden om te zwemmen en watersporten te beoefenen.\nMet bijna 1900 zonuren per jaar en een mild zeeklimaat kun je hier van Pasen tot Allerheiligen genieten.\n\nDe haven van La Trinité-sur-Mer ligt aan de overkant van de weg. Wandel langs de kades om de zeilboten en pleziervaartuigen te bewonderen.\nEr hangt een aangename sfeer, met kleine visrestaurants en ijssalons.\n\nDe megalieten van Carnac, die op 12 juli 2025 op de Werelderfgoedlijst van UNESCO zijn geplaatst, liggen op slechts een paar minuten afstand en fascineren bezoekers van alle leeftijden.\nHet dorp Carnac is charmant, met zijn bewaakte stranden en levendige centrum.\n\nDe GR34 loopt hier ook langs en biedt een prachtig uitzicht op de oceaan, de eilanden van de Golf en het schiereiland Quiberon.\n\n-Zoveel mooie dingen om te ontdekken\n\nDe Golfe du Morbihan biedt landschappen die veranderen met de getijden. Een boottocht naar Île aux Moines of Île d'Arz zal onvergetelijke herinneringen achterlaten.\nHet schiereiland Quiberon is zeker een bezoek waard: aan de oostkant beschutte stranden voor gezinnen; aan de westkant de wilde kustlijn met zijn golven op de rotsen.\nJe kunt ook naar Belle-Île-en-Mer varen.\n\nVoor geschiedenisliefhebbers zijn Rochefort-en-Terre en het Château de Josselin een bezoek waard, net als Vannes en Lorient\n\n De plaatselijke keuken mag u niet missen: oesters, zeevruchten, Bretonse crêpes, warme kouign-amann en karamels met gezouten boter.\nDe markten staan vol verse producten die je kunt bereiden in de volledig uitgeruste keuken.\n\n- Onze manier van verwelkomen\n\nWe zorgen ervoor dat je verblijf onvergetelijk wordt. Linnengoed is aanwezig, de bedden zijn opgemaakt bij aankomst en de eindschoonmaak is inbegrepen.\n\nVoor baby's is er een kinderbedje en kinderstoel beschikbaar.\nEen getijdenklok en weerstation zijn aanwezig om je te helpen je dag te plannen.\nKleine huisdieren zijn toegestaan tegen extra kosten.\n\nOnze gasten waarderen vaak onze beschikbaarheid en de onberispelijke staat van het huis. Deze feedback motiveert ons om elk jaar beter te worden.\n\n- Kom bij ons langs!\n\nWe kijken ernaar uit je te verwelkomen in Villa Bruyeride.\n\nDe prijzen beginnen bij 112€/nacht, wat een uitstekende prijs-kwaliteitverhouding is.\nEn vergeet niet: boek minstens 6 maanden van tevoren en krijg 10% korting op je verblijf!\n\nDe ideale periodes om van de regio te genieten zijn van april tot juni en september: aangenaam weer, minder mensen, lagere prijzen.\n\nNeem contact met ons op om te reserveren of om vragen te stellen.\nZuid-Bretagne wacht op u, de Golf van Morbihan heeft zijn geheimen te onthullen en Villa Bruyeride is klaar om u te verwelkomen voor een vakantie waar comfort, authenticiteit en ontdekking harmonieus samengaan."
+        ],
+        "es": [
+          "Villa Bruyeride en Saint-Philibert, su remanso de paz en el sur de Bretaña, entre el golfo de Morbihan y la península de Quiberon\n\nReserve ahora y benefíciese de un 10% de descuento si lo hace al menos 6 meses antes de su estancia\n\nImagínese despertarse con el canto de los pájaros en una pequeña y tranquila calle sin salida de Saint-Philibert.\nAbre las persianas y descubre un jardín donde las rosas perfuman delicadamente el aire marino. Después, saborea tranquilamente su café matinal en una veranda bañada de luz.\nNo es un sueño, es Villa Bruyeride, lista para recibirle en sus próximas vacaciones en el sur de Bretaña.\n\nNuestra casa, galardonada con el sello Clévacances 3 clés y clasificada como Meublé de Tourisme 3 estrellas, ha sido diseñada pensando en su comodidad.\nA lo largo de los años, la hemos acondicionado escuchando los comentarios de nuestros huéspedes, con el sincero deseo de crear un lugar en el que se sienta inmediatamente como en casa.\nTanto si ha venido a descubrir el golfo de Morbihan en familia, a recorrer los senderos costeros con amigos o simplemente a recargar las pilas en pareja, aquí encontrará la mezcla perfecta de tranquilidad y proximidad a todas las riquezas de la región.\n\n- Un verdadero capullo familiar donde todo está previsto\n\nLa villa tiene 90 m² distribuidos en dos niveles. Tiene capacidad para cinco personas cómodamente, con espacio suficiente para que cada uno encuentre su rincón de tranquilidad.\nNada más llegar, nuestro amigo le dará la bienvenida personalmente. Se tomará su tiempo para enseñarle la casa y responder a sus preguntas con una sonrisa.\n\nEl corazón de la casa es un hermoso y luminoso salón donde a todos les encanta reunirse.\nLa decoración se ha elegido cuidadosamente para crear un ambiente cálido sin excesos. El gran sofá de tres plazas es muy cómodo, ¡como confirman a menudo nuestros huéspedes!\nDespués de un día en el GR34 o visitando los megalitos, es un verdadero placer acomodarse. Los dos sillones son igualmente acogedores, perfectos para una lectura tranquila.\n\nPara tus tardes de relax, hay una Smart TV de 109 cm con Netflix y Amazon Prime Video incluidos\nTambién hay DVD disponibles, y la conexión Wi-Fi gratuita te permite mantenerte en contacto o compartir las fotos de tus vacaciones.\n\nLa cocina se abre a la sala de estar, para que puedas preparar sabrosos platos mientras charlas.\nEstá equipada con lavavajillas, lavadora, horno, microondas y cocina de gas Y no nos olvidamos de la cafetera de filtro ni de la máquina Tassimo para los amantes de las cápsulas\n\nArriba, dormirás muy bien.\nEl dormitorio principal tiene una gran cama Queen Size con un colchón Emma?, elegido tras varias pruebas para garantizar una noche de sueño perfecta.\nEl otro dormitorio tiene dos camas individuales (colchones Bultex), ideales para niños o amigos.\nEn el altillo, un sofá cama de calidad acoge a una quinta persona con un colchón de verdad. También hay una pequeña zona con lavabo, muy práctica por las mañanas.\n\nEn la planta baja, el cuarto de baño es espacioso, con una bañera grande para relajarse después de un día ajetreado.\nEl aseo está separado, lo que facilita la vida diaria cuando hay varias personas.\n\nPara su coche o sus bicicletas, dispone de un garaje con cerradura y de un aparcamiento gratuito a menos de 100 m.\n\n- El jardín y la veranda enamoran a nuestros huéspedes\n\nA menudo es el exterior lo que atrae a nuestros huéspedes\nLa veranda de 20 m² orientada al sur es un lugar muy especial. Con sus grandes ventanas correderas, está inundada de luz durante todo el día.\nA nuestros huéspedes les encanta desayunar al sol o sentarse a leer.\n\nEl jardín cerrado de 400 m² es nuestro orgullo. Las rosas huelen divinamente al atardecer, los arbustos florecen con las estaciones y el brezo nos recuerda por qué elegimos este nombre para la casa.\nLos niños pueden jugar sin peligro mientras los padres se relajan.\n\nPara aprovechar al máximo el buen tiempo, una mesa de teca tiene capacidad para seis personas cómodamente. También hay tumbonas para las siestas y muebles de jardín con sombrilla para la sombra.\nPara comer al aire libre, elija entre una barbacoa Weber de carbón o una plancha Campingaz.\n¿Se imagina asar pescado y marisco comprado por la mañana en el puerto de La Trinité? ¡Una auténtica delicia!\n\n- Saint-Philibert, un buen lugar para descubrirlo todo\n\nLa ubicación de la villa es ideal. Al final de una tranquila calle sin salida, tiene garantizada la tranquilidad, pero cerca de todo. Las tiendas están a 800 m para el pan y las compras diarias.\n\nLas playas de arena fina están a menos de 2 km, a poca distancia para aquellos que disfrutan de un paseo tranquilo.\nSaint-Philibert y sus alrededores ofrecen un gran número de hermosas playas para nadar y practicar deportes acuáticos.\nCon casi 1.900 horas de sol al año y un clima oceánico suave, se puede disfrutar desde Semana Santa hasta Todos los Santos.\n\nEl puerto de La Trinité-sur-Mer está al otro lado de la carretera. Pasee por los muelles y admire los veleros y las embarcaciones de recreo.\nEl ambiente es agradable, con pequeñas marisquerías y heladerías.\n\nLos megalitos de Carnac, declarados Patrimonio Mundial de la UNESCO el 12 de julio de 2025, se encuentran a pocos minutos y fascinan a visitantes de todas las edades.\nEl pueblo de Carnac es encantador, con sus playas vigiladas y su animado centro.\n\nPor aquí pasa también el GR34, que ofrece espléndidas vistas del océano, las islas del Golfo y la península de Quiberon.\n\n-Muchas cosas bonitas por descubrir a su alrededor\n\nEl golfo de Morbihan ofrece paisajes que cambian con las mareas. Una excursión en barco a Île aux Moines o Île d'Arz le dejará recuerdos inolvidables.\nLa península de Quiberon bien merece una visita: en el lado este, playas protegidas para familias; en el lado oeste, la costa salvaje con sus olas sobre las rocas.\nTambién puede poner rumbo a Belle-Île-en-Mer.\n\nPara los amantes de la historia, Rochefort-en-Terre y el castillo de Josselin merecen una visita, al igual que Vannes y Lorient\n\n No hay que perderse la gastronomía local: ostras, marisco, crêpes bretonas, kouign-amann caliente y caramelos de mantequilla salada.\nLos mercados están repletos de productos frescos que podrá cocinar en la cocina totalmente equipada.\n\n- Nuestra forma de darle la bienvenida\n\nNos aseguramos de que su estancia sea inolvidable. Le proporcionamos ropa de cama, las camas están hechas a su llegada y la limpieza de final de estancia está incluida.\n\nPara los bebés, disponemos de cuna y trona.\nUn reloj de mareas y una estación meteorológica le ayudarán a planificar su día.\nSe aceptan mascotas pequeñas con un coste adicional.\n\nNuestros huéspedes aprecian a menudo nuestra disponibilidad y el estado impecable de la casa. Estos comentarios nos motivan a mejorar cada año.\n\n- ¡Ven y únete a nosotros!\n\nEsperamos poder darle la bienvenida a Villa Bruyeride.\n\nLas tarifas comienzan a partir de 112€/noche, lo que supone una excelente relación calidad-precio.\nY no lo olvide: ¡reserve con al menos 6 meses de antelación y obtenga un 10% de descuento en su estancia!\n\nLas épocas ideales para disfrutar al máximo de la región son de abril a junio y septiembre: tiempo agradable, menos gente, precios más bajos.\n\nPóngase en contacto con nosotros para reservar o hacernos cualquier pregunta.\nEl sur de Bretaña le espera, el golfo de Morbihan le desvelará sus secretos y Villa Bruyeride le acogerá para una escapada en la que confort, autenticidad y descubrimiento se funden armoniosamente."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5832df54-bcda-3352-9edf-c5e2434d9a6d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d916a7a-9082-3a23-a0e2-f3d9ed5c4181",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/718f0f4e-97a0-3ba0-a198-3c70f555cbac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7d40c073-ae05-3927-af33-dc82a560343d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ab6ae66f-a81d-39f0-8a9d-2ab567ee181d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/7970a452-a3cb-a8f0-f3d0-115f1f09f1ca",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "fa945c29-7789-417d-9b33-306d701b256b",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/908ea56c-778f-3b64-9c3d-7ff76357f0ce",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8933b3bc-2d25-3f23-9a6f-5d28b5b33bdf",
+          "schema:addressLocality": "Saint-Philibert",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "3 impasse des bruyères"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56233",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Philibert"
+              ],
+              "pt": [
+                "Saint-Philibert"
+              ],
+              "en": [
+                "Saint-Philibert"
+              ],
+              "it": [
+                "Saint-Philibert"
+              ],
+              "fr": [
+                "Saint-Philibert"
+              ],
+              "nl": [
+                "Saint-Philibert"
+              ],
+              "es": [
+                "Saint-Philibert"
+              ]
+            },
+            "insee": "56233",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2fbf1f09-863c-3e06-8c6e-bf2c866723ca",
+        "schema:latitude": "47.5825958",
+        "schema:longitude": "-3.0052458",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/30ec2ccc-29ab-3d63-9687-babf7d758670",
+          "schema:validFrom": "2026-12-19T00:00:00",
+          "schema:validThrough": "2027-01-03T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/91bc84b6-e311-3c6f-83b2-9e219ef58118",
+          "schema:validFrom": "2025-12-20T00:00:00",
+          "schema:validThrough": "2026-01-03T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f768da8d-a012-331a-a9da-90db8719bdc2",
+          "schema:validFrom": "2026-04-03T00:00:00",
+          "schema:validThrough": "2026-11-14T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T04:04:12.744Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

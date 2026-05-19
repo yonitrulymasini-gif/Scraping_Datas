@@ -1,0 +1,608 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c0f25bdf-b0d1-32fa-bc9e-56034e5f2250",
+  "dc:identifier": "B0028BRE000001CC",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Chambres d'hôtes d'Haligan en Brocéliande"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7c6acb14-35cf-377b-91f5-79237d626f0b",
+      "schema:telephone": [
+        "+33 2 97 22 63 23",
+        "+33 6 75 88 37 47",
+        "+33 6 80 36 10 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://haligan.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0b4e90e1-bbf8-3d38-9ef5-6945921ba6fc",
+      "schema:legalName": "Chambres d'hôtes d'Haligan en Brocéliande",
+      "schema:telephone": [
+        "+33 2 97 22 63 23",
+        "+33 6 75 88 37 47",
+        "+33 6 80 36 10 48"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://haligan.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7c6acb14-35cf-377b-91f5-79237d626f0b",
+      "schema:telephone": [
+        "+33 2 97 22 63 23",
+        "+33 6 75 88 37 47",
+        "+33 6 80 36 10 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://haligan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1faa1729-3bb0-3b7c-9f55-5634d4f2c77b",
+      "dc:description": {
+        "de": [
+          "Genießen Sie Ihren Aufenthalt in einem für unsere Region typischen Bauernhaus aus rotem Schiefer inmitten eines aktiven Milchviehbetriebs. 3 Zimmer im Obergeschoss mit separatem Zugang und Terrasse für bis zu 10 Personen: 2 Zimmer mit Doppelbett und eine Maisonettewohnung mit 2 Betten für 2 Personen und 2 Betten für 1 Person. Jedes Zimmer verfügt über ein Badezimmer mit Dusche und ein separates privates WC. Bereitstellung von Kühlschrank, Mikrowelle, Wasserkocher, Kaffeemaschine und WLAN für die Gäste."
+        ],
+        "en": [
+          "Enjoy your stay in a red schist farmhouse typical of our region, set in the heart of a working dairy farm. 3 upstairs bedrooms with independent access and terrace, for up to 10 people: 2 bedrooms with double beds and a duplex with 2 double beds and 2 single beds. Each room has a bathroom with shower and separate private WC. Guests have access to a fridge, microwave, kettle, coffee maker and WiFi."
+        ],
+        "it": [
+          "Godetevi il vostro soggiorno in una casa colonica in ardesia rossa tipica della nostra regione, nel cuore di un'azienda lattiero-casearia in attività. 3 camere al primo piano con accesso indipendente e terrazza, per un massimo di 10 persone: 2 camere con letti matrimoniali e una duplex con 2 letti matrimoniali e 2 letti singoli. Ogni camera dispone di bagno con doccia e WC privato separato. Gli ospiti hanno a disposizione un frigorifero, un microonde, un bollitore, una macchina per il caffè e il WiFi."
+        ],
+        "fr": [
+          "Profitez de votre séjour dans une longère de schiste rouge typique de notre région au sein d'une exploitation agricole laitière en activité. 3 chambres à l'étage à accès indépendant avec terrasse, jusqu'à 10 personnes : 2 chambres avec lit pour 2 personnes et un duplex avec 2 lits pour 2 personnes et 2 lits pour 1 personne. Chaque chambre est équipée d'une salle de bain avec douche et WC privé séparé. Mise à disposition des hôtes d'un réfrigérateur, micro onde, bouilloire, cafetière et Wifi."
+        ],
+        "nl": [
+          "Geniet van je verblijf in een rode leistenen boerderij die typisch is voor onze regio, gelegen in het hart van een melkveebedrijf. 3 slaapkamers op de eerste verdieping met onafhankelijke toegang en terras, voor maximaal 10 personen: 2 slaapkamers met tweepersoonsbedden en een duplex met 2 tweepersoonsbedden en 2 eenpersoonsbedden. Elke kamer heeft een badkamer met douche en een apart privétoilet. Gasten hebben toegang tot een koelkast, magnetron, waterkoker, koffiezetapparaat en WiFi."
+        ],
+        "es": [
+          "Disfrute de su estancia en una granja de pizarra roja típica de nuestra región, situada en el corazón de una explotación lechera en activo. 3 habitaciones en el primer piso con acceso independiente y terraza, para un máximo de 10 personas: 2 habitaciones con camas dobles y un dúplex con 2 camas dobles y 2 camas individuales. Cada habitación tiene un cuarto de baño con ducha y WC privado separado. Los huéspedes tienen acceso a nevera, microondas, hervidor de agua, cafetera y WiFi."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0631611b-9433-3f90-ba2d-2502a7c0743a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2d281185-1d02-3fa9-800e-c3907d7ba2a2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9359a469-e5db-37b7-befe-ec823ba0e753",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eeabe43b-11dd-3a7a-9d62-f214862f4f0d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc0e346e-58bd-3f68-81be-2ed14bcfe37e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e4ea3fe9-2cc1-393f-9646-b1e2e11a90eb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/457e3f3b-95bc-37c4-abfd-695f77fa4d82",
+          "schema:addressLocality": "Concoret",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "55, Haligan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56043",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Concoret"
+              ],
+              "pt": [
+                "Concoret"
+              ],
+              "en": [
+                "Concoret"
+              ],
+              "it": [
+                "Concoret"
+              ],
+              "fr": [
+                "Concoret"
+              ],
+              "nl": [
+                "Concoret"
+              ],
+              "es": [
+                "Concoret"
+              ]
+            },
+            "insee": "56043",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2d814ca5-6452-36ad-92f6-ff3d61b6929d",
+        "schema:latitude": "48.0567759",
+        "schema:longitude": "-2.2520394",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.198Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

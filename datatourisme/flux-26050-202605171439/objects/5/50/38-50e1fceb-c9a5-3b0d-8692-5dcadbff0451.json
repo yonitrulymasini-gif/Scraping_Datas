@@ -1,0 +1,574 @@
+{
+  "@id": "https://data.datatourisme.fr/38/50e1fceb-c9a5-3b0d-8692-5dcadbff0451",
+  "dc:identifier": "B0028BRE000001BI",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Maison d'artiste \"La Porte de Pierre\""
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d9227f4d-6714-3ec9-b22b-0ecd1e605814",
+      "schema:telephone": [
+        "+33 6 88 99 72 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.laportedepierre.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8ba63347-e018-3c3f-89ac-8ada174e48d1",
+      "schema:legalName": "Maison d'artiste \"La Porte de Pierre\"",
+      "schema:telephone": [
+        "+33 6 88 99 72 74"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.laportedepierre.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d9227f4d-6714-3ec9-b22b-0ecd1e605814",
+      "schema:telephone": [
+        "+33 6 88 99 72 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.laportedepierre.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ebedbe7f-7906-317b-994a-f16a4adb1e2f",
+      "dc:description": {
+        "de": [
+          "Übernachten Sie bei einem Künstler mit Blick auf die bewaldeten Hügel von Brocéliande. Dieses aus rotem Schiefer erbaute Haus aus dem Jahr 1860 gehört zum ländlichen Erbe der Bretagne und weist architektonische Elemente aus dem 18. Die Geschichte dieses tausendjährigen Waldes, Natur und Wandern, Pierre wird Sie zu einem zauberhaften Aufenthalt führen. 3 Gästezimmer für 3, 5 und 3 Personen. Vom Guide du Routard referenziert. Auch ein Meditations-/Yoga-Raum steht Ihnen zur Verfügung."
+        ],
+        "en": [
+          "Sleep in an artist's home overlooking the wooded hills of Brocéliande. Listed as part of Brittany's rural heritage, this 1860 red slate house features 18th-century architectural elements. Pierre will guide you through the history of this thousand-year-old forest, nature and hiking, for an enchanting stay. 3 guest rooms for 3, 5 and 3 people. Referenced by the Guide du Routard. A meditation/yoga area is also available."
+        ],
+        "it": [
+          "Dormite in una casa d'artista con vista sulle colline boscose di Brocéliande. Inserita nel patrimonio rurale della Bretagna, questa casa in ardesia rossa del 1860 presenta elementi architettonici del XVIII secolo. Pierre sarà lieto di guidarvi nella storia di questa foresta millenaria, nella natura e nelle escursioni, per un soggiorno incantevole. 3 camere per 3, 5 e 3 persone. Referenziato nella Guide du Routard. È disponibile anche un'area di meditazione/yoga."
+        ],
+        "fr": [
+          "Dormez chez un artiste face aux collines boisées de Brocéliande. Répertoriée au patrimoine rural breton, cette demeure en schiste rouge de 1860 possède des éléments architecturaux du XVIIIe siècle. Histoire de cette forêt millénaire, nature et randonnée, Pierre saura vous guider pour un séjour enchanteur. 3 chambres d'hôtes pour 3, 5, et 3 personnes. Référencé par le Guide du Routard. Également à votre disposition un espace méditatif/yoga."
+        ],
+        "nl": [
+          "Slaap in een kunstenaarshuis met uitzicht op de beboste heuvels van Brocéliande. Dit huis met rode leisteen uit 1860 staat op de lijst van landelijk erfgoed van Bretagne en heeft architecturale kenmerken uit de 18e eeuw. Pierre gidst je graag door de geschiedenis van dit duizend jaar oude bos, de natuur en de wandeltochten, voor een betoverend verblijf. 3 gastenkamers voor 3, 5 en 3 personen. Aanbevolen in de Guide du Routard. Een meditatie/yoga ruimte is ook beschikbaar."
+        ],
+        "es": [
+          "Duerma en la casa de un artista con vistas a las colinas boscosas de Brocéliande. Inscrita en el patrimonio rural de Bretaña, esta casa de pizarra roja de 1860 presenta elementos arquitectónicos del siglo XVIII. Pierre estará encantado de guiarle por la historia de este bosque milenario, la naturaleza y el senderismo, para una estancia encantadora. 3 habitaciones para 3, 5 y 3 personas. Mencionado en la Guide du Routard. También dispone de un espacio de meditación/yoga."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3848089f-8fef-30a5-b055-82cf0808bf89",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3c67ca1b-72db-3f7a-b10f-2bc80b6c1d51",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5dbc6484-2f64-3c14-a8cb-4e4a1fc9012f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea380bc9-0400-337c-8077-e997ece1333d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f37e6dff-7115-3e8d-a7ba-ae62e6822827",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/68d1000c-e4f5-3ce3-b79f-3dbaa117f3d9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5db1fcd5-6fd1-35e2-a89a-29f796752948",
+          "schema:addressLocality": "Concoret",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "6, place de l'Audience"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56043",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Concoret"
+              ],
+              "pt": [
+                "Concoret"
+              ],
+              "en": [
+                "Concoret"
+              ],
+              "it": [
+                "Concoret"
+              ],
+              "fr": [
+                "Concoret"
+              ],
+              "nl": [
+                "Concoret"
+              ],
+              "es": [
+                "Concoret"
+              ]
+            },
+            "insee": "56043",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/09d57f8f-6087-31f2-a6f9-56b2f7281998",
+        "schema:latitude": "48.063527",
+        "schema:longitude": "-2.207239",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-02-16",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

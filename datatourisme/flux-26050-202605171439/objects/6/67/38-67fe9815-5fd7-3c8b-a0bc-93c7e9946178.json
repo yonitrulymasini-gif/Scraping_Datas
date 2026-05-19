@@ -1,0 +1,253 @@
+{
+  "@id": "https://data.datatourisme.fr/38/67fe9815-5fd7-3c8b-a0bc-93c7e9946178",
+  "dc:identifier": "ASCaec1cd6283874",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Sentiers Marins - Eco-Rando Touristique, en Kayak de Mer"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b7883aa-9502-3271-8d14-f114dd68b0a2",
+      "schema:telephone": [
+        "+33 2 97 44 07 12",
+        "+33 6 62 37 04 33"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.sentiersmarins.com/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:SeaKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Seekajak"
+        ],
+        "pt": [
+          "Caiaque marítimo"
+        ],
+        "en": [
+          "Sea kayaking"
+        ],
+        "it": [
+          "Kayak da mare"
+        ],
+        "fr": [
+          "Kayak de mer"
+        ],
+        "nl": [
+          "Zeekajakken"
+        ],
+        "es": [
+          "Kayak de mar"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3b2cf9e9-d91d-3cad-a779-6c7df98e65d8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6bd94335-32e5-36cf-bda2-82b92a667e55",
+          "schema:addressLocality": "Sarzeau",
+          "schema:postalCode": "56370",
+          "schema:streetAddress": [
+            "12 Chemin du Souil - Bénance",
+            " "
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56240",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sarzeau"
+              ],
+              "pt": [
+                "Sarzeau"
+              ],
+              "en": [
+                "Sarzeau"
+              ],
+              "it": [
+                "Sarzeau"
+              ],
+              "fr": [
+                "Sarzeau"
+              ],
+              "nl": [
+                "Sarzeau"
+              ],
+              "es": [
+                "Sarzeau"
+              ]
+            },
+            "insee": "56240",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/907c6b05-7824-3dfd-9e98-c19fb0c0ab50",
+        "schema:latitude": "47.5439",
+        "schema:longitude": "-2.779993",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8e8c4cc8-d4be-3c28-9dbf-8d8fc5165701",
+          "schema:validFrom": "2020-04-01T00:00:00",
+          "schema:validThrough": "2020-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-04",
+  "lastUpdateDatatourisme": "2026-03-05T03:48:12.966Z"
+}

@@ -1,0 +1,323 @@
+{
+  "@id": "https://data.datatourisme.fr/38/336bca86-3535-3c94-87bb-79faf47c0ac5",
+  "dc:identifier": "FMABRE056V50D3Y9",
+  "schema:endDate": [
+    "2026-06-14"
+  ],
+  "schema:startDate": [
+    "2026-06-14"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "BricABrac",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Troc et puces"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/225b5e66-9dec-3f5c-ae17-bbdb02298d46",
+    "schema:legalName": "OT CENTRE MORBIHAN COMMUNAUTE",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c93dd0a2-cb68-3c2b-b041-8cbe79c0d98f",
+      "schema:telephone": [
+        "+33 6 08 16 54 57"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b3c05f3b-6215-30f3-8bc8-4a3e882712f0",
+      "dc:description": {
+        "de": [
+          "Kommen Sie zum Stöbern, Verkaufen und Tauschen! Organisation Club sportif bignanais. Von 8 bis 18 Uhr. Eintritt 1,50?"
+        ],
+        "en": [
+          "Come and bargain, sell and exchange! Organized by Club sportif bignanais. From 8 am to 6 pm. Admission 1.50?"
+        ],
+        "it": [
+          "Venite a contrattare, vendere e scambiare! Organizzato dal Club sportif bignanais. Dalle 8.00 alle 18.00. Ingresso: 1,50 euro"
+        ],
+        "fr": [
+          "Venez chiner, vendre, échanger ! Organisation Club sportif bignanais. De 8h à 18h. Entrée 1,50€"
+        ],
+        "es": [
+          "¡Venga a regatear, vender e intercambiar! Organizado por el Club sportif bignanais. De 8h a 18h. Entrada: 1,50"
+        ],
+        "nl": [
+          "Kom onderhandelen, verkopen en ruilen! Georganiseerd door Club sportif bignanais. Van 8 tot 18 uur. Toegangsprijs: €1,50"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/540c7f9c-d139-324e-8f67-9ed8ecf7c642",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6885203e-b57e-3c88-8dcb-513048e4936b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/68f223fb-98ca-3b8c-b3b4-85da4bd85ca5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b4b609d6-878e-3061-b7e8-83c4eb4dd800",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d7ed69f1-6224-3fb9-b75a-dff9c3b2a25f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9a59ff97-2b91-3161-9774-261fbafe9d4d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/62ed29d1-9906-3c00-85c0-7157c5991b45",
+          "schema:addressLocality": "Bignan",
+          "schema:postalCode": "56500",
+          "schema:streetAddress": [
+            "Parking LDC Ronsard"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56017",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bignan"
+              ],
+              "pt": [
+                "Bignan"
+              ],
+              "en": [
+                "Bignan"
+              ],
+              "it": [
+                "Bignan"
+              ],
+              "fr": [
+                "Bignan"
+              ],
+              "nl": [
+                "Bignan"
+              ],
+              "es": [
+                "Bignan"
+              ]
+            },
+            "insee": "56017",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d19dc2e9-63f2-3d5a-9b01-9cb79d318375",
+        "schema:latitude": "47.879523",
+        "schema:longitude": "-2.773599",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-12",
+  "lastUpdateDatatourisme": "2026-03-13T03:50:54.725Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b25f61ca-a32a-3726-b783-f859a83b0406",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-14",
+      "startDate": "2026-06-14"
+    }
+  ]
+}

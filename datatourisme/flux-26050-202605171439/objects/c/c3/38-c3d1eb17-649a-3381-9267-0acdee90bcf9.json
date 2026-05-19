@@ -1,0 +1,387 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c3d1eb17-649a-3381-9267-0acdee90bcf9",
+  "dc:identifier": "FMABRE056V50DJQX",
+  "schema:endDate": [
+    "2026-08-19"
+  ],
+  "schema:startDate": [
+    "2026-08-19"
+  ],
+  "@type": [
+    "schema:Event",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "ShowEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Contes et musique - Ségurant le chevalier au Dragon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/165e89a1-60f2-3cf4-ab76-add6fe747809",
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5511ba31-8515-36fe-8e57-d5aa83711d59",
+      "schema:telephone": [
+        "+33 2 97 22 79 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://broceliande-centre-arthurien.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fa0bf5d6-cd96-31eb-8f9f-7a4a969ac263",
+      "dc:description": {
+        "de": [
+          "Die Legende des wiedergefundenen Ritters wird zum Leben erweckt; von den Grenzen der Nicht-Sachante-Insel bis zum Turnier von Winchester, von der Suche nach dem Drafon bis zur Suche nach dem Gral; erleben Sie die Erzählung als Märchen und mit Musik!\nEine Reservierung wird empfohlen. Um 16 Uhr"
+        ],
+        "en": [
+          "The legend of the knight regained comes to life; from the confines of the Isle of No Salt to the Winchester Tournament, from the quest for the Drafon to that of the Grail; come and discover the tale in story and music!\nReservations recommended. At 4pm"
+        ],
+        "it": [
+          "La leggenda del cavaliere ritrovato prende vita; dai confini dell'Isola di No Salt al Torneo di Winchester, dalla ricerca del Drafon a quella del Santo Graal; venite a scoprire la storia in musica!\nPrenotazione consigliata. Alle 16.00"
+        ],
+        "fr": [
+          "La légende du chevalier retrouvé prend vie ; des confins de l'Ile non Sachante au Tournoi de Winchester, de la quête du Drafon à celle du Graal ; venez découvrir le récit en conte et en musique !\nRéservation conseillée. A 16h"
+        ],
+        "es": [
+          "La leyenda del caballero redescubierto cobra vida; desde los confines de la Isla de No Salt hasta el Torneo de Winchester, desde la búsqueda del Drafon hasta la del Santo Grial; ¡ven y descubre la historia en forma de cuento y música!\nSe recomienda reservar. A las 16 horas"
+        ],
+        "nl": [
+          "De legende van de herontdekte ridder komt tot leven; van de grenzen van het Isle of No Salt tot het Tournament of Winchester, van de zoektocht naar de Drafon tot die naar de Heilige Graal; kom en ontdek het verhaal in verhaal en muziek!\nReserveren aanbevolen. Om 16.00 uur"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1b112bff-0333-3388-866c-17b85de62e04",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1cf499a8-98d3-35ca-9a27-97cc34d6cc8f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a83dbe54-5981-3833-ab84-90de36733041",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b1f0f6ab-c383-30cf-8315-3f512578cb1c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e4b597ab-460c-3924-86ed-42fc71c91288",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/30029dc8-edd0-3904-8b59-9ef17629df15",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c837a7ea-4f62-30e9-b219-0655e2a9fd85",
+          "schema:addressLocality": "Concoret",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "Centre de l'Imaginaire Arthurien",
+            "Château de Comper"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56043",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Concoret"
+              ],
+              "pt": [
+                "Concoret"
+              ],
+              "en": [
+                "Concoret"
+              ],
+              "it": [
+                "Concoret"
+              ],
+              "fr": [
+                "Concoret"
+              ],
+              "nl": [
+                "Concoret"
+              ],
+              "es": [
+                "Concoret"
+              ]
+            },
+            "insee": "56043",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/53f41116-ba0f-3846-896c-1a5ec4ca5ac6",
+        "schema:latitude": "48.0704478",
+        "schema:longitude": "-2.1731778",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-13",
+  "lastUpdateDatatourisme": "2026-04-14T03:24:08.263Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/33507d84-56da-34ef-bfda-12eb6023fb77",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-19",
+      "endTime": "17:00:00",
+      "startDate": "2026-08-19",
+      "startTime": "16:00:00"
+    }
+  ]
+}

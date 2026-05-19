@@ -1,0 +1,325 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2e691dd2-3b33-30e4-93ba-048f2e26eec0",
+  "dc:identifier": "FMABRE056V50DXG2",
+  "schema:endDate": [
+    "2026-06-07"
+  ],
+  "schema:startDate": [
+    "2026-06-07"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Vide grenier"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8f237acf-dcae-3387-ae1b-b277af28e4b8",
+      "schema:telephone": [
+        "+33 6 63 37 70 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a5ebda30-14e5-35ef-ab08-2898b8576e8d",
+      "dc:description": {
+        "de": [
+          "9. Flohmarkt des Rentnerclubs von Pontivy"
+        ],
+        "en": [
+          "pontivy Retirement Club's 9th Flea Market"
+        ],
+        "it": [
+          "9° vendita di garage organizzata dal Club dei pensionati di Pontivy"
+        ],
+        "fr": [
+          "9e vide grenier du club des retraités de Pontivy"
+        ],
+        "nl": [
+          "9e garageverkoop georganiseerd door de Pontivy Gepensioneerden Club"
+        ],
+        "es": [
+          "9ª venta de garaje organizada por el Club de Pensionistas de Pontivy"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3b59d503-5506-382f-88ff-87d028363fcc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4e787876-baaf-3aba-84fe-ec5f6406caaa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/76f62a44-6ca0-3864-9fd3-245bdbb1ac28",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/956e938a-36bf-3b43-bebb-329bc994cfda",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d200c8c0-2afd-3be5-be0c-e0ce5d867e83",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3f71a62e-2029-3d88-a546-bbd047d3808d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d67458ea-906b-36c9-8a6e-6e9e6564f370",
+          "schema:addressLocality": "Pontivy",
+          "schema:postalCode": "56300",
+          "schema:streetAddress": [
+            "6 Rue des Moulins",
+            "Local du club des retraités"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56178",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pontivy"
+              ],
+              "pt": [
+                "Pontivy"
+              ],
+              "en": [
+                "Pontivy"
+              ],
+              "it": [
+                "Pontivy"
+              ],
+              "fr": [
+                "Pontivy"
+              ],
+              "nl": [
+                "Pontivy"
+              ],
+              "es": [
+                "Pontivy"
+              ]
+            },
+            "insee": "56178",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5c1d1c8e-6159-3c82-bf81-92d71bbb1301",
+        "schema:latitude": "48.06977",
+        "schema:longitude": "-2.96846",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-07",
+  "lastUpdateDatatourisme": "2026-05-08T03:36:20.693Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/37ad9163-017d-3eca-b90b-d77243025740",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-07",
+      "endTime": "18:00:00",
+      "startDate": "2026-06-07",
+      "startTime": "09:00:00"
+    }
+  ]
+}

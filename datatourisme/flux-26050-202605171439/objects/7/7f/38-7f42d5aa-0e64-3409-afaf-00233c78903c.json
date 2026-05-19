@@ -1,0 +1,311 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7f42d5aa-0e64-3409-afaf-00233c78903c",
+  "dc:identifier": "ASCBRE000V506JUG",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Service Patrimoine et Archives - Hôtel Gabriel"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3d665e01-7401-3ae1-acb6-41e74f7c3bb8",
+      "schema:telephone": [
+        "+33 2 97 02 23 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://patrimoine.lorient.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/499c2571-ab13-3162-8d97-fd9ccc5697b0",
+      "dc:description": {
+        "de": [
+          "Führungen, Ausstellungen und Workshops, die das ganze Jahr über angeboten werden, um die Architektur und das Kulturerbe von Lorient, Stadt der Kunst und Geschichte, zu entdecken."
+        ],
+        "en": [
+          "Guided tours, exhibitions and workshops all year round to discover the architecture and heritage of Lorient, Ville d'art et d'histoire."
+        ],
+        "it": [
+          "Visite guidate, mostre e laboratori tutto l'anno per scoprire l'architettura e il patrimonio di Lorient, città d'arte e di storia."
+        ],
+        "fr": [
+          "Visites guidées, expositions et ateliers proposés toute l'année pour découvrir l'architecture et le patrimoine de Lorient, Ville d'art et d'histoire."
+        ],
+        "es": [
+          "Visitas guiadas, exposiciones y talleres durante todo el año para descubrir la arquitectura y el patrimonio de Lorient, Ciudad de Arte e Historia."
+        ],
+        "nl": [
+          "Het hele jaar door rondleidingen, tentoonstellingen en workshops om de architectuur en het erfgoed van Lorient, Stad van Kunst en Geschiedenis, te ontdekken."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0bde05c6-139e-32bc-9ffc-03968a2b33d4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2bc8826-94d3-3909-90ec-0b11f1be5992",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c8d032f8-9ee8-3234-94e3-1aab2157901c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2087837-5e01-3f8e-991c-793899490cb6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eec7034c-34cf-3d30-9860-2a3860ef0c01",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6ae197bf-b1e9-30b2-baa7-7594f672d22a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f2c98a98-53c8-3917-8430-25bbf444f704",
+          "schema:addressLocality": "Lorient",
+          "schema:postalCode": "56100",
+          "schema:streetAddress": [
+            "CS 30010",
+            "Enclos du Port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56121",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lorient"
+              ],
+              "pt": [
+                "Lorient"
+              ],
+              "en": [
+                "Lorient"
+              ],
+              "it": [
+                "Lorient"
+              ],
+              "fr": [
+                "Lorient"
+              ],
+              "nl": [
+                "Lorient"
+              ],
+              "es": [
+                "Lorient"
+              ]
+            },
+            "insee": "56121",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9545bbd2-13e4-3299-bf4d-568bcdc724bc",
+        "schema:latitude": "47.749063",
+        "schema:longitude": "-3.357231",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-20",
+  "lastUpdateDatatourisme": "2026-04-21T03:02:15.175Z"
+}

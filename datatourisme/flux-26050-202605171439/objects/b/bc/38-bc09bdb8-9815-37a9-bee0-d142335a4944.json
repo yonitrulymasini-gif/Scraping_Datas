@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/bc09bdb8-9815-37a9-bee0-d142335a4944",
+  "dc:identifier": "HLO4e0c804f8f194",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Maison Houat - Le Coz"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6ca124fc-e04b-37fe-b67a-38fa319153cf",
+      "schema:legalName": "La Maison Houat - Le Coz",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a158679c-a31d-313f-9b98-87762daeb520",
+      "dc:description": {
+        "de": [
+          "600 m vom Strand entfernt, mit direktem Zugang über die Dünen, bietet dieses hübsche Haus mit 3 Schlafzimmern Platz für bis zu 6 Personen. Es verfügt über einen großen, eingezäunten Garten.\n\nDas Haus besteht aus einem großen Wohnraum mit ausgestatteter Küche (Geschirrspüler, Kühlschrank mit Gefrierfach, 4 Gasplatten, Mikrowelle, elektrischer Ofen, Kaffeemaschine, Toaster, Wasserkocher, Bügeleisen und Bügelbrett, Staubsauger...) und allem notwendigen Geschirr, um Ihre Mahlzeiten zuzubereiten, einem Wohnzimmer mit einem Sofa und 2 Ledersesseln, Flachbildfernseher, einem geräumigen Esszimmer. Ein separates WC.\n\nIm Obergeschoss, 3 Schlafzimmer\n\n- Ein Zimmer mit 1 Bett für 2 Personen und einem großen Schrank (Regale und Garderobe)\n- Ein Zimmer mit 2 Einzelbetten und einem Kleiderschrank (Regale und Garderobe) -Ein Zimmer mit 2 Einzelbetten und einer Kommode\n- Ein Badezimmer: Dusche mit Thermostatventil , Waschbecken und WC\n\n- Ein geschlossener Garten mit Terrasse und Grill\n- Ein Abstellraum für Surfbretter und Fahrräder, mit Waschmaschine Ein blühender und eingezäunter Garten (Hecke und Maschendrahtzaun). Gartenmöbel aus Teakholz , Sonnenschirm, fester Grill und zwei Liegestühle. Ein privater Parkplatz ist vorhanden.\n- Eine gemeinsame Waschküche für alle Maisons de l'océan mit einem gemeinsamen Wäschetrockner. Die Waschmaschine ist ausschließlich für die Unterkunft \"Belle-Ile\" reserviert.\n- Kostenloser WiFi-Internetzugang (Glasfaser).\n- Die Fenster und Glasfronten sind mit elektrischen Rollläden ausgestattet.\n\nEntdecken Sie einen perfekten Rahmen für einen unvergesslichen Urlaub, in dem sich Komfort und Zweckmäßigkeit mit dem Charme eines gut durchdachten Hauses verbinden."
+        ],
+        "en": [
+          "600 m from the beach, with direct access via the dunes, this pretty 3-bedroom house can accommodate up to 6 people. It has a large enclosed garden.\n\nThe house includes a large living room with fully-equipped kitchen (dishwasher, fridge-freezer, 4 gas hobs, microwave, electric oven, coffee maker, toaster, kettle, iron and ironing board, vacuum cleaner...), and all the crockery you need to prepare your meals, a living room with a sofa and 2 leather armchairs, flat-screen TV, a spacious dining room. Separate WC.\n\nUpstairs, 3 bedrooms\n\n- One bedroom with 1 double bed and a large closet (shelves and hanging space)\n- One bedroom with 2 single beds and a wardrobe (shelves and hanging space) -One bedroom with 2 single beds and a chest of drawers\n- Bathroom: shower with thermostatic tap, vanity unit and WC\n\n- Enclosed garden with terrace and barbecue\n- A storeroom for surfboards and bicycles, with washing machine A flower-filled, fenced garden (hedge and fence). Teak garden furniture, parasol, fixed barbecue and two deckchairs. Private parking.\n- Laundry room shared by all Maisons de l?océan with a common dryer. The washing machine is reserved exclusively for the \"Belle-Ile\" rental.\n- Free WiFi Internet access (fiber).\n- Windows and bay windows are equipped with electric roller shutters.\n\nDiscover the perfect setting for an unforgettable vacation, where comfort and practicality combine with the charm of a well-designed home."
+        ],
+        "it": [
+          "A 600 m dalla spiaggia, con accesso diretto attraverso le dune, questa graziosa casa con 3 camere da letto può ospitare fino a 6 persone. Dispone di un ampio giardino recintato.\n\nLa casa comprende un ampio soggiorno con cucina completamente attrezzata (lavastoviglie, frigorifero-congelatore, piano cottura a gas a 4 fuochi, forno a microonde, forno elettrico, macchina per il caffè, tostapane, bollitore, ferro e asse da stiro, aspirapolvere, ecc.) e tutte le stoviglie necessarie per preparare i pasti, un salotto con divano e 2 poltrone in pelle, TV a schermo piatto e una spaziosa sala da pranzo. WC separato.\n\nAl piano superiore, 3 camere da letto\n\n- Una camera con 1 letto matrimoniale e un grande armadio (scaffali e appendiabiti)\n- Una camera con 2 letti singoli e un armadio (scaffali e spazio per appendere) -Una camera con 2 letti singoli e una cassettiera\n- Bagno: doccia con rubinetto termostatico, mobile lavabo e WC\n\n- Giardino recintato con terrazza e barbecue\n- Un deposito per tavole da surf e biciclette, con lavatrice Un giardino fiorito e recintato (siepe e rete metallica). Mobili da giardino in teak, ombrellone, barbecue fisso e due sedie a sdraio. Parcheggio privato.\n- Una lavanderia in comune con asciugatrice in comune. La lavatrice è riservata esclusivamente alla locazione \"Belle-Ile\".\n- Accesso internet WiFi gratuito (fibra).\n- Le finestre e i bovindi sono dotati di tapparelle elettriche.\n\nScoprite l'ambiente perfetto per una vacanza indimenticabile, dove comfort e praticità si uniscono al fascino di una casa ben progettata."
+        ],
+        "fr": [
+          "À 600 m de la plage, avec accès direct par les dunes, cette jolie maison dispose de 3 chambres peut accueillir jusqu'à 6 personnes. Elle dispose d'un vaste jardin clos. \n\nLa maison comprend une grande pièce à vivre avec cuisine équipée (lave-vaisselle, réfrigérateur-congélateur, 4 plaques gaz, micro-ondes, four électrique, cafetière, grille-pain, bouilloire, fer et table à repasser, aspirateur...), et toute la vaisselle nécessaire pour préparer vos repas, un salon avec un canapé et 2 fauteuils cuir, TV écran plat, une salle à manger spacieuse. Un WC indépendant.\n\nA l’étage, 3 chambres\n\n- Une chambre avec 1 lit pour 2 personnes et un grand placard (étagères et penderie)\n- Une chambre avec 2 lits pour une personne avec une armoire (étagères et penderie) -une chambre avec 2 lits pour une personne avec une commode\n- Une salle de bain : douche avec robinet thermostatique , meuble vasque et WC\n\n- Un jardin clos avec terrasse et barbecue\n- Un cellier pour les planches de surf et les vélos, avec lave-linge un jardin fleuri et clos (haie et grillage). Salon de jardin en teck , parasol, barbecue fixe et deux transats. Parking privé.\n- Une buanderie commune à l’ensemble des Maisons de l’océan avec un sèche-linge commun. Le lave-linge est exclusivement réservé à la location \"Belle-Ile\".\n- Accès Internet WiFi gratuit (fibre).\n- Les fenêtres et baies vitrées sont équipées de volets roulants électriques.\n\nDécouvrez un cadre parfait pour des vacances inoubliables, où confort et praticité se mêlent au charme d’une maison bien pensée."
+        ],
+        "es": [
+          "A 600 m de la playa, con acceso directo a través de las dunas, esta bonita casa de 3 dormitorios tiene capacidad para 6 personas. Dispone de un gran jardín cerrado.\n\nLa casa consta de un gran salón con cocina totalmente equipada (lavavajillas, frigorífico-congelador, placa de gas de 4 fuegos, microondas, horno eléctrico, cafetera, tostadora, hervidor de agua, plancha y tabla de planchar, aspiradora, etc.) y toda la vajilla necesaria para preparar sus comidas, un salón con sofá y 2 sillones de cuero, TV de pantalla plana y un amplio comedor. WC separado.\n\nArriba, 3 dormitorios\n\n- Un dormitorio con 1 cama doble y un gran armario (estanterías y espacio para colgar)\n- Un dormitorio con 2 camas individuales y un armario (estanterías y espacio para colgar) -Un dormitorio con 2 camas individuales y una cómoda\n- Cuarto de baño: ducha con grifo termostático, lavabo y WC\n\n- Jardín cerrado con terraza y barbacoa\n- Un trastero para tablas de surf y bicicletas, con lavadora Un jardín florido y cerrado (seto y alambrada). Muebles de jardín de teca, sombrilla, barbacoa fija y dos tumbonas. Aparcamiento privado.\n- Lavandería común con secadora común. La lavadora está reservada exclusivamente para el alquiler \"Belle-Ile\".\n- Acceso gratuito a Internet WiFi (fibra).\n- Las ventanas y ventanales están equipados con persianas eléctricas.\n\nDescubra el marco perfecto para unas vacaciones inolvidables, donde el confort y la practicidad se combinan con el encanto de una casa bien diseñada."
+        ],
+        "nl": [
+          "600 m van het strand, met directe toegang via de duinen, dit mooie huis met 3 slaapkamers is geschikt voor maximaal 6 personen. Het heeft een grote omheinde tuin.\n\nHet huis bestaat uit een grote woonkamer met volledig uitgeruste keuken (vaatwasser, koelkast met vriesvak, 4-pits gasfornuis, magnetron, elektrische oven, koffiezetapparaat, broodrooster, waterkoker, strijkijzer en strijkplank, stofzuiger, enz.) en al het servies dat je nodig hebt om je maaltijden te bereiden, een woonkamer met een bank en 2 leren fauteuils, flatscreen tv en een ruime eetkamer. Aparte WC.\n\nBoven, 3 slaapkamers\n\n- Een slaapkamer met 1 tweepersoonsbed en een grote kledingkast (planken en hangruimte)\n- Een slaapkamer met 2 eenpersoonsbedden en een kledingkast (planken en hangruimte) -Een slaapkamer met 2 eenpersoonsbedden en een ladekast\n- Badkamer: douche met thermostaatkraan, wastafelmeubel en WC\n\n- Omheinde tuin met terras en barbecue\n- Een berging voor surfplanken en fietsen, met wasmachine Een bloemrijke, omheinde tuin (heg en draad). Teakhouten tuinmeubels, parasol, vaste barbecue en twee ligstoelen. Privé parkeerplaats.\n- Gemeenschappelijke wasruimte met gemeenschappelijke wasdroger. De wasmachine is exclusief gereserveerd voor de verhuur \"Belle-Ile\".\n- Gratis WiFi internettoegang (glasvezel).\n- De ramen en erkers zijn voorzien van elektrische rolluiken.\n\nOntdek de perfecte omgeving voor een onvergetelijke vakantie, waar comfort en functionaliteit samengaan met de charme van een goed ontworpen huis."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/15643e71-e54a-320b-b3b0-b3bed5b9e034",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/56168deb-212e-32bd-8c7a-ab2d6d484a2c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6d13c2c5-252b-355c-a53c-0cd6e1af59fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/75d9e28b-e03f-3c82-9208-76cbdae93cc2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc02471d-bc65-3bfe-9d88-164673bab192",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cf1dbac6-4b4c-34d2-8549-011b541f48a8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fe754d73-11bb-3c04-aa04-4439c9055fa7",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "49 Sentier de l'Océan -",
+            "Kerhillio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f9b0f640-b026-307b-8a8f-b9d53d2d553e",
+        "schema:latitude": "47.6156352",
+        "schema:longitude": "-3.154305",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9092d698-cd46-3a30-91be-85e642c42a10",
+          "schema:validFrom": "2026-01-03T00:00:00",
+          "schema:validThrough": "2026-12-26T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.172Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

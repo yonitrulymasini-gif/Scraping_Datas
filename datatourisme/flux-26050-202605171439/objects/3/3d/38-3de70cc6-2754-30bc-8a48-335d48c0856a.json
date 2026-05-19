@@ -1,0 +1,306 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3de70cc6-2754-30bc-8a48-335d48c0856a",
+  "dc:identifier": "FMABRE056V50DXKP",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Café Breton"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/18ef1997-6b4c-3e35-a601-47870502ab5a",
+      "schema:telephone": [
+        "+33 6 74 99 17 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d1aade5d-c18d-302f-85a9-41dfa4315186",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie die bretonische Kultur durch ihre Sprache!\n\nSie sprechen Bretonisch und suchen Sprecher, mit denen Sie es üben können? Möchten Sie Ihr Bretonisch lernen oder verbessern?\n\nDie Gruppe des Bretonischen Cafés freut sich, Sie zu empfangen und mit Ihnen die bretonische Sprache zu leben!"
+        ],
+        "en": [
+          "Discover Breton culture through language!\n\nDo you speak Breton and are you looking for speakers to practice with? Would you like to learn or improve your Breton?\n\nThe Café Breton group will be delighted to welcome you and bring Breton to life with you!"
+        ],
+        "it": [
+          "Venite a scoprire la cultura bretone attraverso la sua lingua!\n\nParlate il bretone e cercate persone con cui praticarlo? Volete imparare o migliorare il vostro bretone?\n\nIl gruppo del Café Breton sarà lieto di aiutarvi a far vivere il bretone!"
+        ],
+        "fr": [
+          "Venez découvrir la culture bretonne par son langage!\n\nVous parlez breton et chercher des locuteurs avec qui le pratiquer? Vous souhaitez apprendre ou améliorer votre breton?\n\nLe groupe du café breton vous accueille avec plaisir pour faire vivre le breton avec vous!"
+        ],
+        "es": [
+          "Venga a descubrir la cultura bretona a través de su lengua\n\n¿Habla bretón y busca gente con quien practicarlo? ¿Le gustaría aprender o mejorar su bretón?\n\nEl grupo del Café Bretón estará encantado de ayudarle a dar vida al bretón"
+        ],
+        "nl": [
+          "Kom en ontdek de Bretonse cultuur via de taal!\n\nSpreek je Bretons en zoek je mensen om het mee te oefenen? Wil je Bretons leren of je Bretonse taal verbeteren?\n\nDe groep Café Breton helpt je graag om het Bretons tot leven te brengen!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/115524e5-bda1-31c8-bcf9-2a2519fb3f3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b56a50b-b61b-3574-aefa-59c6426771bf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/449a1371-59f5-3483-99f3-11b76c4e46f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4bca8455-9d5a-370d-b894-651291721b99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50fb2098-b21c-327e-ba6f-4f3bc82c7813",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a3acf9fe-f05d-3871-b352-f9be1917e505",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/84980fd5-464d-3e6a-bc67-124edd1cae37",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "5t rue des Menhirs",
+            "La Tanière du poulpe -"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f717ab14-124c-3ebe-8bad-836cd810c97f",
+        "schema:latitude": "47.6406788",
+        "schema:longitude": "-3.1548893",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:17:49.784Z"
+}

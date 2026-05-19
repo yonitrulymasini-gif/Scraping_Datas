@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a418ee15-c941-3330-93ef-0c52741ee316",
+  "dc:identifier": "ASCba3463980d214",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Héliberté - Vols en hélicoptère"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c567cb2d-9fa4-3713-8a10-04d26e5ac45b",
+      "schema:telephone": [
+        "+33 6 13 60 22 92"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.heliberte.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/150e0881-98ed-31b4-83bb-6599b6cc83a9",
+      "dc:description": {
+        "de": [
+          "Taxiflüge zum oder vom Festland, Lufttaufen, Panoramaflüge über Belle Ile und Taxiflüge nach La Baule oder Vannes."
+        ],
+        "en": [
+          "Cab flights to or from the mainland, first flights, panoramic flight over Belle Ile and cab flights to La Baule or Vannes."
+        ],
+        "it": [
+          "Voli taxi da o per la terraferma, primi voli, voli panoramici su Belle Ile e voli taxi per La Baule o Vannes."
+        ],
+        "fr": [
+          "Vols taxis vers ou depuis le continent, baptêmes de l'air, survol panoramique de Belle Ile et vol taxi sur La Baule ou Vannes."
+        ],
+        "es": [
+          "Vuelos en taxi hacia o desde tierra firme, primeros vuelos, vuelos panorámicos sobre Belle Ile y vuelos en taxi hacia La Baule o Vannes."
+        ],
+        "nl": [
+          "Taxivluchten van of naar het vasteland, eerste vluchten, panoramische vluchten over Belle Ile en taxivluchten naar La Baule of Vannes."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/12b5c20a-e136-324f-b282-9f311701e375",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d843b34-e46d-3195-8949-becebe506996",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bdd8f93b-0f9c-39b5-992b-29fcf8248638",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e7c0d7df-ceb0-3242-822c-b98d7fac5607",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f2e2d364-d1db-3eb8-ad66-8c966ca45b07",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/80f2e69b-c953-3d2d-a333-fb63b0a382e4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e3884b2c-4e09-3b1a-ac28-04408fb3b826",
+          "schema:addressLocality": "Bangor",
+          "schema:postalCode": "56360",
+          "schema:streetAddress": [
+            "Aérodrome"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56009",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bangor"
+              ],
+              "pt": [
+                "Bangor"
+              ],
+              "en": [
+                "Bangor"
+              ],
+              "it": [
+                "Bangor"
+              ],
+              "fr": [
+                "Bangor"
+              ],
+              "nl": [
+                "Bangor"
+              ],
+              "es": [
+                "Bangor"
+              ]
+            },
+            "insee": "56009",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/678f377b-ba6c-32e2-b660-cc63f3c72045",
+        "schema:latitude": "47.32559",
+        "schema:longitude": "-3.201476",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-02-01",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.33Z"
+}

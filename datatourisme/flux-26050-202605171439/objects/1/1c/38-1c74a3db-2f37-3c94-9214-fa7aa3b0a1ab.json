@@ -1,0 +1,355 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1c74a3db-2f37-3c94-9214-fa7aa3b0a1ab",
+  "dc:identifier": "ASC6915c3b5867c4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Centre équestre La Grande Randonnée"
+    ],
+    "fr": [
+      "Centre équestre La Grande Randonnée"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1e8484c3-6e63-3bd6-b865-b83f8b789224",
+      "schema:telephone": [
+        "+33 6 12 90 94 12"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lagranderandonnee.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/03f6d81d-7523-38a4-9464-33baafd6f69b",
+      "dc:description": {
+        "de": [
+          "Wanderungen und Ausritte für alle Niveaus an der Côte Sauvage, in der Heide und in typischen Dörfern. Strand von Penthièvre für Fortgeschrittene.\nPony-Schnupperkurse für die Kleinsten, Kurse ab 10 Jahren.\nPrüfung möglich, Mitglied der FFE"
+        ],
+        "en": [
+          "Horse riding for all levels on the Côte Sauvage, moors and typical villages. Penthièvre beach for advanced riders.\nPony baptism for younger children, courses from age 10.\nExaminations available, FFE affiliated"
+        ],
+        "it": [
+          "Equitazione per tutti i livelli sulla Côte Sauvage, nelle brughiere e nei villaggi tipici. Spiaggia di Penthièvre per cavalieri esperti.\nBattesimo dei pony per i più piccoli, corsi a partire da 10 anni.\nPossibilità di esami, affiliato FFE"
+        ],
+        "fr": [
+          "Randonnées et promenades à cheval, tous niveaux sur la Côte Sauvage, les landes et  les villages typiques. Plage de Penthièvre pour niveaux confirmés.\nBaptême poney pour les plus petits, stages à partir de 10 ans. \nPassage examen possible, Affilié FFE"
+        ],
+        "es": [
+          "Paseos a caballo para todos los niveles por la Côte Sauvage, los páramos y los pueblos típicos. Playa de Penthièvre para jinetes experimentados.\nBautismo en poni para los más pequeños, cursos a partir de 10 años.\nPosibilidad de examen, afiliado a la FFE"
+        ],
+        "nl": [
+          "Paardrijden voor alle niveaus op de Côte Sauvage, de heide en typische dorpjes. Penthièvre strand voor ervaren ruiters.\nPonydoop voor de allerkleinsten, cursussen vanaf 10 jaar.\nExamen mogelijk, FFE aangesloten"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/356ddd10-7c09-3feb-a769-993ef571ff49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c1976ac-ba17-3f9e-9128-39695c605843",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/560102cb-1feb-3e71-854a-cf9419635ceb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/861d0bc2-1432-3a94-9057-76688307e934",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8deea1f7-4d56-358f-a522-a916af6c00ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0716bb94-b6cf-3e53-b210-a9e35b3748e4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4abefa90-b872-307d-8df8-0a192c57f684",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "Face au stade Roger Boutet",
+            "Route de Kervihan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bb9427b3-48cd-3efd-9af8-672428194eee",
+        "schema:latitude": "47.5106",
+        "schema:longitude": "-3.137762",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5e8c3995-f048-33da-a5b7-f1063a5b951b",
+          "schema:validFrom": "2026-04-03T00:00:00",
+          "schema:validThrough": "2026-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.334Z"
+}

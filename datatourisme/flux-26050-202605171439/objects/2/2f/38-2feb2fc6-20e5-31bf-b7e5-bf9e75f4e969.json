@@ -1,0 +1,322 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2feb2fc6-20e5-31bf-b7e5-bf9e75f4e969",
+  "dc:identifier": "FMABRE056V50CZEX",
+  "schema:endDate": [
+    "2026-08-07"
+  ],
+  "schema:startDate": [
+    "2026-08-07"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "FairOrShow",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Marché d'été"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f79753d2-7d3c-3ef4-bdd1-03363bba0cf8",
+      "schema:telephone": [
+        "+33 6 76 40 83 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7f2682ce-475e-35d0-a6ef-019bb22ff8a2",
+      "dc:description": {
+        "de": [
+          "Die Produzenten des Marktes in Ploërdut veranstalten ihren traditionellen festlichen Sommermarkt."
+        ],
+        "en": [
+          "Producers at the Ploërdut market hold their traditional festive summer market."
+        ],
+        "it": [
+          "I produttori del mercato di Ploërdut organizzano il loro tradizionale mercato estivo festivo."
+        ],
+        "fr": [
+          "Les producteurs du marché de Ploërdut organisent leur traditionnel marché d'été festif."
+        ],
+        "es": [
+          "Los productores del mercado de Ploërdut celebran su tradicional mercado festivo de verano."
+        ],
+        "nl": [
+          "De producenten op de markt van Ploërdut houden hun traditionele feestelijke zomermarkt."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/399f7d18-cd1f-328f-8955-d5e73980f1bd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97ddf062-9464-320e-82ab-7c62e88e74a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a4a01891-ca8b-3ea7-b35d-faa0ad8a19b3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1083ca7-70ee-33e7-be77-23841ae33cc0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f869d0c3-7c40-3af6-9464-939da247693b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0f630a23-2ace-3ac4-a241-b0ea7601dcc9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/97494ca8-5700-3338-a773-61452e55a928",
+          "schema:addressLocality": "Ploërdut",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "Place de la République"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56163",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ploërdut"
+              ],
+              "pt": [
+                "Ploërdut"
+              ],
+              "en": [
+                "Ploërdut"
+              ],
+              "it": [
+                "Ploërdut"
+              ],
+              "fr": [
+                "Ploërdut"
+              ],
+              "nl": [
+                "Ploërdut"
+              ],
+              "es": [
+                "Ploërdut"
+              ]
+            },
+            "insee": "56163",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/124d0223-4291-33ac-aa52-312640ea1821",
+        "schema:latitude": "48.0870443",
+        "schema:longitude": "-3.2872899",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-11-12",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.908Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/27052692-b405-3fdf-a99d-8943bdf78fe1",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-07",
+      "startDate": "2026-08-07"
+    }
+  ]
+}

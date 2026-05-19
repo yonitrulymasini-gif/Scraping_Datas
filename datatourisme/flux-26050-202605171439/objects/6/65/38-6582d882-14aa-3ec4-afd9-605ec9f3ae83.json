@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6582d882-14aa-3ec4-afd9-605ec9f3ae83",
+  "dc:identifier": "LOId9d47a86598e4",
+  "@type": [
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Fun'N Sport"
+    ],
+    "fr": [
+      "Fun'N Sport"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0c5d289d-4755-38b4-bc24-b35e06444164",
+      "schema:telephone": [
+        "+33 6 64 00 23 95"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.funnsport.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8b215dcc-f16d-3166-82f1-7245e67938b6",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie die Aktivität Laser Tag , eine Mischung aus Paintball und Laser Game auf einem 7000 m2 großen Außengelände.\n\nSie können diese Aktivität auch auf Wanderschaft entdecken. Direkt bei Ihnen zu Hause."
+        ],
+        "en": [
+          "Discover Laser Tag, a mix between paintball and Laser Game on a 7,000 m2 outdoor field.\n\nYou can also discover this activity on the road. Directly at home."
+        ],
+        "it": [
+          "Scoprite il Laser Tag, un mix tra paintball e Laser Game su un campo all'aperto di 7.000 m2.\n\nPotete scoprire questa attività anche in viaggio. Direttamente a casa vostra."
+        ],
+        "fr": [
+          "Découvrez l'activité Laser Tag , un mix entre paintball et Laser Game sur un terrain extérieur de 7000 m2. \n\nVous pourrez découvrir cet activité également en itinérance. Directement chez vous."
+        ],
+        "nl": [
+          "Ontdek Laser Tag, een mix tussen paintball en lasergame op een buitenveld van 7.000 m2.\n\nJe kunt deze activiteit ook onderweg ontdekken. Direct bij je thuis."
+        ],
+        "es": [
+          "Descubra Laser Tag, una mezcla entre paintball y Laser Game en un campo al aire libre de 7.000 m2.\n\nTambién puede descubrir esta actividad sobre la marcha. Directamente en su casa."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/12eec02c-dfdb-30c1-b330-69dab581c40c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1ed6ef4b-3f06-35d6-9e81-1529d6fbd3de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1fa8864d-a5d2-3e21-9bb7-068807e555b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9437359e-cc5c-314d-9ab7-f46a3bae1ab9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a00fa3ca-5f29-35a0-bad0-cbfa391496cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1180dddc-bf87-3e3e-ac1d-f4ca343c426e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d819aa98-3811-3b3a-bf1c-f73041be8787",
+          "schema:addressLocality": "Landévant",
+          "schema:postalCode": "56880",
+          "schema:streetAddress": [
+            "7, impasse d'Houat"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56097",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Landévant"
+              ],
+              "pt": [
+                "Landévant"
+              ],
+              "en": [
+                "Landévant"
+              ],
+              "it": [
+                "Landévant"
+              ],
+              "fr": [
+                "Landévant"
+              ],
+              "nl": [
+                "Landévant"
+              ],
+              "es": [
+                "Landévant"
+              ]
+            },
+            "insee": "56097",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/aace6474-5f58-32a2-8849-da8e7405c0ec",
+        "schema:latitude": "47.6622835",
+        "schema:longitude": "-2.855252",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-16",
+  "lastUpdateDatatourisme": "2026-02-17T04:10:39.032Z"
+}

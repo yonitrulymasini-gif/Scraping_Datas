@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ee721d0c-a1be-3f37-8dd6-48c3c90d9865",
+  "dc:identifier": "LOI9d733b7b8f2a4",
+  "@type": [
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Plage de Saint-Julien"
+    ],
+    "fr": [
+      "Plage de Saint-Julien"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1e79d8b0-ec39-3053-82e7-4b39c0c7d6c6",
+      "schema:telephone": [
+        "+33 2 44 84 56 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.baiedequiberon.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c2d9aa66-47cb-3b2b-9745-bfdc5b424c4e",
+      "dc:description": {
+        "de": [
+          "Strand mit feinem Sand und Felsen, ideal zum Spielen bei Ebbe.\r\n\r\nGegenüber der Bucht von Quiberon gelegen, kann man in der Ferne die Küste von Carnac sehen und die Regatten beobachten!"
+        ],
+        "en": [
+          "A beach of fine sand and rocks, ideal for playing at low tide.\r\n\r\nFacing Quiberon Bay, you can see the Carnac coastline in the distance and watch the regattas!"
+        ],
+        "it": [
+          "Spiaggia di sabbia fine e rocce, ideale per giocare con la bassa marea.\r\n\r\nAffacciata sulla baia di Quiberon, si può vedere il litorale di Carnac in lontananza e assistere alle regate!"
+        ],
+        "fr": [
+          "Plage de sable fin et de rochers, idéal pour jouer à marée basse.\r\n\r\nSituée face à la Baie de Quiberon, on peut apercevoir au loin, les côtes de Carnac et observer les régates !"
+        ],
+        "es": [
+          "Playa de arena fina y rocas, ideal para jugar con la marea baja.\r\n\r\nFrente a la bahía de Quiberon, podrá ver a lo lejos la costa de Carnac y asistir a las regatas"
+        ],
+        "nl": [
+          "Een strand van fijn zand en rotsen, ideaal om te spelen bij eb.\r\n\r\nMet uitzicht op de baai van Quiberon kun je in de verte de kustlijn van Carnac zien en de regatta's bekijken!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3e41ade3-6324-39d0-a014-e434d0d711f4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7361df44-5e6f-3c21-aaf6-4a4fc523a41b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9fca7cc6-df09-3cce-945b-24201ad55d84",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5b813b6-d34a-3d18-a02d-5a7ba5feb6ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea07e1cf-b40c-32f3-a760-790e9510a2e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c327b159-b7e9-371f-b1fb-adaeaee11642",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c0f9a313-14bf-3145-8418-a6054fe56e38",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "Rue de la Petite Côte"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c8f2e7f8-d558-3477-a55b-fff0ed78c5ac",
+        "schema:latitude": "47.4988",
+        "schema:longitude": "-3.118778",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T03:59:12.375Z"
+}

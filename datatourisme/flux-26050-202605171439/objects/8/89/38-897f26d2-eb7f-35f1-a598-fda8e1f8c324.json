@@ -1,0 +1,308 @@
+{
+  "@id": "https://data.datatourisme.fr/38/897f26d2-eb7f-35f1-a598-fda8e1f8c324",
+  "dc:identifier": "FMABRE056V50DFG4",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Product",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Visite guidée \"Citadelle insolite\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/475cf66b-4539-3d78-8255-d3c90b187a7c",
+      "schema:telephone": [
+        "+33 2 97 82 56 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.musee-marine.fr/nos-musees/port-louis/expositions-et-evenements/les-evenements/vacances-dhiver-a-port-louis-au-musee-national-de-la-marine-a-port-louis.html"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fbdf02f7-b61e-33b4-b794-f3be8a04db7f",
+      "dc:description": {
+        "de": [
+          "Klettern Sie auf die Festungsmauern der Zitadelle! Genießen Sie bei dieser geführten Tour einen außergewöhnlichen Ausblick auf die Reede von Lorient und begeben Sie sich auf eine 400-jährige Reise durch die Geschichte."
+        ],
+        "en": [
+          "Climb the ramparts of the citadel! Enjoy an exceptional panoramic view of Lorient harbor and embark on a 400-year journey of history."
+        ],
+        "it": [
+          "Salite sui bastioni della cittadella! Questa visita guidata vi offrirà una vista panoramica eccezionale del porto di Lorient e vi condurrà in un viaggio di 400 anni attraverso la storia."
+        ],
+        "fr": [
+          "Grimpez sur les remparts de la citadelle ! À travers cette visite guidée, venez admirer un panorama exceptionnel sur la rade de Lorient et embarquez pour 400 ans d’histoire."
+        ],
+        "es": [
+          "¡Suba a las murallas de la ciudadela! Esta visita guiada le ofrecerá una vista panorámica excepcional del puerto de Lorient y le llevará en un viaje de 400 años a través de la historia."
+        ],
+        "nl": [
+          "Beklim de vestingmuren van de citadel! Deze rondleiding geeft je een uitzonderlijk panoramisch uitzicht op de haven van Lorient en neemt je mee op een reis van 400 jaar door de geschiedenis."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/64da57ee-290d-3175-a219-35047a730d0a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6dee5faf-2d56-3f7c-a34b-315760af2b7f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bc0345db-f6ae-3911-b40f-e8e7b8af84eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c04dc4dc-db4f-3027-b7a8-0a810b16ac36",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d76ede5c-5626-3860-aaec-702dd82e1ab4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f5e63613-985d-33e5-a963-7f7d2cd6460d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2baa9686-7e89-331b-a7c7-657de395a8c1",
+          "schema:addressLocality": "Port-Louis",
+          "schema:postalCode": "56290",
+          "schema:streetAddress": [
+            "Avenue du Fort de l'Aigle",
+            "Citadelle de Port-Louis"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56181",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Port-Louis"
+              ],
+              "pt": [
+                "Port-Louis"
+              ],
+              "en": [
+                "Port-Louis"
+              ],
+              "it": [
+                "Port-Louis"
+              ],
+              "fr": [
+                "Port-Louis"
+              ],
+              "nl": [
+                "Port-Louis"
+              ],
+              "es": [
+                "Port-Louis"
+              ]
+            },
+            "insee": "56181",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5a661dcc-0031-3f6e-be4a-eda7931848d1",
+        "schema:latitude": "47.70897",
+        "schema:longitude": "-3.36235",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-12",
+  "lastUpdateDatatourisme": "2026-03-13T03:50:54.725Z"
+}

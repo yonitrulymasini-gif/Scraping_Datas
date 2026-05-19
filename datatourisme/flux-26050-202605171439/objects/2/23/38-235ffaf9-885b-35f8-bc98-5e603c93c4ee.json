@@ -1,0 +1,354 @@
+{
+  "@id": "https://data.datatourisme.fr/38/235ffaf9-885b-35f8-bc98-5e603c93c4ee",
+  "dc:identifier": "ASCfd36d74d475f4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Equicelte"
+    ],
+    "fr": [
+      "Equicelte"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bb628d89-bbca-367f-aceb-c430a2c9001b",
+      "schema:telephone": [
+        "+33 6 73 32 63 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.facebook.com/equicelte/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e9cabb6e-4752-3ec0-adff-89032c4bd79c",
+      "dc:description": {
+        "de": [
+          "In einer sehr naturnahen Atmosphäre können erfahrene Reiter schöne Ausritte am Strand oder auf dem Land genießen und Anfänger können sich durch die \"Entdeckungs\"-Sitzungen oder Praktika für Jugendliche aller Niveaus einführen lassen. Staatlich geprüfte Lehrerin. Programm und Preise auf Facebook."
+        ],
+        "en": [
+          "In a very natural atmosphere, experienced riders will enjoy beautiful rides on the beach or in the countryside and beginners will be able to learn through the \"discovery\" sessions or training courses for young people of all levels. State qualified teacher. Program and prices on Facebook."
+        ],
+        "it": [
+          "In un'atmosfera molto naturale, i cavalieri esperti potranno godere di splendide cavalcate sulla spiaggia o in campagna, mentre i principianti potranno imparare grazie alle sessioni di \"scoperta\" o ai corsi di formazione per giovani di tutti i livelli. Insegnante abilitato dallo Stato. Programma e prezzi su Facebook."
+        ],
+        "fr": [
+          "Dans une ambiance très nature, les cavaliers confirmés profiteront des belles balades sur la plage ou en campagne et les débutants pourront s'initier à travers les séances \"découverte\" ou stage pour les jeunes de tous niveaux. Enseignant diplômé d'état. Programme et tarifs sur Facebook."
+        ],
+        "nl": [
+          "In een zeer natuurlijke sfeer kunnen ervaren ruiters genieten van prachtige ritten op het strand of in de natuur en beginners kunnen het leren via de \"ontdekkings\"-sessies of trainingen voor jongeren van alle niveaus. Staatsgekwalificeerde leraar. Programma en prijzen op Facebook."
+        ],
+        "es": [
+          "En un ambiente muy natural, los jinetes experimentados disfrutarán de hermosos paseos por la playa o el campo y los principiantes podrán aprender mediante las sesiones de \"descubrimiento\" o los cursos de formación para jóvenes de todos los niveles. Profesor con titulación estatal. Programa y precios en Facebook."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/77a09a3a-9f2a-3866-8dd7-a20492751378",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7bdd2881-8b12-328a-83ef-0f27c9b38984",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9cb90303-999a-38fb-a374-d726c4cff804",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb1f9c10-aed7-31cd-ade7-f512b38e6e4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcf4be3d-a6ee-3524-b117-567fa2fe0dcc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a8fff076-c42f-3bfe-b778-4a5abe202d6e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/088a63d7-d6f3-3160-ab18-c8836d534135",
+          "schema:addressLocality": "Plouharnel",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Le Cosquer"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56168",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Plouharnel"
+              ],
+              "pt": [
+                "Plouharnel"
+              ],
+              "en": [
+                "Plouharnel"
+              ],
+              "it": [
+                "Plouharnel"
+              ],
+              "fr": [
+                "Plouharnel"
+              ],
+              "nl": [
+                "Plouharnel"
+              ],
+              "es": [
+                "Plouharnel"
+              ]
+            },
+            "insee": "56168",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9f613fb7-1b7c-3c35-8290-4482cba3f715",
+        "schema:latitude": "47.62057",
+        "schema:longitude": "-3.108101",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/73d3887e-8d32-3b8d-91db-74e71d0c600c",
+          "schema:validFrom": "2018-01-01T00:00:00",
+          "schema:validThrough": "2018-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.327Z"
+}

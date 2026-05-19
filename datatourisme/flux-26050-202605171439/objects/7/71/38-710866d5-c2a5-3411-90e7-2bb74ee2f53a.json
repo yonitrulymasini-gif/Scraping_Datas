@@ -1,0 +1,195 @@
+{
+  "@id": "https://data.datatourisme.fr/38/710866d5-c2a5-3411-90e7-2bb74ee2f53a",
+  "dc:identifier": "PNAcd19d267dbf74",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Trémelin"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q120210587"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d5f8df4f-8566-3fd4-b8ad-92ecf0ff6918",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8bc9d194-7e88-3b58-be16-72111b332179",
+          "schema:addressLocality": "Inzinzac-Lochrist",
+          "schema:postalCode": "56650",
+          "schema:streetAddress": [
+            "Trémelin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56090",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Inzinzac-Lochrist"
+              ],
+              "pt": [
+                "Inzinzac-Lochrist"
+              ],
+              "en": [
+                "Inzinzac-Lochrist"
+              ],
+              "it": [
+                "Inzinzac-Lochrist"
+              ],
+              "fr": [
+                "Inzinzac-Lochrist"
+              ],
+              "nl": [
+                "Inzinzac-Lochrist"
+              ],
+              "es": [
+                "Inzinzac-Lochrist"
+              ]
+            },
+            "insee": "56090",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d15ca0f7-877a-3275-95fe-200bfed15cdc",
+        "schema:latitude": "47.84667",
+        "schema:longitude": "-3.262501",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2024-02-17T02:03:18.559Z"
+}

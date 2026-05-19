@@ -1,0 +1,801 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c68596e5-07d6-3495-8d87-bec20ff437e7",
+  "dc:identifier": "RES9df2407892214",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Restaurant Le Grissini"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d1520b6b-f9ba-3820-aa6a-41ab6b17090f",
+      "schema:legalName": "Restaurant Le Grissini",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://legrissinicarnac.icalu.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d1520b6b-f9ba-3820-aa6a-41ab6b17090f",
+      "schema:legalName": "Restaurant Le Grissini",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://legrissinicarnac.icalu.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4a8fa784-f19d-344b-8e39-61d7238a8c4c",
+      "dc:description": {
+        "de": [
+          "Le Grissini in Carnac ist eine gemütliche Trattoria, die nur wenige Schritte vom großen Strand und den Menhiren entfernt liegt. Le Grissini ist die Geschichte zweier Freunde, Charly und Augustin, die die Schulbank der Hotel- und Restaurantfachschule verlassen, um ihr eigenes Restaurant zu gründen. Ihre Leidenschaft wurde an die Zwillingsbrüder und ehemaligen Globetrotter Maël und Mewen weitergegeben, die heute die Besitzer sind.\nTäglich werden Pasta und Pizza mit Liebe selbst gemacht, und ein Tiramisu wird vor Ihren Augen zubereitet! Die Pizzen werden nach allen Regeln der Kunst kreiert. Neben den Klassikern gibt es auch Signature-Kreationen wie die vor Ihren Augen flambierte Pizza, die mit Produkten direkt aus dem Stiefel belegt wird. Lassen Sie sich in der modernen Einrichtung oder auf der geräumigen Terrasse nieder und genießen Sie Ihr Essen Ihr dynamisches Team wird Sie bei einem leckeren und großzügigen Essen nach Italien entführen. Die Gastfreundschaft ist ihr Rezept, das heißt Dolce Vita in Carnac!\nMittagsformel, Kindermenü, vegetarisches Gericht erhältlich!"
+        ],
+        "en": [
+          "Le Grissini in Carnac is a cosy trattoria just a stone's throw from the main beach and the menhirs. Le Grissini is the story of two friends, Charly and Augustin, who left hotel and catering school to set up their own restaurant. Their passion was passed on to the twin brothers, former globe trotters Maël and Mewen, who now own the restaurant.\nHomemade pastas and pizzas made with love every day, and a tiramisu made before your very eyes! The pizzas are created according to the rules of the art. In addition to the classics, there are signature creations like the pizza flambéed before your very eyes, topped with products sourced directly from the Botte region. Sit back and enjoy the indus? decor or the spacious terrace! Their dynamic team will plunge you into Italy for a generous, gourmet meal. Conviviality is their recipe for la dolce vita in Carnac!\nLunch menu, children's menu, vegetarian dishes available!"
+        ],
+        "it": [
+          "Le Grissini a Carnac è un'accogliente trattoria a due passi dalla spiaggia principale e dai menhir. Le Grissini è la storia di due amici, Charly e Augustin, che hanno lasciato la scuola alberghiera e di ristorazione per aprire il loro ristorante. La loro passione è stata trasmessa ai fratelli gemelli, ex globe trotter Maël e Mewen, che oggi sono i proprietari del ristorante.\nPasta e pizza fatte in casa con amore ogni giorno, e un tiramisù fatto davanti ai vostri occhi! Le pizze sono create secondo le regole del mestiere. Oltre ai classici, ci sono creazioni d'autore come la pizza fiammeggiata davanti ai vostri occhi, condita con prodotti provenienti direttamente dalla regione della Botte. Sedetevi e godetevi l'arredamento indù o la spaziosa terrazza! Il loro team dinamico vi riporterà in Italia per un pasto generoso e gourmet. La convivialità è la loro ricetta, è la dolce vita a Carnac!\nMenu per il pranzo, menu per bambini, piatti vegetariani disponibili!"
+        ],
+        "fr": [
+          "Le Grissini à Carnac, c'est une trattoria chaleureuse située à deux pas de la grande plage et des menhirs. Le Grissini, c'est l’histoire de deux copains, Charly et Augustin, qui quittent les bancs de l’école d'hôtellerie et restauration pour créer leur restaurant. Leur passion est transmise aux frères jumeaux, anciens globe trotters Maël et Mewen, aujourd’hui propriétaires.\nPâtes et pizzas faites maison avec amour chaque jour, et un tiramisu réalisé devant vos yeux ! Les pizzas sont créées dans les règles de l’art. Au-delà des classiques, des créations signature comme la pizza flambée devant vos yeux, garnies de produits en provenance directe de la Botte. Aussi, installez-vous dans leur décor indus’ ou sur la spacieuse terrasse, et régalez-vous ! Leur dynamique équipe vous plongera en Italie le temps d'un repas gourmand et généreux. La convivialité est leur recette, c'est la dolce vita à Carnac !\nFormule du midi, menu enfant, plat végétarien disponible !"
+        ],
+        "es": [
+          "Le Grissini, en Carnac, es una acogedora trattoria a dos pasos de la playa principal y de los menhires. Le Grissini es la historia de dos amigos, Charly y Augustin, que dejaron la escuela de hostelería para montar su propio restaurante. Su pasión se transmitió a los hermanos gemelos Maël y Mewen, antiguos trotamundos, que ahora son los dueños del restaurante.\nPasta y pizzas caseras hechas con amor cada día, ¡y un tiramisú hecho ante sus propios ojos! Las pizzas se elaboran según las reglas del oficio. A los clásicos se añaden creaciones de autor, como la pizza flambeada delante de sus ojos, aderezada con productos procedentes directamente de la región de Botte. Siéntese y disfrute de la decoración industrial o de la amplia terraza Su dinámico equipo le transportará a Italia con una generosa comida gourmet. La convivencia es su receta, ¡la dolce vita en Carnac!\nMenú de mediodía, menú infantil y platos vegetarianos"
+        ],
+        "nl": [
+          "Le Grissini in Carnac is een gezellige trattoria op een steenworp afstand van het strand en de menhirs. Le Grissini is het verhaal van twee vrienden, Charly en Augustin, die de hotelschool verlieten om hun eigen restaurant te beginnen. Hun passie werd doorgegeven aan de tweelingbroers, voormalige wereldreizigers Maël en Mewen, die nu eigenaar zijn van het restaurant.\nHuisgemaakte pasta's en pizza's die elke dag met liefde worden gemaakt, en een tiramisu die voor je ogen wordt gemaakt! De pizza's worden gemaakt volgens de regels van het vak. Naast de klassiekers zijn er signatuurcreaties zoals de pizza die voor je ogen wordt geflambeerd, belegd met producten die rechtstreeks uit de Botte-regio komen. Dus leun achterover en geniet van het indus? decor of het ruime terras! Hun dynamische team neemt je mee terug naar Italië voor een gulle, gastronomische maaltijd. Gezelligheid is hun recept, het is la dolce vita in Carnac!\nLunchmenu, kindermenu, vegetarische gerechten beschikbaar!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1314fca1-6603-374f-b12e-4bc5a6891702",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1faf7f2e-8a83-3060-8f13-47ad58749304",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/93469a34-dd49-3404-8831-24a0fc184a8f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b0b79de2-425f-34d1-96cb-df5df66d0094",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4ef2103-1860-3346-b353-83ba15753ae3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/190a48ee-70c9-7a86-407a-3327fd7c4ded",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "7907d61d-b9cd-40ef-96da-fc559f46f0ab",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/5b20cd66-eb6c-3608-b26f-cf235f53a931",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Wifi",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "WLAN, Internetzugang"
+            ],
+            "pt": [
+              "Wi-Fi, acesso Internet"
+            ],
+            "en": [
+              "Wifi, internet access"
+            ],
+            "it": [
+              "Wifi, accesso a internet"
+            ],
+            "fr": [
+              "Wifi, accès internet"
+            ],
+            "nl": [
+              "Wifi, internettoegang"
+            ],
+            "es": [
+              "Wifi, acceso a internet"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9cb441-9e35-3ce2-a956-625b80b91c9f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BabyChair",
+          "@type": [
+            "CateringAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Hochstuhl"
+            ],
+            "pt": [
+              "Cadeira de bebé"
+            ],
+            "en": [
+              "Baby chair"
+            ],
+            "it": [
+              "Sedia per bambini"
+            ],
+            "fr": [
+              "Chaise bébé"
+            ],
+            "es": [
+              "Silla de bebé"
+            ],
+            "nl": [
+              "Kinderstoel"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bb3d2f7-e8ce-3de9-a0a1-43a6f39229c8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Terrace",
+          "@type": [
+            "CommonAmenity",
+            "ParkAndGardenTheme"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Terrasse"
+            ],
+            "pt": [
+              "Terraço"
+            ],
+            "en": [
+              "Terrace"
+            ],
+            "it": [
+              "Terrazzo"
+            ],
+            "fr": [
+              "Terrasse"
+            ],
+            "es": [
+              "Terraza"
+            ],
+            "nl": [
+              "Terras"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/dc3a2cdf-f3fa-3269-adb5-c5781c93646a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4a2c5fae-5940-3795-9104-05f6bfb5fa1a",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "56 avenue des druides"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9b31b650-67db-3805-a0d6-a7f4f9c80504",
+        "schema:latitude": "47.5730664",
+        "schema:longitude": "-3.075015",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4c95f4a9-2c84-3f4f-a793-78fbc015ff49",
+          "schema:validFrom": "2026-02-05T00:00:00",
+          "schema:validThrough": "2026-03-30T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0ba8a2e-bc2a-3fbe-8802-fbedf9db34a0",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-11-01T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "internetAccess": true,
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-04-03",
+  "lastUpdateDatatourisme": "2026-04-07T16:46:24.993Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/5f1f050a-7af5-3c75-a4b9-23fd492c0c94",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:ChequesDejeunersTicketsRestaurants",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Essensgutscheine – Ticket Restaurant"
+            ],
+            "pt": [
+              "Vales-refeições — vales-restaurante"
+            ],
+            "en": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "it": [
+              "Buoni pasto - ticket restaurant"
+            ],
+            "fr": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "es": [
+              "Vales de comida - Cheques restaurante"
+            ],
+            "nl": [
+              "Ontbijtcheques - restauranttickets"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

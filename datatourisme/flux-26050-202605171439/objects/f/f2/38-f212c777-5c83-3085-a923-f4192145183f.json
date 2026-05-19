@@ -1,0 +1,831 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f212c777-5c83-3085-a923-f4192145183f",
+  "dc:identifier": "RES04471d5f0f8c4",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Maison Quintin - La Dégustation"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/df19bfc8-5d6f-385e-b2e9-5f81351e8c44",
+      "schema:legalName": "Maison Quintin - La Dégustation",
+      "schema:telephone": [
+        "+33 2 97 55 01 94"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.maison-quintin.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/df19bfc8-5d6f-385e-b2e9-5f81351e8c44",
+      "schema:legalName": "Maison Quintin - La Dégustation",
+      "schema:telephone": [
+        "+33 2 97 55 01 94"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.maison-quintin.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2ac901ae-1f77-3efd-94c0-585fe6cbf977",
+      "dc:description": {
+        "de": [
+          "Der Austernzüchter \"Chez Quintin\", der seit drei Generationen tätig ist, bietet Ihnen die Möglichkeit, seine Austern mit den Füßen im Wasser und im Herzen der Austernzuchtanlage zu probieren.\n\nMeeresfrüchteplatten, Muscheln, Krustentiere und andere jodhaltige Genüsse erwarten Sie auf der unumgänglichen Pinien-Terrasse mit atemberaubender Aussicht. Im Saal herrscht eine warme und gesellige Fischerhüttenatmosphäre. Jeff wird Ihnen seine berühmten Rezepte für gefüllte Austern vorstellen, die von seinen Reisen inspiriert sind. Service zum Mitnehmen auf der Seite der Boutique.\n\nAn allen Wochenenden und während der Ferien von Mitte März bis Anfang Oktober täglich mittags und abends geöffnet. \t\n\nTerrasse mit Zugang für Behinderte.\n\nStellplatz für Fahrräder. Privatisierung auf Anfrage."
+        ],
+        "en": [
+          "Oyster-farmers for 3 generations, \"Chez Quintin\" invites you to enjoy its oysters right on the water, in the heart of the oyster-farming site.\n\nPlatters of seafood, shellfish and other iodized delights await you on the unmissable pine terrace with its breathtaking views. In the dining room, you'll find a warm, friendly fisherman's hut atmosphere. Jeff will introduce you to his famous recipes for stuffed oysters, inspired by his travels. Takeaway service in the store.\n\nOpen every weekend and every day for lunch and dinner during vacations from mid-March to early October. \t\n\nPRM-accessible terrace.\n\nBicycle parking. Privatization on request."
+        ],
+        "it": [
+          "Allevatori di ostriche da 3 generazioni, \"Chez Quintin\" vi invita a gustare le sue ostriche con i piedi nell'acqua, nel cuore del sito di allevamento delle ostriche.\n\nPiatti di frutti di mare, crostacei e altre delizie iodate vi aspettano sull'imperdibile terrazza di pino con vista mozzafiato. Nella sala da pranzo si respira un'atmosfera calda e accogliente da capanna di pescatori. Jeff sarà lieto di mostrarvi le sue famose ricette di ostriche ripiene, ispirate ai suoi viaggi. Servizio d'asporto nel negozio.\n\nAperto tutti i fine settimana e tutti i giorni a pranzo e a cena durante le vacanze da metà marzo a inizio ottobre. \t\n\nTerrazza con accesso PRM.\n\nParcheggio per biciclette. Privatizzazione su richiesta."
+        ],
+        "fr": [
+          "Ostréiculteur depuis 3 générations, \"Chez Quintin\" vous propose de déguster ses huîtres les pieds dans l'eau au cœur du chantier ostréicole. \n\nPlateaux de fruits de mer, coquillages, crustacés et autres plaisirs iodés vous attendent sur l'incontournable terrasse des pins à la vue imprenable. En salle, ambiance cabane de pêcheurs chaleureuse et conviviale. Jeff vous fera découvrir ses fameuses recettes d'huîtres farcies, inspirées de ses voyages. Service à emporter coté boutique. \n\nOuvert tous les week-ends et tous les jours midi et soir pendant les vacances de mi mars à début octobre. \t\n\nTerrasse accessible PMR.\n\nEmplacement vélos. Privatisation sur demande."
+        ],
+        "es": [
+          "Ostricultor desde hace 3 generaciones, \"Chez Quintin\" le invita a degustar sus ostras con los pies en el agua en pleno corazón de la ostricultura.\n\nPlatos de marisco, crustáceos y otras delicias yodadas le esperan en la ineludible terraza de pinos con sus impresionantes vistas. El comedor tiene un ambiente cálido y acogedor de cabaña de pescadores. Jeff le presentará sus famosas recetas de ostras rellenas, inspiradas en sus viajes. Servicio de comida para llevar en la tienda.\n\nAbierto todos los fines de semana y todos los días para comer y cenar durante las vacaciones, desde mediados de marzo hasta principios de octubre. \t\n\nTerraza con acceso PMR.\n\nAparcamiento para bicicletas. Privatización a petición."
+        ],
+        "nl": [
+          "Oesterkwekers sinds 3 generaties, \"Chez Quintin\" nodigt je uit om te genieten van zijn oesters met je voeten in het water in het hart van de oesterkwekerij.\n\nSchalen met zeevruchten, schelpdieren en andere jodiumhoudende lekkernijen wachten op je op het niet te missen grenen terras met een adembenemend uitzicht. De eetzaal heeft een warme en vriendelijke vissershut sfeer. Jeff laat je kennismaken met zijn beroemde recepten voor gevulde oesters, geïnspireerd door zijn reizen. Afhaalservice in de winkel.\n\nElk weekend geopend en elke dag voor lunch en diner tijdens de feestdagen van half maart tot begin oktober. \t\n\nTerras met toegang voor personen met beperkte mobiliteit.\n\nFietsenstalling. Privatisering op aanvraag."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3db28ab3-ca91-3199-a138-7f6fc1b4e9d6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9da1d764-bec2-3d16-9193-0f3097748f22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a86ae9d0-b01f-3507-8ec3-13839dc602b4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b45c5356-98bf-347c-85b1-6022535f92b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f221f947-037c-3396-902b-9321abbd47eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/27ec3055-5bba-3a90-8842-ad90cc3c1b46",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bar",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar"
+            ],
+            "pt": [
+              "Bar"
+            ],
+            "en": [
+              "Bar"
+            ],
+            "it": [
+              "Bar"
+            ],
+            "fr": [
+              "Bar"
+            ],
+            "nl": [
+              "Bar"
+            ],
+            "es": [
+              "Bar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5b20cd66-eb6c-3608-b26f-cf235f53a931",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Wifi",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "WLAN, Internetzugang"
+            ],
+            "pt": [
+              "Wi-Fi, acesso Internet"
+            ],
+            "en": [
+              "Wifi, internet access"
+            ],
+            "it": [
+              "Wifi, accesso a internet"
+            ],
+            "fr": [
+              "Wifi, accès internet"
+            ],
+            "nl": [
+              "Wifi, internettoegang"
+            ],
+            "es": [
+              "Wifi, acceso a internet"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9cb441-9e35-3ce2-a956-625b80b91c9f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BabyChair",
+          "@type": [
+            "CateringAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Hochstuhl"
+            ],
+            "pt": [
+              "Cadeira de bebé"
+            ],
+            "en": [
+              "Baby chair"
+            ],
+            "it": [
+              "Sedia per bambini"
+            ],
+            "fr": [
+              "Chaise bébé"
+            ],
+            "es": [
+              "Silla de bebé"
+            ],
+            "nl": [
+              "Kinderstoel"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6b74bb2e-2541-3530-b9f1-4f239cec0fd1",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:ExternalFacilitiesBooking",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Buchungen von externen Leistungen"
+            ],
+            "pt": [
+              "Reservas de prestações externas"
+            ],
+            "en": [
+              "External facilities booking"
+            ],
+            "it": [
+              "Prenotazione di servizi esterni"
+            ],
+            "fr": [
+              "Réservations de prestations extérieures"
+            ],
+            "nl": [
+              "Reservering van externe diensten"
+            ],
+            "es": [
+              "Reservas de servicios externos"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bb3d2f7-e8ce-3de9-a0a1-43a6f39229c8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Terrace",
+          "@type": [
+            "CommonAmenity",
+            "ParkAndGardenTheme"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Terrasse"
+            ],
+            "pt": [
+              "Terraço"
+            ],
+            "en": [
+              "Terrace"
+            ],
+            "it": [
+              "Terrazzo"
+            ],
+            "fr": [
+              "Terrasse"
+            ],
+            "es": [
+              "Terraza"
+            ],
+            "nl": [
+              "Terras"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/abec6077-4e41-39d7-b109-f23add2899f4",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Seminar",
+          "@type": [
+            "AccommodationAmenity",
+            "PeopleAudience"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Seminar"
+            ],
+            "pt": [
+              "Seminário"
+            ],
+            "en": [
+              "Seminar"
+            ],
+            "it": [
+              "Seminario"
+            ],
+            "fr": [
+              "Séminaire"
+            ],
+            "es": [
+              "Seminario"
+            ],
+            "nl": [
+              "Seminar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/deea4eab-81fb-3f80-bdee-9689ff98e71d",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Caterer",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Partyservice"
+            ],
+            "pt": [
+              "Empresa de restauração"
+            ],
+            "en": [
+              "Caterer"
+            ],
+            "it": [
+              "Ristoratore"
+            ],
+            "fr": [
+              "Traiteur"
+            ],
+            "nl": [
+              "Traiteur"
+            ],
+            "es": [
+              "Empresa de restauración"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6ec62954-eb43-3071-b2e3-75bd982629c1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/98c1f9da-b2a3-3785-bbbc-224da16b9f92",
+          "schema:addressLocality": "Saint-Philibert",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "7 bis Route de Quéhan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56233",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Philibert"
+              ],
+              "pt": [
+                "Saint-Philibert"
+              ],
+              "en": [
+                "Saint-Philibert"
+              ],
+              "it": [
+                "Saint-Philibert"
+              ],
+              "fr": [
+                "Saint-Philibert"
+              ],
+              "nl": [
+                "Saint-Philibert"
+              ],
+              "es": [
+                "Saint-Philibert"
+              ]
+            },
+            "insee": "56233",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/50f01210-8c3a-3982-a145-b8d212ea718d",
+        "schema:latitude": "47.5901137",
+        "schema:longitude": "-3.01684",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/7e1395db-45c2-39a0-91b0-ae5fefd37301",
+          "schema:validFrom": "2026-04-04T00:00:00",
+          "schema:validThrough": "2026-09-27T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "internetAccess": true,
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:28:02.277Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b9905356-f711-3501-9606-e22445059a61",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

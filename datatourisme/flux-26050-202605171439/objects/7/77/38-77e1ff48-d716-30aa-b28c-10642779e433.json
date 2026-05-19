@@ -1,0 +1,308 @@
+{
+  "@id": "https://data.datatourisme.fr/38/77e1ff48-d716-30aa-b28c-10642779e433",
+  "dc:identifier": "FMABRE056V50DCQC",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Product",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Guémené au fil du Scorff"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d7db6d0-4376-39b6-b383-b4caf649fdd9",
+      "schema:telephone": [
+        "+33 6 80 30 06 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesbainsdelareine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/382a8d9b-974d-30ee-b8f5-c14e88dec9d2",
+      "dc:description": {
+        "de": [
+          "Waschhäuser, Mühlen, Brunnen... Gehen Sie am Scorff entlang und entdecken Sie die Bedeutung des mit dem Wasser verbundenen Kulturerbes in Guémené."
+        ],
+        "en": [
+          "Washhouses, mills, fountains... Walk along the Scorff and discover the importance of Guémené?s water heritage."
+        ],
+        "it": [
+          "Lavatoi, mulini, fontane... Passeggiate lungo lo Scorff e scoprite l'importanza del patrimonio idrico di Guémené."
+        ],
+        "fr": [
+          "Lavoirs, moulins, fontaine... Longez le Scorff et découvrez l’importance du patrimoine lié à l’eau de Guémené."
+        ],
+        "nl": [
+          "Washuizen, molens, fonteinen... Wandel langs de Scorff en ontdek het belang van het watererfgoed van Guémené."
+        ],
+        "es": [
+          "Lavaderos, molinos, fuentes... Pasee por el Scorff y descubra la importancia del patrimonio acuático de Guémené."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/13671379-2067-39b8-8fb7-5982e18e1268",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/38406382-3e87-356c-a338-00311654e37f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/390b0489-d03f-3dba-993c-996cb43a5c54",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c058012-28e5-3225-8c76-f925b2061380",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4b07e38-0775-3c73-b8af-019d2c0b1d8d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/53cb2628-a040-31b9-b1b7-eedb37223b3a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1a0a4760-b9cd-3123-b455-d9e6745ec367",
+          "schema:addressLocality": "Guémené-sur-Scorff",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "Les Bains de la Reine",
+            "Place du Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56073",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guémené-sur-Scorff"
+              ],
+              "pt": [
+                "Guémené-sur-Scorff"
+              ],
+              "en": [
+                "Guémené-sur-Scorff"
+              ],
+              "it": [
+                "Guémené-sur-Scorff"
+              ],
+              "fr": [
+                "Guémené-sur-Scorff"
+              ],
+              "nl": [
+                "Guémené-sur-Scorff"
+              ],
+              "es": [
+                "Guémené-sur-Scorff"
+              ]
+            },
+            "insee": "56073",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/98a5b679-dda8-3372-a524-0fa74ecbcf43",
+        "schema:latitude": "48.06714",
+        "schema:longitude": "-3.20752",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-22",
+  "lastUpdateDatatourisme": "2026-04-23T02:53:36.215Z"
+}

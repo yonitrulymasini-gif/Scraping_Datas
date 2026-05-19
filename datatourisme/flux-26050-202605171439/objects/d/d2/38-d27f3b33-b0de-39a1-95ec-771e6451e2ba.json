@@ -1,0 +1,778 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d27f3b33-b0de-39a1-95ec-771e6451e2ba",
+  "dc:identifier": "HLO89598583284e4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "HolidayResort",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Résidence Thalazur Carnac"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/beac4a50-59c5-30d7-8b75-6149b2b63a51",
+      "schema:telephone": [
+        "+33 2 97 52 53 54"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.thalazur.fr/carnac/hotel/appartements/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/beac4a50-59c5-30d7-8b75-6149b2b63a51",
+      "schema:telephone": [
+        "+33 2 97 52 53 54"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.thalazur.fr/carnac/hotel/appartements/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ef5e094a-6237-3297-8b35-8ba586f4beee",
+      "schema:legalName": "Résidence Thalazur Carnac",
+      "schema:telephone": [
+        "+33 2 97 52 53 54"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.thalazur.fr/carnac/hotel/appartements/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2aa476a0-2444-3cc5-b7ce-0afcf895981f",
+      "dc:description": {
+        "de": [
+          "Das Thalazur Carnac Résidence*** verfügt über das größte Meeres-Spa der Südbretagne und liegt ideal am Rande der Salinen und 100 m von den Stränden entfernt. Es ist ein Unterkunftskonzept für Familien, Paare und Alleinreisende, die von einer renommierten Thalassotherapie profitieren möchten, ohne ihre Unabhängigkeit zu verlieren. Studio- und Zweizimmerwohnungen in hellem Holzambiente mit atemberaubendem Blick auf die Salinen. Ein Restaurantangebot sowie zahlreiche angrenzende Dienstleistungen werden Ihnen für Ihre Thalassotherapie in Carnac angeboten.\nExtras: Freier und unbegrenzter Zugang zum Meeresspa und zum Fitness- und Fitnessbereich an 7 Tagen in der Woche. Schöne Terrassen mit Tischen und Stühlen im Freien. Kostenlose Parkplätze.\nAusstattung: Flachbildfernseher mit Kabelanschluss, WLAN-Zugang im Zimmer, Duschbad.\nExklusive Early-Booking-Preise von bis zu -20% für Aufenthalte, die 60 Tage vor dem Ankunftsdatum gebucht werden."
+        ],
+        "en": [
+          "Featuring the largest marine spa in Southern Brittany and ideally located on the edge of the Salines and 100 meters from the beaches, Thalazur Carnac Résidence*** is an accommodation concept dedicated to families, couples and solo travelers who want to enjoy renowned thalassotherapy without losing their independence. Studios and two-bedroom apartments with light wood interiors and breathtaking views of the salt marshes. A range of catering and related services are available for your thalasso in Carnac.\nPlus: free, unlimited access to the Marine Spa and Fitness & Form area 7 days a week. Beautiful terraces equipped with outdoor tables and chairs. Free parking.\nFacilities: flat-screen cable TV, in-room wifi access, shower room.\nExclusive Early Booking rates of up to -20% for stays booked 60 days prior to arrival."
+        ],
+        "it": [
+          "Dotato del più grande centro termale marino della Bretagna meridionale e situato in posizione ideale ai margini delle Saline e a soli 100 metri dalle spiagge, Thalazur Carnac Résidence*** è un concetto di alloggio dedicato alle famiglie, alle coppie e a chi viaggia da solo e vuole godere della rinomata talassoterapia senza perdere la propria indipendenza. Monolocali e appartamenti con due camere da letto in legno chiaro con vista ininterrotta sulle saline. Per la vostra talassoterapia a Carnac sono disponibili una serie di servizi di ristorazione e servizi correlati.\nIn più: accesso gratuito e illimitato alla Marine Spa e all'area Fitness & Form 7 giorni su 7. Splendide terrazze attrezzate con tavoli e sedie all'aperto. Parcheggio gratuito.\nServizi: TV via cavo a schermo piatto, accesso WiFi in camera, bagno con doccia.\nEsclusive tariffe Early Booking fino al 20% di sconto per soggiorni prenotati 60 giorni prima della data di arrivo."
+        ],
+        "fr": [
+          "Doté du plus grand spa marin de Bretagne Sud et idéalement situé, en bordure des Salines et à 100 mètres des plages, Thalazur Carnac Résidence*** est un concept d’hébergement dédié aux familles, aux couples et aux personnes en solo qui souhaitent profiter d’une thalassothérapie de renom sans perdre leur indépendance. Formules studio ou deux pièces, aux ambiances de bois clair avec vue imprenable sur les salines. Une offre de restauration ainsi que de nombreux services attenants vous sont proposés pour votre Thalasso à Carnac.\nLes plus : accès libre et illimité au Spa marin et à l’espace Fitness & Forme 7J/7. Belles terrasses équipées de tables et chaises d’extérieur. Parking gratuit.\nL’équipement : TV écran plat câblée, accès wifi en chambre, salle de douche.\nTarifs exclusifs Early Booking allant jusqu'à -20% pour tout séjour réservé 60 jours avant la date d'arrivée."
+        ],
+        "nl": [
+          "Thalazur Carnac Résidence***, het grootste kuuroord van Zuid-Bretagne, is ideaal gelegen aan de rand van de zoutpannen en op slechts 100 meter van de stranden. Het is een accommodatieconcept voor gezinnen, stellen en alleenreizenden die willen genieten van de beroemde thalassotherapie zonder hun onafhankelijkheid te verliezen. Studio's en appartementen met twee slaapkamers in licht hout met ononderbroken uitzicht op de zoutpannen. Een scala aan catering en aanverwante diensten zijn beschikbaar voor uw thalasso in Carnac.\nPlus: 7 dagen per week gratis en onbeperkt toegang tot de Marine Spa en Fitness & Form. Mooie terrassen met buitentafels en stoelen. Gratis parkeren.\nFaciliteiten: flatscreentelevisie met kabelkanalen, WiFi op de kamer, doucheruimte.\nExclusieve vroegboektarieven tot 20% korting voor verblijven die 60 dagen voor de aankomstdatum worden geboekt."
+        ],
+        "es": [
+          "Con el mayor balneario marino del sur de Bretaña e idealmente situado al borde de las Salines y a sólo 100 metros de las playas, Thalazur Carnac Résidence*** es un concepto de alojamiento dedicado a familias, parejas y viajeros en solitario que desean disfrutar de la renombrada talasoterapia sin perder su independencia. Estudios y apartamentos de dos dormitorios en madera clara con vistas ininterrumpidas a las salinas. Para su talasoterapia en Carnac, ponemos a su disposición toda una gama de servicios de restauración y servicios conexos.\nAdemás: acceso gratuito e ilimitado al Spa Marino y a la zona Fitness & Form los 7 días de la semana. Bonitas terrazas equipadas con mesas y sillas de exterior. Aparcamiento gratuito.\nInstalaciones: TV por cable de pantalla plana, acceso WiFi en la habitación, cuarto de ducha.\nTarifas exclusivas Early Booking de hasta un 20% de descuento para estancias reservadas 60 días antes de la fecha de llegada."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/443eaaef-5f0d-308f-84d8-d158b1b74ca5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/66f8dc02-eb2e-3133-9601-501b77a37bf7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84290472-641e-3440-9fad-9b78bc6e5aac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9b11847-ef53-36fa-aff2-f37255b6c3ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee994846-40df-36a3-92ad-a0a9ccfb2ead",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/08a26c69-99d9-3ec8-9f02-21343395afc6",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:IndoorPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überdachter Swimmingpool"
+            ],
+            "pt": [
+              "Piscina coberta"
+            ],
+            "en": [
+              "Indoor pool"
+            ],
+            "it": [
+              "Piscina coperta"
+            ],
+            "fr": [
+              "Piscine couverte"
+            ],
+            "es": [
+              "Piscina cubierta"
+            ],
+            "nl": [
+              "Overdekt zwembad"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/618fb16c-c665-3fb5-9c0e-062d3e4e868d",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Restaurant",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Restaurant"
+            ],
+            "pt": [
+              "Restaurante"
+            ],
+            "en": [
+              "Restaurant"
+            ],
+            "it": [
+              "Ristorante"
+            ],
+            "fr": [
+              "Restaurant"
+            ],
+            "es": [
+              "Restaurante"
+            ],
+            "nl": [
+              "Restaurant"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d9727749-c5eb-36f9-a0c6-93a01eec9d2c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/32637dc6-cd15-3ff0-8724-6f4d33639c9c",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Avenue de l'Atlantique"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eea43921-17bd-335b-9257-c0af45c67f50",
+        "schema:latitude": "47.5715789",
+        "schema:longitude": "-3.0820125",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-04-14",
+  "lastUpdateDatatourisme": "2026-04-15T03:38:35.699Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/a42a84cb-55c4-38b8-a68e-17745e214020",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:ChequesDejeunersTicketsRestaurants",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Essensgutscheine – Ticket Restaurant"
+            ],
+            "pt": [
+              "Vales-refeições — vales-restaurante"
+            ],
+            "en": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "it": [
+              "Buoni pasto - ticket restaurant"
+            ],
+            "fr": [
+              "Chèques déjeuners - tickets restaurants"
+            ],
+            "es": [
+              "Vales de comida - Cheques restaurante"
+            ],
+            "nl": [
+              "Ontbijtcheques - restauranttickets"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

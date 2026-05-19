@@ -1,0 +1,308 @@
+{
+  "@id": "https://data.datatourisme.fr/38/71faf534-35d1-34f9-8770-c89fb7842786",
+  "dc:identifier": "LOIe2a3cc62980d4",
+  "@type": [
+    "schema:MovieTheater",
+    "Cinema",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Cinéma Ellé"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5f40365b-0b22-3245-b033-87756760da61",
+      "schema:telephone": [
+        "+33 2 97 23 20 94"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://cinemaelle.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/330ea4c6-e2fd-3ab5-9075-0ad7eb5fbba3",
+      "dc:description": {
+        "de": [
+          "Das Cine Ellé ist ein Vereinskino, das von Freiwilligen geführt wird, die sich freuen, Sie das ganze Jahr über begrüßen zu dürfen. Das Team arbeitet ständig an der Verbesserung der Dienstleistungen, die Ihnen das ganze Jahr über angeboten werden. Unser Programm finden Sie auf unserer Website und auf Facebook."
+        ],
+        "en": [
+          "Cine Ellé is a community cinema run by volunteers who are happy to welcome you all year round. The team is constantly improving its year-round services. Check out our program on our website and on Facebook."
+        ],
+        "it": [
+          "Il Cine Ellé è un cinema comunitario gestito da volontari che sono felici di accogliervi tutto l'anno. Il team migliora costantemente i servizi offerti durante tutto l'anno. Consultate il nostro programma sul sito web e su Facebook."
+        ],
+        "fr": [
+          "Le Cine Ellé est un cinéma associatif tenu par des bénévoles qui sont heureux de vous accueillir tout au long de l'année. L’équipe ne cesse d’améliorer les services qui vous sont offerts à longueur d’année. Retrouvé notre programmation sur notre site internet et sur Facebook."
+        ],
+        "es": [
+          "El Cine Ellé es un cine comunitario gestionado por voluntarios que están encantados de recibirle durante todo el año. El equipo mejora constantemente los servicios que le ofrecemos durante todo el año. Consulte nuestra programación en nuestra página web y en Facebook."
+        ],
+        "nl": [
+          "Cine Ellé is een gemeenschapsbioscoop die wordt gerund door vrijwilligers die je het hele jaar door graag verwelkomen. Het team is voortdurend bezig met het verbeteren van de diensten die we je het hele jaar door aanbieden. Bekijk ons programma op onze website en op Facebook."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1605b729-7ca9-381c-9bc6-047e67d18f50",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5cbefc0a-2aa4-3f4c-b747-226998de87a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63f73150-0447-3e8c-892a-b8f178c32543",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9127016b-59e5-3363-928f-53869945993d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/efaee8e4-b132-381f-8c6e-a9fbc1424bf2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1319500e-af8c-355d-9871-f9647fcd92ea",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e62da1cb-9c85-3a33-96a9-a219118cdc3a",
+          "schema:addressLocality": "Le Faouët",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "Place de la Corderie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Faouët"
+              ],
+              "pt": [
+                "Le Faouët"
+              ],
+              "en": [
+                "Le Faouët"
+              ],
+              "it": [
+                "Le Faouët"
+              ],
+              "fr": [
+                "Le Faouët"
+              ],
+              "nl": [
+                "Le Faouët"
+              ],
+              "es": [
+                "Le Faouët"
+              ]
+            },
+            "insee": "56057",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/76ff47f3-6642-3230-8124-045eeab423df",
+        "schema:latitude": "48.03332",
+        "schema:longitude": "-3.48857",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-01-08T03:33:52.737Z"
+}

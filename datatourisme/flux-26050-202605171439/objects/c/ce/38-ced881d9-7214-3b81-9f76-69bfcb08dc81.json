@@ -1,0 +1,418 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ced881d9-7214-3b81-9f76-69bfcb08dc81",
+  "dc:identifier": "FMABRE056V509N5L",
+  "schema:endDate": [
+    "2026-11-21"
+  ],
+  "schema:startDate": [
+    "2026-05-21"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "CulturalEvent",
+    "CulturalSite",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Expo Photo \"Visibles et invisibles\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/061e986c-836d-3208-a0bd-b972340b631f",
+      "schema:telephone": [
+        "+33 2 97 93 26 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.menhirsmonteneuf.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/40a1165f-807a-3498-8ddb-075fccb44a30",
+      "dc:description": {
+        "de": [
+          "Neue Ausgabe der großformatigen Naturfotoausstellung im Priorat Saint-Etienne. Entdecken Sie die Fotografien von Isabelle Kervarec.\n\nAusstellung im Freien mit freiem Zugang und kostenlosem Eintritt"
+        ],
+        "en": [
+          "New edition of the large-format nature photo exhibition at Prieuré Saint-Etienne. Come and discover Isabelle Kervarec's photographs.\n\nFree outdoor exhibition"
+        ],
+        "it": [
+          "Una nuova mostra di fotografia naturalistica di grande formato al Prieuré Saint-Etienne. Venite a scoprire le fotografie di Isabelle Kervarec.\n\nMostra all'aperto gratuita"
+        ],
+        "fr": [
+          "Nouvelle édition de l’expo photo nature en grand format au Prieuré Saint-Etienne. Venez découvrir les photographies d'Isabelle Kervarec.\n\nExpo en extérieur en accès libre et gratuit"
+        ],
+        "es": [
+          "Una nueva exposición de fotografía de naturaleza de gran formato en el Prieuré Saint-Etienne. Venga a descubrir las fotografías de Isabelle Kervarec.\n\nExposición gratuita al aire libre"
+        ],
+        "nl": [
+          "Een nieuwe tentoonstelling van natuurfotografie op groot formaat in de Prieuré Saint-Etienne. Kom de foto's van Isabelle Kervarec ontdekken.\n\nGratis openluchttentoonstelling"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4ab4bbb5-0a73-307b-8547-a9aa15ad72bf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a21e044e-30f9-35da-8a15-18bbc2b8ae7f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0f51f01-8a85-3c5a-9b55-269f271928c6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e68cb8c8-64d0-3d23-a09e-047f9cb18568",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7bd241a-8083-3077-b6a9-348109fd11e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:NatureAndEnvironment",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Umwelt und Natur"
+        ],
+        "pt": [
+          "Ambiente e natureza"
+        ],
+        "en": [
+          "Nature and environment"
+        ],
+        "it": [
+          "Ambiente e natura"
+        ],
+        "fr": [
+          "Environnement et nature"
+        ],
+        "nl": [
+          "Milieu en natuur"
+        ],
+        "es": [
+          "Medioambiente y naturaleza"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Photography",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Foto"
+        ],
+        "pt": [
+          "Fotografia"
+        ],
+        "en": [
+          "Photography"
+        ],
+        "it": [
+          "Fotografia"
+        ],
+        "fr": [
+          "Photographie"
+        ],
+        "nl": [
+          "Fotografie"
+        ],
+        "es": [
+          "Fotografía"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d1e3840f-8690-3130-a1a2-8e697b2f8e34",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/42f1efe0-a334-3ed5-96a8-af7712933e9e",
+          "schema:addressLocality": "Guer",
+          "schema:postalCode": "56380",
+          "schema:streetAddress": [
+            "Lieu-dit Saint-Étienne",
+            "Prieuré Saint-Étienne",
+            "à 5km de Guer dir Monteneuf"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56075",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guer"
+              ],
+              "pt": [
+                "Guer"
+              ],
+              "en": [
+                "Guer"
+              ],
+              "it": [
+                "Guer"
+              ],
+              "fr": [
+                "Guer"
+              ],
+              "nl": [
+                "Guer"
+              ],
+              "es": [
+                "Guer"
+              ]
+            },
+            "insee": "56075",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8631033c-3603-3955-832e-591c8c8dacf8",
+        "schema:latitude": "45.439695",
+        "schema:longitude": "4.3871779",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-08",
+  "lastUpdateDatatourisme": "2026-05-09T03:13:58.812Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ad391244-7504-34ea-8226-704dbd28b71b",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-11-21",
+      "startDate": "2026-05-21"
+    }
+  ]
+}

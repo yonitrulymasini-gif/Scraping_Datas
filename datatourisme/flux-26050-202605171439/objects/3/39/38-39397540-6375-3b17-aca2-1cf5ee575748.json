@@ -1,0 +1,308 @@
+{
+  "@id": "https://data.datatourisme.fr/38/39397540-6375-3b17-aca2-1cf5ee575748",
+  "dc:identifier": "FMABRE056V50DCQE",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Product",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Guémené, cité hospitalière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d7db6d0-4376-39b6-b383-b4caf649fdd9",
+      "schema:telephone": [
+        "+33 6 80 30 06 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesbainsdelareine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d11fcf1c-f33b-3769-9fe4-90d848448a3e",
+      "dc:description": {
+        "de": [
+          "Jahrhundert, das von Marie de Rohan gegründet wurde, bis zur Einweihung des neuen Krankenhauses Alfred Brard im Jahr 2023. Entdecken Sie, wie die Geschichte des Krankenhauses in Guémené-sur-Scorff zur Organisation der Stadt beigetragen hat."
+        ],
+        "en": [
+          "From the 16th-century hospital founded by Marie de Rohan to the inauguration of the new Alfred Brard hospital in 2023, discover how Guémené-sur-Scorff?s hospital history has played a part in the organization of the town."
+        ],
+        "it": [
+          "Dall'ospedale del XVI secolo fondato da Marie de Rohan all'inaugurazione del nuovo ospedale Alfred Brard nel 2023, scoprite come la storia degli ospedali di Guémené-sur-Scorff abbia contribuito a plasmare la città."
+        ],
+        "fr": [
+          "De l'hôpital du 16e siècle fondé par Marie de Rohan à l’inauguration du nouvel hôpital Alfred Brard en 2023, découvrez comment l’histoire hospitalière de Guémené-sur-Scorff a participé à l’organisation de la cité."
+        ],
+        "nl": [
+          "Van het 16e-eeuwse ziekenhuis gesticht door Marie de Rohan tot de opening van het nieuwe Alfred Brard ziekenhuis in 2023, ontdek hoe de geschiedenis van de ziekenhuizen van Guémené-sur-Scorff een rol heeft gespeeld in de vorming van de stad."
+        ],
+        "es": [
+          "Desde el hospital del siglo XVI fundado por Marie de Rohan hasta la inauguración del nuevo hospital Alfred Brard en 2023, descubra cómo la historia de los hospitales de Guémené-sur-Scorff ha contribuido a dar forma a la ciudad."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/222a5eb7-2578-3e13-b30d-ba21386f8b62",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/464cf732-ce91-3442-add5-13b43b7dcc1c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/48e95e4b-84fd-36ed-945c-2e8757c376d8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7d6b836-6992-30e0-ad80-1a2e1a254584",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b8390067-3a58-3154-b1e4-203b443905cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/53cb2628-a040-31b9-b1b7-eedb37223b3a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1a0a4760-b9cd-3123-b455-d9e6745ec367",
+          "schema:addressLocality": "Guémené-sur-Scorff",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "Les Bains de la Reine",
+            "Place du Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56073",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guémené-sur-Scorff"
+              ],
+              "pt": [
+                "Guémené-sur-Scorff"
+              ],
+              "en": [
+                "Guémené-sur-Scorff"
+              ],
+              "it": [
+                "Guémené-sur-Scorff"
+              ],
+              "fr": [
+                "Guémené-sur-Scorff"
+              ],
+              "nl": [
+                "Guémené-sur-Scorff"
+              ],
+              "es": [
+                "Guémené-sur-Scorff"
+              ]
+            },
+            "insee": "56073",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/98a5b679-dda8-3372-a524-0fa74ecbcf43",
+        "schema:latitude": "48.06714",
+        "schema:longitude": "-3.20752",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-22",
+  "lastUpdateDatatourisme": "2026-04-23T02:53:36.215Z"
+}

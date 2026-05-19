@@ -1,0 +1,328 @@
+{
+  "@id": "https://data.datatourisme.fr/38/701b6052-a6d1-3f45-9f45-732a8a6b20a4",
+  "dc:identifier": "FMABRE056V50E01Y",
+  "schema:endDate": [
+    "2026-06-14"
+  ],
+  "schema:startDate": [
+    "2026-06-14"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Rencontre chorales"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8c823056-3d76-3f43-8dbd-fdb88b68457d",
+      "schema:telephone": [
+        "+33 2 97 23 14 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://musiqueroimorvan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/767ee2e2-4998-3c76-8f68-c64b0342974d",
+      "dc:description": {
+        "de": [
+          "Konzert von zwei Chören. La Marion du Faouët und der Chorale Agora der Musikschule des Pays du Roi Morvan bieten Ihnen ein reichhaltiges und abwechslungsreiches Repertoire von Klassik bis Pop."
+        ],
+        "en": [
+          "Concert by two choirs. La Marion du Faouët and the Agora Choir from the Pays du Roi Morvan music school offer a rich and varied repertoire ranging from classical to pop."
+        ],
+        "it": [
+          "Concerto di due cori. La Marion du Faouët e il Coro Agora della scuola di musica Pays du Roi Morvan propongono un repertorio ricco e vario che spazia dal classico al pop."
+        ],
+        "fr": [
+          "Concert de deux chorales. La Marion du Faouët et la Chorale Agora de l'école de Musique du Pays du Roi Morvan vous propose un répertoire riche et varié allant du classique à la pop."
+        ],
+        "es": [
+          "Concierto de dos coros. La Marion du Faouët y el Coro Agora, de la escuela de música Pays du Roi Morvan, ofrecen un repertorio rico y variado que va del clásico al pop."
+        ],
+        "nl": [
+          "Concert door twee koren. La Marion du Faouët en het Agora koor van de Pays du Roi Morvan muziekschool bieden een rijk en gevarieerd repertoire, van klassiek tot pop."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/504db7ce-61f3-34e9-8b4f-20bf5b235910",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/64e48e40-b7ed-38ef-a754-5441c9da9fe6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9827f8fd-1cdf-36d7-9036-7ed854ba0c89",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae9285fd-ce0c-350e-a034-911e6546f2b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff513093-2d15-3240-8b51-73c31ef71c02",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/393a8ba0-9f42-3d31-9d7a-8ea3492b7120",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/72e47f9e-ac6a-3367-8aef-905874f3c854",
+          "schema:addressLocality": "Le Faouët",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "Cinéma Ellé",
+            "Place de la Corderie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Faouët"
+              ],
+              "pt": [
+                "Le Faouët"
+              ],
+              "en": [
+                "Le Faouët"
+              ],
+              "it": [
+                "Le Faouët"
+              ],
+              "fr": [
+                "Le Faouët"
+              ],
+              "nl": [
+                "Le Faouët"
+              ],
+              "es": [
+                "Le Faouët"
+              ]
+            },
+            "insee": "56057",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/37fa2147-c2ab-3833-989c-c54a1c26e6f3",
+        "schema:latitude": "48.03412",
+        "schema:longitude": "-3.48817",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T03:34:47.254Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9fbaef34-2f86-386e-b936-6baa56a44880",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-14",
+      "endTime": "18:30:00",
+      "startDate": "2026-06-14",
+      "startTime": "17:00:00"
+    }
+  ]
+}

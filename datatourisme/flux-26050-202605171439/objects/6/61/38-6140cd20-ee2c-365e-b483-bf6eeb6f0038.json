@@ -1,0 +1,371 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6140cd20-ee2c-365e-b483-bf6eeb6f0038",
+  "dc:identifier": "ASCBRE056V50CO8W",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Puy & Breizh Maroquinerie (Les Ateliers du Bois Brun)"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/336077c6-fbe5-352f-b429-fd8dbde0a8e6",
+    "schema:legalName": "OT MALESTROIT - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/01770090-1502-3316-a948-ed389cf1c5ff",
+      "schema:telephone": [
+        "+33 7 67 24 87 69"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.facebook.com/Puybreizhcouture/?locale=fr_FR"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/912bf8db-5d1b-34c4-83ca-b6329881fedc",
+      "dc:description": {
+        "de": [
+          "Handgefertigte Kreationen aus Leder, Textilien und Holz, Reparaturen."
+        ],
+        "en": [
+          "Handcrafted leather, textile and wood creations, repairs."
+        ],
+        "it": [
+          "Creazioni artigianali in pelle, tessuto e legno, riparazioni."
+        ],
+        "fr": [
+          "Créations artisanales cuir, textile et bois, réparations."
+        ],
+        "nl": [
+          "Handgemaakte creaties van leer, textiel en hout, reparaties."
+        ],
+        "es": [
+          "Creaciones artesanales en cuero, textil y madera, reparaciones."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7f2f1d60-14a8-331b-86be-1d1f1ea473d3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0191603-9138-3718-819f-e5ad1e4e0a89",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2e31df3-4f4e-315d-9009-b2ff7dedbd35",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b4ffa910-cec7-340f-8ab4-4b98663951b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5bc5d57-ab46-3783-9029-47ef49bab97f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:RestorationProject",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Restaurierungsbaustellen"
+        ],
+        "pt": [
+          "Oficinas de restauro"
+        ],
+        "en": [
+          "Restoration project"
+        ],
+        "it": [
+          "Cantieri di restauro"
+        ],
+        "fr": [
+          "Chantiers de restauration"
+        ],
+        "es": [
+          "Zonas de restauración"
+        ],
+        "nl": [
+          "Restauratieproject"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Woodworking",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Holzarbeiten"
+        ],
+        "pt": [
+          "Trabalho da madeira"
+        ],
+        "en": [
+          "Woodworking"
+        ],
+        "it": [
+          "Lavorazione del legno"
+        ],
+        "fr": [
+          "Travail du bois"
+        ],
+        "es": [
+          "Trabajo de la madera"
+        ],
+        "nl": [
+          "Houtbewerking"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6def3103-46b7-3deb-bb12-a8b249e2e69f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cc63bfb6-14dd-3a6b-85a9-08e65456d4a2",
+          "schema:addressLocality": "Tréal",
+          "schema:postalCode": "56140",
+          "schema:streetAddress": [
+            "5 Le Bois Brun"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56253",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tréal"
+              ],
+              "pt": [
+                "Tréal"
+              ],
+              "en": [
+                "Tréal"
+              ],
+              "it": [
+                "Tréal"
+              ],
+              "fr": [
+                "Tréal"
+              ],
+              "nl": [
+                "Tréal"
+              ],
+              "es": [
+                "Tréal"
+              ]
+            },
+            "insee": "56253",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/370655ce-83c1-3559-85f9-388eda3d3a14",
+        "schema:latitude": "47.8164012",
+        "schema:longitude": "-2.2201892",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-27",
+  "lastUpdateDatatourisme": "2026-02-28T03:36:16.914Z"
+}

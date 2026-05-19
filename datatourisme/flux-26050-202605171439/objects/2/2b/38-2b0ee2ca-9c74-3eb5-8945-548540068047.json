@@ -1,0 +1,393 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2b0ee2ca-9c74-3eb5-8945-548540068047",
+  "dc:identifier": "FMABRE056V50DZOF",
+  "schema:endDate": [
+    "2026-05-30",
+    "2026-06-03"
+  ],
+  "schema:startDate": [
+    "2026-05-30",
+    "2026-06-03"
+  ],
+  "@type": [
+    "schema:Event",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "ShowEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les mômes font leur cinéma : Bonjour l'été"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/545fd277-e53d-36b6-aa59-6b5e2e456b75",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.cinerexpontivy.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2aa67d68-65c2-3730-906f-48c76ed3e1e6",
+      "dc:description": {
+        "de": [
+          "Ciné-goûter + Workshop auf Anmeldung\n44 Min\nAb 3 Jahren"
+        ],
+        "en": [
+          "Ciné-goûter + workshop with registration\n44 min\nAges 3 and up"
+        ],
+        "it": [
+          "Film-snack + workshop sulla registrazione\n44 min\nDa 3 anni"
+        ],
+        "fr": [
+          "Ciné-goûter + atelier sur inscription\n44 min\nA partir de 3 ans"
+        ],
+        "es": [
+          "Película-merienda + taller sobre inscripción\n44 min\nA partir de 3 años"
+        ],
+        "nl": [
+          "Film-snack + workshop over registratie\n44 min\nVanaf 3 jaar"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/956c18c0-e2fc-3ff5-9746-c89896d2ffdd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcee384f-47a4-36f9-a629-d46a9183438b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c3fe5eed-fb0c-3e5c-8b48-cd7e08a78f11",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ecbb4558-8a8d-3721-bb4d-9fae188e0ec6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7526ac7-51f0-3411-b735-4f47cea05845",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Cinema",
+      "@type": [
+        "AccommodationAmenity",
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kino"
+        ],
+        "pt": [
+          "Cinema"
+        ],
+        "en": [
+          "Cinema"
+        ],
+        "it": [
+          "Cinema"
+        ],
+        "fr": [
+          "Cinéma"
+        ],
+        "es": [
+          "Cine"
+        ],
+        "nl": [
+          "Bioscoop"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9afb1639-ab74-34d5-a3d4-ed3f744bb635",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cea12cfc-63ef-3c93-9cd9-2431bd0a522d",
+          "schema:addressLocality": "Pontivy",
+          "schema:postalCode": "56300",
+          "schema:streetAddress": [
+            "Cinéma Rex"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56178",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pontivy"
+              ],
+              "pt": [
+                "Pontivy"
+              ],
+              "en": [
+                "Pontivy"
+              ],
+              "it": [
+                "Pontivy"
+              ],
+              "fr": [
+                "Pontivy"
+              ],
+              "nl": [
+                "Pontivy"
+              ],
+              "es": [
+                "Pontivy"
+              ]
+            },
+            "insee": "56178",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/276e835a-f97e-3fb1-8f3d-d572cb1fe80b",
+        "schema:latitude": "48.07012",
+        "schema:longitude": "-2.94384",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:17:46.096Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/695f72a8-ad7c-38b3-8e7d-8b7776a592d6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-03",
+      "startDate": "2026-06-03"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a546edc5-0e31-324f-ac9e-5110be07865a",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-30",
+      "startDate": "2026-05-30",
+      "startTime": "16:30:00"
+    }
+  ]
+}

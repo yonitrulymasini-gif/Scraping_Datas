@@ -1,0 +1,579 @@
+{
+  "@id": "https://data.datatourisme.fr/38/70132974-3ab5-3a06-ad5d-acbe12cd136e",
+  "dc:identifier": "HLO695061a031b34",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gite des Asphodèles"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/71365f75-3701-35c7-821e-4213e20b4d31",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 6 86 43 29 04",
+        "+33 7 88 17 45 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.gites-de-france.com/fr/bretagne/morbihan/des-asphodeles-56g1060?adults=2&children=0&infants=0"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1626581d-6d4a-30c9-b2c8-9f1ba0d0d955",
+      "schema:legalName": "Gite des Asphodèles",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 6 86 43 29 04",
+        "+33 7 88 17 45 71"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.gites-de-france.com/fr/bretagne/morbihan/des-asphodeles-56g1060?adults=2&children=0&infants=0"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/71365f75-3701-35c7-821e-4213e20b4d31",
+      "schema:telephone": [
+        "+33 2 57 18 00 00",
+        "+33 6 86 43 29 04",
+        "+33 7 88 17 45 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.gites-de-france.com/fr/bretagne/morbihan/des-asphodeles-56g1060?adults=2&children=0&infants=0"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5af5b569-6bd7-302b-9d62-e1a54038ead3",
+      "dc:description": {
+        "de": [
+          "Lust auf grünen Tourismus? Entdecken Sie das Morbihan auf dem Land mit seinen weiten Flächen und Flüssen, die Naturliebhaber, Angler und Wanderer begeistern werden. Während Ihres Aufenthalts werden Sie Le Faouët mit seinen bezaubernden Orten und seinem bemerkenswerten kulturellen und architektonischen Erbe entdecken, wie z. B. die Kapelle Sainte-Barbe, die sich an den Hang einer Schlucht klammert. Dieses Ferienhaus ist der ideale Ort für einen Urlaub mit der Familie oder mit Freunden, der Ruhe und Erholung bietet.\nDieses Ferienhaus befindet sich auf einem 3 Hektar großen Privatgrundstück. - Im Erdgeschoss befinden sich eine ausgestattete Küche, ein Wohnzimmer, ein Schlafzimmer mit einem 140 cm breiten Bett, ein Badezimmer sowie eine separate Toilette.\n- Das Obergeschoss ist über zwei Treppen erreichbar. Die erste führt zu einem kleinen Zimmer mit zwei 90 cm breiten Betten und die zweite zu einem Zwischengeschoss mit einem 160 cm breiten Bett. Im Außenbereich finden Sie zwei Terrassen mit Gartenmöbeln, Grill, Sonnenschirm und einem freien Blick auf einen großen Park. Sie profitieren von einem überdachten Pool mit Schiebeüberdachung, der das ganze Jahr über beheizt ist und ausschließlich von den Mietern genutzt werden darf. Größe: 7,7m x 4,3m x 1,70m Tiefe.\nSie können Ihr Fahrzeug neben dem Ferienhaus parken."
+        ],
+        "en": [
+          "Looking for green tourism? Discover the Morbihan countryside and its wide-open spaces and rivers, which will delight nature lovers, anglers and hikers. During your stay, you'll discover Le Faouët with its enchanting sites and remarkable cultural and architectural heritage, such as the Sainte-Barbe chapel clinging to the side of a ravine. This gîte is the ideal vacation spot for families or friends, offering peace and quiet.\nThe vacation home is located on a 3-hectare private estate. - The first floor comprises a fully-equipped kitchen, a living room, a bedroom with a double bed (140cm), a shower room and a separate toilet.\n- Two staircases lead to the first floor. The first leads to a small bedroom with two 90cm beds, and the second to a mezzanine with a 160cm bed. Outside, you'll find two terraces with garden furniture, barbecue, parasol and an unobstructed view over a large park. You'll also enjoy a covered swimming pool with sliding cover, heated all year round and for the exclusive use of tenants. Dimensions: 7.7m x 4.3m x 1.70m deep.\nYou can park your car next to the gîte."
+        ],
+        "it": [
+          "Siete alla ricerca di un turismo verde? Scoprite la campagna del Morbihan e i suoi ampi spazi aperti e i suoi fiumi, che faranno la gioia degli amanti della natura, della pesca e dell'escursionismo. Durante il vostro soggiorno, scoprirete Le Faouët con i suoi siti incantevoli e il suo notevole patrimonio culturale e architettonico, come la cappella Sainte-Barbe aggrappata al fianco di una gola. Questo gîte è il luogo ideale per una vacanza in famiglia o con gli amici, che offre pace e tranquillità.\nQuesta casa vacanze è immersa in 3 ettari di terreno privato. - Al piano terra si trovano una cucina attrezzata, un soggiorno, una camera con letto matrimoniale (140 cm), un bagno con doccia e una toilette separata.\n- Due scale portano al primo piano. La prima conduce a una cameretta con due letti da 90 cm e la seconda a un soppalco con un letto da 160 cm. All'esterno ci sono due terrazze con mobili da giardino, barbecue, ombrellone e vista ininterrotta su un grande parco. C'è una piscina coperta con copertura scorrevole, riscaldata tutto l'anno e ad uso esclusivo degli inquilini. Dimensioni: 7,7 m x 4,3 m x 1,70 m di profondità.\nÈ possibile parcheggiare l'auto accanto all'alloggio."
+        ],
+        "fr": [
+          "Envie de tourisme vert ? Découvrez le Morbihan côté campagne et ses grands espaces et rivières, qui raviront les amateurs de nature, de pêche et de randonnées. Durant votre séjour, vous découvrirez Le Faouët avec ses sites enchanteurs et son patrimoine culturel et architectural remarquable, comme la chapelle Sainte-Barbe accrochée au flanc d'un ravin. Ce gîte est le lieu de vacances idéal en famille ou entre amis offrant calme et repos.\nCette maison de vacances est située sur une propriété privée de 3 hectares. - Au rez-de-chaussée, une cuisine équipée, un salon, une chambre avec un lit en 140, une salle d'eau ainsi qu'un wc indépendant.\n- L'étage est desservi par deux escaliers. Le premier menant à une petite chambre avec deux lits en 90 et le second menant à une mezzanine avec un lit en 160. A l'extérieur, vous trouverez deux terrasses avec salons de jardin, barbecue, parasol et une vue dégagée sur un grand parc. Vous profiterez d'une piscine couverte, avec abri coulissant, et chauffée toute l'année et à usage exclusif des locataires. Dimension : 7.7m x 4.3mx 1.70m de profondeur.\nVous pourrez stationner votre véhicule à côté du gîte."
+        ],
+        "es": [
+          "¿Busca un turismo verde? Descubra la campiña de Morbihan y sus amplios espacios abiertos y ríos, que harán las delicias de los amantes de la naturaleza, los pescadores y los senderistas. Durante su estancia, descubrirá Le Faouët con sus encantadores parajes y su notable patrimonio cultural y arquitectónico, como la capilla Sainte-Barbe aferrada a la ladera de un barranco. Esta casa rural es el lugar ideal para unas vacaciones en familia o con amigos, ofreciendo paz y tranquilidad.\nEsta casa rural se encuentra en un terreno privado de 3 hectáreas. - En la planta baja, hay una cocina equipada, una sala de estar, un dormitorio con cama doble (140 cm), un cuarto de ducha y un aseo.\n- Dos escaleras conducen a la primera planta. La primera conduce a un pequeño dormitorio con dos camas de 90 cm y la segunda a un altillo con una cama de 160 cm. En el exterior, hay dos terrazas con muebles de jardín, barbacoa, sombrilla y vistas ininterrumpidas a un gran parque. Hay una piscina cubierta con cubierta deslizante, climatizada todo el año y para uso exclusivo de los inquilinos. Dimensiones: 7,7m x 4,3m x 1,70m de profundidad.\nSe puede aparcar el coche junto a la casa rural."
+        ],
+        "nl": [
+          "Op zoek naar groen toerisme? Ontdek het platteland van Morbihan met zijn uitgestrekte landschappen en rivieren, waar natuurliefhebbers, vissers en wandelaars hun hart kunnen ophalen. Tijdens je verblijf ontdek je Le Faouët met zijn betoverende plekjes en opmerkelijk cultureel en architecturaal erfgoed, zoals de Sainte-Barbe-kapel die zich vastklampt aan de rand van een ravijn. Deze gîte is de ideale vakantiebestemming voor gezinnen of vrienden en biedt rust en stilte.\nDit vakantiehuis ligt op een privéterrein van 3 hectare. - Op de begane grond is er een ingerichte keuken, een woonkamer, een slaapkamer met een tweepersoonsbed (140cm), een doucheruimte en een apart toilet.\n- Twee trappen leiden naar de eerste verdieping. De eerste leidt naar een kleine slaapkamer met twee bedden van 90 cm en de tweede naar een mezzanine met een bed van 160 cm. Buiten zijn er twee terrassen met tuinmeubelen, barbecue, parasol en ononderbroken uitzicht over een groot park. Er is een overdekt zwembad met schuifdak, het hele jaar door verwarmd en voor exclusief gebruik van de huurders. Afmetingen: 7,7m x 4,3m x 1,70m diep.\nJe kunt je auto naast de gîte parkeren."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2a5a311a-9b2d-3963-be1f-5249047c052b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3aa1e94c-1ca5-39f0-9bc1-0ee598207ac1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/75859227-0ada-31a0-b5ba-51c5b5f2fe7a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9358ccaf-e567-3224-8a39-8efadb85aa9f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae575c50-260e-344e-b4e0-863c19d56d88",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d8f8ae86-155a-32df-95f9-3dcc2c556ac7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/577ecf23-8873-3e1d-8b41-bee2cd179540",
+          "schema:addressLocality": "Lanvénégen",
+          "schema:postalCode": "56320",
+          "schema:streetAddress": [
+            "1 Keriel"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56105",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lanvénégen"
+              ],
+              "pt": [
+                "Lanvénégen"
+              ],
+              "en": [
+                "Lanvénégen"
+              ],
+              "it": [
+                "Lanvénégen"
+              ],
+              "fr": [
+                "Lanvénégen"
+              ],
+              "nl": [
+                "Lanvénégen"
+              ],
+              "es": [
+                "Lanvénégen"
+              ]
+            },
+            "insee": "56105",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/80f0f5e8-b70e-3d38-b3f1-b67249a35c4b",
+        "schema:latitude": "45.4587971",
+        "schema:longitude": "-94.418775",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.198Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ce3d8745-c354-351a-aed1-d18446451af9",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

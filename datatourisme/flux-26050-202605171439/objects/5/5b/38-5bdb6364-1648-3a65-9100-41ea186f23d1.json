@@ -1,0 +1,572 @@
+{
+  "@id": "https://data.datatourisme.fr/38/5bdb6364-1648-3a65-9100-41ea186f23d1",
+  "dc:identifier": "HLOBRE000V51K200",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gites de Ker Mane \"Iroise\""
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/85a143c9-9f03-3824-bb7d-1361c2fce5ad",
+      "schema:telephone": [
+        "+33 2 97 59 77 27",
+        "+33 6 86 43 29 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mygitesbreizh.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/85a143c9-9f03-3824-bb7d-1361c2fce5ad",
+      "schema:telephone": [
+        "+33 2 97 59 77 27",
+        "+33 6 86 43 29 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mygitesbreizh.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/97089b29-b970-31c2-9e94-47d7c1d7db42",
+      "schema:legalName": "Gites de Ker Mane \"Iroise\"",
+      "schema:telephone": [
+        "+33 2 97 59 77 27",
+        "+33 6 86 43 29 61"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mygitesbreizh.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/089bc4c2-23d1-3742-8078-52015018234f",
+      "dc:description": {
+        "de": [
+          "4 km vom feinen Sandstrand entfernt, für den Erdeven berühmt ist. Dieses Ferienhaus für 4 Personen befindet sich im Obergeschoss eines anderen Ferienhauses und öffnet seine Türen für Sie.\n\nDieses Bauernhaus aus dem 18. Jahrhundert bietet einen charaktervollen Wohnraum mit einer kleinen, ausgestatteten Küche. Durch eine Schiebetür gelangen Sie in ein Zimmer für 2 Personen (2 Betten von 90 cm Breite) mit eigenem Bad und WC: Ein zweites Zimmer, das nur von außen zugänglich ist, ist ebenfalls für 2 Personen (Bett 160 x 200), ebenfalls mit eigenem Bad und WC.\n\nBettwäsche und Handtücher werden gestellt. Eine Terrasse mit Gartenmöbeln und ein Garten zur gemeinsamen Nutzung mit der angrenzenden Gîte. Parkplatz auf dem Grundstück. Angrenzend an die Unterkunft (Téviec) 56G54103. Wäschetrockner des Eigentümers zur Verfügung. Für unsere Freunde, die Tiere, siehe beim Eigentümer."
+        ],
+        "en": [
+          "4 km from Erdeven's famous sandy beach. This 4-person gîte, on the first floor of another gite, opens its doors to you.\n\nThis 18th-century farmhouse features a characterful living room with a small, fully-equipped kitchen. A sliding door leads to a 2-person bedroom (2 x 90cm beds) with en-suite shower room and WC. A second bedroom, accessible only from outside the gîte, is also for two people (160 x 200cm bed), with en-suite shower room and WC.\n\nBed linen and towels provided. A terrace with garden furniture and a garden shared with the adjoining gîte. Parking on the property. Adjoining gîte (Téviec) 56G54103. Owner's tumble dryer available. For pets, please contact the owner."
+        ],
+        "it": [
+          "A 4 km dalla spiaggia di sabbia per cui Erdeven è famosa. Questo gîte per 4 persone si trova al primo piano di un altro gîte.\n\nQuesta casa colonica del XVIII secolo dispone di un soggiorno caratteristico con una piccola cucina attrezzata. Una porta scorrevole conduce a una camera matrimoniale (2 letti da 90 cm) con bagno doccia e WC. Una seconda camera, accessibile solo dall'esterno dell'alloggio, è anch'essa per due persone (letto da 160 x 200 cm) e dispone di bagno doccia e WC.\n\nLenzuola e asciugamani forniti. Terrazza con mobili da giardino e giardino in comune con la casa adiacente. Parcheggio all'interno della proprietà. Alloggio adiacente (Téviec) 56G54103. Asciugatrice del proprietario disponibile. Per gli animali domestici, siete pregati di contattare il proprietario."
+        ],
+        "fr": [
+          "A 4 km de la plage de sable fin qui fait la renommée d'Erdeven. Ce gîte 4 personnes, à l'étage d'un autre gite vous ouvre ses portes.\n\nCette longère du 18ème offre une pièce de vie de caractère avec une petite cuisine équipée. Par une porte coulissante, accédez à une chambre 2 personnes (2 lits de 90) avec salle d'eau et WC privatifs : une deuxième chambre, accessible seulement par l'extérieur du gîte, est également pour deux personnes (lit 160 x 200) avec aussi une salle d'eau et des WC privatifs.\n\nDraps et linge de toilette fournis. Une terrasse avec salon de jardin et un jardin en commun avec le gîte mitoyen. Parking dans la propriété. Mitoyen avec le gîte (Téviec) 56G54103. Sèche-linge du propriétaire à disposition. Pour nos amis les animaux, voir auprès du propriétaire."
+        ],
+        "nl": [
+          "Op 4 km van het zandstrand waar Erdeven bekend om staat. Deze 4-persoons gîte ligt op de eerste verdieping van een andere gîte.\n\nDeze 18e-eeuwse boerderij heeft een karakteristieke woonkamer met een kleine inbouwkeuken. Een schuifdeur leidt naar een tweepersoonskamer (2 bedden van 90 cm) met en-suite badkamer met douche en toilet. Een tweede slaapkamer, alleen toegankelijk via de buitenkant van de gîte, is ook voor twee personen (bed van 160 x 200 cm) en heeft ook een en-suite badkamer met douche en toilet.\n\nBeddengoed en handdoeken aanwezig. Een terras met tuinmeubelen en een tuin die gedeeld wordt met de aangrenzende gîte. Parkeerplaats op het terrein. Aangrenzende gîte (Téviec) 56G54103. Wasdroger van de eigenaar beschikbaar. Voor huisdieren, neem contact op met de eigenaar."
+        ],
+        "es": [
+          "A 4 km de la playa de arena por la que es famosa Erdeven. Esta casa rural para 4 personas se encuentra en el primer piso de otra casa rural.\n\nEsta granja del siglo 18 tiene una sala de estar con carácter con una pequeña cocina equipada. Una puerta corredera conduce a un dormitorio doble (2 camas de 90 cm) con cuarto de baño con ducha y WC. Un segundo dormitorio, accesible sólo desde el exterior de la casa rural, es también para dos personas (cama de 160 x 200 cm) y también tiene un cuarto de baño con ducha y WC.\n\nRopa de cama y toallas incluidas. Una terraza con muebles de jardín y un jardín compartido con la casa rural contigua. Aparcamiento en la propiedad. Casa rural contigua (Téviec) 56G54103. Secadora a disposición del propietario. Para los animales, contactar con el propietario."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3a42cd1f-be8a-376f-b701-cadb410a20da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4658b45a-2888-3cc5-8bb7-cf9bb8e1fa2e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/552f5a20-627c-3baf-8ff5-e1ae0550cf5d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcebdcb8-69dd-323b-87c7-5fa8d7778f0a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2d25443-d22b-3066-910e-5d179a244fc0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cf20e973-ce1c-322b-abe4-b01484998ba0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4f4235d9-54fe-34c9-8dfb-8b0c3cb65096",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "2 Lieu-dit Le Manémeur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/74e85ed3-3782-32ae-841b-2e422c01616c",
+        "schema:latitude": "47.6522779",
+        "schema:longitude": "-3.1521293",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-15",
+  "lastUpdateDatatourisme": "2026-05-16T03:56:15.154Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

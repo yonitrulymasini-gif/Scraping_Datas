@@ -1,0 +1,352 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f61e9084-fc50-32e9-af8a-8b13c74b7edc",
+  "dc:identifier": "ASC9b2e433ca3394",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Centre équestre Kerian"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/805b8749-9ce4-39a5-921a-9fb6c0a8c0ea",
+      "schema:telephone": [
+        "+33 6 50 58 42 62",
+        "+33 6 82 70 59 73"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://kerian-equitation.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1755840a-eb3f-3e35-ad92-8038ae4000b8",
+      "dc:description": {
+        "de": [
+          "Das Reitzentrum Kérian équitation liegt mitten im Herzen des Golfs von Morbihan und ist das ganze Jahr über geöffnet. 3 staatlich geprüfte Lehrer stehen Ihnen zur Verfügung, um Kurse, Ausritte und Praktika für Kinder ab 3 Jahren und Anfänger bis zum Galop 7 anzubieten."
+        ],
+        "en": [
+          "Located in the heart of the Gulf of Morbihan, the Kérian equestrian center is open all year round. 3 state-qualified teachers are at your disposal for lessons, rides, training courses from 3 years old and from the beginner level to the galop 7."
+        ],
+        "it": [
+          "Situato nel cuore del Golfo di Morbihan, il centro ippico di Kérian è aperto tutto l'anno. 3 insegnanti qualificati dallo Stato sono a vostra disposizione per lezioni, passeggiate e corsi di formazione a partire dall'età di 3 anni e dal livello principiante fino al galop 7."
+        ],
+        "fr": [
+          "Situé en plein cœur du Golfe du Morbihan, le centre équestre Kérian équitation est ouvert toute l'année. 3 enseignants diplômés d'Etat se tiennent à votre disposition afin de disposer des cours, des balades, des stages à partir de 3 ans et du niveau débutant jusqu'au galop 7."
+        ],
+        "es": [
+          "Situado en el corazón del Golfo de Morbihan, el centro ecuestre de Kérian está abierto todo el año. 3 profesores titulados por el Estado están a su disposición para dar clases, paseos y cursos de formación a partir de los 3 años y desde el nivel de principiante hasta el galope 7."
+        ],
+        "nl": [
+          "De manege van Kérian, gelegen in het hart van de Golf van Morbihan, is het hele jaar geopend. 3 gediplomeerde leraren staan tot uw beschikking voor lessen, ritten en trainingen vanaf 3 jaar en van beginnersniveau tot galop 7."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2af45076-3b75-34e4-93a7-1b9f12ca5764",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/809b5db0-47b2-3a41-81f6-992650e4af1f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa126ea8-82d9-3854-aeda-3c06b529d36c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba545274-5953-3196-a613-56b7e534fd3c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfe1938e-0230-3645-a66b-d18c81beb2b3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Riding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Reiten"
+        ],
+        "pt": [
+          "Equitação"
+        ],
+        "en": [
+          "Riding"
+        ],
+        "it": [
+          "Equitazione"
+        ],
+        "fr": [
+          "Equitation"
+        ],
+        "nl": [
+          "Paardrijden"
+        ],
+        "es": [
+          "Equitación"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0b4b9f6f-c5f2-3a8d-a709-1b0abf979d11",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ef9ef861-97e8-3e4c-827c-b9046faa519d",
+          "schema:addressLocality": "Le Bono",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Kerian"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Bono"
+              ],
+              "pt": [
+                "Le Bono"
+              ],
+              "en": [
+                "Le Bono"
+              ],
+              "it": [
+                "Le Bono"
+              ],
+              "fr": [
+                "Le Bono"
+              ],
+              "nl": [
+                "Le Bono"
+              ],
+              "es": [
+                "Le Bono"
+              ]
+            },
+            "insee": "56262",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/66d269ff-4684-3e14-bc55-9ffd5c4deeb5",
+        "schema:latitude": "47.63729",
+        "schema:longitude": "-2.942902",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e00417ca-8d76-3dbb-9e3b-9cd7149372cb",
+          "schema:validFrom": "2019-01-01T00:00:00",
+          "schema:validThrough": "2019-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.335Z"
+}

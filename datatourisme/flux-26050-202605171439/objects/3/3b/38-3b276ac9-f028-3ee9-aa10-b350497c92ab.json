@@ -1,0 +1,417 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3b276ac9-f028-3ee9-aa10-b350497c92ab",
+  "dc:identifier": "FMABRE056V50DW35",
+  "schema:endDate": [
+    "2026-07-04"
+  ],
+  "schema:startDate": [
+    "2026-07-04"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Musiques espagnoles du Moyen-Age et de la Renaissance"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e0b69e22-d85c-398d-9f93-527687611181",
+      "schema:telephone": [
+        "+33 6 20 13 51 35"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://kerboutier.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1b9a4b50-1e08-33b0-9608-0f2ad63d7a2f",
+      "dc:description": {
+        "de": [
+          "Die Compagnie ARTEMUSIE bietet ein Konzert mit spanischer Musik aus dem Mittelalter und der Renaissance,: La conviviencia\nEva Fogelgesang: Gesang, Harfen, Viola, Saz\nChristophe Deslignes: Gesang, Organetto, Flöten"
+        ],
+        "en": [
+          "Compagnie ARTEMUSIE presents a concert of Spanish music from the Middle Ages and the Renaissance: La conviviencia\nEva Fogelgesang: vocals, harps, fiddle, saz\nChristophe Deslignes: vocals, organetto, flutes"
+        ],
+        "it": [
+          "La Compagnia ARTEMUSIE presenta un concerto di musica spagnola del Medioevo e del Rinascimento: La conviviencia\nEva Fogelgesang: voce, arpe, violino, saz\nChristophe Deslignes: voce, organetto, flauti"
+        ],
+        "fr": [
+          "La Compagnie ARTEMUSIE propose un concert de musiques espagnoles du Moyen-Age et de la Renaissance, : La conviviencia\nEva Fogelgesang : chant, harpes, vièle, saz \nChristophe Deslignes : chant, organetto, flûtes"
+        ],
+        "es": [
+          "La compañía ARTEMUSIE presenta un concierto de música española de la Edad Media y el Renacimiento: La conviviencia\nEva Fogelgesang: canto, arpas, violín, saz\nChristophe Deslignes: canto, organetto, flautas"
+        ],
+        "nl": [
+          "Het gezelschap ARTEMUSIE presenteert een concert met Spaanse muziek uit de Middeleeuwen en de Renaissance: La conviviencia\nEva Fogelgesang: zang, harpen, viool, saz\nChristophe Deslignes: zang, organetto, fluiten"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/073548bc-b197-384c-9636-7137c7ae0b37",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/08c1125f-34a6-386b-b03b-3328333b1458",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/507cceef-07a7-3f43-b774-eca1549f951e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2e845c5-464c-32a2-92f7-6d0b04385cb8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc4ac657-187d-3f23-8283-c29c41880f13",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:ClassicalMusic",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Klassische Musik"
+        ],
+        "pt": [
+          "Música clássica"
+        ],
+        "en": [
+          "Classical music"
+        ],
+        "it": [
+          "Musica classica"
+        ],
+        "fr": [
+          "Musique classique"
+        ],
+        "es": [
+          "Música clásica"
+        ],
+        "nl": [
+          "Klassieke muziek"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Music",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Musik"
+        ],
+        "pt": [
+          "Música"
+        ],
+        "en": [
+          "Music"
+        ],
+        "it": [
+          "Musica"
+        ],
+        "fr": [
+          "Musique"
+        ],
+        "nl": [
+          "Muziek"
+        ],
+        "es": [
+          "Música"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8690a432-6efb-3b92-b4e1-6f430cbf6e29",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3cc30427-6b47-34bf-a767-64579dfa6e97",
+          "schema:addressLocality": "Noyal-Pontivy",
+          "schema:postalCode": "56920",
+          "schema:streetAddress": [
+            "Kerboutier",
+            "Manoir"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56151",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Noyal-Pontivy"
+              ],
+              "pt": [
+                "Noyal-Pontivy"
+              ],
+              "en": [
+                "Noyal-Pontivy"
+              ],
+              "it": [
+                "Noyal-Pontivy"
+              ],
+              "fr": [
+                "Noyal-Pontivy"
+              ],
+              "nl": [
+                "Noyal-Pontivy"
+              ],
+              "es": [
+                "Noyal-Pontivy"
+              ]
+            },
+            "insee": "56151",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a342fbbc-f492-399b-96d3-c485ea230dad",
+        "schema:latitude": "48.0310501",
+        "schema:longitude": "-2.8779777",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.834Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6e5353eb-e9c4-3333-9c81-b22ecc534cfc",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-04",
+      "endTime": "21:30:00",
+      "startDate": "2026-07-04",
+      "startTime": "20:00:00"
+    }
+  ]
+}

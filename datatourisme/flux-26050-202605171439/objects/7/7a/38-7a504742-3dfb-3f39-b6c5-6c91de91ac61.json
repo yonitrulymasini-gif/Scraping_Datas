@@ -1,0 +1,343 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7a504742-3dfb-3f39-b6c5-6c91de91ac61",
+  "dc:identifier": "ASC935b203707e74",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Tours d'Iles - Pêche en mer"
+    ],
+    "fr": [
+      "Tours d'Iles - Pêche en mer"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c35a1712-5c97-3704-8a8f-98c3bfc7c179",
+      "schema:telephone": [
+        "+33 6 63 53 47 18"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.toursdiles.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3696f226-9d54-3b88-8cf3-74d5ae9ceab1",
+      "dc:description": {
+        "de": [
+          "Hochseeangeln mit einem Berufsfischer auf einem 9 m langen Hybrid-Motorboot für 4 bis 6 Angler, vom Anfänger bis zum Anglerbiss und -kenner.\r\nHochwertige Ausrüstung wird zur Verfügung gestellt."
+        ],
+        "en": [
+          "Sea fishing with a professional fisherman on a 9-metre hybrid motorboat for 4 to 6 anglers, from beginners to fishing enthusiasts and connoisseurs.\r\nTop-of-the-range equipment provided."
+        ],
+        "it": [
+          "Pesca in mare con un pescatore professionista su un motoscafo ibrido di 9 metri per 4-6 pescatori, dai principianti agli esperti.\r\nAttrezzatura di alta gamma fornita."
+        ],
+        "fr": [
+          "Pêche en mer avec pêcheur professionnel sur vedette à moteur hybride de 9 mètres pour 4 à 6 pêcheurs, du débutant au mordu et connaisseur en pêche.\r\nMatériel haut de gamme fourni."
+        ],
+        "nl": [
+          "Zeevissen met een professionele visser op een hybride motorboot van 9 meter voor 4 tot 6 vissers, van beginners tot experts.\r\nUitrusting van topklasse."
+        ],
+        "es": [
+          "Pesca en el mar con un pescador profesional en una lancha motora híbrida de 9 metros para 4 a 6 pescadores, desde principiantes hasta expertos.\r\nEquipamiento de alta gama incluido."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4229bc47-4a29-30fa-bf7c-2b6d3ece567e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/575312eb-e492-3e3d-b639-ccc86fb5fecc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6cb48cba-8da7-3565-bb36-76cc24b5af26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9304056d-0e04-3579-9a6e-9e82745f45a6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c3597f3-4302-36c0-a446-f63b9bdba90f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:SeaFishing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Meeresfischerei"
+        ],
+        "pt": [
+          "Pesca no mar"
+        ],
+        "en": [
+          "Sea fishing"
+        ],
+        "it": [
+          "Pesca marittima"
+        ],
+        "fr": [
+          "Pêche en mer"
+        ],
+        "nl": [
+          "Zeevissen"
+        ],
+        "es": [
+          "Pesca marítima"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4dea9ac2-ff15-3bc7-9c29-2543f1728393",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/67550e9b-e409-3253-bf44-c4ab719ede56",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "Port Maria"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/70a3b272-cace-3266-8674-deb8b1a3424c",
+        "schema:latitude": "47.4752767",
+        "schema:longitude": "-3.126994",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.328Z"
+}

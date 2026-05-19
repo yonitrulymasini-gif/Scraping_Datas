@@ -1,0 +1,544 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7c7faa4c-ffda-3a82-b617-eaf655f9b42d",
+  "dc:identifier": "HLOBRE056V5033KC",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Escale Mane Braz"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/328f0a2c-6390-3e1a-9255-dfa31a9f1b43",
+      "schema:telephone": [
+        "+33 6 16 18 08 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.escale-manebraz.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/328f0a2c-6390-3e1a-9255-dfa31a9f1b43",
+      "schema:telephone": [
+        "+33 6 16 18 08 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.escale-manebraz.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d6b51421-cef3-30e6-8b3e-dcaa852abfed",
+      "schema:legalName": "Escale Mane Braz",
+      "schema:telephone": [
+        "+33 6 16 18 08 75"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.escale-manebraz.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d1ad32d5-e0c3-396e-b554-8741fca2f7de",
+      "dc:description": {
+        "de": [
+          "Das Escale Mane Braz empfängt Sie mit Meerblick, 2 km von La Trinité-sur-Mer entfernt.\n\nDas vollständig restaurierte Architektenhaus überblickt den Meeresarm, der in die Bucht von Quiberon mündet, eine grüne Oase mit Blick auf La Trinité-sur-Mer.\n\nDas Haus besteht aus einem separaten Eingang für die Gäste, einem ersten Schlafzimmer im Erdgeschoss mit einer privaten Terrasse. Die beiden anderen Schlafzimmer befinden sich im Obergeschoss, von denen eines von der Aussicht profitiert. Im Obergeschoss befinden sich ein Wohn- und Esszimmer für das Frühstück sowie zwei große Terrassen, auf denen Sie flanieren und die Aussicht auf den Kanal von La Trinité sur Mer genießen können.\n\nDer Park besteht im unteren Teil aus einem Obstgarten.\n\nVerschiedene kleine Ecken sind eingerichtet, um den großen schattigen Garten zu genießen. Wunderschöne Sonnenaufgänge und -untergänge. Das Frühstück wird im Obergeschoss oder auf der Terrasse mit Blick auf den Meeresarm serviert und besteht aus überwiegend hausgemachten oder lokalen Produkten.\n\nWir bereiten Ihnen einen aufrichtigen und zuvorkommenden Empfang, damit Sie eine unvergessliche Zeit verbringen können. Dank unserer Erfahrung werden wir alles tun, um Ihren Aufenthalt zu einem Erfolg zu machen.\n\nVon unserem Gästehaus aus können Sie die ganze Region Morbihan erkunden, sowohl die Küstenregionen wie Carnac, Quiberon, den Golf von Morbihan, Vannes als auch Josselin, Rochefort en Terre, Port Louis, Lorient?\n\nSie können vom Haus aus Wanderungen und Radtouren unternehmen."
+        ],
+        "en": [
+          "L'escale Mane Braz offers sea views, 2 km from La Trinité-sur-Mer.\n\nThis fully restored architect-designed house overlooks the arm of the sea that flows into Quiberon Bay, a green setting with a view of La Trinité-sur-Mer.\n\nThe house features a separate entrance for guests, a first bedroom on the first floor with its own private terrace. The other 2 bedrooms are upstairs, one of which enjoys the view. Upstairs is a breakfast room and 2 large terraces where you can stroll and admire the view of the Trinité-sur-Mer channel.\n\nThe lower part of the grounds features an orchard.\n\nVarious little nooks and crannies have been laid out to make the most of the large, shady garden. Magnificent sunrises and sunsets. Breakfasts are served upstairs or on the terrace overlooking the inlet, and feature mainly home-made or local products.\n\nWe offer a sincere and thoughtful welcome to ensure you have an unforgettable time. With our wealth of experience behind us, we'll do everything we can to make your stay a success.\n\nFrom our guesthouse you can explore the whole of Morbihan, including the seaside towns of Carnac, Quiberon, the Gulf of Morbihan, Vannes, Josselin, Rochefort en Terre, Port Louis, Lorient?\n\nWalking and cycling tours available from the house."
+        ],
+        "it": [
+          "L'escale Mane Braz vi accoglie con vista sul mare, a 2 km da La Trinité-sur-Mer.\n\nQuesta casa completamente ristrutturata e progettata da un architetto si affaccia sul braccio di mare che sfocia nella baia di Quiberon, in un ambiente verde con vista su La Trinité-sur-Mer.\n\nLa casa comprende un ingresso separato per gli ospiti, una prima camera da letto al piano terra con terrazza privata. Le altre due camere da letto si trovano al piano superiore, una delle quali con vista. Al piano superiore si trovano un salotto/sala da pranzo per le colazioni e 2 ampie terrazze dove è possibile passeggiare e ammirare la vista sul canale di Trinité-sur-Mer.\n\nNella parte inferiore del terreno si trova un frutteto.\n\nAlcuni piccoli angoli sono stati predisposti per sfruttare al meglio l'ampio giardino ombreggiato. Magnifiche albe e tramonti. Le colazioni vengono servite al piano superiore o sulla terrazza con vista sull'insenatura e sono composte principalmente da prodotti fatti in casa o locali.\n\nVi daremo un'accoglienza sincera e premurosa per farvi trascorrere un periodo indimenticabile. Grazie alla nostra esperienza, faremo tutto il possibile per rendere il vostro soggiorno un successo.\n\nDalla nostra pensione potrete esplorare tutto il Morbihan, compreso il mare di Carnac, Quiberon, il Golfo di Morbihan, Vannes, Josselin, Rochefort en Terre, Port Louis, Lorient?\n\nDalla casa partono anche percorsi a piedi e in bicicletta."
+        ],
+        "fr": [
+          "L'escale Mane Braz vous accueille avec vue sur mer, à 2 km de La Trinité-sur-Mer.\n\nMaison d'architecte, entièrement restaurée, surplombe le bras de mer qui va se jeter dans la baie de Quiberon, un écrin de verdure avec vue sur La Trinité-sur-Mer.\n\nLa maison est composée d'une entrée indépendante pour les hôtes, une première chambre au rez-de-chaussée avec sa terrasse privative. Les 2 autres chambres sont à l'étage dont l'une profite de la vue. À l'étage un salon salle à manger pour les petits déjeuners ainsi que 2 grandes terrasses pour flâner et admirer la vue sur le chenal de la Trinité sur mer.\n\nLe parc se compose d'un verger dans sa partie basse.\n\nDifférents petits coins sont aménagés pour profiter du grand jardin ombragé. Levers et couchers de soleil magnifiques. Les petits déjeuners sont servis à l'étage, ou bien sur la terrasse surplombant le bras de mer et se composent de produits essentiellement maison ou bien locaux.\n\nNous vous réservons un accueil sincère et prévenant afin de vous faire passer un moment inoubliable. Fort de notre expérience, nous mettrons tout en place pour que votre séjour soit réussi.\n\nÀ partir de notre maison d'hôtes vous pourrez explorer tout le Morbihan, aussi bien le bord de mer comme Carnac, Quiberon, le Golfe du Morbihan, Vannes mais aussi Josselin, Rochefort en Terre , Port Louis, Lorient…\n\nPossibilités de circuits à pieds, à vélo à partir de la maison."
+        ],
+        "nl": [
+          "L'escale Mane Braz verwelkomt je met uitzicht op zee, op 2 km van La Trinité-sur-Mer.\n\nDit volledig gerestaureerde onder architectuur gebouwde huis kijkt uit over de zeearm die uitmondt in de baai van Quiberon, een groene omgeving met uitzicht op La Trinité-sur-Mer.\n\nHet huis heeft een aparte ingang voor gasten, een eerste slaapkamer op de begane grond met een eigen terras. De andere 2 slaapkamers bevinden zich op de bovenverdieping, waarvan één met uitzicht. Boven is er een zit/eetkamer voor het ontbijt en 2 grote terrassen waar je kunt wandelen en het uitzicht op het kanaal van Trinité-sur-Mer kunt bewonderen.\n\nOp het lager gelegen deel van het terrein is een boomgaard.\n\nEr zijn een aantal kleine hoekjes aangelegd om optimaal te profiteren van de grote schaduwrijke tuin. Prachtige zonsopgangen en zonsondergangen. Het ontbijt wordt boven geserveerd of op het terras met uitzicht op de inham en bestaat voornamelijk uit zelfgemaakte of lokale producten.\n\nWe heten je van harte welkom om je een onvergetelijke tijd te bezorgen. Met onze schat aan ervaring zullen we er alles aan doen om je verblijf tot een succes te maken.\n\nVanuit ons pension kun je de hele Morbihan verkennen, inclusief de kust bij Carnac, Quiberon, de Golf van Morbihan, Vannes, maar ook Josselin, Rochefort en Terre, Port Louis, Lorient?\n\nEr zijn ook wandel- en fietsroutes vanaf het huis."
+        ],
+        "es": [
+          "L'escale Mane Braz le da la bienvenida con vistas al mar, a 2 km de La Trinité-sur-Mer.\n\nEsta casa de arquitecto totalmente restaurada da al brazo de mar que desemboca en la bahía de Quiberon, un entorno verde con vistas a La Trinité-sur-Mer.\n\nLa casa consta de una entrada independiente para los huéspedes, un primer dormitorio en la planta baja con su propia terraza privada. Los otros 2 dormitorios están arriba, uno de ellos con vistas. Arriba, hay un salón/comedor para los desayunos y 2 grandes terrazas donde pasear y admirar la vista del canal de la Trinité-sur-Mer.\n\nEn la parte inferior del terreno hay un huerto.\n\nVarios pequeños rincones han sido acondicionados para aprovechar al máximo el gran jardín sombreado. Magníficos amaneceres y puestas de sol. Los desayunos se sirven arriba o en la terraza con vistas a la ensenada y se componen principalmente de productos caseros o locales.\n\nLe daremos una bienvenida sincera y atenta para que pase unos días inolvidables. Con nuestra gran experiencia, haremos todo lo posible para que su estancia sea un éxito.\n\nDesde nuestra casa de huéspedes, podrá explorar todo Morbihan, incluyendo la costa de Carnac, Quiberon, el Golfo de Morbihan, Vannes, así como Josselin, Rochefort en Terre, Port Louis, Lorient?\n\nTambién hay rutas de senderismo y ciclismo desde la casa."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/20ba05b2-fb53-3059-9d7a-c37033b272ac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/26946284-ffdb-3d79-b0e0-9db839a379d8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/31c17137-db7d-33b3-9e1a-06be066c9435",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/359948a0-d6dd-319d-9564-37ddb0e9c36b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cbaebf03-93dd-35b0-af76-a2d58430156d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2d52258f-c735-3179-8779-b572c0f39844",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/36a99a07-edb9-367e-94a8-dbf6c8b9eae8",
+          "schema:addressLocality": "Saint-Philibert",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "14 Route de Quéhan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56233",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Philibert"
+              ],
+              "pt": [
+                "Saint-Philibert"
+              ],
+              "en": [
+                "Saint-Philibert"
+              ],
+              "it": [
+                "Saint-Philibert"
+              ],
+              "fr": [
+                "Saint-Philibert"
+              ],
+              "nl": [
+                "Saint-Philibert"
+              ],
+              "es": [
+                "Saint-Philibert"
+              ]
+            },
+            "insee": "56233",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/987fc982-46ee-3842-8b9c-b78ac721f7fa",
+        "schema:latitude": "47.59407",
+        "schema:longitude": "-3.01484",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/51ed4ee6-5ac7-3e59-90dd-e6500da25868",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-05-01",
+  "lastUpdateDatatourisme": "2026-05-02T03:40:18.676Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/863aba45-2f7a-3e12-ba5e-58604edde99c",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

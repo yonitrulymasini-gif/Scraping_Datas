@@ -1,0 +1,370 @@
+{
+  "@id": "https://data.datatourisme.fr/38/fffa71ff-aba3-33d1-b442-7ba16f14f0c3",
+  "dc:identifier": "ASCBRE000V51K39D",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "CulturalSite",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Atelier de poterie Kan An Douar"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/da6f98b8-c5de-3935-8975-8975b65ce6b2",
+      "schema:telephone": [
+        "+33 6 62 07 66 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.kanandouar.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0b030c02-900a-3703-841c-21180037376c",
+      "dc:description": {
+        "de": [
+          "Atelier-Boutique Kreationen aus Steingut für Gebrauchs- und Dekorationszwecke. Wöchentliche Kurse, kleine Gruppen.\n\nPraktika à la carte. Geschenkgutscheine."
+        ],
+        "en": [
+          "Workshop-boutique, utilitarian and decorative stoneware creations. Weekly classes, small groups.\n\nA la carte courses. Gift vouchers."
+        ],
+        "it": [
+          "Laboratorio-bottega di creazioni in gres utilitario e decorativo. Corsi settimanali, piccoli gruppi.\n\nCorsi alla carta. Buoni regalo."
+        ],
+        "fr": [
+          "Atelier-boutique créations utilitaires et décoratives en grès. Cours hebdomadaires, petits groupes.\n\nStages à la carte. Bons cadeaux."
+        ],
+        "nl": [
+          "Workshop-boetiek voor gebruiks- en decoratieve steengoedcreaties. Wekelijkse lessen, kleine groepen.\n\nCursussen à la carte. Cadeaubonnen."
+        ],
+        "es": [
+          "Taller-boutique de creaciones utilitarias y decorativas en gres. Clases semanales, grupos reducidos.\n\nCursos a la carta. Cheques regalo."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1435fa53-6a52-369d-9af0-efb925d467e5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2045e317-97ba-3f36-b2b4-63e8a3fe51e6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8f6676ca-e5f6-37f0-88f5-d057e81741e5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a50e6436-4fc5-3c6e-a6ea-c0b88e0f9714",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e9df64ab-ccbf-3b56-be45-51330f4df513",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Ceramic",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Keramik"
+        ],
+        "pt": [
+          "Cerâmica"
+        ],
+        "en": [
+          "Ceramic"
+        ],
+        "it": [
+          "Ceramica"
+        ],
+        "fr": [
+          "Céramique"
+        ],
+        "nl": [
+          "Keramiek"
+        ],
+        "es": [
+          "Cerámica"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Pottery",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tonwaren"
+        ],
+        "pt": [
+          "Olaria"
+        ],
+        "en": [
+          "Pottery"
+        ],
+        "it": [
+          "Vasellame"
+        ],
+        "fr": [
+          "Poterie"
+        ],
+        "es": [
+          "Cerámica"
+        ],
+        "nl": [
+          "Aardewerk"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8bb8b927-ad10-343b-975a-d53928221159",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/97ae0727-2c46-3e9d-8575-0815a587f9de",
+          "schema:addressLocality": "Plouhinec",
+          "schema:postalCode": "56680",
+          "schema:streetAddress": [
+            "6 rue du 19 mars 1962"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56169",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Plouhinec"
+              ],
+              "pt": [
+                "Plouhinec"
+              ],
+              "en": [
+                "Plouhinec"
+              ],
+              "it": [
+                "Plouhinec"
+              ],
+              "fr": [
+                "Plouhinec"
+              ],
+              "nl": [
+                "Plouhinec"
+              ],
+              "es": [
+                "Plouhinec"
+              ]
+            },
+            "insee": "56169",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b9a4b8ea-b5d6-36d0-99aa-9022dfd22d4f",
+        "schema:latitude": "47.696361",
+        "schema:longitude": "-3.246377",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-12-01",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.337Z"
+}

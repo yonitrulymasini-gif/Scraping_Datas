@@ -1,0 +1,342 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e842141c-babe-36a6-837d-7a19aaf92069",
+  "dc:identifier": "ASC681d8b989d284",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Centre nautique d'Arradon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d84e3149-ec51-37f6-a040-289aa1d1db52",
+      "schema:telephone": [
+        "+33 2 97 41 74 14"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://centre-nautique-arradon.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e0737125-a20c-33f9-80fa-7d5a24ea9312",
+      "dc:description": {
+        "de": [
+          "Das Centre Nautique empfängt Einzelpersonen und Gruppen auf den Trägern der Segelschule (Optimist, Open Bic, Windsurfing und Katamaran), Schulsegeln, Kurse für geschlossene Gruppen. Während der Schulferien: Anfänger- und Fortgeschrittenenkurse, Meeresgarten für Kinder von 4 bis 7 Jahren."
+        ],
+        "en": [
+          "The Nautical Center welcomes individuals and groups on the supports of the sailing school (optimist, open bic, windsurfing and catamaran), school sailing, courses for groups. During the school vacations: introductory and advanced courses, sea garden activity for 4 to 7 year olds."
+        ],
+        "it": [
+          "Il Centro Nautico accoglie singoli e gruppi per la scuola di vela (optimist, open bic, windsurf e catamarano), la scuola di vela, i corsi per gruppi. Durante le vacanze scolastiche: corsi introduttivi e avanzati, attività di orto marino per bambini dai 4 ai 7 anni."
+        ],
+        "fr": [
+          "Le Centre Nautique accueille les personnes et les groupes sur les supports de l'école de voile (optimist, open bic, planche à voile et catamaran), voile scolaire, stages pour les groupes constitués. Pendant les vacances scolaires: stages initiation et perfectionnement, activité jardin des mers pour les 4 à 7 ans."
+        ],
+        "nl": [
+          "Het Nautisch Centrum verwelkomt individuen en groepen in de zeilschool (optimist, open bic, windsurfen en catamaran), schoolzeilen, cursussen voor groepen. Tijdens de schoolvakanties: cursussen voor beginners en gevorderden, zeetuinactiviteit voor kinderen van 4 tot 7 jaar."
+        ],
+        "es": [
+          "El Centro Náutico acoge a particulares y grupos en la escuela de vela (optimist, open bic, windsurf y catamarán), escuela de vela, cursos para grupos. Durante las vacaciones escolares: cursos de iniciación y perfeccionamiento, actividad de jardín marino para niños de 4 a 7 años."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0790041b-0bb1-33ad-96f2-3bf3c20b4e80",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/07d7df0a-946a-3111-8af0-ed07454adee7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6d7c0e34-444f-3b37-97bd-4737132b0872",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dbb8974d-c70d-3b9d-9d3e-45f678183043",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3d1dbf4-e2be-3a01-8462-182ca462565a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b005318a-9d72-3786-b127-3f970cf8ffa2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2c93d590-1f05-37d2-8903-3d6115f52e0e",
+          "schema:addressLocality": "Arradon",
+          "schema:postalCode": "56610",
+          "schema:streetAddress": [
+            "7 Rue de la Carrière",
+            "BP 46"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56003",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Arradon"
+              ],
+              "pt": [
+                "Arradon"
+              ],
+              "en": [
+                "Arradon"
+              ],
+              "it": [
+                "Arradon"
+              ],
+              "fr": [
+                "Arradon"
+              ],
+              "nl": [
+                "Arradon"
+              ],
+              "es": [
+                "Arradon"
+              ]
+            },
+            "insee": "56003",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/78ba26f7-b96a-3d59-b490-5fbc52611ac7",
+        "schema:latitude": "47.6166",
+        "schema:longitude": "-2.82742",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:22:00.466Z"
+}

@@ -1,0 +1,607 @@
+{
+  "@id": "https://data.datatourisme.fr/38/d0114f43-4f66-38bb-9c5d-8cbffe39a17f",
+  "dc:identifier": "HLObb39d1c3aab84",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Clé des Roulottes - Chambres d'hôtes"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f5934d71-d23b-3b58-ba52-ed75a1c416f4",
+      "schema:telephone": [
+        "+33 2 97 24 72 32",
+        "+33 6 72 92 36 86"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://la-cle-des-roulottes.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/46796c82-17f1-3ce5-b057-ca650028746a",
+      "schema:legalName": "La Clé des Roulottes - Chambres d'hôtes",
+      "schema:telephone": [
+        "+33 2 97 24 72 32",
+        "+33 6 72 92 36 86"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://la-cle-des-roulottes.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5934d71-d23b-3b58-ba52-ed75a1c416f4",
+      "schema:telephone": [
+        "+33 2 97 24 72 32",
+        "+33 6 72 92 36 86"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://la-cle-des-roulottes.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/13f2ed9d-4a24-3b28-95aa-b86574c19e45",
+      "dc:description": {
+        "de": [
+          "Erleben Sie die Bucht von Quiberon von der böhmischen Seite. Entdecken Sie unsere zwei Zigeunerwagen mit ihrem gemütlichen und romantischen Charme, die in unserem angelegten Garten stehen.\n\nSie sind mit einem Doppelbett in einem Alkoven, einem Badezimmer mit Dusche und WC sowie einer Küchenzeile ausgestattet und garantieren Ihnen einen komfortablen Aufenthalt.\n\nDer Frühstückskorb wird Ihnen auf den Balkon gestellt.\n\nGenießen Sie die Ruhe auf dem Land auf der Terrasse, die mit Gartenmöbeln und einer Außenküche ausgestattet ist.\n\nFür Liebhaber von Oldtimern teilen wir unsere Leidenschaft, indem wir Ihnen unsere Solex-Sammlung zeigen."
+        ],
+        "en": [
+          "Experience the bohemian side of Quiberon Bay. Set in our landscaped garden, discover our two gypsy caravans with their cozy, romantic charm.\n\nEquipped with a double bed in an alcove, a bathroom with shower and WC and a kitchenette, you'll enjoy a comfortable stay.\n\nA breakfast basket is available on the balcony.\n\nEnjoy the peace and quiet of the countryside on the terrace, equipped with garden furniture and an outdoor kitchen.\n\nFor vintage car enthusiasts, we'll share our passion with you by showing you our solex collection."
+        ],
+        "it": [
+          "Scoprite il lato bohémien della baia di Quiberon. Nel nostro giardino paesaggistico, scoprite le nostre due roulotte gitane dal fascino accogliente e romantico.\n\nCiascuna dispone di un letto matrimoniale in un'alcova, di un bagno con doccia e WC e di un angolo cottura, per un soggiorno confortevole.\n\nSul balcone è disponibile un cestino per la colazione.\n\nGodetevi la pace e la tranquillità della campagna sulla terrazza, dotata di mobili da giardino e di una cucina esterna.\n\nPer gli amanti dei veicoli d'epoca, condivideremo la nostra passione mostrandovi la nostra collezione di solex."
+        ],
+        "fr": [
+          "Vivez la Baie de Quiberon côté bohème. Installées dans  notre jardin paysagé, découvrez nos deux roulottes tziganes au charme cozy et romantique.\n\nDotées d'un lit double en alcôve, d'une salle d'eau avec douche et WC ainsi que d'une kitchenette, celles-ci vous assurent un séjour confortable. \n\nLe Panier petit déjeuner vous sera déposé sur le balcon.\n\nProfitez du calme de la campagne sur la terrasse équipée d'un salon de jardin et d'une cuisine en extérieur. \n\nPour les amateurs de véhicules anciens, nous partagerons notre passion en vous faisant visiter notre collection de solex."
+        ],
+        "nl": [
+          "Ervaar de bohemienachtige kant van de baai van Quiberon. Ontdek in onze aangelegde tuin onze twee woonwagens met hun gezellige, romantische charme.\n\nElke woonwagen heeft een tweepersoonsbed in een alkoof, een badkamer met douche en toilet en een kitchenette, voor een comfortabel verblijf.\n\nOp het balkon staat een ontbijtmand klaar.\n\nGeniet van de rust en stilte van het platteland op het terras, uitgerust met tuinmeubilair en een buitenkeuken.\n\nVoor liefhebbers van oldtimers delen we graag onze passie door je onze collectie solexen te laten zien."
+        ],
+        "es": [
+          "Descubra el lado bohemio de la bahía de Quiberon. En nuestro jardín paisajista, descubra nuestras dos caravanas gitanas con su encanto acogedor y romántico.\n\nCada una de ellas dispone de una cama de matrimonio en una alcoba, un cuarto de baño con ducha y WC y una pequeña cocina, lo que le permitirá disfrutar de una estancia confortable.\n\nUna cesta de desayuno está disponible en el balcón.\n\nDisfrute de la tranquilidad del campo en la terraza, equipada con muebles de jardín y cocina exterior.\n\nPara los amantes de los vehículos de época, compartiremos nuestra pasión mostrándole nuestra colección de solex."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4793d141-7d6e-3ee5-ae4c-cacbf869b10f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/801813eb-d4a2-3fe1-b29e-6dba3faaebaa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/87797039-1595-3380-af60-07a7370ce5ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b0bc9457-fccd-37cd-adc0-c508775a24a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7a2e407-9c5c-383a-af08-d74edf5ecd81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f3599289-45df-3c12-825d-1be47c8e5d54",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b5da7de2-2d46-3885-a454-c9f67d750207",
+          "schema:addressLocality": "Pluvigner",
+          "schema:postalCode": "56330",
+          "schema:streetAddress": [
+            "163 Bréventec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56177",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pluvigner"
+              ],
+              "pt": [
+                "Pluvigner"
+              ],
+              "en": [
+                "Pluvigner"
+              ],
+              "it": [
+                "Pluvigner"
+              ],
+              "fr": [
+                "Pluvigner"
+              ],
+              "nl": [
+                "Pluvigner"
+              ],
+              "es": [
+                "Pluvigner"
+              ]
+            },
+            "insee": "56177",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cd1baadc-2d66-3141-8f8c-5f8ca5e1be4b",
+        "schema:latitude": "47.751089",
+        "schema:longitude": "-3.018907",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9f41f612-4143-3987-b57d-c5028d36a90b",
+          "schema:validFrom": "2026-01-02T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-29",
+  "lastUpdateDatatourisme": "2026-04-30T03:43:56.568Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

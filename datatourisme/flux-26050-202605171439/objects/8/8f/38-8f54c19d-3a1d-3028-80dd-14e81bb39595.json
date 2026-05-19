@@ -1,0 +1,568 @@
+{
+  "@id": "https://data.datatourisme.fr/38/8f54c19d-3a1d-3028-80dd-14e81bb39595",
+  "dc:identifier": "HLOb35003671cb34",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Villa Cassandre - Campergue Michel"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/54273462-dbab-35c5-80de-c738b31b0c15",
+      "schema:telephone": [
+        "+33 2 97 36 29 66",
+        "+33 6 88 96 49 62"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/54273462-dbab-35c5-80de-c738b31b0c15",
+      "schema:telephone": [
+        "+33 2 97 36 29 66",
+        "+33 6 88 96 49 62"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ecfa625c-60ad-3ce2-8852-64262fffb855",
+      "schema:legalName": "Villa Cassandre - Campergue Michel",
+      "schema:telephone": [
+        "+33 2 97 36 29 66",
+        "+33 6 88 96 49 62"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/81aee51b-f793-3bcf-97ed-e0e2d3930ee0",
+      "dc:description": {
+        "de": [
+          "Im Zentrum des Ortes, in der Nähe der Geschäfte und des Grande Plage, 43,34m² große Wohnung mit allem Komfort im ersten Stock mit Aufzug.\nEingang, Wohnzimmer mit BZ-Sofa für 2 Personen, TV, offene Küche, Geschirrspüler, Waschmaschine, Mikrowelle, Toaster, Zitruspresse, Bügeleisen...).\nSchlafzimmer mit Doppelbett, Badezimmer mit Dusche, Haartrockner.\n\nSüdlage auf einem großen Balkon von 4mx2m mit Markise und Gartenmöbeln. Freier Blick auf Grünflächen. Gesicherter Privatparkplatz und Fahrradraum.\n\nObwohl die Residenz in einem belebten Viertel liegt (Restaurants, Geschäfte, Post, Rathaus, Kirche...), ist sie dank ihres Landschaftsgartens und ihrer Lage zwischen schönen Häusern mit Charakter sehr ruhig. Großer Strand in 400m Entfernung, Fischereihafen in 800m Entfernung, Seebahnhof in 800m Entfernung, SNCF-Bahnhof in 300m Entfernung.\n\nVon Port Maria aus können Sie einen Ausflug zu den Inseln (Belle Île, Houat oder Hoëdic) machen.\n\nDiese Wohnung eignet sich für eine, zwei oder drei Personen (bei nur einer Person ist eine Preisreduktion möglich), ist aber nicht für Personen mit eingeschränkter Mobilität geeignet."
+        ],
+        "en": [
+          "In the center of town, close to shops and the Grande Plage, comfortable 43.34m² apartment on second floor with elevator.\nEntrance hall, living room with 2-person BZ sofa, TV, open-plan kitchen, dishwasher, washing machine, microwave, toaster, juicer, iron...).\nBedroom with 2-person bed, bathroom with shower, hairdryer.\n\nSouth-facing onto large 4mx2m balcony equipped with awning and garden furniture. Unobstructed view over green spaces. Secure private parking and bicycle storage.\n\nAlthough located in a lively area (restaurants, shops, post office, town hall, church...), the residence is very quiet thanks to its landscaped garden and its location between beautiful character houses. Grande Plage 400m away, fishing port 800m away, ferry terminal 800m away, SNCF train station 300m away.\n\nFrom Port Maria, you can take a trip to the islands (Belle Île, Houat or Hoëdic).\n\nThis apartment is suitable for one, two or three people (a price reduction is possible for a single person) but is not suitable for people with reduced mobility."
+        ],
+        "it": [
+          "Nel centro del villaggio, vicino ai negozi e alla Grande Plage, confortevole appartamento di 43,34 m² al primo piano con ascensore.\nIngresso, soggiorno con divano letto matrimoniale, TV, cucina a vista, lavastoviglie, lavatrice, microonde, tostapane, spremiagrumi, ferro da stiro...).\nCamera da letto con letto matrimoniale, bagno con doccia e asciugacapelli.\n\nEsposizione a sud su ampio balcone di 4mx2m attrezzato con tenda da sole e mobili da giardino. Vista ininterrotta sugli spazi verdi. Parcheggio privato custodito e deposito biciclette.\n\nSebbene si trovi in una zona vivace (ristoranti, negozi, ufficio postale, municipio, chiesa, ecc.), la residenza è molto tranquilla grazie al suo giardino paesaggistico e alla sua posizione tra belle case di carattere. Grande Plage a 400 m, porto di pesca a 800 m, terminal traghetti a 800 m, stazione ferroviaria SNCF a 300 m.\n\nDa Port Maria è possibile raggiungere le isole (Belle Île, Houat o Hoëdic).\n\nQuesto appartamento è adatto per una, due o tre persone (è possibile una riduzione del prezzo per una persona sola) ma non è adatto a persone con mobilità ridotta."
+        ],
+        "fr": [
+          "Au centre bourg, à proximité des commerces et de la Grande Plage, appartement de 43,34m² tout confort au premier étage avec ascenseur.\nEntrée, séjour avec canapé BZ 2 personnes, TV, cuisine ouverte, lave-vaisselle, lave-linge, micro-ondes, grille-pain, presse-agrumes, fer à repasser...). \nChambre avec lit 2 personnes, salle d'eau avec douche, sèche-cheveux. \n\nPlein sud sur grand balcon de 4mx2m équipé de store-bane et salon de jardin. Vue dégagée sur espaces verts. Parking privé sécurisé et local vélos. \n\nBien que situé dans quartier animé (restaurants, commerces, poste, mairie, église...), la résidence est très calme grâce à son jardin paysagé et à sa situation entre belles maisons de caractère. Grande Plage à 400m, port de pêche à 800m, gare maritime à 800m, gare SNCF à 300m.\n\nDe Port Maria vous pourrez faire une escapade vers les îles(Belle Île, Houat ou Hoëdic).\n\nCet appartement convient pour une, deux ou trois personnes (une réduction de prix est possible pour une seule personne) mais il  n'est pas adapté pour les personnes à mobilité réduite."
+        ],
+        "nl": [
+          "In het centrum van het dorp, dicht bij de winkels en het Grande Plage, comfortabel appartement van 43,34m² op de eerste verdieping met lift.\nEntree, hal, woonkamer met slaapbank voor twee personen, TV, open keuken, vaatwasser, wasmachine, magnetron, broodrooster, citruspers, strijkijzer...).\nSlaapkamer met tweepersoonsbed, badkamer met douche en haardroger.\n\nBalkon op het zuiden van 4mx2m met zonnescherm en tuinmeubels. Ononderbroken uitzicht over groene ruimten. Beveiligde privé parkeerplaats en fietsenstalling.\n\nHoewel gelegen in een levendige omgeving (restaurants, winkels, postkantoor, gemeentehuis, kerk, enz.), is de residentie zeer rustig dankzij de aangelegde tuin en de ligging tussen prachtige karakteristieke huizen. Grande Plage op 400m, vissershaven op 800m, veerbootterminal op 800m, SNCF treinstation op 300m.\n\nVanuit Port Maria kun je een uitstapje maken naar de eilanden (Belle Île, Houat of Hoëdic).\n\nDit appartement is geschikt voor één, twee of drie personen (een prijsvermindering is mogelijk voor één persoon), maar het is niet geschikt voor mensen met beperkte mobiliteit."
+        ],
+        "es": [
+          "En el centro del pueblo, cerca de los comercios y de la Grande Plage, cómodo piso de 43,34m² en primera planta con ascensor.\nHall de entrada, salón con sofá cama doble, TV, cocina americana, lavavajillas, lavadora, microondas, tostadora, exprimidor, plancha...).\nDormitorio con cama de matrimonio, cuarto de baño con ducha y secador de pelo.\n\nOrientación sur, gran balcón de 4mx2m equipado con toldo y muebles de jardín. Vista ininterrumpida sobre los espacios verdes. Aparcamiento privado vigilado y guardabicicletas.\n\nAunque situada en una zona animada (restaurantes, comercios, correos, ayuntamiento, iglesia, etc.), la residencia es muy tranquila gracias a su jardín paisajista y a su ubicación entre bonitas casas de carácter. Grande Plage a 400 m, puerto pesquero a 800 m, terminal de ferry a 800 m, estación de tren SNCF a 300 m.\n\nDesde Port Maria se puede hacer una excursión a las islas (Belle Île, Houat o Hoëdic).\n\nEste piso es adecuado para una, dos o tres personas (es posible una reducción de precio para una sola persona) pero no es adecuado para personas con movilidad reducida."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0d1744ec-79e8-3d54-bad6-01fc2f9b6603",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/28098de9-1216-3e18-83d9-29bbba94d6ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9894ef5c-61c2-3350-b583-fca920068139",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bea2eb3b-b3b5-3d43-9e7f-a1c326308226",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e6a802c5-2960-34ae-9366-82a69c4f4936",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3ba97dc1-3b10-3a7c-bd13-ef5693670e2b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ac3e14cd-37b6-30fa-8304-9b2f41b1cc73",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "92 Rue du Port de pêche",
+            "Villa Cassandre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bec0ab5e-9bdf-36a2-81b0-efc5a06000b8",
+        "schema:latitude": "47.48415",
+        "schema:longitude": "-3.122445",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T04:04:12.744Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

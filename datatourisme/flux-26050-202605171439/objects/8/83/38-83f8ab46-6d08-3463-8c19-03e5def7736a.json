@@ -1,0 +1,806 @@
+{
+  "@id": "https://data.datatourisme.fr/38/83f8ab46-6d08-3463-8c19-03e5def7736a",
+  "dc:identifier": "HLOBRE000V51IHQ8",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "HolidayResort",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Domaine de Kerioche"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/229c5b2b-012c-3657-9e18-5238f3ad24ca",
+      "schema:telephone": [
+        "+33 2 90 73 46 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.domaine-kerioche.com/",
+        "https://www.terresdefrance.com/etablissement/domaine-de-kerioche-morbihan-56"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/229c5b2b-012c-3657-9e18-5238f3ad24ca",
+      "schema:telephone": [
+        "+33 2 90 73 46 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.domaine-kerioche.com/",
+        "https://www.terresdefrance.com/etablissement/domaine-de-kerioche-morbihan-56"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7ee4986f-c0e3-32d1-9676-e6013f72da42",
+      "schema:legalName": "Domaine de Kerioche",
+      "schema:telephone": [
+        "+33 2 90 73 46 27"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.domaine-kerioche.com/",
+        "https://www.terresdefrance.com/etablissement/domaine-de-kerioche-morbihan-56"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ccf2aa2e-0ad4-33b1-9065-44fcf431d2ad",
+      "dc:description": {
+        "de": [
+          "Im Herzen des Morbihan empfängt Sie die Domaine de Kerioche in einer geschützten Naturlandschaft, nur wenige Schritte vom berühmten Dorf Rochefort-en-Terre entfernt. Eingebettet zwischen Wald, Teich und Feldwegen bietet diese Residenz einen erholsamen Rahmen, in dem Ruhe und frische Luft den Rhythmus Ihres Aufenthalts bestimmen.\n\nSie wohnen in geräumigen und komfortablen Apartments, die für Familien, Paare und Reisende auf der Suche nach Einfachheit und Authentizität konzipiert wurden. Jede Unterkunft verfügt über eine voll ausgestattete Küche und öffnet sich zu einer grünen Umgebung hin, in der es Spaß macht, sich zu verlangsamen, spazieren zu gehen und zu atmen.\n\nVor Ort profitieren Naturliebhaber von einem 30 Hektar großen Park mit Bäumen, einem 15 Hektar großen Teich und einem direkten Zugang zu Wanderwegen. Die Strände des Golfs von Morbihan, die malerischen bretonischen Dörfer und die Aktivitäten im Freien runden das Erlebnis perfekt ab.\n\nDie Domaine de Kerioche, die sich für einen nachhaltigen und lokalen Tourismus einsetzt, legt Wert auf einen freundlichen Empfang, Einfachheit und die Entdeckung einer authentischen Region. Es ist der ideale Ort, um sich selbst zu finden, neue Energie zu tanken und all das zu genießen, was die Bretagne zu bieten hat."
+        ],
+        "en": [
+          "In the heart of Morbihan, Domaine de Kerioche welcomes you to a haven of unspoilt nature, just a stone's throw from the famous village of Rochefort-en-Terre. Nestled between forest, pond and country lanes, this residence offers a rejuvenating setting where calm and fresh air punctuate your stay.\n\nOur spacious, comfortable apartments are designed for families, couples and travelers in search of simplicity and authenticity. Each apartment is equipped with a fully-equipped kitchen and opens onto a green environment where you can slow down, stroll and breathe in the fresh air.\n\nOn site, nature lovers will enjoy a 30-hectare wooded park, a 15-hectare pond and direct access to hiking trails. The beaches of the Golfe du Morbihan, picturesque Breton villages and outdoor activities complete the experience.\n\nCommitted to sustainable, local tourism, Domaine de Kerioche promotes a warm welcome, simplicity and the discovery of an authentic region. It's the ideal place to get away from it all, recharge your batteries and enjoy all that Brittany has to offer."
+        ],
+        "it": [
+          "Nel cuore del Morbihan, il Domaine de Kerioche vi accoglie in un'oasi di natura incontaminata, a pochi passi dal famoso villaggio di Rochefort-en-Terre. Immersa tra boschi, laghetti e stradine di campagna, questa residenza offre un ambiente rigenerante dove la pace e l'aria fresca scandiscono il vostro soggiorno.\n\nAlloggerete in appartamenti spaziosi e confortevoli, pensati per famiglie, coppie e viaggiatori in cerca di semplicità e autenticità. Ogni appartamento è dotato di una cucina completamente attrezzata e si apre su un ambiente verde dove è possibile rallentare, passeggiare e respirare l'aria fresca.\n\nIn loco, gli amanti della natura possono godere di 30 ettari di parco alberato, di un lago di 15 ettari e dell'accesso diretto ai sentieri escursionistici. Le spiagge del Golfe du Morbihan, i pittoreschi villaggi bretoni e le attività all'aria aperta completano perfettamente l'esperienza.\n\nImpegnato in un turismo sostenibile e locale, il Domaine de Kerioche promuove un'accoglienza calorosa, la semplicità e la scoperta di una regione autentica. È il luogo ideale per incontrarsi, fare il pieno di energia e assaporare tutto ciò che la Bretagna ha da offrire."
+        ],
+        "fr": [
+          "Au cœur du Morbihan, le Domaine de Kerioche vous accueille dans un écrin de nature préservée, à deux pas du célèbre village de Rochefort-en-Terre. Nichée entre forêt, étang et chemins de campagne, cette résidence offre un cadre ressourçant où calme et grand air rythment le séjour.\n\nVous logerez dans des appartements spacieux et confortables, pensés pour les familles, les couples comme pour les voyageurs en quête de simplicité et d’authenticité. Chaque hébergement dispose d’une cuisine équipée et s’ouvre sur un environnement verdoyant où l’on prend plaisir à ralentir, se promener, respirer.\n\nSur place, les amoureux de nature profitent d’un parc arboré de 30 hectares, d’un étang de 15 hectares et d’un accès direct aux sentiers de randonnée. Les plages du Golfe du Morbihan, les villages pittoresques bretons et les activités de plein air complètent parfaitement l’expérience.\n\nEngagé pour un tourisme durable et local, le Domaine de Kerioche met en avant l’accueil convivial, la simplicité et la découverte d’un territoire authentique. C’est le lieu idéal pour se retrouver, se ressourcer et savourer tout ce que la Bretagne a de plus vrai à offrir."
+        ],
+        "nl": [
+          "In het hart van Morbihan verwelkomt Domaine de Kerioche je in een oase van ongerepte natuur, op een steenworp afstand van het beroemde dorpje Rochefort-en-Terre. Verscholen tussen bos, vijver en landweggetjes biedt dit verblijf een verjongende omgeving waar rust en frisse lucht je verblijf bepalen.\n\nJe verblijft in ruime, comfortabele appartementen, ontworpen voor gezinnen, koppels en reizigers die op zoek zijn naar eenvoud en authenticiteit. Elk appartement heeft een volledig uitgeruste keuken en komt uit op een groene omgeving waar je kunt genieten van onthaasten, rondwandelen en frisse lucht inademen.\n\nNatuurliefhebbers kunnen ter plaatse genieten van 30 hectare bosrijk park, een meer van 15 hectare en directe toegang tot wandelpaden. De stranden van de Golfe du Morbihan, pittoreske Bretonse dorpjes en buitenactiviteiten ronden de ervaring perfect af.\n\nDomaine de Kerioche zet zich in voor duurzaam en lokaal toerisme en promoot een warm welkom, eenvoud en de ontdekking van een authentieke regio. Het is de ideale plek om jezelf te vinden, nieuwe energie op te doen en te genieten van alles wat Bretagne te bieden heeft."
+        ],
+        "es": [
+          "En el corazón de Morbihan, el Domaine de Kerioche le da la bienvenida a un remanso de naturaleza virgen, a tiro de piedra del famoso pueblo de Rochefort-en-Terre. Enclavada entre bosques, estanques y caminos rurales, esta residencia ofrece un entorno rejuvenecedor donde la paz y el aire fresco marcan su estancia.\n\nSe alojará en apartamentos amplios y confortables, diseñados para familias, parejas y viajeros en busca de sencillez y autenticidad. Cada apartamento dispone de una cocina totalmente equipada y se abre a un entorno verde donde podrá disfrutar de la calma, pasear y respirar aire puro.\n\nLos amantes de la naturaleza podrán disfrutar de 30 hectáreas de parque arbolado, un lago de 15 hectáreas y acceso directo a rutas de senderismo. Las playas del golfo de Morbihan, los pintorescos pueblos bretones y las actividades al aire libre completan perfectamente la experiencia.\n\nComprometido con el turismo sostenible y local, el Domaine de Kerioche promueve una cálida acogida, la sencillez y el descubrimiento de una región auténtica. Es el lugar ideal para reunirse, reponer fuerzas y saborear todo lo que ofrece Bretaña."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1d4e3522-184d-321a-8f07-fd8a1784f2ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/779c20ff-621f-35a1-b4c5-52d3b2fab74a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82b96f8a-0b73-32c3-8908-3ad772efea3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84441e92-8172-3d46-bce1-dbb07df84394",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e637fc12-0518-34ca-949a-6cdb3be53b08",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/a5f605d3-2da5-8d02-a94b-500b47a09488",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "76d99e90-29cf-4541-8fff-0f4a8a0120c9",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/618fb16c-c665-3fb5-9c0e-062d3e4e868d",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Restaurant",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Restaurant"
+            ],
+            "pt": [
+              "Restaurante"
+            ],
+            "en": [
+              "Restaurant"
+            ],
+            "it": [
+              "Ristorante"
+            ],
+            "fr": [
+              "Restaurant"
+            ],
+            "es": [
+              "Restaurante"
+            ],
+            "nl": [
+              "Restaurant"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/af0d96c9-d29e-366e-aa6f-ce1227f7b808",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4dccf724-73d3-325f-8c09-4ebb6a038014",
+          "schema:addressLocality": "Pluherlin",
+          "schema:postalCode": "56220",
+          "schema:streetAddress": [
+            "Rue de Kerioche"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56171",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pluherlin"
+              ],
+              "pt": [
+                "Pluherlin"
+              ],
+              "en": [
+                "Pluherlin"
+              ],
+              "it": [
+                "Pluherlin"
+              ],
+              "fr": [
+                "Pluherlin"
+              ],
+              "nl": [
+                "Pluherlin"
+              ],
+              "es": [
+                "Pluherlin"
+              ]
+            },
+            "insee": "56171",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9c1d7a07-0637-3217-b5eb-83eb55e3903d",
+        "schema:latitude": "47.694406",
+        "schema:longitude": "-2.36032",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/24f690f2-3d09-39d8-9df4-d2fbe0cbe099",
+          "schema:validFrom": "2025-10-01T00:00:00",
+          "schema:validThrough": "2099-11-30T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-01-22",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/fe55259e-682a-34d6-909a-d084835d81a3",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:FrenchBonsCAF",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Familiengutscheine"
+            ],
+            "pt": [
+              "Vales CAF (caixa de abonos de família)"
+            ],
+            "en": [
+              "French bons caf"
+            ],
+            "it": [
+              "Buoni CAF"
+            ],
+            "fr": [
+              "Bons caf"
+            ],
+            "nl": [
+              "Vakantiesubsidie in Frankrijk (CAF)"
+            ],
+            "es": [
+              "Fondos de asignaciones familiares"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

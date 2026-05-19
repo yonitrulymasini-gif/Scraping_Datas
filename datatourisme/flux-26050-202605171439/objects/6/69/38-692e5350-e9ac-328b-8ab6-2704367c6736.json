@@ -1,0 +1,311 @@
+{
+  "@id": "https://data.datatourisme.fr/38/692e5350-e9ac-328b-8ab6-2704367c6736",
+  "dc:identifier": "FMABRE000V51L7K1",
+  "schema:endDate": [
+    "2026-06-27"
+  ],
+  "schema:startDate": [
+    "2026-06-24"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Festival",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Festival",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Brec'h Ma Muse"
+    ],
+    "fr": [
+      "Brec'h Ma Muse"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5d3c9dc9-c3d5-3c11-951d-e14a807ab58d",
+      "schema:telephone": [
+        "+33 2 97 57 79 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.brech.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/26af8074-f762-368b-a609-128804c8ebd3",
+      "dc:description": {
+        "de": [
+          "Das Festival Brec?h Ma Muse kehrt für eine 11. Ausgabe zurück!\n\nBrec?h Ma Muse bedeutet vier Tage lang Lachen, Musik und jede Menge Unterhaltung in der Stadt!\n\nInfos folgen."
+        ],
+        "en": [
+          "The Brec'h Ma Muse festival is back for its 11th edition!\n\nBrec'h Ma Muse is four days of laughter, music and lots of entertainment in the village!\n\nDetails to follow."
+        ],
+        "it": [
+          "Il festival Brec'h Ma Muse torna per la sua 11a edizione!\n\nBrec?h Ma Muse è una quattro giorni di risate, musica e tanto divertimento nel villaggio!\n\nI dettagli seguiranno."
+        ],
+        "fr": [
+          "Le festival Brec’h Ma Muse revient pour une 11e édition !\n\nBrec’h Ma Muse c’est quatre jours de rire, de musique et plein d’animations pour se retrouver dans le bourg !\n\nInfos à venir."
+        ],
+        "nl": [
+          "Het Brec?h Ma Muse festival is terug voor zijn 11e editie!\n\nBrec?h Ma Muse is vier dagen lang lachen, muziek en veel vermaak in het dorp!\n\nDetails volgen."
+        ],
+        "es": [
+          "El festival Brec?h Ma Muse celebra su 11ª edición\n\nBrec?h Ma Muse son cuatro días de risas, música y mucha diversión en el pueblo\n\nMás información."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/12a7c7be-a50a-332a-8521-4b93578b200d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/60d1c7d1-c288-3d33-97d6-35507bcab5e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ca93b9ca-b0ba-36b7-854e-bfb0fffc87da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e663399e-2f82-39c8-8840-b6819215f23b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/61e26d97-cd02-38a1-9925-ec53b51ed36b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1dd53c8b-03f6-3b57-ac8a-585dd9cbf65f",
+          "schema:addressLocality": "Brech",
+          "schema:postalCode": "56400",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brech"
+              ],
+              "pt": [
+                "Brech"
+              ],
+              "en": [
+                "Brech"
+              ],
+              "it": [
+                "Brech"
+              ],
+              "fr": [
+                "Brech"
+              ],
+              "nl": [
+                "Brech"
+              ],
+              "es": [
+                "Brech"
+              ]
+            },
+            "insee": "56023",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d13f6292-e53d-3ddb-973a-3508e8fb65de",
+        "schema:latitude": "47.72076",
+        "schema:longitude": "-2.99616",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.833Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2869e007-aa9a-3369-b119-a800676898ab",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-27",
+      "startDate": "2026-06-24"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "@id": "https://data.datatourisme.fr/38/cc5308ed-ff5f-3389-8d68-eb8b585738fa",
+  "dc:identifier": "HLOeec06bf7a4f84",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Fontaine Airmeth - Chambre Hildegarde"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27eb6c0b-8dfb-320d-b508-14a61e91f06a",
+      "schema:telephone": [
+        "+33 6 29 27 04 10",
+        "+33 9 54 42 22 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fontaine-airmeth.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27eb6c0b-8dfb-320d-b508-14a61e91f06a",
+      "schema:telephone": [
+        "+33 6 29 27 04 10",
+        "+33 9 54 42 22 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fontaine-airmeth.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fb25d1e9-2c4d-37dc-b633-0c52c675fa92",
+      "schema:legalName": "La Fontaine Airmeth - Chambre Hildegarde",
+      "schema:telephone": [
+        "+33 6 29 27 04 10",
+        "+33 9 54 42 22 22"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fontaine-airmeth.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a3844988-158c-3350-8810-3eccbbc846ba",
+      "dc:description": {
+        "de": [
+          "Im Herzen der Gemeinde Ploërdut liegt dieses Maisonette-Gästezimmer mit separatem Eingang und kleiner Küche. Es ist ideal für ein Paar oder eine kleine Familie. Lassen Sie sich in die Welt der Pflanzen der Heiligen Hildegard entführen! Das Gästezimmer befindet sich im historischen Teil 1800 des Weilers, in einem Bio-Bauernhof neben einer Honigfabrik. Kochnische, Wohnzimmer, eigenes Badezimmer und Toilette. Optional können Sie den Korb mit Bioprodukten, die Imkertaufe, das Nordische Bad und Massagen buchen."
+        ],
+        "en": [
+          "In the heart of the commune of Ploërdut, this duplex chambre d'hôtes with separate entrance and small kitchen is ideal for a couple or small family. Indulge yourself in the world of Sainte Hildegarde's plants! The chambre d'hôtes is located in the historic 1800s part of the hamlet, on an organic farm next to a honey mill. Kitchenette, living room, private bathroom and toilet. Optional extras: organic produce basket, beekeeping experience, Nordic bath, massages."
+        ],
+        "it": [
+          "Nel cuore del villaggio di Ploërdut, questa camera per ospiti duplex con ingresso indipendente e piccola cucina è ideale per una coppia o una piccola famiglia. Immergetevi nel mondo delle piante di Sainte Hildegarde! La camera per gli ospiti si trova nella parte storica del borgo risalente al 1800, in una fattoria biologica accanto a una fabbrica di miele. Angolo cottura, salotto, doccia e servizi igienici privati. Come opzione, è possibile prenotare un cesto di prodotti biologici, un'esperienza di apicoltura, un bagno nordico e massaggi."
+        ],
+        "fr": [
+          "Au cœur de la commune de Ploërdut, cette chambre d'hôtes en duplex avec entrée indépendante et petite cuisine, est idéale pour un couple ou une petite famille. Laissez vous aller dans l'univers des plantes de Sainte Hildegarde ! La chambre d'hôtes se situe dans la partie historique 1800 du hameau, dans une ferme biologique à côté d'une miellerie. Cuisinette, salon, salle d'eau et toilettes privatives. En option, vous pouvez réserver le panier de produits bio, baptême d'apiculture, bain nordique, massages."
+        ],
+        "nl": [
+          "In het hart van het dorp Ploërdut, is deze duplex gastenkamer met eigen ingang en kleine keuken ideaal voor een stel of een klein gezin. Laat je meevoeren in de plantenwereld van Sainte Hildegarde! De gastenkamer bevindt zich in het historische deel van het gehucht uit 1800, op een biologische boerderij naast een honingfabriek. Kitchenette, woonkamer, doucheruimte en privétoilet. Als optie kun je een mand met biologische producten, een imkerij-ervaring, een nordic bath en massages boeken."
+        ],
+        "es": [
+          "En el corazón del pueblo de Ploërdut, esta habitación de huéspedes dúplex con entrada propia y pequeña cocina es ideal para una pareja o una familia pequeña. Sumérjase en el mundo de las plantas de Sainte Hildegarde La habitación de huéspedes se encuentra en la parte histórica de 1800 de la aldea, en una granja ecológica junto a una fábrica de miel. Cocina americana, sala de estar, cuarto de ducha y aseo privado. Como opción, puede reservar una cesta de productos ecológicos, una experiencia apícola, un baño nórdico y masajes."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/56b465f7-0abc-37b8-9bfc-52e7fbc162dd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/65f05b36-a365-3b86-96a9-22a970a33d33",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b3bc389-4e9c-3b0f-b322-32ec97979efb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ab8c5519-d853-3065-aa68-0a32045a986b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c226b674-59cc-3f3a-a304-a6d2e7ca6dbb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9f7c05f2-78b4-3210-9605-7865869c0b2a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/213fc9bd-df5e-3478-bdef-1e807bb4cb1e",
+          "schema:addressLocality": "Ploërdut",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "1 Kerio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56163",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ploërdut"
+              ],
+              "pt": [
+                "Ploërdut"
+              ],
+              "en": [
+                "Ploërdut"
+              ],
+              "it": [
+                "Ploërdut"
+              ],
+              "fr": [
+                "Ploërdut"
+              ],
+              "nl": [
+                "Ploërdut"
+              ],
+              "es": [
+                "Ploërdut"
+              ]
+            },
+            "insee": "56163",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/58accc0f-b445-3708-b90b-2fe64d2060e0",
+        "schema:latitude": "48.0761238",
+        "schema:longitude": "-3.277389",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-27",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.551Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "@id": "https://data.datatourisme.fr/38/8960a52b-283f-3aed-8d24-c99b311b3c6c",
+  "dc:identifier": "HLOd18dfb5a611a4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le nid de Bréhaut"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/633de3cf-c631-37b9-b81e-0bffa78cf938",
+      "schema:telephone": [
+        "+33 2 57 18 00 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/633de3cf-c631-37b9-b81e-0bffa78cf938",
+      "schema:telephone": [
+        "+33 2 57 18 00 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8ae42427-22de-35b1-bc0d-d794425be152",
+      "schema:legalName": "Le nid de Bréhaut",
+      "schema:telephone": [
+        "+33 2 57 18 00 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/eba59d6e-9edf-37bd-b223-6a512ce9755f",
+      "dc:description": {
+        "de": [
+          "Auf dem Gelände dieses alten Herrenhauses, das von Feldern umgeben ist, werden Sie von diesem Ort voller Charme begeistert sein. Am Ende des Gartens fließt der Ninian und Sie werden das Rauschen des Wassers genießen. Sie können auch am Fluss entlang spazieren gehen oder sogar Ihre Füße darin baden. Ein weiteres Ferienhaus für 8 Personen befindet sich direkt neben dem Haus.\nDiese Ferienunterkunft ist ein gemütliches Nest für Ihren Urlaub. Im Erdgeschoss befindet sich ein schöner offener Wohnbereich, der Modernität mit Naturstein verbindet."
+        ],
+        "en": [
+          "On the grounds of this former manor house surrounded by fields, you'll be won over by this charming place. Bordered by the Ninian River at the end of the garden, you'll enjoy the sound of the water, and the opportunity to stroll along the river, or even soak your feet in it. Adjacent to this is another gite for 8 people.\nOn the ground floor, there's a lovely open-plan living room combining modernity and exposed stone, and two bedrooms upstairs."
+        ],
+        "it": [
+          "Sul terreno di questa ex casa padronale circondata da campi, sarete conquistati da questo luogo incantevole. Delimitato dal fiume Ninian alla fine del giardino, amerete il suono dell'acqua, che vi permetterà anche di camminare lungo il fiume o addirittura di immergervi i piedi. Accanto c'è un'altra gite per 8 persone.\nQuesta casa vacanza è un vero e proprio nido accogliente per le vostre vacanze, con un grazioso soggiorno a pianta aperta al piano terra, che unisce modernità e pietra a vista, e due camere da letto al piano superiore."
+        ],
+        "fr": [
+          "Sur le domaine de cet ancien manoir entouré de champs, vous serez conquis par ce lieu plein de charme. Bordé par le Ninian en bout de jardin vous apprécierez le bruit de l'eau, cela vous permettra également de longer la rivière pour une balade, ou bien même vous y tremper les pieds. Un autre gite pour 8 personnes jouxte ce dernier.\nCette location de vacances est un vrai nid douillet pour vos vacances, au rez de chaussée une jolie pièce de vie ouverte alliant modernité et pierres apparentes et deux chambres à l'étage."
+        ],
+        "nl": [
+          "Op het terrein van dit voormalige landhuis, omringd door velden, zul je worden verleid door deze charmante plek. Grenzend aan de rivier Ninian aan het einde van de tuin, zul je genieten van het geluid van het water, waardoor je ook langs de rivier kunt wandelen of zelfs je voeten erin kunt dompelen. Er is nog een gite voor 8 personen naast het huis.\nDeze vakantiewoning is een echt knus nestje voor je vakantie, met een mooie open woonkamer op de begane grond, die moderniteit en zichtbare stenen combineert, en twee slaapkamers op de bovenverdieping."
+        ],
+        "es": [
+          "En los terrenos de esta antigua casa solariega rodeada de campos, le conquistará este encantador lugar. Bordeado por el río Ninian al final del jardín, le encantará el sonido del agua, que también le permitirá pasear junto al río o incluso sumergir los pies en él. Hay otra casa rural para 8 personas al lado.\nEste alquiler de vacaciones es un verdadero nido acogedor para sus vacaciones, con un bonito salón diáfano en la planta baja, que combina modernidad y piedra vista, y dos dormitorios en la planta superior."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0dc6914c-71a5-31f9-bb16-eec7385446a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/679dce29-1248-3ae0-8209-bceeaebb6ac0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/71436738-ef94-325b-8f83-57161a677c35",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9bd03c09-3756-3a0d-ae06-4661aa6ced34",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1087f6e-f24d-3034-8bee-25cd47f518b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/64dab7f0-11d2-3b92-b692-0fbdfcd92af5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d2f9cffe-d901-394c-ba8a-4c8ad5777bd6",
+          "schema:addressLocality": "Taupont",
+          "schema:postalCode": "56800",
+          "schema:streetAddress": [
+            "1 Bréhaut"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56249",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Taupont"
+              ],
+              "pt": [
+                "Taupont"
+              ],
+              "en": [
+                "Taupont"
+              ],
+              "it": [
+                "Taupont"
+              ],
+              "fr": [
+                "Taupont"
+              ],
+              "nl": [
+                "Taupont"
+              ],
+              "es": [
+                "Taupont"
+              ]
+            },
+            "insee": "56249",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/509d0e6b-aff9-3603-bf4a-67465f24098f",
+        "schema:latitude": "47.9236636",
+        "schema:longitude": "-2.4559636",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.197Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/028a50b9-12c8-32e8-8faa-170f275a7e65",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

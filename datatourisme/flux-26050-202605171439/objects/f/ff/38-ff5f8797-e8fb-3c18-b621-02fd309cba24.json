@@ -1,0 +1,576 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ff5f8797-e8fb-3c18-b621-02fd309cba24",
+  "dc:identifier": "HLO232657ce30f94",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Hamon Anita"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1501849d-92e0-3d2f-8a34-8900d29e63f6",
+      "schema:telephone": [
+        "+33 2 96 56 33 70",
+        "+33 6 25 61 05 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.manemeur.jimdo.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1501849d-92e0-3d2f-8a34-8900d29e63f6",
+      "schema:telephone": [
+        "+33 2 96 56 33 70",
+        "+33 6 25 61 05 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.manemeur.jimdo.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eb048628-3f08-30df-8bf7-d44e9558d44f",
+      "schema:legalName": "Hamon Anita",
+      "schema:telephone": [
+        "+33 2 96 56 33 70",
+        "+33 6 25 61 05 63"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.manemeur.jimdo.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/acc5e532-4f50-33ab-b48f-bb25990e2e4c",
+      "dc:description": {
+        "de": [
+          "Haus 8 Personen. 500m vom Strand und der Côte sauvage entfernt, in einem sehr ruhigen Viertel, komfortables Haus mit 4 Schlafzimmern mit Doppelbett: 1 Schlafzimmer im Erdgeschoss, Bad mit Dusche, separates WC.\nObergeschoss: 3 Schlafzimmer, eines davon mit eigenem Bad, 1 Bad mit Badewanne, separates WC.\nHolzterrasse mit Gartenmöbeln und Grill. Abstellraum für Fahrräder. Eingezäuntes Grundstück und Parkplatz für 2 Fahrzeuge.\nVermietung das ganze Jahr über. Keine Kurzaufenthalte, mindestens 1 Woche."
+        ],
+        "en": [
+          "House for 8 people. 500m from the beach and the Côte Sauvage, in a very quiet area, comfortable house with 4 bedrooms with double beds: 1 bedroom on ground floor, bathroom with shower, separate toilet.\nUpstairs: 3 bedrooms, one with private bathroom, 1 bathroom with bathtub, separate toilet.\nWooden terrace with garden furniture and barbecue. Bike shed. Enclosed grounds and parking for 2 vehicles.\nYear-round rental. No short stays, minimum 1 week."
+        ],
+        "it": [
+          "Casa per 8 persone. A 500 m dalla spiaggia e dalla Côte Sauvage, in una zona molto tranquilla, casa confortevole con 4 camere con letti matrimoniali: 1 camera al piano terra, bagno con doccia, WC separato.\nAl piano superiore: 3 camere da letto, di cui una con bagno privato, 1 bagno con vasca, WC separato.\nTerrazza in legno con mobili da giardino e barbecue. Capanno per biciclette. Terreno recintato e parcheggio per 2 veicoli.\nAffitto per tutto l'anno. Non si accettano soggiorni brevi, minimo 1 settimana."
+        ],
+        "fr": [
+          "Maison 8 personnes. À 500m de la plage et de la Côte sauvage, dans quartier très calme, maison tout confort comprenant 4 chambres avec un lit double : 1 chambre au RDC, SDB avec douche, WC indépendant. \nÀ l'étage : 3 chambres dont une avec SDB privative, 1 SDB avec baignoire, WC indépendant.\nTerrasse en bois avec salon de jardin et barbecue. Local à vélos. Terrain clos et parking pour 2 véhicules.\nLocation toute l'année. Pas de courts-séjours, minimum 1 semaine."
+        ],
+        "nl": [
+          "Huis voor 8 personen. Op 500 m van het strand en de Côte Sauvage, in een zeer rustige omgeving, comfortabel huis met 4 slaapkamers met tweepersoonsbedden: 1 slaapkamer op de begane grond, badkamer met douche, aparte WC.\nBoven: 3 slaapkamers, waarvan één met en-suite badkamer, 1 badkamer met bad, aparte WC.\nHouten terras met tuinmeubelen en barbecue. Fietsenberging. Afgesloten terrein en parkeerplaats voor 2 auto's.\nVerhuur het hele jaar door. Geen korte verblijven, minimaal 1 week."
+        ],
+        "es": [
+          "Casa para 8 personas. A 500 m de la playa y de la Côte Sauvage, en una zona muy tranquila, casa confortable con 4 habitaciones con camas dobles: 1 habitación en la planta baja, cuarto de baño con ducha, WC separado.\nArriba: 3 dormitorios, uno con baño en suite, 1 cuarto de baño con bañera, WC separado.\nTerraza de madera con muebles de jardín y barbacoa. Cobertizo para bicicletas. Terreno cerrado y aparcamiento para 2 vehículos.\nAlquiler todo el año. No estancias cortas, mínimo 1 semana."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05674b14-4810-3e3f-999f-c74b67aec26e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/603ce3cc-aa07-380c-bcf5-023511f7e798",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b844027-3c57-39a6-84ff-f228f1c27314",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9155a77e-464c-37e3-add0-860b36da8c1d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b4686310-7ca2-3fec-aebb-b74eb241232f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/107ffacc-9454-3da2-8b21-bb1db81f21a2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/41bf785c-c8c4-30dd-be54-001498191ff2",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "78 Rue du Manémeur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ed2f067c-a425-3d5f-9c12-de6f8bff3750",
+        "schema:latitude": "47.48288",
+        "schema:longitude": "-3.127492",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f898bf41-4efc-36bc-8ce3-03cf3be006c1",
+          "schema:validFrom": "2026-03-29T00:00:00",
+          "schema:validThrough": "2026-11-15T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T04:04:12.746Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

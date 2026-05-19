@@ -1,0 +1,370 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1bbfee7d-ed7e-3217-8305-8cc01e27abcd",
+  "dc:identifier": "ASCBRE000V506JUH",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ecole de kite surf Ty Kite Skol"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8f13d55d-21f2-3497-a3f0-85e43654f82d",
+      "schema:telephone": [
+        "+33 6 73 16 91 38"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ty-kite-skol.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/518132fc-c99e-355d-bc1a-5440488bca28",
+      "dc:description": {
+        "de": [
+          "Qualitativ hochwertige Ausstattung"
+        ],
+        "en": [
+          "Quality equipment"
+        ],
+        "it": [
+          "Attrezzature di qualità"
+        ],
+        "fr": [
+          "Equipement de qualité"
+        ],
+        "nl": [
+          "Kwaliteitsapparatuur"
+        ],
+        "es": [
+          "Equipos de calidad"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/02376f26-0b40-36f2-99e5-ec5ab37b3729",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3be46a15-4f2f-3433-8eb4-d90d6d11ed17",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b54ab99-8c47-339b-b72c-b07c66dcee15",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9674a401-1250-3078-8db4-7813125d71eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c95aadde-9806-3f1f-a7b8-7f38d48faac4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Kitesurfing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kitesurfen"
+        ],
+        "pt": [
+          "Kitesurf"
+        ],
+        "en": [
+          "Kitesurfing"
+        ],
+        "it": [
+          "Kite-surf"
+        ],
+        "fr": [
+          "Kite-surf"
+        ],
+        "nl": [
+          "Kitesurfen"
+        ],
+        "es": [
+          "Kitesurf"
+        ]
+      }
+    },
+    {
+      "@id": "kb:TowableTube",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Banana Boat"
+        ],
+        "pt": [
+          "Boia de tração"
+        ],
+        "en": [
+          "Towable tube"
+        ],
+        "it": [
+          "Ciambella trainata"
+        ],
+        "fr": [
+          "Bouée tractée"
+        ],
+        "nl": [
+          "Tubing"
+        ],
+        "es": [
+          "Skibus náutico"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a08e16ec-29ea-3cbd-968d-52d8a4e48420",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0ce251ec-f1a2-3319-b931-fd34314b5ab1",
+          "schema:addressLocality": "Guidel",
+          "schema:postalCode": "56520",
+          "schema:streetAddress": [
+            "Guidel Plages et fort bloqué"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56078",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guidel"
+              ],
+              "pt": [
+                "Guidel"
+              ],
+              "en": [
+                "Guidel"
+              ],
+              "it": [
+                "Guidel"
+              ],
+              "fr": [
+                "Guidel"
+              ],
+              "nl": [
+                "Guidel"
+              ],
+              "es": [
+                "Guidel"
+              ]
+            },
+            "insee": "56078",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c321fcae-ebcf-3037-b70a-74a767f2f027",
+        "schema:latitude": "47.7673973",
+        "schema:longitude": "-3.5215473",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-01-13",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.33Z"
+}

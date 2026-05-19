@@ -1,0 +1,292 @@
+{
+  "@id": "https://data.datatourisme.fr/38/26d73963-4559-3599-9265-db9af14e4bdf",
+  "dc:identifier": "PNAfb1ed84a942a4",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Men ar Mor"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b4e85a9e-d366-3acf-91fe-cb102fd97ed6",
+      "dc:description": {
+        "de": [
+          "Willkommen in den Dünen von Men ar Mor, wo Salzkraut und viele Sumpfblumen wachsen."
+        ],
+        "en": [
+          "Welcome to the Dunes of Men ar Mor where samphire and many marsh flowers grow."
+        ],
+        "it": [
+          "Benvenuti alle Dune di Men ar Mor, dove crescono salicornia e molti fiori di palude."
+        ],
+        "fr": [
+          "Bienvenue aux Dunes de Men ar Mor où poussent de la salicorne et de nombreuses fleurs des marais."
+        ],
+        "nl": [
+          "Welkom in de duinen van Men ar Mor waar zeekraal en vele moerasbloemen groeien."
+        ],
+        "es": [
+          "Bienvenido a las Dunas de Men ar Mor, donde crecen la salicaria y muchas flores de las marismas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/35fbb305-91d3-391d-b9a2-3b03de1a3ebe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8aec2fb6-f7a4-3c72-9cdf-fec0edd1919c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/978c7fec-a41f-3ed7-ba15-d975fbffc727",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8116c33-76dd-3ff6-a426-023bb0637b18",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa89c592-05f3-3bf8-97c9-d60938d75b9a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/59f1604b-0270-3aa3-8c7a-501fdfa4e137",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5fb129e1-3bf4-3f5f-be93-a3bc315b7c34",
+          "schema:addressLocality": "Pénestin",
+          "schema:postalCode": "56760",
+          "schema:streetAddress": [
+            "Men ar Mor"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56155",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pénestin"
+              ],
+              "pt": [
+                "Pénestin"
+              ],
+              "en": [
+                "Pénestin"
+              ],
+              "it": [
+                "Pénestin"
+              ],
+              "fr": [
+                "Pénestin"
+              ],
+              "nl": [
+                "Pénestin"
+              ],
+              "es": [
+                "Pénestin"
+              ]
+            },
+            "insee": "56155",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/84e09e22-3b76-3fe6-9092-55ae1b6ad5ff",
+        "schema:latitude": "47.49406",
+        "schema:longitude": "-2.480074",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2024-02-17T02:03:18.559Z"
+}

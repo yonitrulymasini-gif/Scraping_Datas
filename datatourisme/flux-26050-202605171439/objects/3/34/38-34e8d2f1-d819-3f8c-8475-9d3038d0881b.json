@@ -1,0 +1,292 @@
+{
+  "@id": "https://data.datatourisme.fr/38/34e8d2f1-d819-3f8c-8475-9d3038d0881b",
+  "dc:identifier": "PNABRE056V50DGSR",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Rocher du Quartz"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/225b5e66-9dec-3f5c-ae17-bbdb02298d46",
+    "schema:legalName": "OT CENTRE MORBIHAN COMMUNAUTE",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/17c93d65-b2a4-3fa7-bfa5-a4bb1b89a17d",
+      "dc:description": {
+        "de": [
+          "Bemerkenswerter Quarz von Tréharday, ab dem Ort Talhouët ausgeschildert: ein riesiger Quarzmonolith, der angeblich die Besonderheit hat, magnetische Wellen auszusenden."
+        ],
+        "en": [
+          "Quartz de Tréharday, signposted from Talhouët: an enormous quartz monolith that is said to emit magnetic waves."
+        ],
+        "it": [
+          "Notevole Quartz de Tréharday, segnalato da Talhouët: un enorme monolite di quarzo che si dice emetta onde magnetiche."
+        ],
+        "fr": [
+          "Quartz remarquable de Tréharday, fléché depuis le lieu-dit Talhouët : un énorme monolithe de quartz qui aurait la particularité d'émettre des ondes magnétiques."
+        ],
+        "nl": [
+          "Opmerkelijke Tréharday-kwarts, bewegwijzerd vanuit Talhouët: een enorme kwartsmonoliet waarvan wordt gezegd dat hij magnetische golven uitzendt."
+        ],
+        "es": [
+          "Notable Cuarzo de Tréharday, señalizado desde Talhouët: un enorme monolito de cuarzo que, según se dice, emite ondas magnéticas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/369e92fa-0e77-39de-9a4e-81cb3416ac7a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/807dea90-3935-39a0-b8a3-305c7956d7e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9bfd43de-e5a8-353e-89b4-22cf08b31970",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d465016e-439f-3758-84e3-c948c935071c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e65d7f1a-e2d5-3f04-a38b-7ad94b3bc653",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f5872c92-c0b9-3890-93bf-ea0ac25db061",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/65d20b31-8909-364d-8955-d206f4d4671b",
+          "schema:addressLocality": "Plumelin",
+          "schema:postalCode": "56500",
+          "schema:streetAddress": [
+            "Tréharday"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56174",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Plumelin"
+              ],
+              "pt": [
+                "Plumelin"
+              ],
+              "en": [
+                "Plumelin"
+              ],
+              "it": [
+                "Plumelin"
+              ],
+              "fr": [
+                "Plumelin"
+              ],
+              "nl": [
+                "Plumelin"
+              ],
+              "es": [
+                "Plumelin"
+              ]
+            },
+            "insee": "56174",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/773fb8e7-8d3e-3945-a334-6b6769ddd961",
+        "schema:latitude": "47.8969416",
+        "schema:longitude": "-2.7348174",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-23",
+  "lastUpdateDatatourisme": "2026-03-24T04:08:51.246Z"
+}

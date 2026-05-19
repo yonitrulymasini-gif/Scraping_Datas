@@ -1,0 +1,323 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7c1a3526-ed20-3430-9a2d-66059b6bbd3d",
+  "dc:identifier": "FMABRE000V51KK1L",
+  "schema:endDate": [
+    "2026-06-14"
+  ],
+  "schema:startDate": [
+    "2026-06-14"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Trocs et puces"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/108fca49-4886-33cb-aad9-03f2bef46099",
+    "schema:legalName": "OT BAUD Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5e06c28a-a981-3271-88a1-f14fd139fddb",
+      "schema:telephone": [
+        "+33 6 16 93 11 13"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/102a1ade-610b-3dbf-a942-8745b47c4368",
+      "dc:description": {
+        "de": [
+          "Von 9 bis 18 Uhr.\nEintritt 1 Euro, unter 16 Jahren kostenlos.\nEssen und Trinken vor Ort. Organisation Baud Natation & Le Karakter."
+        ],
+        "en": [
+          "From 9 am to 6 pm.\nAdmission 1?, free under 16.\nCatering and refreshments on site. Organized by Baud Natation & Le Karakter."
+        ],
+        "it": [
+          "Dalle 9.00 alle 18.00.\nIngresso 1?, gratuito sotto i 16 anni.\nCatering e rinfreschi in loco. Organizzato da Baud Natation & Le Karakter."
+        ],
+        "fr": [
+          "De 9h à 18h. \nEntrée 1€, gratuit moins de 16 ans.\nRestauration et buvette sur place. Organisation Baud Natation & Le Karakter."
+        ],
+        "nl": [
+          "Van 9.00 tot 18.00 uur.\nToegang 1?, gratis onder 16 jaar.\nCatering en drankjes ter plaatse. Georganiseerd door Baud Natation & Le Karakter."
+        ],
+        "es": [
+          "De 9.00 a 18.00 h.\nEntrada 1?, gratuita para menores de 16 años.\nCatering y refrescos in situ. Organizado por Baud Natation & Le Karakter."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1400cdf0-b51c-3979-92a8-8f3e94c8d000",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1e5b4a64-f7e6-3c46-b188-5df7bfe99c07",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70fdb42e-f4cd-39fb-8f12-f910e6f24746",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7d5c2151-e93d-3570-87a1-8b8c721c3a06",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/880ee145-b04a-3995-be23-1dd09862e8e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/82dea90b-2c67-39bc-8209-cd82309d9782",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8e3d6b98-5388-3260-941c-a0ae2ded5ef6",
+          "schema:addressLocality": "Baud",
+          "schema:postalCode": "56150",
+          "schema:streetAddress": [
+            "Parking Intermarché",
+            "Route de Pontivy"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56010",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Baud"
+              ],
+              "pt": [
+                "Baud"
+              ],
+              "en": [
+                "Baud"
+              ],
+              "it": [
+                "Baud"
+              ],
+              "fr": [
+                "Baud"
+              ],
+              "nl": [
+                "Baud"
+              ],
+              "es": [
+                "Baud"
+              ]
+            },
+            "insee": "56010",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/917db344-443c-3464-a811-7d6ddd882510",
+        "schema:latitude": "47.885794",
+        "schema:longitude": "-3.0154244",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-26",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.878Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b25f61ca-a32a-3726-b783-f859a83b0406",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-14",
+      "startDate": "2026-06-14"
+    }
+  ]
+}

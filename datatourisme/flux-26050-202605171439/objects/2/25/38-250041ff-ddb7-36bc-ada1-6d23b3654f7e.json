@@ -1,0 +1,292 @@
+{
+  "@id": "https://data.datatourisme.fr/38/250041ff-ddb7-36bc-ada1-6d23b3654f7e",
+  "dc:identifier": "PNAb079671723154",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Marais du Branzais"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bef7916b-070b-3cc1-93b6-e7fbba041dc3",
+      "dc:description": {
+        "de": [
+          "Der Sumpf ist ein Zufluchtsort für zahlreiche Vögel wie Silberreiher, Graureiher, Meisen, Grünhälse, Sperlinge, Braunkehlchen, Mottenvögel usw. ... Im Winter ist er ein Rastplatz für Zugvögel wie die Nonnengans."
+        ],
+        "en": [
+          "The marsh, refuge of many birds, egrets, grey herons, tits, green collars, passerines, traquets, clods etc ... is in winter a stopping place for some migratory birds such as geese."
+        ],
+        "it": [
+          "La palude, rifugio di molti uccelli, garzette, aironi cenerini, cince, collari verdi, passeriformi, tracchetti, motteux, ecc. è in inverno un luogo di sosta per alcuni uccelli migratori come l'oca barbagianni."
+        ],
+        "fr": [
+          "Le marais, refuge de nombreux oiseaux, aigrettes, hérons cendrés, mésanges, cols verts, passereaux, traquets, motteux etc ... est en hiver un lieux d'arrêts de certains oiseaux migrateurs comme l'oie bernache."
+        ],
+        "es": [
+          "La marisma, refugio de numerosas aves, garzas reales, herrerillos, collares verdes, paseriformes, traquetos, motteux, etc., es en invierno un lugar de paso para ciertas aves migratorias como el ganso percebeño."
+        ],
+        "nl": [
+          "Het moeras, een toevluchtsoord voor vele vogels, zilverreigers, blauwe reigers, mezen, groenlingen, passerines, traquets, motteux, enz., is in de winter een pleisterplaats voor bepaalde trekvogels zoals de brandgans."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/46e1bd0a-37b2-323a-ae63-199ac0798919",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/500b5447-ded7-3baa-a5f9-3751afd20730",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6f9bf96-f17c-3965-b452-d4fecc80fae0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf524968-d2a0-3e60-956b-5947a2eb46b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d07207d0-b737-3e61-bace-b904c452b75c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/15b3a267-4e51-3d92-8c1c-b417cd310edc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/28ee626e-e031-3a3a-a4ff-874342cdec83",
+          "schema:addressLocality": "Pénestin",
+          "schema:postalCode": "56760",
+          "schema:streetAddress": [
+            "Branzais"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56155",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pénestin"
+              ],
+              "pt": [
+                "Pénestin"
+              ],
+              "en": [
+                "Pénestin"
+              ],
+              "it": [
+                "Pénestin"
+              ],
+              "fr": [
+                "Pénestin"
+              ],
+              "nl": [
+                "Pénestin"
+              ],
+              "es": [
+                "Pénestin"
+              ]
+            },
+            "insee": "56155",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f1ebb523-5b4c-3d93-88af-9e2bed90c3b7",
+        "schema:latitude": "47.48793",
+        "schema:longitude": "-2.460356",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2024-02-17T02:03:18.559Z"
+}

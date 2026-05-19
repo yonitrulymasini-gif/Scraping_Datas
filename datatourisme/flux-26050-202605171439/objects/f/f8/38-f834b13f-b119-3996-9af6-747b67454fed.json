@@ -1,0 +1,357 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f834b13f-b119-3996-9af6-747b67454fed",
+  "dc:identifier": "FMABRE056V50DU89",
+  "schema:endDate": [
+    "2026-06-30"
+  ],
+  "schema:startDate": [
+    "2026-06-09"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Destination les océans"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8674b81c-b7c9-3221-a252-8aee9dc1a0e2",
+      "schema:telephone": [
+        "+33 2 97 39 00 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://espace-kenere.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/008f2aad-94d4-373e-9870-1f1aa95a265a",
+      "dc:description": {
+        "de": [
+          "Segeln Sie im Rhythmus der Entdeckungen der Matrosen-Reporter des Vereins Bivouac des sciences. Eine sensible und zugängliche Reise zwischen Welterkundung, wissenschaftlicher Neugier und gemeinsamem Erstaunen. Eine Ausstellung Leicht zu lesen.\nAnlässlich des Welttag der Ozeane (09. Juni)."
+        ],
+        "en": [
+          "Come and sail to the rhythm of the discoveries made by the sailor-reporters from the Bivouac des sciences association. A sensitive, accessible voyage of exploration, scientific curiosity and shared wonder. An easy-to-read exhibition.\nTo mark World Oceans Day (June 09)."
+        ],
+        "it": [
+          "Venite a navigare al ritmo delle scoperte fatte dai marinai-reporter dell'associazione Bivouac des sciences. Un viaggio sensibile e accessibile di esplorazione, curiosità scientifica e meraviglia condivisa. Una mostra di facile lettura.\nIn occasione della Giornata mondiale degli oceani (09 giugno)."
+        ],
+        "fr": [
+          "Venez naviguer au rythme des découvertes des marins-reporters de l’association Bivouac des sciences. Un voyage sensible et accessible, entre exploration du monde, curiosité scientifique et émerveillement partagé. Une exposition Facile à lire.\nA l'occasion de la Journée mondiale des océans (le 09 juin)."
+        ],
+        "es": [
+          "Venga a navegar al ritmo de los descubrimientos de los marineros-reporteros de la asociación Bivouac des sciences. Un viaje sensible y accesible de exploración, curiosidad científica y asombro compartido. Una exposición de fácil lectura.\nCon motivo del Día Mundial de los Océanos (09 de junio)."
+        ],
+        "nl": [
+          "Kom meevaren op het ritme van de ontdekkingen van de zeeman-verslaggevers van de vereniging Bivouac des sciences. Een gevoelige en toegankelijke reis van verkenning, wetenschappelijke nieuwsgierigheid en gedeelde verwondering. Een vlot leesbare tentoonstelling.\nTer gelegenheid van Wereld Oceaandag (09 juni)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/154b3854-2810-3713-8b75-fa4e8e437056",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3efce280-1f68-3c26-88c0-217278737262",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0701c68-8fcf-3db5-b8e3-e3532c096b36",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b24d9095-2dac-3555-abfa-2edd2bf34684",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df6a93cb-49aa-3fdc-9402-8fae5926a9e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b2ed99f1-8f29-31ae-b7ef-d0e1cde41ec7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/85a0ef4b-6d42-3ef7-a9f0-a975e6c69562",
+          "schema:addressLocality": "Pontivy",
+          "schema:postalCode": "56300",
+          "schema:streetAddress": [
+            "34 Bis Rue du Général de Gaulle",
+            "Espace Kenere, médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56178",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pontivy"
+              ],
+              "pt": [
+                "Pontivy"
+              ],
+              "en": [
+                "Pontivy"
+              ],
+              "it": [
+                "Pontivy"
+              ],
+              "fr": [
+                "Pontivy"
+              ],
+              "nl": [
+                "Pontivy"
+              ],
+              "es": [
+                "Pontivy"
+              ]
+            },
+            "insee": "56178",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/285199ef-2537-360b-9ea8-8cc237e5d49c",
+        "schema:latitude": "48.0722449",
+        "schema:longitude": "-2.9638621",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.829Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0c23b1ef-5331-3db3-9d58-b88c8a12c352",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-30",
+      "startDate": "2026-06-09"
+    }
+  ]
+}

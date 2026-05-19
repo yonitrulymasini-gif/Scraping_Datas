@@ -1,0 +1,566 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4e4e8ab4-ce2f-3328-9822-f227e5816ec2",
+  "dc:identifier": "HLO5c371479cd8a4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Moulin La Salmonière"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/900f4c7c-de72-3c45-b36b-416efdce86e7",
+      "schema:telephone": [
+        "+33 6 74 27 25 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/900f4c7c-de72-3c45-b36b-416efdce86e7",
+      "schema:telephone": [
+        "+33 6 74 27 25 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e7471ffb-ff7c-3767-8261-c434bd596516",
+      "schema:legalName": "Moulin La Salmonière",
+      "schema:telephone": [
+        "+33 6 74 27 25 36"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/353b29ba-df21-3c2c-b25d-17a291f3e194",
+      "dc:description": {
+        "de": [
+          "An der Grenze zwischen Morbihan und Finistère, in einer bewaldeten Umgebung, entdecken Sie diese alte Wassermühle in einem 1,5 ha großen Anwesen mit 2 privaten Teichen. Wunderschöner Rahmen für unvergessliche Momente der Geselligkeit! Das Sahnehäubchen: ein beheiztes Hallenbad und eine Sauna für 4 Personen, perfekt zum Entspannen nach Ihren Ausflügen oder für Ihre Erholungstage!\nIm Erdgeschoss: Küche, Wohnzimmer, 1 Schlafzimmer (2 Einzelbetten), Badezimmer/WC, Wohnzimmer: Schwimmbad (9,50 x 3,60), Sauna. Im ersten Stock: Wohnzimmer (Billard), 4 Schlafzimmer (3 Doppelbetten, 2 Einzelbetten), 4 Badezimmer/WC. Im zweiten Stock: 3 Schlafzimmer (1 Doppelbett, 3 Einzelbetten), Badezimmer, W.C. In einem Nebengebäude: 3 Schlafzimmer (1 Doppelbett, 1 Einzelbett, 4 Kinderbetten 0,90 x 1,90), Badezimmer, W.C. Zentralheizung (Holzpellets) und Elektroheizung, Gartenmöbel, Grill. Kostenloser Internetzugang. Heizung und Strom sind im Preis inbegriffen. Wenn Bettwäsche gemietet wird, sind die Betten bei der Ankunft bezogen. Tischwäsche wird gestellt. Beheizter Innenpool. Sauna für 4 Personen. Ferienhaus in der Nähe des Ferienhauses 56G816. Elektroheizung in den Zimmern: 0.10? pro kWh bei mehr als 100 KWh."
+        ],
+        "en": [
+          "On the border between Morbihan and Finistère, in a wooded setting, discover this former water mill set in a 1.5 ha property with 2 private ponds. A superb setting for unforgettable moments of conviviality! The icing on the cake: a heated indoor swimming pool and a 4-seater sauna, perfect for relaxing after your escapades or for your days out!\nGround floor: kitchen, living room, 1 bedroom (2 single beds), shower room/toilet, lounge: swimming pool (9.50 x 3.60), sauna. Second floor: living room (billiards), 4 bedrooms (3 double beds, 2 single beds), 4 shower rooms/W.C. Second floor: 3 bedrooms (1 double bed, 3 single beds), bathroom, W.C. In an annex: 3 bedrooms (1 double bed, 1 single bed, 4 children's beds 0.90 x 1.90), shower room, W.C. Central heating (wood pellets) and electric heating, garden furniture, barbecue. Free Internet access. Heating and electricity included. If bed linen is rented, beds are made up on arrival. Table linen provided. Heated indoor pool. Sauna for 4. Gite close to gite 56G816. Electric heating for bedrooms: 0.10? per kwh over 100 KWh."
+        ],
+        "it": [
+          "Ai confini del Morbihan e del Finistère, in un ambiente boscoso, scoprite questo antico mulino ad acqua in una proprietà di 1,5 ettari con 2 stagni privati. Un ambiente superbo per momenti di convivialità indimenticabili! La ciliegina sulla torta: una piscina interna riscaldata e una sauna a 4 posti, perfette per rilassarsi dopo le escursioni o per le giornate fuori porta!\nPiano terra: cucina, soggiorno, 1 camera da letto (2 letti singoli), doccia/WC, salone: piscina (9,50 x 3,60), sauna. Primo piano: salone (biliardo), 4 camere da letto (3 letti matrimoniali, 2 letti singoli), 4 bagni con doccia/W.C. Secondo piano: 3 camere da letto (1 letto matrimoniale, 3 letti singoli), bagno, W.C. In una dependance: 3 camere da letto (1 letto matrimoniale, 1 letto singolo, 4 letti per bambini (0,90 x 1,90), bagno con doccia, W.C. Riscaldamento centrale (pellet di legno) e riscaldamento elettrico, mobili da giardino, barbecue. Accesso internet gratuito. Riscaldamento ed elettricità inclusi. Se si noleggiano le lenzuola, i letti vengono rifatti all'arrivo. Biancheria da tavola fornita. Piscina interna riscaldata. Sauna per 4 persone. Gite vicina alla gite 56G816. Riscaldamento elettrico per le camere da letto: 0,10? per kWh oltre i 100 kWh."
+        ],
+        "fr": [
+          "A la limite du Morbihan et du Finistère, dans un environnement boisé, découvrez cet ancien moulin à eau dans une propriété de 1,5 ha avec 2 étangs privés. Superbe cadre pour des moments de convivialité inoubliable ! Cerise sur le gâteau : une piscine intérieure chauffée et un sauna 4 places, parfait pour vous relaxer après vos escapades ou pour vos journées détente !\nAu rez de chaussée : cuisine, séjour, 1 chambre (2 lits 1 pers.), salle d'eau/W.C, salon : piscine (9,50 x 3,60), sauna . Au premier étage : salon (billard), 4 chambres (3 lits 2 pers., 2 lits 1 pers.), 4 salles d'eau/W.C. Au second étage : 3 chambres (1 lit 2 pers., 3 lits 1 pers.) salle de bains, W.C. Dans une annexe : 3 chambres (1 lit 2 pers., 1 lit 1 pers., 4 lits enfants en 0,90 x 1,90), salle d'eau, W.C. Chauffage central (granulé bois) et électrique, salon de jardin, barbecue. Accès Internet gratuit. Chauffage et électricité inclus. Si location des draps les lits sont faits à l'arrivée. Linge de table fourni. Piscine intérieure chauffée. Sauna 4 places. Gite à proximité du gite 56G816. Chauffage électrique des chambres : 0.10€ le kwh au delà des 100 KWh."
+        ],
+        "nl": [
+          "Op de grens van Morbihan en Finistère, in een bosrijke omgeving, ontdek deze voormalige watermolen op een domein van 1,5 ha met 2 privévijvers. Een prachtige omgeving voor onvergetelijke momenten van gezelligheid! De kers op de taart: een verwarmd binnenzwembad en een sauna met 4 zitplaatsen, perfect om te ontspannen na je uitstapjes of voor je dagjes uit!\nBegane grond: keuken, woonkamer, 1 slaapkamer (2 eenpersoonsbedden), doucheruimte/toilet, salon: zwembad (9,50 x 3,60), sauna. Eerste verdieping: salon (biljart), 4 slaapkamers (3 tweepersoonsbedden, 2 eenpersoonsbedden), 4 doucheruimtes/W.C. Tweede verdieping: 3 slaapkamers (1 tweepersoonsbed, 3 eenpersoonsbedden), badkamer, W.C. In een bijgebouw: 3 slaapkamers (1 tweepersoonsbed, 1 eenpersoonsbed, 4 kinderbedden (0,90 x 1,90), doucheruimte, W.C. Centrale verwarming (houtpellets) en elektrische verwarming, tuinmeubels, barbecue. Gratis toegang tot internet. Verwarming en elektriciteit inbegrepen. Indien lakens worden gehuurd, zijn de bedden opgemaakt bij aankomst. Tafellinnen aanwezig. Verwarmd overdekt zwembad. Sauna voor 4 personen. Gite dichtbij gite 56G816. Elektrische verwarming voor slaapkamers: 0,10? per kWh boven 100 kWh."
+        ],
+        "es": [
+          "En las fronteras de Morbihan y Finistère, en un entorno arbolado, descubra este antiguo molino de agua en una propiedad de 1,5 ha con 2 estanques privados. Un marco incomparable para momentos de convivencia inolvidables La guinda del pastel: una piscina cubierta climatizada y una sauna de 4 plazas, ¡perfectas para relajarse después de sus escapadas o para sus jornadas!\nPlanta baja: cocina, sala de estar, 1 dormitorio (2 camas individuales), cuarto de ducha/aseo, salón: piscina (9,50 x 3,60), sauna. Primera planta: salón (billar), 4 habitaciones (3 camas dobles, 2 camas individuales), 4 cuartos de ducha/W.C. Segunda planta: 3 habitaciones (1 cama doble, 3 camas individuales), cuarto de baño, W.C. En un anexo: 3 habitaciones (1 cama doble, 1 cama individual, 4 camas infantiles (0,90 x 1,90), cuarto de ducha, W.C. Calefacción central (pellets de madera) y eléctrica, muebles de jardín, barbacoa. Acceso gratuito a Internet. Calefacción y electricidad incluidas. Si se alquilan sábanas, las camas se hacen a la llegada. Ropa de mesa incluida. Piscina cubierta climatizada. Sauna para 4 personas. Casa rural cerca de la casa 56G816. Calefacción eléctrica para los dormitorios: 0,10? por kWh sobre 100 kWh."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/13c63691-70ee-313d-9cda-00f27e690de5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/901ac333-e2ff-3c93-bc83-c76d0d0a2a94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8323bab-447a-33a9-b66a-928a7562690e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac16705c-f1ef-3870-b978-83b569eaccb9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d21f2e6b-287a-3df2-ad01-8df9a40d7080",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/da81574d-02ca-3dc9-a0fc-1c53107b6c7b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3f715e26-83c5-356c-9d86-4da3c8d9c203",
+          "schema:addressLocality": "Guiscriff",
+          "schema:postalCode": "56560",
+          "schema:streetAddress": [
+            "Saint-Éloi"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56081",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guiscriff"
+              ],
+              "pt": [
+                "Guiscriff"
+              ],
+              "en": [
+                "Guiscriff"
+              ],
+              "it": [
+                "Guiscriff"
+              ],
+              "fr": [
+                "Guiscriff"
+              ],
+              "nl": [
+                "Guiscriff"
+              ],
+              "es": [
+                "Guiscriff"
+              ]
+            },
+            "insee": "56081",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ed240734-48af-398d-a064-f8f50f3aea08",
+        "schema:latitude": "47.985999",
+        "schema:longitude": "-3.626514",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.198Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ce3d8745-c354-351a-aed1-d18446451af9",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

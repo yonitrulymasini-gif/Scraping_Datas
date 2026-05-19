@@ -1,0 +1,357 @@
+{
+  "@id": "https://data.datatourisme.fr/38/65ef4edb-0258-3c2a-b6d5-de7b6b119694",
+  "dc:identifier": "FMABRE056V5090BZ",
+  "schema:endDate": [
+    "2026-12-20"
+  ],
+  "schema:startDate": [
+    "2026-05-16"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:ExhibitionEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "Exhibition",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Exposition photos : Etre photographe... en Bretagne"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/165e89a1-60f2-3cf4-ab76-add6fe747809",
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27cca935-02c8-3f67-9593-886eae4a3940",
+      "schema:telephone": [
+        "+33 2 97 93 40 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.campeneac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0ee5bde7-d1b8-39a8-9b23-faba41f7a842",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie die neue Freiluft-Fotoausstellung in Campénéac: Fotograf sein... in der Bretagne. Ein künstlerisches Ereignis, das Sie nicht verpassen sollten!\nAm 16. Mai um 17 Uhr können Sie bei einem gemütlichen Beisammensein an der Vernissage teilnehmen."
+        ],
+        "en": [
+          "Come and discover Campénéac's new open-air photo exhibition: Etre photographe... en Bretagne. An artistic event not to be missed!\nOn May 16, at 5pm, join us for a convivial opening."
+        ],
+        "it": [
+          "Venite a scoprire la nuova mostra fotografica all'aperto di Campénéac: Essere fotografi... in Bretagna. Un evento artistico da non perdere!\nIl 16 maggio, alle ore 17.00, unitevi a noi in una serata conviviale per festeggiare l'inaugurazione della mostra."
+        ],
+        "fr": [
+          "Venez découvrir la nouvelle exposition photos en plein air de Campénéac : Etre photographe... en Bretagne. Un rendez-vous artistique à ne pas manquer !\nLe 16 mai, à 17h, assistez à son vernissage lors d'un moment convivial."
+        ],
+        "es": [
+          "Venga a descubrir la nueva exposición fotográfica al aire libre de Campénéac: Ser fotógrafo... en Bretaña. Un acontecimiento artístico que no se puede perder\nEl 16 de mayo, a las 17:00, participe en una velada de convivencia para celebrar la inauguración de la exposición."
+        ],
+        "nl": [
+          "Kom en ontdek de nieuwe fototentoonstelling van Campénéac in de open lucht: Fotograaf zijn... in Bretagne. Een artistiek evenement dat u niet mag missen!\nKom op 16 mei om 17.00 uur naar een gezellige avond om de opening van de tentoonstelling te vieren."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3052927c-79ca-352b-a6fe-f61ca5d169ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/460243ef-c6ae-311d-b2ec-c80135693aa9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5db8a55b-c8b2-3ce0-898d-0e55a456e6ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a269b2e-797d-3689-a314-c5c6f6c0891f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d62c7c7c-a651-3220-8eb9-618fa3087de5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2e8da241-d8e5-328e-a321-10d9d3ecd3b9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/89d01924-84a9-3533-9b1a-ebb03e95f9d0",
+          "schema:addressLocality": "Campénéac",
+          "schema:postalCode": "56800",
+          "schema:streetAddress": [
+            "Esplanade du lavoir",
+            "La ruée"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56032",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Campénéac"
+              ],
+              "pt": [
+                "Campénéac"
+              ],
+              "en": [
+                "Campénéac"
+              ],
+              "it": [
+                "Campénéac"
+              ],
+              "fr": [
+                "Campénéac"
+              ],
+              "nl": [
+                "Campénéac"
+              ],
+              "es": [
+                "Campénéac"
+              ]
+            },
+            "insee": "56032",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a9aa447b-21dd-372f-8d9b-c33d27dd4f9b",
+        "schema:latitude": "47.9558776",
+        "schema:longitude": "-2.2913818",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-30",
+  "lastUpdateDatatourisme": "2026-05-01T03:16:42.447Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/479ecacc-cfcd-341d-be4c-abbed466559c",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-12-20",
+      "startDate": "2026-05-16"
+    }
+  ]
+}

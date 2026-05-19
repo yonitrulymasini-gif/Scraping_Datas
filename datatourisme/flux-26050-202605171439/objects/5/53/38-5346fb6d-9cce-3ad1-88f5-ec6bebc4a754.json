@@ -1,0 +1,243 @@
+{
+  "@id": "https://data.datatourisme.fr/38/5346fb6d-9cce-3ad1-88f5-ec6bebc4a754",
+  "dc:identifier": "B0032BRE000000CI",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Allée couverte de Grand Village (fin du 3ème millénaire avant J.C.)"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e51ac79e-c3bb-38de-ac48-c53673e6b949",
+    "dc:identifier": "3b58a92f-1120-4d67-8768-7ebc195c245a",
+    "schema:email": [
+      "contact@broceliande-vacances.com"
+    ],
+    "schema:legalName": "Destination Brocéliande - CRTBretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cb7d3a93-cbc4-3672-846f-7f6baa6489b0",
+      "schema:telephone": [
+        "+33 2 97 74 61 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mairie-caro56.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/74a42a88-9a96-3310-9e9b-f53ebc84368e",
+      "schema:legalName": "Allée couverte de Grand Village (fin du 3ème millénaire avant J.C.)",
+      "schema:telephone": [
+        "+33 2 97 74 61 39"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mairie-caro56.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb7d3a93-cbc4-3672-846f-7f6baa6489b0",
+      "schema:telephone": [
+        "+33 2 97 74 61 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mairie-caro56.fr/"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a5bd4d26-555e-3d7e-a1f2-548d99b63875",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b48f272d-d207-3c53-95eb-33fc1366181e",
+          "schema:addressLocality": "Caro",
+          "schema:postalCode": "56140",
+          "schema:streetAddress": [
+            "Grand village"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56035",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Caro"
+              ],
+              "pt": [
+                "Caro"
+              ],
+              "en": [
+                "Caro"
+              ],
+              "it": [
+                "Caro"
+              ],
+              "fr": [
+                "Caro"
+              ],
+              "nl": [
+                "Caro"
+              ],
+              "es": [
+                "Caro"
+              ]
+            },
+            "insee": "56035",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3f669ccd-be7a-3555-8277-aa6a576b1d45",
+        "schema:latitude": "47.8505491",
+        "schema:longitude": "-2.3386287",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-28",
+  "lastUpdateDatatourisme": "2026-04-27T15:38:15.832Z"
+}

@@ -1,0 +1,576 @@
+{
+  "@id": "https://data.datatourisme.fr/38/aac7e3a4-f55e-325d-8d6c-ec5e10337cc4",
+  "dc:identifier": "HLO1e60f74a66e94",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ty Bihan"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad3aede-084c-392f-8c81-c3f9dfc1ab60",
+      "schema:telephone": [
+        "+33 2 97 57 41 20",
+        "+33 6 07 99 40 26"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.stirec.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad3aede-084c-392f-8c81-c3f9dfc1ab60",
+      "schema:telephone": [
+        "+33 2 97 57 41 20",
+        "+33 6 07 99 40 26"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.stirec.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6c93268-4d42-3806-bf17-5b3f83c38fcc",
+      "schema:legalName": "Ty Bihan",
+      "schema:telephone": [
+        "+33 2 97 57 41 20",
+        "+33 6 07 99 40 26"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.stirec.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a7f96e22-2f0f-313d-b693-8b86a3325387",
+      "dc:description": {
+        "de": [
+          "Fischerhaus 80 m vom Meer, einem feinen Sandstrand und dem Küstenpfad GR34 entfernt. Es besteht die Möglichkeit, von einer Slipanlage für kleine Boote, Kajaks usw. zu profitieren.\n\nWohnzimmer mit amerikanischer Küche. Badezimmer mit Badewanne, Waschbecken und WC. Waschmaschine, Geschirrspüler und Wifi. Babyausstattung wird kostenlos zur Verfügung gestellt. Meerblick von der Eingangstür aus, Blick auf den Golf vom Elternschlafzimmer aus. Eingezäunter Garten. Haustiere auf Anfrage, aber keine Katzen. Gesicherter Parkplatz."
+        ],
+        "en": [
+          "Fisherman's cottage located 80 m from the sea, a sandy beach and the GR34 coastal path. Possibility of a slipway for small boats, kayaks etc...\n\nLiving room with open-plan kitchen. Bathroom with bath, washbasin and WC. Washing machine, dishwasher and Wifi. Baby equipment provided free of charge. Sea view from front door, Gulf view from parents' bedroom. Enclosed garden. Pets on request but no cats. Secure parking."
+        ],
+        "it": [
+          "Casetta di pescatori situata a 80 m dal mare, da una spiaggia sabbiosa e dal sentiero costiero GR34. Possibilità di scivolo per piccole imbarcazioni, kayak ecc...\n\nSoggiorno con cucina a vista. Bagno con vasca, lavabo e WC. Lavatrice, lavastoviglie e Wifi. Attrezzatura per bambini fornita gratuitamente. Vista sul mare dalla porta d'ingresso, vista sul golfo dalla camera dei genitori. Giardino recintato. Animali domestici su richiesta, ma non gatti. Parcheggio custodito."
+        ],
+        "fr": [
+          "Maison de pêcheur située à 80m de la mer, d'une plage de sable fin et du sentier côtier GR34. Possibilité de bénéficier d'une cale de mise à l'eau pour petits bateaux, kayaks etc... \n\nSéjour avec cuisine américaine. Salle de bains comprenant baignoire, lavabo et WC. Lave-linge, lave-vaisselle et Wifi. Équipement bébé fourni gratuitement. Vue mer depuis la porte d'entrée, vue sur le Golfe depuis la chambre des parents. Jardin clos. Animaux sur demande mais pas de chats. Parking sécurisé."
+        ],
+        "nl": [
+          "Vissershuisje op 80 m van de zee, een zandstrand en het kustpad GR34. Mogelijkheid tot aanlegsteiger voor kleine boten, kajaks enz...\n\nWoonkamer met open keuken. Badkamer met bad, wastafel en WC. Wasmachine, vaatwasser en Wifi. Babyspullen gratis beschikbaar. Uitzicht op zee vanaf de voordeur, uitzicht op de Golf vanaf de slaapkamer van de ouders. Omheinde tuin. Huisdieren op aanvraag, maar geen katten. Beveiligde parkeerplaats."
+        ],
+        "es": [
+          "Casa de pescador situada a 80 m del mar, de una playa de arena y del sendero costero GR34. Posibilidad de varadero para pequeñas embarcaciones, kayaks, etc....\n\nSalón con cocina americana. Cuarto de baño con bañera, lavabo y WC. Lavadora, lavavajillas y Wifi. Equipamiento para bebés gratuito. Vista al mar desde la puerta principal, vista al golfo desde el dormitorio de los padres. Jardín cerrado. Mascotas bajo petición pero no gatos. Aparcamiento vigilado."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/55d7428c-ba6f-3f95-954c-8164abdbbe2d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/766d9b70-550e-3071-b479-c0d82f59ad37",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8f4349dd-a95c-3794-9214-2829cb646adb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d91231c5-d9e7-36b6-9d4f-3996093f6f26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4b25c55-76f8-3723-a5e2-2fdcadd96594",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c7fec0cb-12f4-3f92-886e-0099fc80b5a8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a948e0eb-e0e7-369d-877c-0cc3d67473ef",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "28 Fetan-Stirec"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b883b7d6-717c-3c7b-8d5c-933ed7694179",
+        "schema:latitude": "47.5786313",
+        "schema:longitude": "-2.9549282",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9f41f612-4143-3987-b57d-c5028d36a90b",
+          "schema:validFrom": "2026-01-02T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-14",
+  "lastUpdateDatatourisme": "2026-05-15T03:48:48.664Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

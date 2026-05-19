@@ -1,0 +1,328 @@
+{
+  "@id": "https://data.datatourisme.fr/38/edcefc6f-fe76-3b14-8f45-61f43ec9c55d",
+  "dc:identifier": "FMABRE056V50DT5W",
+  "schema:endDate": [
+    "2026-05-30"
+  ],
+  "schema:startDate": [
+    "2026-05-30"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Product",
+    "ChildrensEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Atelier créatif pour enfants"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/165e89a1-60f2-3cf4-ab76-add6fe747809",
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/798546a3-a88d-3d8b-9e1e-0808f68fa02b",
+      "schema:telephone": [
+        "+33 6 26 07 21 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/97e53029-f50a-3a65-9a77-6db4f2bcd80a",
+      "dc:description": {
+        "de": [
+          "Im Land von Planturlure erforschen wir das Geheimnis von Gewürzen, Pflanzen und Blumen, um Farben entstehen zu lassen? Komm und male deinen natürlichen Regenbogen! Um 14 Uhr."
+        ],
+        "en": [
+          "In the land of Planturlure, we explore the secret of using spices, plants and flowers to bring colors to life? Come and paint your own natural rainbow! 2pm."
+        ],
+        "it": [
+          "Nella terra di Planturlure, esploriamo il segreto dell'uso di spezie, piante e fiori per creare colori? Venite a dipingere il vostro arcobaleno naturale! Ore 14.00."
+        ],
+        "fr": [
+          "En contrée de Planturlure, on explore le secret des épices, des plantes et des fleurs pour faire naître des couleurs… Viens peindre ton arc-en-ciel naturel ! A 14h."
+        ],
+        "nl": [
+          "In het land van Planturlure onderzoeken we het geheim van het gebruik van kruiden, planten en bloemen om kleuren te creëren? Kom en schilder je eigen natuurlijke regenboog! 14.00 uur."
+        ],
+        "es": [
+          "En la tierra de Planturlure, exploramos el secreto de utilizar especias, plantas y flores para crear colores.. ¡Ven a pintar tu propio arco iris natural! A las 14 horas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/210beb24-d54c-3455-a95c-1924cccb61a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2d32ba20-ddcc-3098-b5e4-b96aa074df35",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4e39b972-bac4-3245-8389-8c350950e63b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8cbdc1ac-5f89-3397-bbaf-b2d90fbaf963",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0ddd3c5-8184-3291-9d01-86cad0862190",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bfb09a58-50ef-3489-ade4-44db55f4a935",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5a50bbba-17dd-3afa-bca2-92e5f7ccac29",
+          "schema:addressLocality": "Mauron",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "Espace Eugène Grasland",
+            "place Henri Thébault"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56127",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mauron"
+              ],
+              "pt": [
+                "Mauron"
+              ],
+              "en": [
+                "Mauron"
+              ],
+              "it": [
+                "Mauron"
+              ],
+              "fr": [
+                "Mauron"
+              ],
+              "nl": [
+                "Mauron"
+              ],
+              "es": [
+                "Mauron"
+              ]
+            },
+            "insee": "56127",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/593ed572-d858-3718-8632-777632cedca0",
+        "schema:latitude": "48.0836063",
+        "schema:longitude": "-2.2837801",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.831Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/556f34cb-7608-33b0-b437-9eddbd800ee2",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-30",
+      "endTime": "17:00:00",
+      "startDate": "2026-05-30",
+      "startTime": "14:00:00"
+    }
+  ]
+}

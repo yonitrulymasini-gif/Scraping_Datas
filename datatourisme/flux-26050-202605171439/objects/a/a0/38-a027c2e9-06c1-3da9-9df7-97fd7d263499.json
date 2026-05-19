@@ -1,0 +1,736 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a027c2e9-06c1-3da9-9df7-97fd7d263499",
+  "dc:identifier": "RES2b04d67dff464",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Crêperie La Goustanaise"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/31a2dff9-e399-3ba0-948f-9732560a516e",
+      "schema:legalName": "Crêperie La Goustanaise",
+      "schema:telephone": [
+        "+33 2 97 50 82 09"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/31a2dff9-e399-3ba0-948f-9732560a516e",
+      "schema:legalName": "Crêperie La Goustanaise",
+      "schema:telephone": [
+        "+33 2 97 50 82 09"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4db7a3e5-7d33-36dc-86f4-2b10633b6ab3",
+      "dc:description": {
+        "de": [
+          "La Goustanaise empfängt Sie das ganze Jahr über im Herzen des Hafens von Saint-Goustan in Auray in einem denkmalgeschützten bretonischen Haus.\nDie traditionelle und gemütliche Crêperie zelebriert die Authentizität der handwerklich hergestellten bretonischen Galette, die aus 100% Buchweizenmehl (IGP Bretagne) handgedreht und für eine einzigartige Textur beidseitig gebacken wird.\n\nAuf der Speisekarte stehen großzügige Galettes und Crêpes, die mit frischen lokalen Produkten belegt sind, die von Élodie sorgfältig ausgewählt werden. Das seit 2021 von Gault & Millau anerkannte La Goustanaise ist die beste Adresse, um echte bretonische Köstlichkeiten zu probieren, sei es im gemütlichen Speisesaal oder auf der Terrasse mit Blick auf den Hafen.\n\nDas ganze Jahr über, 7 Tage die Woche, mittags und abends geöffnet, eine Schlemmerpause nach Ihrem Spaziergang in Auray!"
+        ],
+        "en": [
+          "La Goustanaise welcomes you all year round to the heart of the port of Saint-Goustan in Auray, in a listed Breton house.\nA warm, traditional creperie, it celebrates the authenticity of the traditional Breton galette, hand-turned with 100% IGP Brittany buckwheat flour, and baked on both sides for a unique texture.\n\nOn the menu: generous galettes and crêpes, topped with ultra-fresh local produce, rigorously selected by Élodie. Recognized by Gault & Millau since 2021, La Goustanaise is the place to go for true Breton flavours, in a cosy dining room or on the terrace overlooking the port.\n\nOpen all year round, 7 days a week, for lunch and dinner, a gourmet break after your stroll in Auray!"
+        ],
+        "it": [
+          "La Goustanaise vi accoglie tutto l'anno nel cuore del porto di Saint-Goustan ad Auray, in una casa bretone protetta.\nUna crêperie calda e tradizionale, che celebra l'autenticità della tradizionale galette bretone, lavorata a mano con farina di grano saraceno 100% IGP della Bretagna e cotta su entrambi i lati per una consistenza unica.\n\nNel menu: generose galette e crêpes, farcite con i prodotti locali più freschi, accuratamente selezionati da Élodie. Riconosciuto da Gault & Millau dal 2021, La Goustanaise è il posto giusto per gustare i veri sapori bretoni, in un'accogliente sala da pranzo o sulla terrazza con vista sul porto.\n\nAperto tutto l'anno, 7 giorni su 7, per pranzo e cena, è il luogo perfetto per una pausa gastronomica dopo una giornata trascorsa ad Auray!"
+        ],
+        "fr": [
+          "La Goustanaise vous accueille toute l’année au cœur du port de Saint-Goustan à Auray, dans une maison bretonne classée. \nCrêperie traditionnelle et chaleureuse, elle célèbre l’authenticité de la galette bretonne artisanale, tournée à la main avec de la farine 100% blé noir IGP Bretagne, cuite sur les deux faces pour une texture unique.\n\nÀ la carte : galettes et crêpes généreuses, garnies de produits locaux ultra frais, rigoureusement sélectionnés par Élodie. Reconnue par Gault & Millau depuis 2021, La Goustanaise est l’adresse incontournable pour déguster les vraies saveurs bretonnes, en salle cosy ou en terrasse avec vue sur le port.\n\nOuvert toute l'année, 7j/7, midi et soir, une pause gourmande après votre balade à Auray !"
+        ],
+        "nl": [
+          "La Goustanaise verwelkomt u het hele jaar door in het hart van de haven van Saint-Goustan in Auray, in een geklasseerd Bretons huis.\nHet is een warme, traditionele crêperie die de authenticiteit van de traditionele Bretonse galette viert, met de hand gedraaid met 100% IGP Bretoens boekweitmeel en aan beide kanten gebakken voor een unieke textuur.\n\nOp het menu: royale galettes en crêpes, gevuld met de meest verse lokale producten, zorgvuldig geselecteerd door Élodie. La Goustanaise, erkend door Gault & Millau sinds 2021, is de plek bij uitstek voor echte Bretonse smaken, in een gezellige eetzaal of op het terras met uitzicht op de haven.\n\nHet hele jaar door, 7 dagen per week, geopend voor lunch en diner, is het de perfecte plek voor een gastronomische pauze na een dagje Auray!"
+        ],
+        "es": [
+          "La Goustanaise le recibe todo el año en el corazón del puerto de Saint-Goustan, en Auray, en una casa bretona catalogada.\nUna crêperie cálida y tradicional, que celebra la autenticidad de la galette tradicional bretona, elaborada a mano con harina de trigo sarraceno 100% IGP Bretaña y cocida por ambos lados para obtener una textura única.\n\nEn el menú: generosas galettes y crêpes, rellenas con los productos locales más frescos, cuidadosamente seleccionados por Élodie. Reconocido por Gault & Millau desde 2021, La Goustanaise es el lugar al que acudir para degustar los auténticos sabores bretones, en un comedor acogedor o en la terraza con vistas al puerto.\n\nAbierto todo el año, 7 días a la semana, para almorzar y cenar, es el lugar perfecto para hacer una pausa gastronómica después de un día en Auray"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0c218f1c-757a-38e9-8c95-4cc09b0d0a27",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/79cacf8f-ae4a-338c-a08a-1311c49b5605",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/909792f8-110d-3171-9931-77e995e7b94b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0085a4b-3eca-3207-a4ac-4c8c5de77d10",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0e5e515-2fe3-3809-b4a2-f44997db8495",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/b88650e9-cb0d-35f8-d356-b3c3912aa79f",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "0e82b45c-bf36-43aa-ac9b-d086c83dea1d",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/5b20cd66-eb6c-3608-b26f-cf235f53a931",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Wifi",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "WLAN, Internetzugang"
+            ],
+            "pt": [
+              "Wi-Fi, acesso Internet"
+            ],
+            "en": [
+              "Wifi, internet access"
+            ],
+            "it": [
+              "Wifi, accesso a internet"
+            ],
+            "fr": [
+              "Wifi, accès internet"
+            ],
+            "nl": [
+              "Wifi, internettoegang"
+            ],
+            "es": [
+              "Wifi, acceso a internet"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9cb441-9e35-3ce2-a956-625b80b91c9f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:BabyChair",
+          "@type": [
+            "CateringAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Hochstuhl"
+            ],
+            "pt": [
+              "Cadeira de bebé"
+            ],
+            "en": [
+              "Baby chair"
+            ],
+            "it": [
+              "Sedia per bambini"
+            ],
+            "fr": [
+              "Chaise bébé"
+            ],
+            "es": [
+              "Silla de bebé"
+            ],
+            "nl": [
+              "Kinderstoel"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bb3d2f7-e8ce-3de9-a0a1-43a6f39229c8",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Terrace",
+          "@type": [
+            "CommonAmenity",
+            "ParkAndGardenTheme"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Terrasse"
+            ],
+            "pt": [
+              "Terraço"
+            ],
+            "en": [
+              "Terrace"
+            ],
+            "it": [
+              "Terrazzo"
+            ],
+            "fr": [
+              "Terrasse"
+            ],
+            "es": [
+              "Terraza"
+            ],
+            "nl": [
+              "Terras"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c0de04d6-2c6a-320f-8a24-9a6adeada7be",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7fcf7938-7592-37eb-af99-db3717dd6201",
+          "schema:addressLocality": "Auray",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "3 Rue Saint-René",
+            "Port de Saint-Goustan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auray"
+              ],
+              "pt": [
+                "Auray"
+              ],
+              "en": [
+                "Auray"
+              ],
+              "it": [
+                "Auray"
+              ],
+              "fr": [
+                "Auray"
+              ],
+              "nl": [
+                "Auray"
+              ],
+              "es": [
+                "Auray"
+              ]
+            },
+            "insee": "56007",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a6df52c1-c45a-3525-9e9d-1e82a07c20a0",
+        "schema:latitude": "47.66606",
+        "schema:longitude": "-2.97846",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "internetAccess": true,
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-04-10",
+  "lastUpdateDatatourisme": "2026-04-11T03:19:54.911Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b9905356-f711-3501-9606-e22445059a61",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

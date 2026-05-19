@@ -1,0 +1,300 @@
+{
+  "@id": "https://data.datatourisme.fr/38/cd40a61c-780b-3924-8a41-f73d02534e2c",
+  "dc:identifier": "ASCBRE000V506JRQ",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Jeunesse et Marine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d386da7e-2c9f-33f3-aeed-716e39a778d8",
+      "schema:telephone": [
+        "+33 2 97 44 31 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.jem.asso.fr/"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Catamaran",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Katamaran"
+        ],
+        "pt": [
+          "Catamarã"
+        ],
+        "en": [
+          "Catamaran"
+        ],
+        "it": [
+          "Catamarano"
+        ],
+        "fr": [
+          "Catamaran"
+        ],
+        "nl": [
+          "Catamaran"
+        ],
+        "es": [
+          "Catamarán"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Windsurfing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Windsurfen"
+        ],
+        "pt": [
+          "Prancha à vela"
+        ],
+        "en": [
+          "Windsurfing"
+        ],
+        "it": [
+          "Windsurf"
+        ],
+        "fr": [
+          "Planche à voile"
+        ],
+        "es": [
+          "Tabla de windsurf"
+        ],
+        "nl": [
+          "Surfplank"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/143f6a44-1d75-3764-966b-faff72560568",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/80c4b93c-0345-364c-8c68-b2a36e7851c1",
+          "schema:addressLocality": "Île-d'Arz",
+          "schema:postalCode": "56840",
+          "schema:streetAddress": [
+            "Chemin de Penhers",
+            "Pointe du Mounien"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56088",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Île-d'Arz"
+              ],
+              "pt": [
+                "Île-d'Arz"
+              ],
+              "en": [
+                "Île-d'Arz"
+              ],
+              "it": [
+                "Île-d'Arz"
+              ],
+              "fr": [
+                "Île-d'Arz"
+              ],
+              "nl": [
+                "Île-d'Arz"
+              ],
+              "es": [
+                "Île-d'Arz"
+              ]
+            },
+            "insee": "56088",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5b577f1a-a6e6-38fe-b508-342171fa23df",
+        "schema:latitude": "47.603472",
+        "schema:longitude": "-2.7942609",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-01-13",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.336Z"
+}

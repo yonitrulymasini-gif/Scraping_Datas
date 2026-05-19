@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/be21ca5e-c5f6-37ef-a3a6-1a9eb4b047bc",
+  "dc:identifier": "HLO6ff0d85ade614",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Villa Kuda"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cecae378-644d-303c-8e7f-855a4a920ceb",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0e84141b-192e-3f7c-9653-b16ebd1072bd",
+      "schema:legalName": "Villa Kuda",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cecae378-644d-303c-8e7f-855a4a920ceb",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7c64842b-aec1-3c24-b777-21cdec049518",
+      "dc:description": {
+        "de": [
+          "Die Villa Kuda, ein Architektenhaus (Franck Labbay Architecte), befindet sich 200 m vom Strand von Quiberon entfernt, zwischen dem Spielkasino und der Thalassotherapie. Sie wird Sie mit ihren balinesisch inspirierten Dekorationen auf eine Reise mitnehmen... im Herzen des beliebten Badeortes Quiberon.\nDiese ungewöhnliche Villa bietet allen modernen Komfort: 4 Suiten mit eigenem Bad und WC und Queensize-Bett, ein komfortables und geräumiges Wohnzimmer, einen großen Flachbildfernseher, Südlage, exotische Dekorationselemente, kostenloser Parkplatz und Wifi, Nespresso.\nDiese moderne Villa, die gleichzeitig Zen und Cosy ist, ist der ideale Ort für einen Urlaub am Meer, der Komfort und Abwechslung bietet!\nKapazität für 8 Personen (einschließlich Kinder)."
+        ],
+        "en": [
+          "Designed by Franck Labbay Architecte and located 200m from Quiberon's Grande Plage, between the Kasino de jeux and the Thalassotherapy center, Villa Kuda will take you on a Balinese-inspired journey... to the heart of the popular seaside resort of Quiberon.\nThis atypical villa offers all modern comforts: 4 suites with en suite bathrooms and toilets and queen-size beds, a comfortable and spacious living room, large flat-screen connected TV, southern exposure, exotic decorative elements, free parking and wifi, Nespresso.\nThis contemporary villa, both zen and cosy, is the ideal place for a seaside vacation offering comfort and a change of scenery!\nSleeps 8 (including children)."
+        ],
+        "it": [
+          "Casa progettata da un architetto (Franck Labbay Architecte), situata a 200 m dalla Grande Plage di Quiberon, tra il Kasino de jeux e il centro di talassoterapia, Villa Kuda vi condurrà in un viaggio di ispirazione balinese... nel cuore della ricercata località balneare di Quiberon.\nQuesta villa atipica offre tutti i comfort moderni: 4 suite con bagno e toilette interni e letto queen-size, un soggiorno confortevole e spazioso, una grande TV connessa a schermo piatto, esposizione a sud, elementi decorativi esotici, parcheggio e Wi-Fi gratuiti, Nespresso.\nQuesta villa contemporanea, zen e accogliente, è il luogo ideale per una vacanza al mare all'insegna del comfort e del cambiamento di scenario!\n8 posti letto (compresi i bambini)."
+        ],
+        "fr": [
+          "Maison d'architecte (Franck Labbay Architecte) située à 200m de la Grande Plage de Quiberon, entre le Kasino de jeux et la Thalassothérapie, la Villa Kuda vous fera voyager au gré de ses décorations d'inspiration balinaise... au cœur de la très prisée station balnéaire de Quiberon.\nCette villa atypique offre tout le confort moderne : 4 suites avec salles de bain et toilettes attenantes et lit queen size, un séjour confortable et spacieux, TV connectée grand écran plat, exposition sud, éléments de décoration exotiques, parking et wifi gratuits, Nespresso. \nCette villa contemporaine, tout à la fois zen et cosy, est le lieu idéal pour des vacances à la mer offrant confort et dépaysement !\nCapacité d'accueil 8 personnes (enfants compris)."
+        ],
+        "nl": [
+          "Villa Kuda is een huis ontworpen door een architect (Franck Labbay Architecte) en ligt op 200 meter van het Grande Plage van Quiberon, tussen het Kasino de jeux en het Thalassotherapiecentrum. De villa neemt je mee op een reis geïnspireerd door de Balinezen... naar het hart van de zeer gewilde badplaats Quiberon.\nDeze atypische villa biedt alle moderne comfort: 4 suites met eigen badkamer en toilet en queensize bed, een comfortabele en ruime woonkamer, grote flatscreentelevisie met internetverbinding, op het zuiden gelegen, exotische decoratieve elementen, gratis parkeergelegenheid en wifi, Nespresso.\nDeze eigentijdse villa, zowel zen als gezellig, is de ideale plek voor een vakantie aan zee en biedt comfort en een verandering van omgeving!\n8 slaapplaatsen (inclusief kinderen)."
+        ],
+        "es": [
+          "Casa de arquitecto (Franck Labbay Architecte) situada a 200 m de la Grande Plage de Quiberon, entre el Kasino de jeux y el centro de talasoterapia, Villa Kuda le llevará en un viaje de inspiración balinesa... al corazón de la codiciada estación balnearia de Quiberon.\nEsta villa atípica ofrece todas las comodidades modernas: 4 suites con cuarto de baño y aseo y cama de matrimonio, un salón cómodo y espacioso, gran TV de pantalla plana conectada, orientación sur, elementos decorativos exóticos, aparcamiento y Wi-Fi gratuitos, Nespresso.\nEsta villa contemporánea, a la vez zen y acogedora, es el lugar ideal para unas vacaciones junto al mar que ofrecen confort y un cambio de aires\nCapacidad para 8 personas (niños incluidos)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/08945714-0402-3b2b-89ee-72ffcf299528",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/18a7a86c-0c6f-325b-a98d-6b9a17db7a54",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f230927-87bc-3872-bf14-f6b28585b4aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d24b9fbc-403b-30ae-865a-e4ec99758a77",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dda78f7d-1af0-3af8-9126-77e051fb0d24",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c0fa1bc3-93fc-3d4e-a38b-da7670878b06",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1a598988-ed7c-3d5a-b610-0f8bbd8ff883",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "7 rue du Menhir couché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a3a37cd4-3790-3f44-97ae-d22409b92421",
+        "schema:latitude": "47.4758",
+        "schema:longitude": "-3.109491",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.029Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

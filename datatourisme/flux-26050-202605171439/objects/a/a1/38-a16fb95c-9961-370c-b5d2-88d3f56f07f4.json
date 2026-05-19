@@ -1,0 +1,574 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a16fb95c-9961-370c-b5d2-88d3f56f07f4",
+  "dc:identifier": "HLO39e511573a404",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ty Kabiten - Les Pervenches"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5a1368d8-f417-3614-9c64-f8166d050ff4",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://tykabiten.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/25ede231-6939-30da-aa4c-c494a5fac676",
+      "schema:legalName": "Ty Kabiten - Les Pervenches",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://tykabiten.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5a1368d8-f417-3614-9c64-f8166d050ff4",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://tykabiten.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5766317a-94a7-33f3-b981-41dbdf28efcc",
+      "dc:description": {
+        "de": [
+          "Eingebettet im Herzen von Locmariaquer, wohnen Sie in dieser Wohnung mit Meerblick, die völlig autonom ist und über eine eigene Küche und ein eigenes Bad verfügt. Sie befindet sich in einem Haus, das 2019 in einem authentischen, maritimen, ökologischen und gemeinsamen Geist renoviert wurde.\n\nDie Wohnung befindet sich im Erdgeschoss des Hauses und ist perfekt für ein Paar geeignet und behindertengerecht.\n\nVon Pervenches aus gelangen Sie direkt auf die helle Gemeinschaftsveranda. Sie haben auch Zugang zum gemütlichen Wohnzimmer und den Terrassen...  Ty Kabiten befindet sich in der Ortschaft Locmariaquer und ist idyllisch gelegen. Alle Annehmlichkeiten sind zu Fuß erreichbar. Außerdem sind Sie von zahlreichen Stränden, Wanderwegen und Überresten aus der Megalithzeit umgeben!\n\nZu jeder Jahreszeit stehen Ihnen zahlreiche Aktivitäten im Haus (Billard, Escape Game im Wohnzimmer, Comic-Bibliothek, Ofen, Gesellschaftsspiele, Kajak, Volleyball- und Badmintonplatz...) und in der Umgebung (charaktervolle Dörfer, Häfen, Megalithen, Strände, Wanderungen, Bowling, Karting, Museen, Kino, Thalasso, Kreuzfahrten im Golf oder auf den Inseln...) zur Verfügung.\n\nAlso ... Sind Sie bereit, an Bord zu gehen?!"
+        ],
+        "en": [
+          "Nestled in the heart of Locmariaquer, come and stay in this sea-view apartment, completely self-contained with its own kitchen and bathroom, in a house renovated in 2019 in an authentic, maritime, ecological and sharing spirit.\n\nLocated on the ground floor of the house, this apartment is perfect for a couple and is accessible to people with reduced mobility.\n\nPervenches opens directly onto the bright shared veranda. You'll also have access to the comfortable living room and terraces...  Ty Kabiten is idyllically located in the village of Locmariaquer. All amenities are within walking distance. You'll also be surrounded by numerous beaches, footpaths and megalithic remains!\n\nWhatever the season, there's plenty to do in the house (billiards, escape game in the living room, comic book library, frying pan, board games, kayaking, volleyball and badminton courts...) and in the surrounding area (villages of character, ports, megaliths, beaches, hiking, bowling, karting, museums, cinema, thalasso, cruises in the Gulf or on the Islands...).\n\nSo, are you... Are you ready to embark?"
+        ],
+        "it": [
+          "Nel cuore di Locmariaquer, venite a soggiornare in questo appartamento vista mare, completamente autonomo con cucina e bagno propri, in una casa ristrutturata nel 2019 in uno spirito autentico, marittimo, ecologico e di condivisione.\n\nSituato al piano terra della casa, questo appartamento è perfetto per una coppia ed è accessibile alle persone con mobilità ridotta.\n\nPervenches si apre direttamente sulla luminosa veranda comune. Avrete inoltre accesso al comodo salotto e alle terrazze...  Ty Kabiten si trova in una posizione idilliaca nella città mercato di Locmariaquer. Tutti i servizi sono raggiungibili a piedi. Sarete inoltre circondati da numerose spiagge, sentieri e resti megalitici!\n\nDurante tutto l'anno, sono disponibili numerose attività in casa (biliardo, gioco di fuga nel salone, fumetteria, stufa, giochi da tavolo, kayak, campo da pallavolo e badminton, ecc.) e nei dintorni (villaggi caratteristici, porti, megaliti, spiagge, escursioni, bowling, go-kart, musei, cinema, talassoterapia, crociere nel Golfo o sulle isole, ecc.)\n\nAllora, siete... Siete pronti a imbarcarvi?"
+        ],
+        "fr": [
+          "Niché au cœur de Locmariaquer, venez séjourner dans cet appartement vue mer, complétement autonome avec sa propre cuisine et salle de bain, dans une maison rénovée en 2019 dans un esprit authentique, maritime, écologique et de partage. \n\nSitué au rez de chaussé de la maison cet appartement est parfait pour un couple et accessible aux personnes à mobilité réduite.\n\nPervenches donne directement sur la lumineuse véranda commune. Vous aurez également accès au confortables salon et aux terrasses...  Située dans le bourg de Locmariaquer la localisation de Ty Kabiten est idyllique. Toutes les commodités sont accessibles à pied. Vous serez également entourés de nombreuses plages, sentiers et vestiges de l'époque mégalithique ! \n\nEn toutes saisons, de nombreuses activités sont à votre disposition dans la maison (billard, escape game dans le salon, bibliothèque de BD, poêle, jeux de société, kayak, terrain de volley et badminton...) et aux alentours (villages de caractère, ports, mégalithes, plages, randonnées, bowling, karting, musées, cinéma, thalasso, croisière dans le Golfe ou sur les Iles...).\n\nAlors... Êtes vous prêt à embarquer ?!"
+        ],
+        "nl": [
+          "Kom en verblijf in dit appartement met uitzicht op zee, volledig onafhankelijk met eigen keuken en badkamer, in een huis dat in 2019 is gerenoveerd in een authentieke, maritieme, ecologische en gedeelde geest.\n\nDit appartement bevindt zich op de begane grond van het huis, is perfect voor een stel en is toegankelijk voor mensen met beperkte mobiliteit.\n\nPervenches geeft direct uit op de lichte gemeenschappelijke veranda. Je hebt ook toegang tot de comfortabele lounge en terrassen...  Ty Kabiten is idyllisch gelegen in het marktstadje Locmariaquer. Alle voorzieningen zijn op loopafstand. Je wordt ook omringd door talloze stranden, wandelpaden en megalithische overblijfselen!\n\nHet hele jaar door zijn er tal van activiteiten mogelijk in het huis (biljart, ontsnappingsspel in de woonkamer, stripbibliotheek, kachel, gezelschapsspelen, kajakken, volleybal- en badmintonveld, enz.) en in de omgeving (karaktervolle dorpjes, havens, megalieten, stranden, wandelen, bowling, karting, musea, bioscoop, thalassotherapie, cruises in de Golf of op de eilanden, enz.)\n\nDus, ben je... Ben je klaar om aan boord te gaan?"
+        ],
+        "es": [
+          "Enclavado en el corazón de Locmariaquer, venga a alojarse en este apartamento con vistas al mar, completamente independiente con cocina y baño propios, en una casa renovada en 2019 con un espíritu auténtico, marítimo, ecológico y de compartir.\n\nSituado en la planta baja de la casa, este piso es perfecto para una pareja y es accesible para personas con movilidad reducida.\n\nPervenches se abre directamente a la luminosa veranda común. También tendrá acceso al cómodo salón y a las terrazas...  Ty Kabiten goza de una ubicación idílica en el pueblo de Locmariaquer. Todos los servicios están a poca distancia. También estará rodeado de numerosas playas, senderos y restos megalíticos\n\nDurante todo el año, podrá realizar numerosas actividades en la casa (billar, juego de escape en el salón, biblioteca de cómics, estufa, juegos de mesa, kayak, pista de voleibol y bádminton, etc.) y en los alrededores (pueblos con carácter, puertos, megalitos, playas, senderismo, bolera, karting, museos, cine, talasoterapia, cruceros por el Golfo o las islas, etc.).\n\nAsí que... ¿Está listo para embarcarse?"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1ef91e29-f59e-3d4c-b1e0-6fa9ba5a69a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3fcc9095-7832-3578-9db8-b5dc3ca1e6e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5393284e-535b-3436-9edc-4915ce39d013",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/905ae104-cdaf-34e5-95c4-4dadd58e6e60",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d343ea32-3023-3f3b-9093-30fa25c85ac9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f4f05ad3-09ae-3c6a-9027-1dabd146c02a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/89b45dfd-36cb-3495-ba32-59b3e1fcbe39",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "6 Route d'Auray"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eb78ee7f-b062-3654-ad4f-32ba286e7863",
+        "schema:latitude": "47.570507",
+        "schema:longitude": "-2.9462617",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:47:10.153Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

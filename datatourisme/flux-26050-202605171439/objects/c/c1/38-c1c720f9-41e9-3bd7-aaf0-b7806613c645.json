@@ -1,0 +1,288 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c1c720f9-41e9-3bd7-aaf0-b7806613c645",
+  "dc:identifier": "B0036BRE0000000O",
+  "@type": [
+    "schema:GolfCourse",
+    "GolfCourse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Golf Lac au Duc"
+    ],
+    "fr": [
+      "Golf Lac au Duc"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ca20685a-0e42-3a83-ae31-25fc59bb6405",
+      "schema:telephone": [
+        "+33 2 97 72 37 20"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lac-au-duc.bluegreen.com/fr"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/83c33085-05cf-338f-8251-e4d6702e8521",
+      "dc:description": {
+        "en": [
+          "A few drives from the Brocéliande forest, the Lac au Duc golf course stretches along the banks of the vast Ploërmel lake. An ideal site to enchant your shots and achieve magical swings!\nEasily accessible, the course stretches between one of the largest lakes in Brittany and the Saint-Malo /Rhuys greenway. Bordered by hydrangeas, the fairways are full of a gentle tranquillity that is perfect for golfers to concentrate. The 9-hole par 36 course, the 14-station driving range, the putting green and the approach green allow everyone to learn and improve their skills in this sport. Three school holes have also just been created for the initiation of children. After an invigorating breath of fresh air, the panoramic terrace of the club-house invites you to savour the view of the flower beds, the trees and the lake.\nGroups are welcome for introductory lessons in groups of 12 people for 1h30.\nOpen every day from 9.30am to 12pm and 1pm to 5pm from October to March, and from 9am to 6pm the rest of the year."
+        ]
+      },
+      "@type": [
+        "Description"
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/c2be55bb-5900-6600-d1eb-0e6dc4a68229",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "B155SXNHCMGW",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:ReferentielNationalBatiments",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Ein digitaler öffentlicher Dienst, der eine nationale Gebäude-Referenz erstellt."
+            ],
+            "pt": [
+              "Serviço público digital que cria uma referência nacional de edifícios."
+            ],
+            "en": [
+              "A digital public service creating a national building reference."
+            ],
+            "it": [
+              "Servizio pubblico digitale che crea un riferimento nazionale degli edifici."
+            ],
+            "fr": [
+              "Service public numérique créant une référence nationale du bâtiment."
+            ],
+            "es": [
+              "Un servicio público digital que crea una referencia nacional de edificios."
+            ],
+            "nl": [
+              "Een digitale openbare dienst die een nationale gebouwreferentie creëert."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Nationales Gebäude-Referenzsystem"
+            ],
+            "pt": [
+              "Normas nacionais de construção"
+            ],
+            "en": [
+              "National Building Standards"
+            ],
+            "it": [
+              "Standard edilizi nazionali"
+            ],
+            "fr": [
+              "Référentiel National des Bâtiments"
+            ],
+            "es": [
+              "Normas nacionales de construcción"
+            ],
+            "nl": [
+              "Nationale bouwnorm"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://rnb.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1ab54b24-e61c-3206-a083-377496c8d180",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1a82d413-dfdb-370c-93df-2721019d741d",
+          "schema:addressLocality": "Ploërmel",
+          "schema:postalCode": "56800",
+          "schema:streetAddress": [
+            "Lac au Duc"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56165",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ploërmel"
+              ],
+              "pt": [
+                "Ploërmel"
+              ],
+              "en": [
+                "Ploërmel"
+              ],
+              "it": [
+                "Ploërmel"
+              ],
+              "fr": [
+                "Ploërmel"
+              ],
+              "nl": [
+                "Ploërmel"
+              ],
+              "es": [
+                "Ploërmel"
+              ]
+            },
+            "insee": "56165",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ac47ec91-328a-3fa7-bf3f-f3ba8453ab75",
+        "schema:latitude": "47.9436015",
+        "schema:longitude": "-2.4114452",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-01-08T03:33:52.736Z"
+}

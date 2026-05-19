@@ -1,0 +1,343 @@
+{
+  "@id": "https://data.datatourisme.fr/38/501afe9d-7a6f-3d4c-ad07-06e138f94d3a",
+  "dc:identifier": "ASCBRE035V52FJX1",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Kayakomat"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/12a1baab-9011-380f-8e91-fb2ce040971d",
+    "schema:legalName": "OT - PAYS DE REDON",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bc7914e6-bde2-3938-8479-c0aaba4fd470",
+      "schema:telephone": [
+        "+33 6 20 67 49 92"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.kayakomat.com/fr"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f0d45372-7382-3dde-b441-47ffcfc7f0ac",
+      "dc:description": {
+        "de": [
+          "Genießen Sie eine Kanufahrt auf einem sicheren, natürlichen und geschützten Gewässer. Entdecken Sie mit Ihrer Familie die Umgebung der Vilaine.\n\nBuchen Sie Ihr Kajak rund um die Uhr aus der Ferne!"
+        ],
+        "en": [
+          "Enjoy canoeing and kayaking on a safe, natural and unspoilt stretch of water. Discover the environment of the Vilaine with your family.\n\nBook your kayak remotely, 24 hours a day!"
+        ],
+        "it": [
+          "Godetevi la canoa e il kayak in uno specchio d'acqua sicuro, naturale e incontaminato. Scoprite l'ambiente della Vilaine con la vostra famiglia.\n\nPrenotate il vostro kayak online 24 ore su 24!"
+        ],
+        "fr": [
+          "Profitez d'une navigation en canoë-kayak sur un plan d'eau sécurisé, naturel et préservé. Découvrez l'environnement de la Vilaine, en famille. \n\nRéservez votre kayak à distance 24h/24 !"
+        ],
+        "nl": [
+          "Geniet van kanoën en kajakken op een veilig, natuurlijk en ongerept stuk water. Ontdek de omgeving van de Vilaine met je gezin.\n\nReserveer uw kajak 24 uur per dag online!"
+        ],
+        "es": [
+          "Disfrute del piragüismo y el kayak en un tramo de agua seguro, natural y virgen. Descubra el entorno del Vilaine en familia.\n\nReserve su kayak en línea las 24 horas del día"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/15ade3e8-574e-3967-8ac8-ca59f8138f9d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6554fe88-0f45-3ed3-92a0-638d1bd301aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df848e75-418e-303a-ba77-8ee92796f541",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3f09ea4-0e32-344b-a1f1-ecf25d114127",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f66788fd-9299-3867-a461-929c06d77a44",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:CanoeingKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kanu-Kajakfahren"
+        ],
+        "pt": [
+          "Canoa caiaque"
+        ],
+        "en": [
+          "Canoeing-kayaking"
+        ],
+        "it": [
+          "Canoismo"
+        ],
+        "fr": [
+          "Canoé kayak"
+        ],
+        "es": [
+          "Piraguas y kayak"
+        ],
+        "nl": [
+          "Kano/kajak"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/24d01d27-3369-399a-a692-d2918134e963",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ba7815ea-428c-3959-866c-895b884b9ba9",
+          "schema:addressLocality": "Rieux",
+          "schema:postalCode": "56350",
+          "schema:streetAddress": [
+            "Le Port",
+            "Le parc du Château",
+            "Rue du Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56194",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rieux"
+              ],
+              "pt": [
+                "Rieux"
+              ],
+              "en": [
+                "Rieux"
+              ],
+              "it": [
+                "Rieux"
+              ],
+              "fr": [
+                "Rieux"
+              ],
+              "nl": [
+                "Rieux"
+              ],
+              "es": [
+                "Rieux"
+              ]
+            },
+            "insee": "56194",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7a861d71-3f76-3219-ade2-e63deda88efa",
+        "schema:latitude": "47.5983093",
+        "schema:longitude": "-2.1008049",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.332Z"
+}

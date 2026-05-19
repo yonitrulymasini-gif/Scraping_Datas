@@ -1,0 +1,573 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6a96770b-4aac-32e9-99e6-ca4f4ae3557a",
+  "dc:identifier": "HLOBRE000V51K2SC",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte Ty Fru"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7ee9b9b7-45ca-3852-8f6b-e422d53b0d28",
+      "schema:telephone": [
+        "+33 6 45 56 67 26",
+        "+33 6 63 77 85 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.kerostines.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7ee9b9b7-45ca-3852-8f6b-e422d53b0d28",
+      "schema:telephone": [
+        "+33 6 45 56 67 26",
+        "+33 6 63 77 85 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.kerostines.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6d14a96-ffde-3569-ba84-c6daf426a934",
+      "schema:legalName": "Gîte Ty Fru",
+      "schema:telephone": [
+        "+33 6 45 56 67 26",
+        "+33 6 63 77 85 11"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.kerostines.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc35c12-03e8-330e-8875-0cec30a0aae6",
+      "dc:description": {
+        "de": [
+          "Neues Haus für 5 Personen, 3 Minuten zu Fuß vom Strand auf der Buchtseite entfernt.\n\nTy Fru bietet 90m², die sich auf zwei Ebenen verteilen:\n- Im Erdgeschoss, ein Wohn- und Esszimmer mit offener, voll ausgestatteter Küche plus eine große Speisekammer,\n- Im ersten Stock befinden sich 2 Schlafzimmer plus ein Schlafsofa auf dem Zwischengeschoss, plus ein großes Badezimmer mit Sanitäranlagen.\n\nTy Fru hat einen eigenen, komplett eingezäunten Garten mit einer Terrasse in Südlage.\nSie profitieren außerdem von einem 2000m² großen Garten, den Sie sich mit den beiden Nachbarhäusern teilen.\n\nDie Lage ist ideal:\n- der Strand der Bucht ist nur 300m entfernt (3 Minuten zu Fuß)\n- die Côte Sauvage (wilde Küste) ist 800 m entfernt.\n\n\nUnser Haus Ty Fru liegt nur 3 Gehminuten vom Strand Kerhostin (Buchtseite) entfernt und ermöglicht Ihnen einen gelungenen Urlaub in einer für die Bretagne typischen Umgebung, wobei Sie gleichzeitig von zahlreichen Möglichkeiten für Aktivitäten und Entdeckungen profitieren können."
+        ],
+        "en": [
+          "New house for 5 people, 3-minute walk from the beach on the Bay side.\n\nTy Fru offers 90m² on 2 levels:\n- On the first floor, a living and dining room with fully equipped open kitchen plus a large storeroom,\n- On the second floor, 2 bedrooms plus a sofa bed on the mezzanine, plus a large shower room with sanitary facilities.\n\nTy Fru has its own fully enclosed garden with a south-facing terrace.\nYou'll also benefit from a 2000m² garden shared with the two neighboring houses.\n\nThe location is ideal:\n- the bay beach is just 300m away (3-minute walk)\n- the Côte Sauvage is 800m away.\n\n\nLocated 3 minutes' walk from Kerhostin beach (on the Bay side), our Ty Fru house will enable you to enjoy a successful vacation in a typical Brittany environment, while benefiting from multiple possibilities for activities and discoveries."
+        ],
+        "it": [
+          "Nuova casa per 5 persone, a 3 minuti a piedi dalla spiaggia sul lato della baia.\n\nTy Fru offre 90 m² su 2 livelli:\n- Al piano terra, soggiorno e sala da pranzo con cucina a vista completamente attrezzata e un ampio ripostiglio,\n- Al primo piano, 2 camere da letto più un divano letto sul soppalco, oltre a un ampio bagno con doccia e servizi igienici.\n\nTy Fru dispone di un giardino completamente recintato con una terrazza esposta a sud.\nPotrete inoltre usufruire di un giardino di 2000 m² condiviso con le due case vicine.\n\nLa posizione è ideale:\n- la spiaggia della baia è a soli 300 metri (3 minuti a piedi)\n- la Côte Sauvage si trova a 800 metri.\n\n\nSituata a soli 3 minuti a piedi dalla spiaggia di Kerhostin (sul lato della baia), la nostra casa Ty Fru vi permetterà di trascorrere una vacanza di successo in un ambiente tipico della Bretagna, beneficiando di un'ampia gamma di attività e scoperte."
+        ],
+        "fr": [
+          "Maison récente pour 5 personnes, à 3 minutes à pied de la plage côté Baie.\n\nTy Fru offre 90m² répartis sur 2 niveaux :\n- Au rez-de-chaussée, un salon et salle à manger avec cuisine ouverte toute équipée plus un grand cellier,\n- Au premier étage, 2 chambres plus un canapé lit sur la mezzanine, plus une grande salle d'eau avec des sanitaires.\n\nTy Fru possède son propre jardin complètement clos avec une terrasse exposée plein Sud.\nVous bénéficierez aussi d'un jardin de 2000m² partagé avec les deux maisons voisines.\n\nL'emplacement est idéal :\n- la plage de la baie est à seulement 300m (3 minutes à pied)\n- la Côte Sauvage est à 800m.\n\n\nSituée à 3 minutes à pied de la plage de Kerhostin (côté Baie), notre maison Ty Fru vous permettra de passer des vacances réussies dans un environnement typique de Bretagne tout en bénéficiant de multiples possibilités d'activités et de découvertes."
+        ],
+        "nl": [
+          "Nieuw huis voor 5 personen, op 3 minuten lopen van het strand aan de baai.\n\nTy Fru biedt 90m² verdeeld over 2 verdiepingen:\n- Op de begane grond, een lounge en eetkamer met volledig uitgeruste open keuken plus een grote berging,\n- Op de eerste verdieping, 2 slaapkamers plus een slaapbank op de mezzanine, plus een grote doucheruimte met sanitair.\n\nTy Fru heeft zijn eigen volledig omheinde tuin met een terras op het zuiden.\nJe profiteert ook van een tuin van 2000m² die gedeeld wordt met de twee buurhuizen.\n\nDe locatie is ideaal:\n- het strand van de baai ligt op slechts 300m (3 minuten lopen)\n- de Côte Sauvage ligt op 800m.\n\n\nOns Ty Fru huis ligt op slechts 3 minuten lopen van het strand van Kerhostin (aan de kant van de baai) en biedt u de mogelijkheid om te genieten van een geslaagde vakantie in een typisch Bretonse omgeving, terwijl u profiteert van een breed scala aan activiteiten en ontdekkingen."
+        ],
+        "es": [
+          "Casa nueva para 5 personas, a 3 minutos a pie de la playa en el lado de la Bahía.\n\nTy Fru ofrece 90m² en 2 niveles:\n- En la planta baja, un salón-comedor con cocina americana totalmente equipada y un gran trastero,\n- En la primera planta, 2 dormitorios más un sofá cama en el entresuelo, más un gran cuarto de ducha con sanitarios.\n\nTy Fru tiene su propio jardín totalmente cerrado con una terraza orientada al sur.\nTambién se beneficiará de un jardín de 2000 m² compartido con las dos casas vecinas.\n\nLa ubicación es ideal:\n- la playa de la bahía está a 300 m (3 minutos a pie)\n- la Côte Sauvage está a 800 m.\n\n\nSituada a sólo 3 minutos a pie de la playa de Kerhostin (del lado de la bahía), nuestra casa Ty Fru le permitirá disfrutar de unas vacaciones satisfactorias en un entorno típicamente bretón, beneficiándose al mismo tiempo de un amplio abanico de actividades y descubrimientos."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4e2171b8-ae45-366e-8568-d996287bfb93",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6aa9fb23-69d5-34eb-88ab-7158cb723354",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8700e2ad-ffc6-3561-9406-3739914a5f67",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af4c4bee-fe36-328a-a4d4-339ee94a5ecd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b55a2783-8dd1-3339-86ee-dcf9e6f83498",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0be46ed9-479b-38fb-b29b-86312af4a6ea",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1487407c-42f1-3651-879a-5647b277bd3e",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "7 Avenue de la Presqu'Île"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/84ce669f-567a-303d-8809-a450e777d2f2",
+        "schema:latitude": "47.5343007",
+        "schema:longitude": "-3.1360428",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:47:10.153Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/45937faf-2105-38db-8ece-c32760916667",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

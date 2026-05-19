@@ -1,0 +1,567 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ea1c10e6-156f-3139-b94a-55d459dca99b",
+  "dc:identifier": "B0028BRE000001IH",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte La Haie"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5fefecd7-3e69-3d4e-9626-560dfea2ae02",
+      "schema:telephone": [
+        "+33 2 97 40 28 57",
+        "+33 2 97 56 48 12",
+        "+33 6 77 51 39 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5fefecd7-3e69-3d4e-9626-560dfea2ae02",
+      "schema:telephone": [
+        "+33 2 97 40 28 57",
+        "+33 2 97 56 48 12",
+        "+33 6 77 51 39 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d5071741-5b67-3947-af9f-3000a4964ca0",
+      "schema:legalName": "Gîte La Haie",
+      "schema:telephone": [
+        "+33 2 97 40 28 57",
+        "+33 2 97 56 48 12",
+        "+33 6 77 51 39 05"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b31badf9-d490-3f64-b81d-4d4328563fbc",
+      "dc:description": {
+        "de": [
+          "Auf halbem Weg zwischen dem Golf von Morbihan und dem Wald von Brocéliande (30 km). An das Haus des Eigentümers angrenzende Unterkunft, 0,5 km von Billio und 3 km von Plumelec entfernt. Wohnzimmer/Küchenecke/Sitzecke, 1 Schlafzimmer (1 Doppelbett), 1 Mezzanin (Sitzecke mit Sofa). Badezimmer (Dusche), WC. Elektrische Heizung. Überdachte Terrasse, Grill, Liegestühle. Garten zur gemeinsamen Nutzung . Internetzugang."
+        ],
+        "en": [
+          "Halfway between the Golfe du Morbihan and the Forêt de Brocéliande (30 km). Adjoining the owner's house, 0.5 km from Billio and 3 km from Plumelec. Living room/kitchenette/lounge area, 1 bedroom (1 double bed), 1 mezzanine (lounge area with sofa). Shower room, wc. Electric heating. Covered terrace, barbecue, deckchairs. Shared garden. Internet access."
+        ],
+        "it": [
+          "A metà strada tra il Golfo di Morbihan e la Foresta di Brocéliande (30 km). Annesso alla casa del proprietario, a 0,5 km da Billio e a 3 km da Plumelec. Soggiorno/cucina/area salotto, 1 camera (1 letto matrimoniale), 1 mezzanino (area salotto con divano). Bagno con doccia, WC. Riscaldamento elettrico. Terrazza coperta, barbecue, sedie a sdraio. Giardino in comune. Accesso a Internet."
+        ],
+        "fr": [
+          "A mi-chemin entre le Golfe du Morbihan et la Forêt de Brocéliande (30 km). Gîte mitoyen à la maison du propriétaire, à 0,5 km de Billio et 3 km de Plumelec. Séjour/coin-cuisine/coin-salon, 1 chambre (1 lit 2 pers.), 1 mezzanine (coin-salon avec canapé). Salle d'eau (douche), wc. Chauffage électrique. Terrasse couverte, barbecue, transats. Jardin en commun . Accès à Internet."
+        ],
+        "nl": [
+          "Halverwege de Golf van Morbihan en het bos van Brocéliande (30 km). Grenzend aan het huis van de eigenaar, 0.5 km van Billio en 3 km van Plumelec. Woonkamer/keuken/woonkamer, 1 slaapkamer (1 2-persoonsbed), 1 mezzanine (zithoek met bank). Badkamer met douche, wc. Elektrische verwarming. Overdekt terras, barbecue, ligstoelen. Gemeenschappelijke tuin. Internettoegang."
+        ],
+        "es": [
+          "A medio camino entre el golfo de Morbihan y el bosque de Brocéliande (30 km). Adosado a la casa del propietario, a 0,5 km de Billio y a 3 km de Plumelec. Salón/cocina/sala de estar, 1 habitación (1 cama doble), 1 entresuelo (sala de estar con sofá). Cuarto de ducha, wc. Calefacción eléctrica. Terraza cubierta, barbacoa, tumbonas. Jardín común. Acceso a Internet."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0dc8f9fc-a968-36f0-bc0b-3b37eec6d141",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70f36765-8e93-3e06-bee9-a4f766ae38f9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b15eeb5e-0777-362d-9e7e-dc5910f5c604",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd7c0286-2f3c-3a3b-8374-0b58fbca7073",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4337d58-e7c9-3433-9028-e46bc22d8f9a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/501f58a5-7d5e-3064-87dc-5aba77d33b05",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9d9fee2f-8734-3507-8893-8a83f5d72b0a",
+          "schema:addressLocality": "Billio",
+          "schema:postalCode": "56420",
+          "schema:streetAddress": [
+            "La Haie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56019",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Billio"
+              ],
+              "pt": [
+                "Billio"
+              ],
+              "en": [
+                "Billio"
+              ],
+              "it": [
+                "Billio"
+              ],
+              "fr": [
+                "Billio"
+              ],
+              "nl": [
+                "Billio"
+              ],
+              "es": [
+                "Billio"
+              ]
+            },
+            "insee": "56019",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ac7ecea4-ca89-3b8b-9253-4e3b3d6554d6",
+        "schema:latitude": "47.8630578",
+        "schema:longitude": "-2.6313363",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.197Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2b1a1371-b517-3a28-9ec8-a42354d1b8cb",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

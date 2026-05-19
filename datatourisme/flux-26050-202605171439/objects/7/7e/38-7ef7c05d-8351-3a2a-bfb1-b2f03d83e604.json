@@ -1,0 +1,315 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7ef7c05d-8351-3a2a-bfb1-b2f03d83e604",
+  "dc:identifier": "FMABRE000V51L7M0",
+  "schema:endDate": [
+    "2026-07-27"
+  ],
+  "schema:startDate": [
+    "2026-07-27"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "L'orgue s'invite au marché"
+    ],
+    "fr": [
+      "L'orgue s'invite au marché"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b1e6ab74-531d-3cfa-b465-def7a970c967",
+      "schema:telephone": [
+        "+33 2 97 24 18 32"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.alreorgues.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8321f592-9931-3a27-863c-c0c2a81d34a9",
+      "dc:description": {
+        "de": [
+          "Der Verein Alre'Orgues bietet Ihnen eine Reihe von Konzerten in der Kirche Saint Gildas (Stadtzentrum) an.\n\nOrgelkonzert - Michel Jézo und Emmanuel Auvray\n\nOhne Reservierung"
+        ],
+        "en": [
+          "The Alre'Orgues association is offering a series of concerts in the church of Saint Gildas (town centre).\n\nOrgan recital - Michel Jézo and Emmanuel Auvray\n\nWithout reservation"
+        ],
+        "it": [
+          "L'associazione Alre'Orgues propone una serie di concerti nella chiesa di Saint Gildas (centro città).\n\nRecital d'organo - Michel Jézo e Emmanuel Auvray\n\nSenza prenotazione"
+        ],
+        "fr": [
+          "L'association Alre'Orgues vous propose une série de concerts en l'église Saint Gildas (centre-ville).\n\nRécital d'orgue - Michel Jézo et Emmanuel Auvray\n\nSans réservation"
+        ],
+        "es": [
+          "La asociación Alre'Orgues ofrece una serie de conciertos en la iglesia de San Gildas (centro de la ciudad).\n\nRecital de órgano - Michel Jézo y Emmanuel Auvray\n\nSin reserva"
+        ],
+        "nl": [
+          "De vereniging Alre'Orgues biedt een reeks concerten in de kerk Saint-Gildas (stadscentrum).\n\nOrgelconcert - Michel Jézo en Emmanuel Auvray\n\nZonder reservering"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/017ae1a1-3550-3022-b641-3de3c10478ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6c2d92d0-0f5f-380c-a0d3-427b8f4155e5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/71ab1986-0ff3-3ff9-8a7d-704ec2759d36",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1b8870e-cbad-3c4a-b920-ec4675fe540e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f1ee7f4a-9efd-3142-ae5c-81a2fbb6ca9d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8495162c-673b-3166-86bd-5bb5b24cd7e6",
+          "schema:addressLocality": "Auray",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Eglise Saint Gildas"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auray"
+              ],
+              "pt": [
+                "Auray"
+              ],
+              "en": [
+                "Auray"
+              ],
+              "it": [
+                "Auray"
+              ],
+              "fr": [
+                "Auray"
+              ],
+              "nl": [
+                "Auray"
+              ],
+              "es": [
+                "Auray"
+              ]
+            },
+            "insee": "56007",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/00dae562-d9bf-3acf-b3fe-d9cfde378c87",
+        "schema:latitude": "47.6657",
+        "schema:longitude": "-2.98229",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.832Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6ce3ba8b-e3d5-33d6-a67f-2401be3166aa",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-27",
+      "startDate": "2026-07-27",
+      "startTime": "11:15:00"
+    }
+  ]
+}

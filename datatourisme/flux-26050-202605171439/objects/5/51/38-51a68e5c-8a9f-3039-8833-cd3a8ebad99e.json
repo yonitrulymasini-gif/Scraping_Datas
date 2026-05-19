@@ -1,0 +1,543 @@
+{
+  "@id": "https://data.datatourisme.fr/38/51a68e5c-8a9f-3039-8833-cd3a8ebad99e",
+  "dc:identifier": "B0028BRE000001B1",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte Les Néfliers"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/677dadbd-66ac-360b-96f1-d4d8ffb6b4f4",
+      "schema:telephone": [
+        "+33 6 42 18 11 93"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.les-nefliers.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/677dadbd-66ac-360b-96f1-d4d8ffb6b4f4",
+      "schema:telephone": [
+        "+33 6 42 18 11 93"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.les-nefliers.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fecc143b-cf93-37bd-ae4a-4cbfa4bd301a",
+      "schema:legalName": "Gîte Les Néfliers",
+      "schema:telephone": [
+        "+33 6 42 18 11 93"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.les-nefliers.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f00d2066-1a7e-30e6-819c-c9bf124de3f0",
+      "dc:description": {
+        "de": [
+          "Katy und Sébastien heißen Sie das ganze Jahr über für eine Nacht, ein Wochenende oder eine Woche willkommen! Les Néfliers, eine mit natürlichen Materialien renovierte Etappen- und Gruppenunterkunft, bietet Ihnen den Charme des Alten und den Komfort eines Hauses, in dem man sich gut erholen kann. Für Reisende, die zu Fuß oder mit dem Fahrrad unterwegs sind, verläuft der GR37 auf dem Gelände des Ferienhauses und der Grüne Weg ist weniger als 1 km entfernt. In der Nähe von Brocéliande und auf halbem Weg zur Nord- oder Südküste. Möglichkeit von Halbpension oder Selbstverpflegung!"
+        ],
+        "en": [
+          "Katy and Sébastien welcome you all year round for a night, a weekend or a week! Les Néfliers, renovated with natural materials, offers you the charm of the past and the comfort of a home where you can recharge your batteries. For itinerant travelers, on foot or by bike, the GR37 passes through the gîte grounds, and the voie verte is less than a km away. Close to Brocéliande and halfway between the north and south coasts. Half-board or self-catering available!"
+        ],
+        "it": [
+          "Katy e Sébastien vi accolgono tutto l'anno per una notte, un weekend o una settimana! Les Néfliers, gîte di sosta e di gruppo, ristrutturato con materiali naturali, vi offre il fascino del passato e il comfort di una casa dove fare il pieno di energia. Per chi desidera esplorare la regione a piedi o in bicicletta, il GR37 passa proprio accanto alla casa e la voie verte è a meno di un chilometro. Vicino a Brocéliande e a metà strada tra la costa nord e la costa sud. Possibilità di mezza pensione o self-catering!"
+        ],
+        "fr": [
+          "Katy et Sébastien vous accueillent tout au long de l’année pour une nuit, un week-end, une semaine ! Les Néfliers, gîte d'étape et de groupe, rénovée avec des matériaux naturels, vous offre le charme de l’ancien et le confort d’une maison où il fait bon se ressourcer. Pour les voyageurs en itinérance, à pied ou à vélo, le GR37 passe sur le terrain du gîte et la voie verte est à moins d'un km. Proche de Brocéliande et à mi-chemin des côtes nord ou sud. Possibilité de demi-pension ou cuisine en gestion libre !"
+        ],
+        "es": [
+          "Katy y Sébastien le dan la bienvenida todo el año para pasar una noche, un fin de semana o una semana Les Néfliers, casa rural de paso y para grupos, renovada con materiales naturales, le ofrece el encanto de antaño y la comodidad de una casa donde reponer fuerzas. Para los que deseen explorar la región a pie o en bicicleta, el GR37 pasa justo al lado de la casa rural y la voie verte está a menos de un kilómetro. Cerca de Brocéliande y a medio camino entre las costas norte y sur. Posibilidad de media pensión o autoservicio"
+        ],
+        "nl": [
+          "Katy en Sébastien verwelkomen je het hele jaar door voor een nacht, een weekend of een week! Les Néfliers, een tussenstop en groepsgîte, gerenoveerd met natuurlijke materialen, biedt je de charme van het verleden en het comfort van een huis waar je nieuwe energie kunt opdoen. Voor wie de streek te voet of met de fiets wil verkennen, de GR37 loopt vlak langs de gîte en de voie verte ligt op minder dan een kilometer. Vlakbij Brocéliande en halverwege de noord- en zuidkust. Halfpension of self-catering mogelijk!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2d95594e-8b6f-3504-bb9f-66b770d31c32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/449dea17-2a06-366b-8780-83f5614c599d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/779cf587-e89e-342f-a200-4235b1834bc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea82e4a8-5af4-3b2e-9953-b728b29400fa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ec83369f-6c00-31a3-b93a-675b0e7c445f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b02af512-3f30-3b38-b7e5-bca3ecdfaa76",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2e0f22f4-b9a9-3e1c-86da-4c8e958cff96",
+          "schema:addressLocality": "Mauron",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "7,",
+            "La Ville es Mélais"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56127",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mauron"
+              ],
+              "pt": [
+                "Mauron"
+              ],
+              "en": [
+                "Mauron"
+              ],
+              "it": [
+                "Mauron"
+              ],
+              "fr": [
+                "Mauron"
+              ],
+              "nl": [
+                "Mauron"
+              ],
+              "es": [
+                "Mauron"
+              ]
+            },
+            "insee": "56127",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5511e88a-01d5-3f02-b29c-2f61c1d4c965",
+        "schema:latitude": "48.05166",
+        "schema:longitude": "-2.30128",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-01-23",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.554Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/863aba45-2f7a-3e12-ba5e-58604edde99c",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

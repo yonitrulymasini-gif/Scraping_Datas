@@ -1,0 +1,209 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b26448be-24f7-32d8-9e31-10c8d66a90a7",
+  "dc:identifier": "LOIBRE000V506B2T",
+  "@type": [
+    "schema:GolfCourse",
+    "GolfCourse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Golf BLUEGREEN Rhuys Kerver"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b1a578b9-b8d1-35e4-99ca-b72eb54dcfe7",
+      "schema:telephone": [
+        "+33 2 97 45 30 09"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.rhuys-kerver.bluegreen.fr/"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5ea1e183-80d5-3bbd-a62e-b14921a2ab4b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9f1780f7-19ba-3be1-ada4-5ad735501300",
+          "schema:addressLocality": "Saint-Gildas-de-Rhuys",
+          "schema:postalCode": "56730",
+          "schema:streetAddress": [
+            "Golf de Rhuys - Kerver",
+            " "
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56214",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "pt": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "en": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "it": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "fr": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "nl": [
+                "Saint-Gildas-de-Rhuys"
+              ],
+              "es": [
+                "Saint-Gildas-de-Rhuys"
+              ]
+            },
+            "insee": "56214",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a4a0d606-ae31-3304-9bb0-7112b2ea7efd",
+        "schema:latitude": "47.52763",
+        "schema:longitude": "-2.863998",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-02-01",
+  "lastUpdateDatatourisme": "2024-04-11T01:09:43.876Z"
+}

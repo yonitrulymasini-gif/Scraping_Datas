@@ -1,0 +1,305 @@
+{
+  "@id": "https://data.datatourisme.fr/38/c2b63bda-d2fb-350a-9c3c-4cb04e022e3f",
+  "dc:identifier": "LOIBRE056V50CPNU",
+  "@type": [
+    "schema:GolfCourse",
+    "GolfCourse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Golf Nature"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c8e1595c-c443-308c-9b2c-427710a02d63",
+      "schema:telephone": [
+        "+33 6 50 43 92 12"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cd4b918a-7053-3f01-a52b-ff43b5100756",
+      "dc:description": {
+        "de": [
+          "Entdeckung und Ausübung des Golfsports, öffentlicher und kostenloser Golfplatz."
+        ],
+        "en": [
+          "Discover and play golf on the free, public course."
+        ],
+        "it": [
+          "Scoprite e giocate a golf su un campo pubblico gratuito."
+        ],
+        "fr": [
+          "Découverte et pratique du golf,  parcours public et gratuit."
+        ],
+        "nl": [
+          "Ontdek en speel golf op een gratis openbare baan."
+        ],
+        "es": [
+          "Descubra y juegue al golf en un campo público gratuito."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/48075ce2-6711-3bd8-8e4c-615a81935aa7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/55be1320-2679-3e6c-9bd8-66348e1cb336",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/677512c0-785a-3306-97e3-bafd408079d6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/971c16a2-ca5e-3b2d-bfe8-356fb4310819",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fdef2775-9222-388c-a4e8-8c3dd287f954",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5878281f-fee7-39d1-ade7-e6b3d0fa5898",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b82e21a6-bdfa-3c75-9c74-e3e8d88f967d",
+          "schema:addressLocality": "Langonnet",
+          "schema:postalCode": "56630",
+          "schema:streetAddress": [
+            "2 Chemin de Ker Yves"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56100",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Langonnet"
+              ],
+              "pt": [
+                "Langonnet"
+              ],
+              "en": [
+                "Langonnet"
+              ],
+              "it": [
+                "Langonnet"
+              ],
+              "fr": [
+                "Langonnet"
+              ],
+              "nl": [
+                "Langonnet"
+              ],
+              "es": [
+                "Langonnet"
+              ]
+            },
+            "insee": "56100",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/370da03d-d781-3d2e-91dd-8cbf4169ff41",
+        "schema:latitude": "48.1097256",
+        "schema:longitude": "-3.4949865",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-05",
+  "lastUpdateDatatourisme": "2026-05-06T03:10:06.059Z"
+}

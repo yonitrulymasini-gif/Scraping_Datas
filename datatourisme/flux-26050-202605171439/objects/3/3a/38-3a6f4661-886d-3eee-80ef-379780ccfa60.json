@@ -1,0 +1,438 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3a6f4661-886d-3eee-80ef-379780ccfa60",
+  "dc:identifier": "ASC1d1bdc29fe3c4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ecole de Voile du Fogeo"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/dd20fde0-744f-3250-a841-762a977a9cc0",
+      "schema:telephone": [
+        "+33 2 97 53 84 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lefogeo.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8e18eb04-9432-34b1-8489-92797d150e4e",
+      "dc:description": {
+        "de": [
+          "Lehrgang, Verleih, Raid, Kreuzfahrtschule. Katamaran, Jolle, Windsurfen. Unterricht für Einzelpersonen. Parkplatz für Boote. Lagerung von Windsurfbrettern. Ecole Française de Voile (Französische Segelschule) - angeschlossen an den Französischen Segelverband."
+        ],
+        "en": [
+          "Training course, rental, raid, cruising school. Catamaran, dinghy, windsurfing. Private lessons. Boat parking. Storage of windsurfing boards. French Sailing School - affiliated to the French Sailing Federation."
+        ],
+        "it": [
+          "Formazione, noleggio, raid, scuola di crociera. Catamarano, gommone, windsurf. Lezioni private. Parcheggio per le barche. Deposito di tavole da windsurf. Scuola di vela francese - affiliata alla Federazione Francese di Vela."
+        ],
+        "fr": [
+          "Stage, location, raid, école de croisière. Catamaran, dériveur, planche à voile. Cours particuliers. Parking à bateau. Stockage de planche à voile. Ecole Française de Voile - affiliée à la Fédération Française de Voile."
+        ],
+        "nl": [
+          "Opleiding, verhuur, inval, vaarschool. Catamaran, rubberboot, windsurfen. Privélessen. Parkeerplaats voor boten. Opslag van windsurfplanken. Franse Zeilschool - aangesloten bij de Franse Zeil Federatie."
+        ],
+        "es": [
+          "Formación, alquiler, raid, escuela de cruceros. Catamarán, embarcación auxiliar, windsurf. Clases particulares. Aparcamiento para barcos. Almacenamiento de tablas de windsurf. Escuela de Vela Francesa - afiliada a la Federación Francesa de Vela."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/189827e2-24cd-3c56-8860-28ff33131a4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/640febb5-4272-30aa-a0d5-77d9959a9059",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/69e5ff45-7c2a-37c1-b596-f704d93f1278",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa0b78f9-fa08-3797-8903-a8d08d65632a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba193b8b-b871-38ab-bc63-57cabe399e85",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:CanoeingKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kanu-Kajakfahren"
+        ],
+        "pt": [
+          "Canoa caiaque"
+        ],
+        "en": [
+          "Canoeing-kayaking"
+        ],
+        "it": [
+          "Canoismo"
+        ],
+        "fr": [
+          "Canoé kayak"
+        ],
+        "es": [
+          "Piraguas y kayak"
+        ],
+        "nl": [
+          "Kano/kajak"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    },
+    {
+      "@id": "kb:SeaKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Seekajak"
+        ],
+        "pt": [
+          "Caiaque marítimo"
+        ],
+        "en": [
+          "Sea kayaking"
+        ],
+        "it": [
+          "Kayak da mare"
+        ],
+        "fr": [
+          "Kayak de mer"
+        ],
+        "nl": [
+          "Zeekajakken"
+        ],
+        "es": [
+          "Kayak de mar"
+        ]
+      }
+    },
+    {
+      "@id": "kb:StandupPaddleboarding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Stand-up Paddle (SUP)"
+        ],
+        "pt": [
+          "Paddle de pé (SUP)"
+        ],
+        "en": [
+          "Standup paddleboarding"
+        ],
+        "it": [
+          "Stand up paddle (SUP)"
+        ],
+        "fr": [
+          "Stand up paddle sup"
+        ],
+        "es": [
+          "Tabla de pádel surf"
+        ],
+        "nl": [
+          "Suppen"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e3538e0e-f16c-376c-a046-6c382e424b66",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1db1fe35-1574-3d10-874b-05ec67b04d0b",
+          "schema:addressLocality": "Arzon",
+          "schema:postalCode": "56640",
+          "schema:streetAddress": [
+            "Parc du Fogeo"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56005",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Arzon"
+              ],
+              "pt": [
+                "Arzon"
+              ],
+              "en": [
+                "Arzon"
+              ],
+              "it": [
+                "Arzon"
+              ],
+              "fr": [
+                "Arzon"
+              ],
+              "nl": [
+                "Arzon"
+              ],
+              "es": [
+                "Arzon"
+              ]
+            },
+            "insee": "56005",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cb44d247-402f-3ac5-a16f-c6f8bbd07a68",
+        "schema:latitude": "47.53906",
+        "schema:longitude": "-2.891303",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3db0de4b-f710-3497-98d9-756310d7ce97",
+          "schema:validFrom": "2020-04-04T00:00:00",
+          "schema:validThrough": "2020-10-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-22",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.332Z"
+}

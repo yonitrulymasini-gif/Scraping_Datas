@@ -1,0 +1,438 @@
+{
+  "@id": "https://data.datatourisme.fr/38/4ba85a66-7ef5-3968-9ff3-e6f434117957",
+  "dc:identifier": "ASCBRE056V507JHV",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Olympic Club Mickey - Location de kayak, paddle et pédalo"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/415cf747-d51f-3eae-abe3-2eee7d5f587c",
+      "schema:telephone": [
+        "+33 6 89 30 91 84"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.club-de-plage-la-trinite-sur-mer.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ecc1dc0e-6303-330a-9e03-1b62c7c388cf",
+      "dc:description": {
+        "de": [
+          "Wir bieten den Verleih von Kajaks, Paddles und Tretbooten an.\r\n\r\nSie haben auch Aktivitäten für Kinder von 3 bis 12 Jahren, ½ Tag oder ganztägig, von Montag bis Samstag. Wir bieten Schwimmkurse in einem beheizten Hallenbad an."
+        ],
+        "en": [
+          "We offer kayak, paddles and pedalo rentals.\r\n\r\nWe also offer activities for children aged 3 to 12, for ½ day or full day, Monday to Saturday. We offer swimming lessons in a heated indoor pool."
+        ],
+        "it": [
+          "Offriamo kayak, pagaie e pedalò a noleggio.\r\n\r\nSono previste anche attività per bambini dai 3 ai 12 anni, per mezza giornata o giornata intera, dal lunedì al sabato. Offriamo lezioni di nuoto in una piscina interna riscaldata."
+        ],
+        "fr": [
+          "Nous proposons la location de  kayaks, paddles et pédalos.\r\n\r\nVous avez aussi des activités pour enfants de 3 ans à 12 ans, à la ½ journée ou à la journée, du lundi au samedi. Nous proposons des cours de natation dans une piscine couverte et chauffée."
+        ],
+        "es": [
+          "Ofrecemos alquiler de kayaks, remos y pedales.\r\n\r\nTambién hay actividades para niños de 3 a 12 años, por media jornada o jornada completa, de lunes a sábado. Ofrecemos clases de natación en una piscina cubierta climatizada."
+        ],
+        "nl": [
+          "Je kunt bij ons kajaks, peddels en waterfietsen huren.\r\n\r\nEr zijn ook activiteiten voor kinderen van 3 tot 12 jaar, per halve of hele dag, van maandag tot zaterdag. We bieden zwemlessen in een verwarmd binnenzwembad."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3e225b4a-9bcf-3300-9bc6-abd5c4fdf215",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/48bf07c1-5f86-3bb6-99d4-24705d35c43e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a689ef8e-12e5-35af-be99-09236156e588",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea9abe2d-e721-3bcc-bab4-297da2219e5a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ed947968-8a15-347c-b3e3-9382b7768fd8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Paddleboat",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tretboot"
+        ],
+        "pt": [
+          "Gaivota"
+        ],
+        "en": [
+          "Paddleboat"
+        ],
+        "it": [
+          "Pedalò"
+        ],
+        "fr": [
+          "Pédalo"
+        ],
+        "nl": [
+          "Waterfiets"
+        ],
+        "es": [
+          "Embarcación de pedales"
+        ]
+      }
+    },
+    {
+      "@id": "kb:SeaKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Seekajak"
+        ],
+        "pt": [
+          "Caiaque marítimo"
+        ],
+        "en": [
+          "Sea kayaking"
+        ],
+        "it": [
+          "Kayak da mare"
+        ],
+        "fr": [
+          "Kayak de mer"
+        ],
+        "nl": [
+          "Zeekajakken"
+        ],
+        "es": [
+          "Kayak de mar"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Sport",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Sport"
+        ],
+        "pt": [
+          "Desporto"
+        ],
+        "en": [
+          "Sport"
+        ],
+        "it": [
+          "Sport"
+        ],
+        "fr": [
+          "Sport"
+        ],
+        "nl": [
+          "Sport"
+        ],
+        "es": [
+          "Deporte"
+        ]
+      }
+    },
+    {
+      "@id": "kb:StandupPaddleboarding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Stand-up Paddle (SUP)"
+        ],
+        "pt": [
+          "Paddle de pé (SUP)"
+        ],
+        "en": [
+          "Standup paddleboarding"
+        ],
+        "it": [
+          "Stand up paddle (SUP)"
+        ],
+        "fr": [
+          "Stand up paddle sup"
+        ],
+        "es": [
+          "Tabla de pádel surf"
+        ],
+        "nl": [
+          "Suppen"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b16fac66-1fb9-35d5-8652-1c3176f0cabf",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fda356a5-a745-3e45-a56f-9456cf919eb0",
+          "schema:addressLocality": "La Trinité-sur-Mer",
+          "schema:postalCode": "56470",
+          "schema:streetAddress": [
+            "Plage de Kervillen"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56258",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Trinité-sur-Mer"
+              ],
+              "pt": [
+                "La Trinité-sur-Mer"
+              ],
+              "en": [
+                "La Trinité-sur-Mer"
+              ],
+              "it": [
+                "La Trinité-sur-Mer"
+              ],
+              "fr": [
+                "La Trinité-sur-Mer"
+              ],
+              "nl": [
+                "La Trinité-sur-Mer"
+              ],
+              "es": [
+                "La Trinité-sur-Mer"
+              ]
+            },
+            "insee": "56258",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/70761044-c6cb-3f82-a7fd-fc0c9d379017",
+        "schema:latitude": "47.5734457",
+        "schema:longitude": "-3.0290005",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f0d8beae-7652-39be-bf0e-3fc3613f5f6e",
+          "schema:validFrom": "2026-07-06T00:00:00",
+          "schema:validThrough": "2026-08-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.335Z"
+}

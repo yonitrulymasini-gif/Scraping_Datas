@@ -1,0 +1,306 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e4837642-ad54-3be5-80c7-c67113692660",
+  "dc:identifier": "ASC60362c640bd54",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ecole de voile Yan Le Breton"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f764ebe5-7bf2-3789-8853-27a0cf0b7f4d",
+      "schema:telephone": [
+        "+33 6 59 55 85 31"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/158a52e2-8644-30b6-9958-87d77afdb4df",
+      "dc:description": {
+        "de": [
+          "Sie müssen lernen, das Boot zu manövrieren, die Segel zu setzen, das Boot zu steuern, die Seekarte zu entdecken und sich auf dem Wasser zu positionieren. Yann, staatlich geprüfter Segellehrer und Skipper, wird Sie bei diesem individuellen Lernprozess begleiten."
+        ],
+        "en": [
+          "Come and learn to sail, you will have to learn how to maneuver, to adjust the sails, to drive the boat, to discover the marine chart and to position yourself on the water. Yann, state-qualified instructor and skipper, will accompany you during this personalized learning."
+        ],
+        "it": [
+          "Venite a imparare a navigare, dovrete imparare a manovrare, regolare le vele, governare la barca, scoprire la carta nautica e posizionarvi sull'acqua. Yann, istruttore e skipper qualificato, vi accompagnerà durante questa esperienza di apprendimento personalizzata."
+        ],
+        "fr": [
+          "Venez vous initier à la voile, il vous faudra apprendre à manœuvrer, à régler les voiles, à assurer la conduite du bateau, à découvrir la carte marine et à vous positionner sur le plan d'eau. Yann, moniteur diplômé d'état et skipper, vous accompagnera lors de cet apprentissage personnalisé."
+        ],
+        "es": [
+          "Ven a aprender a navegar, tendrás que aprender a maniobrar, ajustar las velas, gobernar el barco, descubrir la carta marina y posicionarte en el agua. Yann, un instructor y patrón cualificado por el Estado, le acompañará durante esta experiencia de aprendizaje personalizada."
+        ],
+        "nl": [
+          "Kom leren zeilen, je zult moeten leren manoeuvreren, de zeilen bijstellen, de boot besturen, de zeekaart ontdekken en jezelf positioneren op het water. Yann, een staatsgediplomeerd instructeur en schipper, begeleidt u tijdens deze gepersonaliseerde opleiding."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/9b5bfca0-a4e2-39f2-9a94-aef73a1a39e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2750469-4c3b-3cd4-9184-dda1f22db207",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cfd83a94-ba0d-350a-9e42-0fcabd98c827",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d5b1a6c9-ceb4-39f5-95f7-03eb91431e5e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e9c20824-a08b-3e5d-a1be-578edf60add6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f2266257-2bcd-365f-b99d-18bceecfd8b6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7f971abc-f640-37f7-80bf-908e6afa171f",
+          "schema:addressLocality": "Vannes",
+          "schema:postalCode": "56000",
+          "schema:streetAddress": [
+            "8 rue Pasteur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56260",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vannes"
+              ],
+              "pt": [
+                "Vannes"
+              ],
+              "en": [
+                "Vannes"
+              ],
+              "it": [
+                "Vannes"
+              ],
+              "fr": [
+                "Vannes"
+              ],
+              "nl": [
+                "Vannes"
+              ],
+              "es": [
+                "Vannes"
+              ]
+            },
+            "insee": "56260",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/45c26cb7-fdd8-3f92-bdc5-ce8eb43380c9",
+        "schema:latitude": "47.65533",
+        "schema:longitude": "-2.765018",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

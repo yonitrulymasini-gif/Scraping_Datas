@@ -1,0 +1,320 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e4c83fe5-ff0e-399d-b0ff-d9c7ef1e5fd1",
+  "dc:identifier": "FMABRE000V51L7J2",
+  "schema:endDate": [
+    "2026-05-28"
+  ],
+  "schema:startDate": [
+    "2026-05-21"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:Product",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "OpenDay",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "SaleEvent",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "en": [
+      "14ème fête de l'estampe"
+    ],
+    "fr": [
+      "14ème fête de l'estampe"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c5d8e51f-ec32-3dba-ba20-d37c39415c0d",
+      "schema:telephone": [
+        "+33 6 81 90 07 99"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.manifestampe.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a42152a-c400-38a7-aba1-70426a11485d",
+      "dc:description": {
+        "de": [
+          "Das Atelier AMD - Ester - Gravures, Estampes öffnet seine Türen!\n\nAuf dem Programm stehen:\n\n- Offene Ateliertüren\n- Vorführungen und Demonstrationen,\n- Performances\n- Vorträge"
+        ],
+        "en": [
+          "The Atelier AMD - Ester - Gravures, Estampes opens its doors!\n\nOn the programme:\n\n- Open studio doors\n- Demonstrations,\n- Performances\n- lectures"
+        ],
+        "it": [
+          "L'Atelier AMD - Ester - Gravures, Estampes apre le sue porte!\n\nIn programma:\n\n- Porte aperte dell'atelier\n- Dimostrazioni,\n- Esibizioni\n- Conferenze"
+        ],
+        "fr": [
+          "L'Atelier AMD - Ester - Gravures, Estampes ouvre ses portes !\n\nAu programme :\n\n- Portes ouvertes d'ateliers\n- Démonstrations,\n- Performances\n- Conférences"
+        ],
+        "es": [
+          "¡El Atelier AMD - Ester - Gravures, Estampes abre sus puertas!\n\nEn el programa:\n\n- Puertas abiertas del taller\n- Demostraciones,\n- Actuaciones\n- Conferencias"
+        ],
+        "nl": [
+          "Atelier AMD - Ester - Gravures, Estampes opent zijn deuren!\n\nOp het programma:\n\n- Open atelierdeuren\n- Demonstraties,\n- Optredens\n- Conferenties"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/027e042a-7a06-3c39-8ab2-deff208646c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1c578bdd-d9ee-3883-ae74-cbc339fe544e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/41a3926d-0e79-3d59-a9a7-7e37bf04abc3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c6460d20-a3b6-305c-899c-b5a47456cdf8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3c80989a-6127-334e-9bab-123aad6c5149",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7d3c4ec8-c2ae-3089-919b-a29073f8e087",
+          "schema:addressLocality": "Auray",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "11 Rue Georges Clemenceau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auray"
+              ],
+              "pt": [
+                "Auray"
+              ],
+              "en": [
+                "Auray"
+              ],
+              "it": [
+                "Auray"
+              ],
+              "fr": [
+                "Auray"
+              ],
+              "nl": [
+                "Auray"
+              ],
+              "es": [
+                "Auray"
+              ]
+            },
+            "insee": "56007",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fd49480a-064e-31c9-bb9d-523e00b9fe37",
+        "schema:latitude": "47.6681",
+        "schema:longitude": "-2.98589",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.831Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f16a0122-92df-33c2-8e10-0abc1367d9de",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-28",
+      "endTime": "19:00:00",
+      "startDate": "2026-05-21",
+      "startTime": "15:00:00"
+    }
+  ]
+}

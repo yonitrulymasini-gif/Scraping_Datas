@@ -1,0 +1,385 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ec6cd39d-7431-33c9-953a-442560d3cfc5",
+  "dc:identifier": "FMABRE056V50E0AS",
+  "schema:endDate": [
+    "2026-06-06"
+  ],
+  "schema:startDate": [
+    "2026-06-06"
+  ],
+  "@type": [
+    "schema:Event",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "ShowEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Soirée salsa"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fceccbe2-e10c-3124-8d71-31ef0a25a30e",
+      "schema:telephone": [
+        "+33 2 97 08 38 54",
+        "+33 6 30 91 61 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1619a71a-6bf7-328b-9fd2-0325b4a56523",
+      "dc:description": {
+        "de": [
+          "Von 19.00 bis 19.45 Uhr: Einführung in die kubanische Salsa (alle Altersgruppen)\nVon 19.45 bis 00.00 Uhr: Tanzabend mit kubanischer Salsa, Bachata und Kizomba SBK\nMojitos und Pizzas werden vor Ort angeboten (Reservierung erforderlich)\nAbend auf Vorbestellung"
+        ],
+        "en": [
+          "7pm to 7:45pm: Cuban Salsa initiation (all ages)\n7.45pm to midnight: SBK Cuban salsa, bachata and kizomba dance party\nMojitos and pizzas available on site (reservation required)\nEvenings on reservation"
+        ],
+        "it": [
+          "Dalle 19.00 alle 19.45: iniziazione alla salsa cubana (per tutte le età)\nDalle 19.45 a mezzanotte: festa di ballo di salsa cubana, bachata e kizomba di SBK\nMojito e pizza disponibili in loco (su prenotazione)\nSerate su prenotazione"
+        ],
+        "fr": [
+          "De 19h à 19h45 : initiation Salsa cubaine (tout public) \nDe 19h45 à 00h : soirée dansante Salsa cubaine, bachata et kizomba SBK\nMojitos et pizzas proposés sur place (sur réservation)\nSoirée sur réservation"
+        ],
+        "nl": [
+          "19.00 tot 19.45 uur: Cubaanse salsa-initiatie (alle leeftijden)\n19.45 tot middernacht: SBK Cubaans salsa-, bachata- en kizomba-dansfeest\nMojito's en pizza's ter plaatse verkrijgbaar (reserveren noodzakelijk)\nS Avonds op reservering"
+        ],
+        "es": [
+          "19.00 a 19.45 h: Iniciación a la salsa cubana (todas las edades)\nDe 19.45 a medianoche: fiesta de salsa cubana, bachata y kizomba SBK\nMojitos y pizzas disponibles in situ (imprescindible reservar)\nNoches previa reserva"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/46d84b7d-0041-3897-9b50-52d71a91b2e9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/81b50076-7ccc-3b4b-903c-87b6cae45c07",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/afffb0ac-f801-3dbc-a59e-9f61414d3b9f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b829b571-1146-3070-b2df-6125b82ad2ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb8176b1-2651-3946-b0b6-a0d78029c0d2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Dance",
+      "@type": [
+        "CulturalTheme",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tanz"
+        ],
+        "pt": [
+          "Dança"
+        ],
+        "en": [
+          "Dance"
+        ],
+        "it": [
+          "Danza"
+        ],
+        "fr": [
+          "Danse"
+        ],
+        "es": [
+          "Danza"
+        ],
+        "nl": [
+          "Dansen"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Music",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Musik"
+        ],
+        "pt": [
+          "Música"
+        ],
+        "en": [
+          "Music"
+        ],
+        "it": [
+          "Musica"
+        ],
+        "fr": [
+          "Musique"
+        ],
+        "nl": [
+          "Muziek"
+        ],
+        "es": [
+          "Música"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3381f6df-13aa-3fbb-aa7b-23819262e981",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/60f2699a-30cb-3d76-b9d0-50cfbbd6114f",
+          "schema:addressLocality": "Guern",
+          "schema:postalCode": "56310",
+          "schema:streetAddress": [
+            "Corn er Pont",
+            "L'Île aux oiseaux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56076",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guern"
+              ],
+              "pt": [
+                "Guern"
+              ],
+              "en": [
+                "Guern"
+              ],
+              "it": [
+                "Guern"
+              ],
+              "fr": [
+                "Guern"
+              ],
+              "nl": [
+                "Guern"
+              ],
+              "es": [
+                "Guern"
+              ]
+            },
+            "insee": "56076",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0c21b992-d0a9-340b-ba83-25ef8e7ae4d7",
+        "schema:latitude": "48.0267337",
+        "schema:longitude": "-3.1199431",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T03:34:47.253Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/048439e0-70b5-3adf-8182-ec909332bd40",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-06",
+      "startDate": "2026-06-06",
+      "startTime": "19:00:00"
+    }
+  ]
+}

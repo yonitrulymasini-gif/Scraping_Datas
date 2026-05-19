@@ -1,0 +1,635 @@
+{
+  "@id": "https://data.datatourisme.fr/38/1c50888e-7415-313b-b3a3-ce14d782c255",
+  "dc:identifier": "HLO07502388de5e4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "LOFFICIAL Pierrick - Maison Tyb"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f7116aeb-1d87-36b5-b0af-b8deb9c58e93",
+      "schema:telephone": [
+        "+33 2 97 55 67 57",
+        "+33 6 07 19 68 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesormeaux.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3e77e0ce-fe33-388d-acd6-35802f45ec6d",
+      "schema:legalName": "LOFFICIAL Pierrick - Maison Tyb",
+      "schema:telephone": [
+        "+33 2 97 55 67 57",
+        "+33 6 07 19 68 78"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesormeaux.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f7116aeb-1d87-36b5-b0af-b8deb9c58e93",
+      "schema:telephone": [
+        "+33 2 97 55 67 57",
+        "+33 6 07 19 68 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesormeaux.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6ab82203-8103-3529-8940-9c7c4cdb3e52",
+      "dc:description": {
+        "de": [
+          "Bestehend aus Erdgeschoss: amerikanische Küche (Gas- und Elektroherd, Pyrolyseofen, Mikrowelle, Kühlschrank, Geschirrspüler, komplettes Geschirr, Speisekammer (Waschmaschine, Gefrierschrank, zusätzlicher Kühlschrank), Wohn-/Esszimmer (großer, modulierbarer Tisch für 10-12 Personen, Ledersofas und -sessel, TV), große Terrasse mit großen elektrischen Markisen : ein großer Tisch mit 12 Sesseln, eine \"Apéro\"-Lounge (Kohlegrill und elektrische Plancha), 1 Schlafzimmer (1 Bett 140-190 cm) mit angrenzendem italienischem Badezimmer, 1 WC.\n\nStock: 2 Schlafzimmer (2 Betten 140-190 cm) mit Zugang zu einem gemeinsamen Balkon/Terrasse, 1 Zimmer \"Schlafsaal\" (4 Betten 90-190 cm, davon 2 Ausziehbetten), 1 Spielzimmer/Gymnastikraum (verschiedene Spiele, Schlafsofa + 1 Zusatzbett 80-190 cm), 1 Badezimmer, 1 WC.\n\nEin Hammam und ein Jacuzzi stehen zur Verfügung (kostenpflichtige Option). Das Haus verfügt über einen ca. 900 m² großen, eingezäunten Garten."
+        ],
+        "en": [
+          "First floor: open-plan kitchen (gas and electric hobs, pyrolysis oven, microwave oven, fridge, dishwasher, full set of crockery, pantry (washing machine, freezer, additional fridge), living/dining room (large 10-12-seat modular table, leather sofas and armchairs, TV), large terrace with large electric blinds : a large table with 12 armchairs, an \"Apéro\" lounge (charcoal barbecue and electric plancha), 1 bedroom (1 bed 140-190 cm) with adjoining Italian shower room, 1 WC.\n\n1st floor: 2 bedrooms (2 beds 140-190 cm) opening onto shared balcony/terrace, 1 \"dormitory\" bedroom (4 beds 90-190 cm including 2 trundle beds), 1 games/gym room (various games, sofa bed + 1 extra bed 80-190 cm), 1 bathroom, 1 WC.\n\nA hammam and jacuzzi are available (at extra cost). The house has a 900 m² enclosed garden."
+        ],
+        "it": [
+          "Composto al piano terra da: cucina a vista (piano cottura a gas ed elettrico, forno a pirolisi, microonde, frigorifero, lavastoviglie, set completo di stoviglie e posate, ripostiglio (lavatrice, congelatore, frigorifero supplementare), soggiorno/sala da pranzo (grande tavolo modulare da 10-12 posti, divani e poltrone in pelle, TV), ampia terrazza con grandi tende elettriche: un grande tavolo con 12 poltrone, una sala \"Apéro\" (barbecue a carbonella e plancha elettrica), 1 camera da letto (1 letto 140-190 cm) con bagno doccia, 1 WC.\n\n1° piano: 2 camere da letto (2 letti 140-190 cm) che si aprono su un balcone/terrazza in comune, 1 camera \"dormitorio\" (4 letti 90-190 cm di cui 2 letti a scomparsa), 1 sala giochi-palestra (giochi vari, divano letto + 1 letto supplementare 80-190 cm), 1 bagno, 1 WC.\n\nSono disponibili un hammam e una vasca idromassaggio (a pagamento). La casa dispone di un giardino recintato di 900 m²."
+        ],
+        "fr": [
+          "Comprenant au rez-de-chaussée : une cuisine américaine (feux gaz et électrique, four à pyrolyse, four micro-ondes, réfrigérateur, lave-vaisselle, vaisselle complète, cellier (lave-linge, congélateur, réfrigérateur complémentaire), un salon/salle à manger (grande table 10-12 places modulable, canapés et fauteuil en cuir, TV,) une grande terrasse avec grands stores électriques : une grande table avec 12 fauteuils, un salon \"Apéro\" (barbecue charbon et plancha électrique), 1 chambre (1 lit 140-190 cm) avec salle d'eau italienne attenante, 1 WC.\n\nAu 1er étage : 2 chambres (2 lits 140-190 cm) donnant sur balcon/terrasse commun, 1 chambre \"dortoir\" (4 lits 90-190 cm dont 2 lits gigogne), 1 salle de jeux-salle de gym (jeux divers, canapé convertible + 1 lit 80-190 cm d'appoint), 1 salle de bains, 1 WC.\n\nUn hammam et un jacuzzi sont à disposition (option payante). La maison dispose d'un jardin clos d'environ 900  m²."
+        ],
+        "es": [
+          "Consta en la planta baja de: cocina americana (placa de gas y eléctrica, horno de pirólisis, microondas, frigorífico, lavavajillas, vajilla y cubertería completas, lavadero (lavadora, congelador, frigorífico adicional), salón/comedor (gran mesa modular de 10-12 plazas, sofás y sillones de cuero, TV), gran terraza con grandes persianas eléctricas : una gran mesa con 12 sillones, un salón \"Apéro\" (barbacoa de carbón y plancha eléctrica), 1 dormitorio (1 cama 140-190 cm) con cuarto de ducha en suite, 1 WC.\n\n1ª planta: 2 habitaciones (2 camas 140-190 cm) con salida a un balcón/terraza común, 1 habitación \"dormitorio\" (4 camas 90-190 cm, 2 de ellas nido), 1 sala de juegos-gimnasio (juegos varios, sofá cama + 1 cama supletoria 80-190 cm), 1 cuarto de baño, 1 WC.\n\nUn hammam y un jacuzzi están disponibles (de pago). La casa tiene un jardín cerrado de 900 m²."
+        ],
+        "nl": [
+          "Bestaande uit op de begane grond: open keuken (gas-en elektrische kookplaat, pyrolyse oven, magnetron, koelkast, vaatwasser, volledig servies en bestek, bijkeuken (wasmachine, vriezer, extra koelkast), salon / eetkamer (grote 10-12 plaats modulaire tafel, leren banken en fauteuils, TV), groot terras met grote elektrische zonwering : een grote tafel met 12 fauteuils, een \"Apéro\" lounge (houtskool barbecue en elektrische plancha), 1 slaapkamer (1 bed 140-190 cm) met en-suite badkamer met douche, 1 WC.\n\n1ste verdieping: 2 slaapkamers (2 bedden 140-190 cm) uitgevend op gemeenschappelijk balkon/terras, 1 slaapkamer \"slaapzaal\" (4 bedden 90-190 cm waarvan 2 onderschuifbedden), 1 speelzaal-gymzaal (diverse spellen, slaapbank + 1 extra bed 80-190 cm), 1 badkamer, 1 WC.\n\nEen hammam en jacuzzi zijn beschikbaar (tegen betaling). Het huis heeft een omheinde tuin van 900 m²."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3e3597c5-4f17-36e6-9c5c-4a18844e145c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/526e3df9-4116-3086-8938-03d4b959f21c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9804349b-a29b-369b-937b-7b2efcd28da8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e67bd775-f3c3-3463-9a15-9fff2ec8389f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f9cc831c-7eee-37ea-bd84-e6322af3a1da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fb32224d-2e44-3431-be1c-16c15da15844",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8bf1ed60-b786-313f-80d7-f17db0d6c03d",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "Kerhillio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/acc59203-1bdb-3723-9b70-fc285d6cbc31",
+        "schema:latitude": "47.61782",
+        "schema:longitude": "-3.166377",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.028Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/bafc6800-61ac-3f5e-94f6-267d7ea7b67c",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:FrenchBonsCAF",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Familiengutscheine"
+            ],
+            "pt": [
+              "Vales CAF (caixa de abonos de família)"
+            ],
+            "en": [
+              "French bons caf"
+            ],
+            "it": [
+              "Buoni CAF"
+            ],
+            "fr": [
+              "Bons caf"
+            ],
+            "nl": [
+              "Vakantiesubsidie in Frankrijk (CAF)"
+            ],
+            "es": [
+              "Fondos de asignaciones familiares"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

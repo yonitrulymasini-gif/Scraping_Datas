@@ -1,0 +1,344 @@
+{
+  "@id": "https://data.datatourisme.fr/38/11723e17-02fc-352b-adee-19d046206941",
+  "dc:identifier": "FMABRE056V500BQG",
+  "schema:endDate": [
+    "2026-06-21"
+  ],
+  "schema:startDate": [
+    "2026-06-21"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Concert au Restaurant du Casino"
+    ],
+    "fr": [
+      "Concert au Restaurant du Casino"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7ac6c9cb-5948-3394-97fe-c6e479518847",
+      "schema:telephone": [
+        "+33 2 97 52 64 64"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/642e02d8-eb05-3aa0-a7e2-b815ca6f8ed0",
+      "dc:description": {
+        "de": [
+          "Ab 19 Uhr mit der Gruppe FOUDEZIK, feiern Sie die Musik in einer freundlichen und herzlichen Atmosphäre. Reservierung empfohlen 02 97 52 64 64"
+        ],
+        "en": [
+          "7pm: Attend the Just One concert at the Casino Circus restaurant in Carnac.\n\nFree concert.\n\nInformation and reservations at the casino reception or by phone."
+        ],
+        "it": [
+          "Dalle 19.00 con il gruppo FOUDEZIK, venite a festeggiare la musica in un'atmosfera calda e amichevole. Prenotazione consigliata 02 97 52 64 64"
+        ],
+        "fr": [
+          "À partir de 19h  avec le groupe FOUDEZIK, venez fêter la musique dans une ambiance conviviale et chaleureuse. Réservation conseillée 02 97 52 64 64"
+        ],
+        "nl": [
+          "Vanaf 19.00 uur met de groep FOUDEZIK, kom muziek vieren in een warme en gezellige sfeer. Reserveren aanbevolen 02 97 52 64 64"
+        ],
+        "es": [
+          "A partir de las 19h con el grupo FOUDEZIK, ven a celebrar la música en un ambiente cálido y acogedor. Se recomienda reservar 02 97 52 64 64"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4244df59-ac18-3f9e-9275-44f5292053f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/74a0b07d-5a3a-3e2c-b4f1-5b995bcc8db9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c3420d43-79ce-3a3e-bf04-d7b829a11eb8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e03efeac-fd3f-3a2d-8472-596706f46f00",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Music",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Musik"
+        ],
+        "pt": [
+          "Música"
+        ],
+        "en": [
+          "Music"
+        ],
+        "it": [
+          "Musica"
+        ],
+        "fr": [
+          "Musique"
+        ],
+        "nl": [
+          "Muziek"
+        ],
+        "es": [
+          "Música"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/24fbc55d-85b2-3964-ac23-ed69510bd664",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4f80093c-8b18-35ce-8c7c-b09d7b1accee",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "41 Avenue des Salines",
+            "Casino Circus de Carnac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8383bffc-01b4-317d-bc83-ad3b25910a5f",
+        "schema:latitude": "47.57707",
+        "schema:longitude": "-3.07888",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-14",
+  "lastUpdateDatatourisme": "2026-05-15T03:17:36.3Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/30847e3a-9e91-37d9-9948-9fa5f74dd247",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-21",
+      "startDate": "2026-06-21",
+      "startTime": "19:00:00"
+    }
+  ]
+}

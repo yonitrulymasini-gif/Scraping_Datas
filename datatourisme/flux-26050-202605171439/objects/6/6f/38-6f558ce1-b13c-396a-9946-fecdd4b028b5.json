@@ -1,0 +1,632 @@
+{
+  "@id": "https://data.datatourisme.fr/38/6f558ce1-b13c-396a-9946-fecdd4b028b5",
+  "dc:identifier": "RESBRE056V503ENL",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Grange"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/07573102-a7ff-3d84-b5f6-ac57c004e7c8",
+      "schema:legalName": "La Grange",
+      "schema:telephone": [
+        "+33 2 97 24 20 76"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lagrange-burger-erdeven.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/07573102-a7ff-3d84-b5f6-ac57c004e7c8",
+      "schema:legalName": "La Grange",
+      "schema:telephone": [
+        "+33 2 97 24 20 76"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lagrange-burger-erdeven.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bdc5959c-d095-3a98-b2dc-bdbf292958ad",
+      "dc:description": {
+        "de": [
+          "La Grange bietet Ihnen verschiedene Gerichte, Burger, hausgemachte Pommes frites & Pokébowls aus lokalen Qualitätsprodukten in Erdeven.\n\nUnser Gastronomiebetrieb La Grange befindet sich in einer sorgfältig renovierten Scheune und ist auf Burger und hausgemachte Pommes frites spezialisiert, die aus hochwertigen lokalen Produkten hergestellt werden. Besonders stolz sind wir darauf, dass wir für unsere köstlichen, knusprigen Pommes frites Kartoffeln aus Erdeven verwenden, die vor Ort angebaut werden.\n\nWir legen Wert auf frische Zutaten und hausgemachte Gerichte. Wir wählen unser Fleisch, Gemüse und Gewürze sorgfältig bei lokalen Erzeugern aus.\n\nAlle unsere Gerichte sind auch zum Mitnehmen erhältlich.\nGeben Sie eine Bestellung auf und genießen Sie eine Küche, die mit lokalen Produkten zubereitet wird."
+        ],
+        "en": [
+          "La Grange offers a variety of dishes, burgers, home fries & poké bowls made with quality local produce in Erdeven.\n\nLocated in a lovingly renovated barn, our eatery, La Grange, specializes in burgers and home fries made from quality local produce. We're particularly proud to use locally grown potatoes from Erdeven for our delicious, crispy fries.\n\nWe focus on fresh ingredients and home cooking. We carefully select our meats, vegetables and condiments from local producers.\n\nAll our dishes are available to take away.\nPlace your order and enjoy cuisine prepared with local produce."
+        ],
+        "it": [
+          "La Grange offre una gamma di piatti, hamburger, patatine fritte e poké bowls preparati con prodotti locali di qualità a Erdeven.\n\nSituato in un fienile accuratamente ristrutturato, il nostro ristorante, La Grange, è specializzato in hamburger e patatine fritte fatte con prodotti locali di qualità. Siamo particolarmente orgogliosi di utilizzare patate coltivate localmente a Erdeven per le nostre deliziose e croccanti patatine.\n\nCi concentriamo su ingredienti freschi e cucina casalinga. Selezioniamo con cura la carne, le verdure e i condimenti dai produttori locali.\n\nTutti i nostri piatti sono disponibili per l'asporto.\nOrdinate e godetevi la cucina preparata con prodotti locali."
+        ],
+        "fr": [
+          "La Grange vous propose différents plats, des burgers,  des frites maison & des poké bowls à base de produits locaux de qualité à Erdeven. \n\nSitué dans une grange soigneusement rénovée, notre établissement de restauration, La Grange, se spécialise dans les burgers et les frites maison confectionnés à partir de produits locaux de qualité. Nous sommes particulièrement fiers d'utiliser des pommes de terre d'Erdeven, cultivées localement, pour nos délicieuses frites croustillantes.\n\nNous privilégions la fraîcheur des ingrédients et la cuisine maison. Nous choisissons attentivement nos viandes, légumes et condiments auprès de producteurs locaux.\n\nTous nos plats sont à emporter.\nPassez commande et déguster une cuisine préparée avec les produits locaux."
+        ],
+        "es": [
+          "La Grange ofrece una gama de platos, hamburguesas, patatas fritas caseras y cuencos de poké elaborados con productos locales de calidad en Erdeven.\n\nSituado en un granero cuidadosamente renovado, nuestro restaurante, La Grange, está especializado en hamburguesas y patatas fritas caseras elaboradas con productos locales de calidad. Estamos especialmente orgullosos de utilizar patatas de cultivo local de Erdeven para nuestras deliciosas y crujientes patatas fritas.\n\nNos centramos en los ingredientes frescos y la cocina casera. Seleccionamos cuidadosamente la carne, las verduras y los condimentos entre los productores locales.\n\nTodos nuestros platos están disponibles para llevar.\nHaga su pedido y disfrute de una cocina elaborada con productos locales."
+        ],
+        "nl": [
+          "La Grange biedt een scala aan gerechten, hamburgers, zelfgemaakte frietjes & poké bowls gemaakt met lokale kwaliteitsproducten in Erdeven.\n\nOns restaurant, La Grange, is gevestigd in een zorgvuldig gerenoveerde schuur en is gespecialiseerd in hamburgers en friet van lokale kwaliteitsproducten. We zijn er bijzonder trots op dat we lokaal geteelde aardappelen uit Erdeven gebruiken voor onze heerlijke, knapperige frietjes.\n\nWe richten ons op verse ingrediënten en een huiselijke keuken. We selecteren zorgvuldig ons vlees, groenten en kruiden van lokale producenten.\n\nAl onze gerechten zijn verkrijgbaar om mee te nemen.\nPlaats je bestelling en geniet van gerechten bereid met lokale producten."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1469e724-7e96-3a0b-9d41-8975392f5fd1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad3467a2-9f55-3e36-8e02-b46dca7819e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b436e341-6efa-34d7-954c-59147a718f30",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c5515d3d-9935-354e-9f64-c94890144ce2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9e7fca1-dde7-3521-a1a8-8f5e1d948d54",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/531f2cc9-5b78-fcce-1ee0-d7fefd0e97e5",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "e92be46d-dcd1-4164-93f7-4f24ceb1493d",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e07f751d-d07b-321d-a558-6b737cb95949",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/83fc57aa-fda5-367c-a6ed-589bd245c35a",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "Rue de la Fontaine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e9aacc27-5983-3578-8b71-f3f872c440a4",
+        "schema:latitude": "47.6401573",
+        "schema:longitude": "-3.1549432",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/157677bb-2106-305c-9964-dbb29fb9c274",
+          "schema:validFrom": "2026-10-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7fb88b92-75fb-38c9-a90e-7a560cda5ad0",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-03-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8495c173-b0f6-307d-9176-386738011ee7",
+          "schema:validFrom": "2026-04-01T00:00:00",
+          "schema:validThrough": "2026-09-30T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-06",
+  "lastUpdateDatatourisme": "2026-03-07T03:47:25.752Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b9905356-f711-3501-9606-e22445059a61",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

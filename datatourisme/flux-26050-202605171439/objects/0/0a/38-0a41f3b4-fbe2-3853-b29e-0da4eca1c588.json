@@ -1,0 +1,317 @@
+{
+  "@id": "https://data.datatourisme.fr/38/0a41f3b4-fbe2-3853-b29e-0da4eca1c588",
+  "dc:identifier": "FMABRE056V508TDP",
+  "schema:endDate": [
+    "2026-08-01"
+  ],
+  "schema:startDate": [
+    "2026-08-01"
+  ],
+  "@type": [
+    "schema:Event",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "SportsEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Kreiz Breizh Élites"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/30ae96f0-115d-3606-8c88-a5a4a9f004e5",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sitekbe.com/2025/parcours/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/33e05366-832d-3c21-a861-ce96cb9c2a9d",
+      "dc:description": {
+        "de": [
+          "30. Ausgabe!"
+        ],
+        "en": [
+          "30th edition!"
+        ],
+        "it": [
+          "30a edizione!"
+        ],
+        "fr": [
+          "30e édition !"
+        ],
+        "nl": [
+          "30e editie!"
+        ],
+        "es": [
+          "30ª edición"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2786de13-e582-30b1-a771-4cb735823676",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/39f1d7af-8a55-362a-9049-ddf665475ce2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3eaaa4bc-655d-3efb-8045-9a2b64a0269f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d1321683-605a-374a-8244-726c969d9cc7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fbb9b4f1-9c7c-3350-92c5-2286330a4988",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/23eb8b78-c8d9-3b7f-8390-4128740e02e8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b16fbf59-713f-35cb-a3c9-01bc45cc6996",
+          "schema:addressLocality": "Gourin",
+          "schema:postalCode": "56110",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56066",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Gourin"
+              ],
+              "pt": [
+                "Gourin"
+              ],
+              "en": [
+                "Gourin"
+              ],
+              "it": [
+                "Gourin"
+              ],
+              "fr": [
+                "Gourin"
+              ],
+              "nl": [
+                "Gourin"
+              ],
+              "es": [
+                "Gourin"
+              ]
+            },
+            "insee": "56066",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cf68d79f-a39d-3d16-bb60-2362f66022a1",
+        "schema:latitude": "48.1228574",
+        "schema:longitude": "-3.6182428",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-24",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.848Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f5d86a17-e7c2-35a1-a8d3-9907485816e6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-01",
+      "startDate": "2026-08-01"
+    }
+  ]
+}

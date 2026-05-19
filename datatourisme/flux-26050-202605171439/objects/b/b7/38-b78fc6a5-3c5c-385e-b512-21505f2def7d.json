@@ -1,0 +1,308 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b78fc6a5-3c5c-385e-b512-21505f2def7d",
+  "dc:identifier": "PNA58971cb821bc4",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Visite du site géologique de la Mine d'Or"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/27bce43d-6f09-3d4d-ac2b-b52cec5f10f4",
+      "schema:telephone": [
+        "+33 2 23 10 03 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://mairie-penestin.com/",
+        "http://www.penestin.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ac126ea2-2864-393f-8243-9cc4ddb50f3d",
+      "dc:description": {
+        "de": [
+          "Am Eingang zum Strand der Mine d'Or befindet sich eine Interpretationstafel.Führungen für Gruppen werden auf Reservierung bei der Stadtverwaltung organisiert."
+        ],
+        "en": [
+          "There is an interpretation panel at the entrance to the Gold Mine beach and guided tours are available for groups on reservation at the town hall."
+        ],
+        "it": [
+          "All'ingresso della spiaggia della Mine d'Or si trova un pannello interpretativo e si organizzano visite guidate per gruppi su prenotazione presso il municipio."
+        ],
+        "fr": [
+          "Un panneau d'interprétation est disposé à l'entrée de la plage de la Mine d'Or.Des visites guidées sont organisées sur réservation auprès de la mairie pour les groupes."
+        ],
+        "nl": [
+          "Bij de ingang van het strand van de Mine d'Or staat een informatiepaneel. Voor groepen worden rondleidingen georganiseerd op reservering bij het gemeentehuis."
+        ],
+        "es": [
+          "A la entrada de la playa de la Mine d'Or hay un panel de interpretación. Se organizan visitas guiadas para grupos previa reserva en el ayuntamiento."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2f797029-129c-3ca2-bdad-265f3a59e993",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ffe87b9-be1c-3fc9-b2b3-1baf895ff3f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9dadfd2f-7f72-3c78-99fa-af08fa00267e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad09ed35-b103-34f8-b67d-a01201c0539a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea2a94f4-031d-397e-993d-0e85487bf143",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e75b9bc5-118a-3f4d-98c6-6828d6e50bcb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/773af624-f21e-3c12-a0d8-96c66a21f0a1",
+          "schema:addressLocality": "Pénestin",
+          "schema:postalCode": "56760",
+          "schema:streetAddress": [
+            "Parking de la Source"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56155",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pénestin"
+              ],
+              "pt": [
+                "Pénestin"
+              ],
+              "en": [
+                "Pénestin"
+              ],
+              "it": [
+                "Pénestin"
+              ],
+              "fr": [
+                "Pénestin"
+              ],
+              "nl": [
+                "Pénestin"
+              ],
+              "es": [
+                "Pénestin"
+              ]
+            },
+            "insee": "56155",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/759d361f-fbe1-3c65-b4d8-92b786e324ba",
+        "schema:latitude": "47.48169",
+        "schema:longitude": "-2.493863",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-12",
+  "lastUpdateDatatourisme": "2024-04-11T01:16:51.785Z"
+}

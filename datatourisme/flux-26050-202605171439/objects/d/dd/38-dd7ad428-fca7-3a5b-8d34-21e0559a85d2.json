@@ -1,0 +1,306 @@
+{
+  "@id": "https://data.datatourisme.fr/38/dd7ad428-fca7-3a5b-8d34-21e0559a85d2",
+  "dc:identifier": "ASCBRE056V503WND",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Sailcoop"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/38ae7119-6bbe-37c2-9b2a-076f9a4e7d3a",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.voilasailcoop.fr/lesglenan/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f729a84c-52bf-3372-ad9e-695d6fa20f76",
+      "dc:description": {
+        "de": [
+          "Entscheiden Sie sich für unseren Kurzstrecken-Shuttle und entdecken Sie die Inseln der bretonischen Küste an Bord unseres Sailcoop 61'!\n\nHäufigkeit: 3 pro Tag"
+        ],
+        "en": [
+          "Opt for our short-distance shuttle and discover the islands of Brittany's coastline aboard our Sailcoop 61'!\n\nFrequency: 3 per day"
+        ],
+        "it": [
+          "Scegliete la nostra navetta a corto raggio e scoprite le isole della Bretagna a bordo del nostro Sailcoop 61'!\n\nFrequenza: 3 al giorno"
+        ],
+        "fr": [
+          "Optez pour notre navette courte distance et découvrez les îles du littoral breton à bord de notre Sailcoop 61' !\n\nFréquence: 3 par jour"
+        ],
+        "es": [
+          "¡Elija nuestra lanzadera de corto recorrido y descubra las islas de Bretaña a bordo de nuestro Sailcoop 61'!\n\nFrecuencia: 3 al día"
+        ],
+        "nl": [
+          "Kies voor onze korteafstandspendel en ontdek de Bretonse eilanden langs de kust aan boord van onze Sailcoop 61'!\n\nFrequentie: 3 per dag"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7c5de3a7-7f95-3139-a7dd-39faddeafbed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/914b7ea6-ae14-37fc-88b4-080eac7396c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/92b38d2d-eec8-360a-b532-6f6f6d4ac9af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e46ab047-99fe-3b55-ac8b-bdaf9cd7e5a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f197d983-30c5-3c18-b6b8-989ad6355805",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1133feb2-55bc-3c8c-b9de-917ce57f4322",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/12940073-6611-3145-a680-dbfe6bb42405",
+          "schema:addressLocality": "Vannes",
+          "schema:postalCode": "56000",
+          "schema:streetAddress": [
+            "4 Allée du Clos de Bernus"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56260",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vannes"
+              ],
+              "pt": [
+                "Vannes"
+              ],
+              "en": [
+                "Vannes"
+              ],
+              "it": [
+                "Vannes"
+              ],
+              "fr": [
+                "Vannes"
+              ],
+              "nl": [
+                "Vannes"
+              ],
+              "es": [
+                "Vannes"
+              ]
+            },
+            "insee": "56260",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/66c5f72c-c57b-36b9-ab24-1cf765f4b5f6",
+        "schema:latitude": "47.65005",
+        "schema:longitude": "-2.78494",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-25",
+  "lastUpdateDatatourisme": "2026-04-26T03:03:03.957Z"
+}

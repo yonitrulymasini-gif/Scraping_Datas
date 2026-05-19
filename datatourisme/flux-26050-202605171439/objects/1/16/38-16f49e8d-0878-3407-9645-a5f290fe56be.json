@@ -1,0 +1,343 @@
+{
+  "@id": "https://data.datatourisme.fr/38/16f49e8d-0878-3407-9645-a5f290fe56be",
+  "dc:identifier": "LSPBRE0560000860",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Abbis Location vélos et rosalies"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d9bffe2a-0c14-317e-b01e-b1af559b6c3d",
+      "schema:telephone": [
+        "+33 2 97 48 10 49",
+        "+33 6 47 04 28 99",
+        "+33 6 82 59 48 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://abbis-location.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/352c4c44-ec0f-3ed1-942b-ff5d2c38f606",
+      "dc:description": {
+        "de": [
+          "ÖffnungszeitenVom 01/07/2015 bis 31/08/2015 7 Tage die Woche von 9:30 bis 19:00 UhrFerien im April und W-E im Mai/Juni von 10:00 bis 18:00 UhrNebensaison: Schulferien auf Reservierung"
+        ],
+        "en": [
+          "OpenFrom 01/07/2015 to 31/08/2015 7j/7 from 9h30 to 19hApril vacations and W-E of May-June from 10h to 18hOff Season: School vacations on reservation"
+        ],
+        "it": [
+          "ApertoDal 01/07/2015 al 31/08/2015 7d/7 dalle 9.30 alle 19.00Festività di aprile e W-E di maggio-giugno dalle 10.00 alle 18.00Fuori stagione: vacanze scolastiche su prenotazione"
+        ],
+        "fr": [
+          "OuvertureDu 01/07/2015 au 31/08/2015 7j/7 de 9h30 à 19hVacances d'avril et W-E de mai-juin de 10h à 18hHors Saison: Vacances scolaires sur réservation"
+        ],
+        "nl": [
+          "OpenVan 01/07/2015 tot 31/08/2015 7d/7 van 9u30 tot 19uVakantie en W-E van mei-juni van 10u tot 18uBuiten seizoen: Schoolvakanties op afspraak"
+        ],
+        "es": [
+          "AbiertoDel 01/07/2015 al 31/08/2015 7d/7 de 9h30 a 19h00Vacaciones de abril y W-E de mayo-junio de 10h00 a 18h00Temporada baja: Vacaciones escolares con cita previa"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/301388e4-79ab-385c-94c5-97d995dafbce",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8d10d954-c71a-37be-a81a-eeb6cfdbdf32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a6ab0d2b-45f6-3125-88a2-2d59ed9d02ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d29576b8-a003-3ddf-81fc-e0cc39894951",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d80ee102-0c3f-3e84-8cfa-1981aa026e93",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:BicycleTouring",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Radtourismus"
+        ],
+        "pt": [
+          "Cicloturismo"
+        ],
+        "en": [
+          "Bicycle touring"
+        ],
+        "it": [
+          "Cicloturismo"
+        ],
+        "fr": [
+          "Cyclotourisme"
+        ],
+        "nl": [
+          "Fietstoerisme"
+        ],
+        "es": [
+          "Cicloturismo"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/95daf719-27d8-3534-8325-93f51ec02f07",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6f9d7192-39c1-324a-aa11-1003992bba70",
+          "schema:addressLocality": "Damgan",
+          "schema:postalCode": "56750",
+          "schema:streetAddress": [
+            "28 bis, Rue d'Ambon"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56052",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Damgan"
+              ],
+              "pt": [
+                "Damgan"
+              ],
+              "en": [
+                "Damgan"
+              ],
+              "it": [
+                "Damgan"
+              ],
+              "fr": [
+                "Damgan"
+              ],
+              "nl": [
+                "Damgan"
+              ],
+              "es": [
+                "Damgan"
+              ]
+            },
+            "insee": "56052",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b480aefb-b143-33c3-9096-31a8a5623868",
+        "schema:latitude": "47.52147",
+        "schema:longitude": "-2.584117",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-12-01",
+  "lastUpdateDatatourisme": "2026-02-27T03:30:15.334Z"
+}

@@ -1,0 +1,600 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b42e76ab-45b9-362b-9bdf-f7156a11e388",
+  "dc:identifier": "HLOBRE056V503GKZ",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Bleuets"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2da4f60a-0f8b-377e-939b-9432bb2faccd",
+      "schema:telephone": [
+        "+33 6 86 86 07 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://app.superhote.com/#/get-available-rentals/1LAp1Pwd9oA5hKRAb1oqkNBJf"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2da4f60a-0f8b-377e-939b-9432bb2faccd",
+      "schema:telephone": [
+        "+33 6 86 86 07 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://app.superhote.com/#/get-available-rentals/1LAp1Pwd9oA5hKRAb1oqkNBJf"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3b1448dc-810f-3e8b-8caf-b03a2a5caba0",
+      "schema:legalName": "Les Bleuets",
+      "schema:telephone": [
+        "+33 6 86 86 07 71"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://app.superhote.com/#/get-available-rentals/1LAp1Pwd9oA5hKRAb1oqkNBJf"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/278f504f-141c-3c1d-bd21-dfe9bc3a2b04",
+      "dc:description": {
+        "de": [
+          "5 Étoiles Tourisme - Ferienhaus - 10-12 Personen + 1 Baby\nEin Haus, das mit 5 (fünf) Sternen Tourisme de France klassifiziert ist, bestehend aus\nim Erdgeschoss :\n- ein Wohn- und Esszimmer sehr großer Tv - Soundbar wifi\n- offene Einbauküche, Zugang zur Holzterrasse mit wasserdichter Bio-Klima-Pergola\n- ein WC\n- ein Schlafzimmer mit Schlafgelegenheit 160x200 \"Les roses\" (Die Rosen)\n- ein Schlafzimmer mit einer Liegefläche von 160x200 cm und Zugang zur Terrasse \"Le voilier\".\n- ein Badezimmer mit 2 Waschbecken und italienischer Dusche.\nEtage :\n- ein Badezimmer mit italienischer Dusche\n- ein Waschbecken.\n- ein WC\n- ein Zimmer mit 2 Schlafplätzen von 160 x 200 (oder 2 x 80 x 200) je nach unseren Bedürfnissen \"tanzen - singen\"\n- Ein Schlafzimmer mit einem Bett 160 x 200 - Wohnzimmer - Freizeitecke und und Salontisch - Fernseher das ist \"unser Wohnzimmer Stade Rennais fc \"\n\nTerrasse, Garten, Parkplatz\n\nAnderer Teil:\nim Erdgeschoss :\n- küche Wohn- und Esszimmer (Schlafgelegenheit 140x190), TV\n- ein WC\nobergeschoss:\n- ein Schlafzimmer (Schlafgelegenheit 160 x200), Badezimmer-WC\n\ninnenhof\nmediterraner Garten\n\nEin Gartenwohnzimmer mit 10 Sesseln - Tischen\n1 Smoker Grill\nEin SPA Delux 5 Plätze\nMöglichkeit 14 Schlafplätze + 2 Futons für Kinder + 1 Babybett ( vorher mit den Eigentümern absprechen, da 5-Sterne-Zertifizierung für 10 Personen. Zuschläge).\n\nIn der Nähe der Menhire: Alignements von Kerzerho,\nLandschaften mit Megalithen.\nZahlreiche Wanderwege, darunter einer ab der Residenz, auf dem Sie die Küste zu Fuß oder mit dem Fahrrad erreichen können.\nWunderschöne Spaziergänge für alle.\nDer Strand von Kerhillio ist 3,5 km entfernt, entweder über die Straße oder den Radweg.\n\nDie Zimmer und Betten sind bereit, Sie zu empfangen, Sie haben ein Badetuch pro Person.\nFür die Küche gibt es alles, aber auch Geschirrtücher.\n\nDas Geschirr für den Alltag\nDas Geschirr für den Empfang\n\nHaushaltsgeräte:\n- Geschirrspüler\n- induktionskochfeld\n- backofen\n- waschmaschine\n- amerikanischer Kühlschrank mit zerstoßenem Eis\n- mikrowelle\n- kaffeemaschine für 12 Tassen\n- eine Krups Nespresso Kaffeemaschine\n- toaster\n- wasserkocher\n- toaster\n- elektrische Plancha\n- sorbetkühler\n- 2 Gänge Raclette\n- 2 Gänge Fondue\n- elektrischer Schmortopf\n- crêpière für die Zubereitung Ihrer bretonischen Crêpes.\n- karottenreibe\n- mixer\n- stabmixer\n\nGlasfaser und Netflix-Dienste\nDer Stromverbrauch ist im Preis inbegriffen, jedoch werden Mehrverbrauch oder übermäßiger Verbrauch von kw zusätzlich berechnet.\n\n- Für Silvester- und Neujahrsfeiern wenden Sie sich bitte an uns.\n\n- Bettwäsche wird gestellt\n- Bettwäsche für das Bad\n\nDie Woche beginnt am Samstag um 16 Uhr und endet an den folgenden Samstagen um 10 Uhr.\n\nOrdentliches Wochenende 500? + Haushalt 130? d.h. von Freitagabend bis Sonntagmorgen.\n\nJede Überschreitung der An- oder Abreisezeiten kann mit 50 ? pro Stunde berechnet werden."
+        ],
+        "en": [
+          "5 Étoiles Tourisme - Holiday home - 10-12 people + 1 baby\nA house rated 5 (five) stars Tourisme de France comprising\nfirst floor :\n- a very large living-room-TV - wifi sound bar\n- open-plan fitted kitchen, access to wooden terrace with watertight bio-climatic pergola\n- wC\n- bedroom sleeping 160x200 \"Les roses\n- bedroom sleeping 160x200 with terrace access \"le voilier\".\n- shower room with 2 basins and walk-in shower.\nFirst floor :\n- a shower room with walk-in shower\n- basin.\n- wC\n- a bedroom with 2 beds 160 x 200 (or 2 x 80x200) according to our needs \"dansons - chantons\" (let's dance - let's sing)\n- A bedroom with a 160 x 200 bed - living room - leisure corner and coffee table - Television it's \"our Stade Rennais fc living room \"\n\nTerrace, garden, parking\n\nOther part :\nfirst floor:\n- kitchen-living room (sleeps 140x190), TV\n- wC\nfirst floor: bedroom\n- bedroom (sleeps 160 x200), shower room-WC\n\ncourtyard\nmediterranean garden\n\nGarden lounge with 10 armchairs - tables\n1 smoker barbecue\n5-seater deluxe SPA\nSleeps 14 + 2 children's futons + 1 cot (to be arranged with owners in advance, as 5-star rating for 10 people. Additional charges apply).\n\nClose to menhirs: Kerzerho alignments,\nMegalithic landscapes.\nNumerous hiking trails, including one starting from the residence for access to the coast on foot or by bike.\nGreat walks for everyone.\nWe're 3.5 km from Kerhillio beach by road or cycle path.\n\nThe rooms and beds are ready to welcome you, and you'll have one bath sheet per person.\nFor the kitchen, there's everything you need, including tea towels.\n\nEveryday crockery\nReception crockery\n\nAppliances :\n- Dishwashers\n- induction hob\n- oven\n- washing machine\n- american fridge with crushed ice\n- microwave\n- 12-cup coffeemaker\n- krups Nespresso coffee maker\n- toaster\n- electric kettle\n- grill\n- electric griddle\n- sorbet cooler\n- 2 raclette sets\n- 2-course fondue\n- electric slow cooker\n- crêpière for making crepes bretonnes.\n- carrot grater\n- blender\n- hand blender\n\nFiber and Netflix services\nElectricity consumption is included in the price, but over-consumption or excessive kw consumption will be billed extra.\n\n- For New Year's Eve and Christmas parties, please contact us.\n\n- Bed linen supplied\n- Bath sheets\n\nThe week begins on Saturday at 4 p.m. and ends on the following Saturdays at 10 a.m.\n\nOrdinary weekend 500 ? + cleaning 130 ? i.e. from Friday evening to Sunday morning.\n\nOvertime on arrival or departure may be charged at 50? per hour."
+        ],
+        "it": [
+          "5 Étoiles Tourisme - Casa vacanze - 10-12 persone + 1 bambino\nUna casa classificata 5 (cinque) stelle Tourisme de France composta da\nal piano terra :\n- un soggiorno con una TV molto grande - sound bar wifi\n- cucina aperta e attrezzata, accesso alla terrazza in legno con pergola bioclimatica a tenuta stagna\n- un WC\n- una camera da letto 160x200 \"Les roses\n- camera da letto 160x200 con accesso alla terrazza \"le voilier\".\n- un bagno con 2 lavabi e cabina doccia.\nPrimo piano :\n- un bagno con doccia walk-in\n- un lavabo.\n- wC\n- una camera con 2 letti singoli 160 x 200 (o 2 x 80x200), a seconda delle nostre esigenze \"balliamo - cantiamo\"\n- Una camera da letto con un letto 160 x 200 - salotto - zona relax e tavolino - televisione - \"il nostro salotto dello Stade Rennais fc\"\n\nTerrazza, giardino, parcheggio\n\nAltra parte :\npiano terra:\n- cucina-soggiorno (140x190 posti letto), TV\n- wC\nprimo piano: camera da letto\n- camera da letto (160 x200 posti letto), bagno con doccia-WC\n\ncortile\ngiardino mediterraneo\n\nSalone da giardino con 10 poltrone - tavoli\n1 barbecue con affumicatore\nSpa di lusso a 5 posti\n14 posti letto + 2 futon per bambini + 1 culla (da concordare in anticipo con i proprietari, trattandosi di un alloggio a 5 stelle per 10 persone. Si applicano costi aggiuntivi).\n\nVicino ai menhir: allineamenti di Kerzerho,\nPaesaggi di megaliti.\nNumerosi sentieri, tra cui uno che parte dal residence per accedere alla costa a piedi o in bicicletta.\nGrandi passeggiate per tutti.\nSiamo a 3,5 km dalla spiaggia di Kerhillio su strada o pista ciclabile.\n\nLe camere da letto e i letti sono pronti ad accogliervi, e avrete a disposizione un lenzuolo da bagno a persona.\nPer la cucina, c'è tutto ma anche gli strofinacci.\n\nStoviglie per tutti i giorni\nStoviglie per la reception\n\nElettrodomestici :\n- Lavastoviglie\n- piano cottura a induzione\n- forno\n- lavatrice\n- frigorifero americano con ghiaccio tritato\n- microonde\n- macchina da caffè a 12 tazze\n- una macchina per il caffè Krups Nespresso\n- tostapane\n- bollitore elettrico\n- griglia\n- piastra elettrica\n- refrigeratore per sorbetti\n- 2 set per raclette\n- fonduta a 2 portate\n- pentola elettrica a cottura lenta\n- crepiera per preparare le vostre crepes bretoni.\n- grattugia per carote\n- frullatore\n- frullatore a mano\n\nServizi di fibra e Netflix\nIl consumo di energia elettrica è incluso nel prezzo, ma un consumo eccessivo o un consumo eccessivo di kw verrà addebitato come extra.\n\n- Per le vacanze di Capodanno e Natale, contattateci.\n\n- Lenzuola fornite\n- Lenzuola da bagno\n\nLa settimana inizia il sabato alle ore 16.00 e termina il sabato successivo alle ore 10.00.\n\nWeekend ordinario 500 ? + pulizia 130 ? cioè da venerdì sera a domenica mattina.\n\nIn caso di arrivo o partenza oltre l'orario concordato, verranno addebitati 50 € all'ora."
+        ],
+        "fr": [
+          "5 Étoiles Tourisme - Maison de vacances - 10-12 personnes + 1 bébé\nUne maison classée 5 (cinq) étoiles Tourisme de France comprenant\nau rez-de-chaussée :\n- un séjour-salon très grande Tv - barre son wifi\n- cuisine équipée ouverte, accès terrasse en bois avec pergola bio climatique étanche\n- un WC\n- une chambre avec couchage 160x200 \"Les roses\"\n- une chambre avec couchage 160x200 accès terrasse \"le voilier\".\n- une salle d'eau 2 vasques - douche à l'italienne.\nÉtage :\n- une salle d'eau douche à l'italienne\n- une vasque.\n- un WC\n- une chambre avec 2 couchages de 160 x 200 (ou 2 x 80x200) selon nos besoins « dansons - chantons »\n- Une chambre avec un lit 160 x 200 - salon - coin loisirs et et table de salon - Télévision c'est \"notre salon Stade Rennais fc \"\n\nTerrasse, jardin, parking\n\nAutre partie :\nau rez-de-chaussée :\n- cuisine séjour-salon (couchage 140x190), TV\n- un WC\nétage :\n- une chambre (couchage 160 x200), salle d'eau-WC\n\ncourette\njardin Méditerranéen\n\nUn séjour de jardin avec 10 fauteuils - tables\n1 barbecue smoker\nUn SPA Delux 5 places\nPossibilité 14 couchages + 2 futons enfants + 1 lit bébé  ( à voir au préalable avec les propriétaires car homologuée 5 étoiles pour 10 personnes. Suppléments).\n\nProche des menhirs : alignements de Kerzerho,\nPaysages de mégalithes.\nNombreux chemins de randonnées, dont un au départ de la résidence pour accès à pied ou en vélo à la côte.\nSuperbes balades pour tous.\nNous sommes à 3 kilomètres 5 de la plage de Kerhillio par la route, ou la piste cyclable.\n\nLes chambres et lits sont prêtes à vous recevoir, vous aurez un drap de bain par personne.\nPour la cuisine, il y a tout mais aussi les torchons.\n\nLa vaisselle au quotidien\nLa vaisselle de réception\n\nÉlectroménager :\n- Lave-vaisselle\n- plaque à induction\n- four\n- lave linge\n- frigo américain avec glace pillée\n- micro onde\n- cafetière 12 tasses\n- une cafetière Krups Nespresso\n- grille pain\n- bouilloire électrique\n- grilloir\n- plancha électrique\n- glacière à sorbet\n- 2 services raclette\n- 2 services à fondu\n- mijoteuse électrique\n- crêpière pour réaliser vos crêpes bretonnes.\n- râpe carottes\n- mixeur\n- mixeur plongeur\n\nFibre et services Netflix\nLes consommations électriques sont inclus dans le prix toutefois les sur-consommations ou consommations excessives de kw seront facturés en sus.\n\n- Pour les réveillons et fêtes de fin d'année nous consulter.\n\n- Draps fournis\n- Draps de bains\n\nLa semaine commence le samedi à 16 h et fini les samedis suivants à 10 heures.\n\nWeek-end ordinaires 500 € + ménage 130 € soit du vendredi soir au dimanche matin.\n\nTous dépassement d’horaires à l’arrivée ou au départ pourrons être facturés 50 € de l’heure."
+        ],
+        "nl": [
+          "5 Étoiles Tourisme - Vakantiehuis - 10-12 personen + 1 baby\nEen huis met 5 (vijf) sterren Tourisme de France bestaande uit\nop de begane grond :\n- een woonkamer met een zeer grote tv - wifi soundbar\n- open ingerichte keuken, toegang tot houten terras met waterdichte bio-klimatologische pergola\n- een WC\n- een slaapkamer met 160x200 bedden \"Les roses\n- slaapkamer 160x200 met toegang tot terras \"le voilier\n- een doucheruimte met 2 wastafels en inloopdouche.\nEerste verdieping :\n- een doucheruimte met inloopdouche\n- een wastafel.\n- wC\n- een slaapkamer met 2 eenpersoonsbedden 160 x 200 (of 2 x 80x200), afhankelijk van onze \"let's dance - let's sing\" eisen\n- Een slaapkamer met een bed van 160 x 200 - salon - ontspanningsruimte en koffietafel - televisie - \"onze Stade Rennais fc lounge\"\n\nTerras, tuin, parkeerplaats\n\nAnder gedeelte :\nbegane grond:\n- keuken-woonkamer (140x190 slaapplaatsen), TV\n- wC\neerste verdieping: slaapkamer\n- slaapkamer (160 x200 slaapplaatsen), doucheruimte-WC\n\nbinnenplaats\nmediterrane tuin\n\nTuinsalon met 10 fauteuils - tafels\n1 rookoven barbecue\nLuxe spa met 5 zitplaatsen\n14 slaapplaatsen + 2 futons voor kinderen + 1 babybedje (vooraf te regelen met de eigenaars, aangezien dit een 5-sterrenaccommodatie is voor 10 personen. Extra kosten zijn van toepassing).\n\nVlakbij de menhirs: Kerzerho alignments,\nLandschappen met megalieten.\nTalrijke wandelpaden, waaronder een vanaf de residentie voor toegang tot de kust te voet of met de fiets.\nPrachtige wandelingen voor iedereen.\nWe bevinden ons op 3,5 km van het strand van Kerhillio via de weg of het fietspad.\n\nDe slaapkamers en bedden zijn klaar om je te ontvangen, en je krijgt een badlaken per persoon.\nVoor de keuken is alles aanwezig maar ook theedoeken.\n\nAlledaags servies\nReceptie servies\n\nElektrische apparaten :\n- Vaatwasser\n- inductieplaat\n- oven\n- wasmachine\n- amerikaanse koelkast met crushed ijs\n- magnetron\n- 12-kops koffiezetapparaat\n- een Krups Nespresso koffiezetapparaat\n- broodrooster\n- elektrische waterkoker\n- grill\n- elektrische bakplaat\n- sorbetkoeler\n- 2 gourmetstellen\n- 2-gangen fondue\n- elektrische slow cooker\n- crêpe maker om je eigen Bretonse crêpes te maken.\n- wortelrasp\n- staafmixer\n- staafmixer\n\nGlasvezel- en Netflix-diensten\nElektriciteitsverbruik is bij de prijs inbegrepen, maar oververbruik of overmatig kw-verbruik wordt extra in rekening gebracht.\n\n- Neem contact met ons op voor de nieuwjaars- en kerstvakantie.\n\n- Lakens\n- Badlakens\n\nDe week begint op zaterdag om 16.00 uur en eindigt op de volgende zaterdagen om 10.00 uur.\n\nGewoon weekend 500 € + schoonmaak 130 € d.w.z. van vrijdagavond tot zondagochtend.\n\nAls je later aankomt of vertrekt dan de afgesproken tijd, wordt er €50 per uur in rekening gebracht."
+        ],
+        "es": [
+          "5 Étoiles Tourisme - Casa de vacaciones - 10-12 personas + 1 bebé\nUna casa clasificada 5 (cinco) estrellas Tourisme de France que comprende\nen la planta baja :\n- un salón con un televisor muy grande - barra de sonido wifi\n- cocina americana equipada, acceso a la terraza de madera con pérgola bioclimática estanca\n- un WC\n- una habitación 160x200 \"Les roses\n- una habitación de 160x200 con acceso a la terraza \"le voilier\n- un cuarto de ducha con 2 lavabos y ducha a ras de suelo.\nPrimer piso :\n- un cuarto de baño con ducha\n- un lavabo.\n- wC\n- un dormitorio con 2 camas individuales 160 x 200 (o 2 x 80x200), según nuestras necesidades \"vamos a bailar - vamos a cantar\n- Un dormitorio con una cama de 160 x 200 - salón - zona de ocio y mesa de café - Televisión - \"nuestro salón del Stade Rennais fc\"\n\nTerraza, jardín, aparcamiento\n\nOtra parte :\nplanta baja:\n- cocina-salón (140x190 plazas), TV\n- wC\nprimera planta: dormitorio\n- dormitorio (160 x200), cuarto de ducha-WC\n\npatio\njardín mediterráneo\n\nSalón de jardín con 10 sillones - mesas\n1 barbacoa ahumador\nSpa de lujo de 5 plazas\nCapacidad para 14 personas + 2 futones para niños + 1 cuna (a concertar previamente con los propietarios, ya que se trata de un alojamiento de 5 estrellas para 10 personas. Se aplican cargos adicionales).\n\nCerca de los menhires: alineaciones de Kerzerho,\nPaisajes de megalitos.\nNumerosos senderos, entre ellos uno que parte de la residencia para acceder a la costa a pie o en bicicleta.\nGrandes paseos para todos.\nEstamos a 3,5 km de la playa de Kerhillio por carretera o carril bici.\n\nLas habitaciones y las camas están listas para recibirte, y tendrás una sábana de baño por persona.\nPara la cocina, hay de todo, pero también paños de cocina.\n\nVajilla de diario\nVajilla de recepción\n\nElectrodomésticos :\n- Lavavajillas\n- placa de inducción\n- horno\n- lavadora\n- nevera americana con hielo picado\n- microondas\n- cafetera de 12 tazas\n- una cafetera Krups Nespresso\n- tostadora\n- hervidor eléctrico\n- parrilla\n- plancha eléctrica\n- sorbetera\n- 2 juegos de raclette\n- fondue de 2 platos\n- olla eléctrica de cocción lenta\n- crepera para hacer sus propias crepes bretonas\n- rallador de zanahorias\n- batidora\n- batidora de mano\n\nServicios de fibra y Netflix\nEl consumo de electricidad está incluido en el precio, pero el consumo excesivo de kw se facturará aparte.\n\n- Para las fiestas de Nochevieja y Navidad, póngase en contacto con nosotros.\n\n- Sábanas suministradas\n- Sábanas de baño\n\nLa semana comienza el sábado a las 16 h y termina los sábados siguientes a las 10 h.\n\nFin de semana ordinario 500€ + limpieza 130€ es decir, desde el viernes por la noche hasta el domingo por la mañana.\n\nSi llega o se va más tarde de la hora acordada, se le cobrarán 50€ por hora."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4699771a-5683-30df-991c-985c87df25cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/843ef10c-0df7-3692-a849-cebf0fd25a8c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/92d6c104-4fa4-371c-b523-3dbd2ce24069",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf4362a6-4f11-3b14-974d-cbcd48c12dd7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb81022b-caf7-3e80-96c4-48bc6ae9e37f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6da52dae-769f-3bb7-a322-4dfeee974360",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0f926acc-636b-35af-a1e0-8010bcad5511",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "1 Le Pré des Bleuets"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2963465e-0a0c-3f5a-a1b7-1952a182a4ba",
+        "schema:latitude": "47.63769",
+        "schema:longitude": "-3.15412",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-11",
+  "lastUpdateDatatourisme": "2026-03-12T04:38:19.653Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

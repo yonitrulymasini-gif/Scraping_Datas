@@ -1,0 +1,310 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a0f94846-4475-3f25-a705-b3d32ade1278",
+  "dc:identifier": "ASC7816646372ad4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Restauration - Conservation de Peinture : ARCOART Magalie TROY"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c8577e30-2f93-31d1-988e-7ba8d8a50a77",
+      "schema:telephone": [
+        "+33 6 32 46 91 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.magalie-troy.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7769e8d4-595b-3cd7-86ba-ad064f39dbaf",
+      "dc:description": {
+        "de": [
+          "Ihre Kunstgegenstände und Sammlungen sind zerbrechlich! Lassen Sie sich von qualifizierten Fachleuten beraten. Kostenloser Kostenvoranschlag. Empfang nach Terminvereinbarung."
+        ],
+        "en": [
+          "Your art objects and collections are fragile! Ask qualified professionals for advice. Free estimate. Reception by appointment."
+        ],
+        "it": [
+          "I vostri oggetti d'arte e le vostre collezioni sono fragili! Chiedete consiglio a professionisti qualificati. Preventivo gratuito. Ricevimento su appuntamento."
+        ],
+        "fr": [
+          "Vos objets d'art et collections sont fragiles ! Demandez conseils à des professionnels qualifiés. Devis gratuit. Accueil sur RDV."
+        ],
+        "nl": [
+          "Uw kunstvoorwerpen en collecties zijn kwetsbaar! Vraag gekwalificeerde professionals om advies. Gratis prijsopgave. Receptie op afspraak."
+        ],
+        "es": [
+          "Sus objetos de arte y colecciones son frágiles Pide consejo a profesionales cualificados. Presupuesto gratuito. Recepción con cita previa."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/72c29f84-5f03-3e59-bb97-79c70fbc4dfc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9832437d-33d5-33f5-aa82-0a7e0957c33c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/be4ce76e-c963-3e9b-9af8-4f8996a166dd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb0a6844-a3cb-3f2b-b6a0-4b93d618f1c8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee0520c2-2eb7-33d4-9fe4-7eebd3d92e37",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f3ee565d-2f22-3381-81c4-1967d7ad7d38",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7af962e2-922c-37b3-8477-a71579d80f66",
+          "schema:addressLocality": "Pont-Scorff",
+          "schema:postalCode": "56620",
+          "schema:streetAddress": [
+            "8 rue du Prince de Polignac",
+            "Cour des Métiers d'Art"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56179",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pont-Scorff"
+              ],
+              "pt": [
+                "Pont-Scorff"
+              ],
+              "en": [
+                "Pont-Scorff"
+              ],
+              "it": [
+                "Pont-Scorff"
+              ],
+              "fr": [
+                "Pont-Scorff"
+              ],
+              "nl": [
+                "Pont-Scorff"
+              ],
+              "es": [
+                "Pont-Scorff"
+              ]
+            },
+            "insee": "56179",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b4da04ac-3628-37f1-bc34-20b25678e6fd",
+        "schema:latitude": "47.83437",
+        "schema:longitude": "-3.399764",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-11",
+  "lastUpdateDatatourisme": "2026-05-12T03:20:43.28Z"
+}

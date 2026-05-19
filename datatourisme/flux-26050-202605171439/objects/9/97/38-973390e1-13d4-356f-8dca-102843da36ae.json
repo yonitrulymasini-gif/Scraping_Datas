@@ -1,0 +1,307 @@
+{
+  "@id": "https://data.datatourisme.fr/38/973390e1-13d4-356f-8dca-102843da36ae",
+  "dc:identifier": "FMABRE056V50E0OF",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Product",
+    "Visit"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Démonstration Perçage d’une perle en pierre"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/e98d3fb4-9070-3f1d-bf78-21cb77f72368",
+    "schema:legalName": "OT DE CARNAC",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8e8e1d4b-d1c5-30d6-9640-41c4db93436c",
+      "schema:telephone": [
+        "+33 2 97 52 66 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.museedecarnac.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4289aaa1-d4fc-3030-b38a-13baff085f67",
+      "dc:description": {
+        "de": [
+          "Da es in der Urzeit weder Elektrizität noch Eisen gab, wie sah der Vorläufer der Bohrmaschine aus? Nehmen Sie an einer Demonstration teil, um die Geheimnisse dieser Gesellschaften aus der Vergangenheit zu lüften!\nDie Vorführung ist in der freien Besichtigung des Museums inbegriffen."
+        ],
+        "en": [
+          "Since electricity and iron didn't exist in prehistoric times, what did the ancestor of the drill look like? Attend a demonstration to discover the secrets of these ancient societies!\nDemonstration included in the self-guided tour of the museum."
+        ],
+        "it": [
+          "Poiché l'elettricità e il ferro non esistevano nella preistoria, com'era l'antenato del trapano? Partecipate a una dimostrazione per scoprire i segreti di queste società del passato!\nDimostrazione inclusa nella visita autogestita del museo."
+        ],
+        "fr": [
+          "Puisque l’électricité et le fer n’existaient pas à la Préhistoire, à quoi ressemblait l’ancêtre de la perceuse ? Assistez à une démonstration pour percer les secrets de ces sociétés du passé !\nDémonstration incluse dans la visite libre du musée."
+        ],
+        "nl": [
+          "Elektriciteit en ijzer bestonden nog niet in de prehistorie. Hoe zag de voorouder van de boor er dan uit? Woon een demonstratie bij en ontdek de geheimen van deze samenlevingen uit het verleden!\nDemonstratie inbegrepen bij de rondleiding door het museum."
+        ],
+        "es": [
+          "Dado que la electricidad y el hierro no existían en la prehistoria, ¿cómo era el antepasado del taladro? Asista a una demostración para descubrir los secretos de estas sociedades del pasado\nDemostración incluida en la visita autoguiada del museo."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/31f3ed61-3171-3e24-b640-8978d1303a2d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4d82ce4d-fe7d-37cf-a0f8-75d6e7eeec14",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7d5bb627-b2a1-3ce6-9b88-22be67d8ca34",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd04acfa-734f-3248-8a7f-bf82dac9fecc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fec88074-e51d-3536-a278-1824dd2a9c5c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6bbd0a73-9c1a-32c8-99d0-f83b68167577",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/276becba-3ea3-308f-a450-4591284d49c0",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Place Christian Bonnet"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/96e26e48-08b8-3e37-968c-81f1e12cf95d",
+        "schema:latitude": "47.58449",
+        "schema:longitude": "-3.07855",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-14",
+  "lastUpdateDatatourisme": "2026-05-15T03:17:36.3Z"
+}

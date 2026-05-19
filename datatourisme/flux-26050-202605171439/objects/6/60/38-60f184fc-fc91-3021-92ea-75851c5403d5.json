@@ -1,0 +1,354 @@
+{
+  "@id": "https://data.datatourisme.fr/38/60f184fc-fc91-3021-92ea-75851c5403d5",
+  "dc:identifier": "FMABRE056V508K4F",
+  "schema:endDate": [
+    "2026-05-23"
+  ],
+  "schema:startDate": [
+    "2026-05-12"
+  ],
+  "@type": [
+    "schema:Event",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "ShowEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ciné'mai"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f8089b3e-2b94-3848-b904-cbdea824ebf9",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.cinegourin.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e99f0557-2043-3fec-a253-638475d24cfe",
+      "dc:description": {
+        "de": [
+          "Während der Filmfestspiele von Cannes, in der Mediathek und im Kino, machen Sie Ihre Prognosen über die Preisträger... Preise zu gewinnen!"
+        ],
+        "en": [
+          "During the Cannes Film Festival, at the media library and cinema, make your predictions about the winners... Prizes to be won!"
+        ],
+        "it": [
+          "Durante il Festival di Cannes, in mediateca e al cinema, fate le vostre previsioni sui vincitori... Premi in palio!"
+        ],
+        "fr": [
+          "Durant le festival de Cannes, à la médiathèque et au cinéma, faites vos pronostics sur les lauréats... Des lots à gagner !"
+        ],
+        "es": [
+          "Durante el Festival de Cannes, en la mediateca y en el cine, haga sus predicciones sobre los ganadores... Premios en juego"
+        ],
+        "nl": [
+          "Doe tijdens het Filmfestival van Cannes, in de mediatheek en de bioscoop, je voorspellingen over de winnaars... Er zijn prijzen te winnen!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a9b42a9d-ff8c-3e72-9be9-0bffe6de46f0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac433cae-a56f-3301-b086-2e81ea63f16b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4ec236a-8a91-3ae4-bdb1-1aed37875bbe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dfec0001-615f-31bf-ba41-a60752f652fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fdcea519-c59a-3875-a848-a13179178d8e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Cinema",
+      "@type": [
+        "AccommodationAmenity",
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kino"
+        ],
+        "pt": [
+          "Cinema"
+        ],
+        "en": [
+          "Cinema"
+        ],
+        "it": [
+          "Cinema"
+        ],
+        "fr": [
+          "Cinéma"
+        ],
+        "es": [
+          "Cine"
+        ],
+        "nl": [
+          "Bioscoop"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ddc9fc6f-df77-37d1-be65-f8acce901918",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/30a9ebbd-2aaa-36eb-9ac5-400fd464c2ea",
+          "schema:addressLocality": "Gourin",
+          "schema:postalCode": "56110",
+          "schema:streetAddress": [
+            "19 Rue Hugot-Derville",
+            "Ciné Jeanne d'Arc"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56066",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Gourin"
+              ],
+              "pt": [
+                "Gourin"
+              ],
+              "en": [
+                "Gourin"
+              ],
+              "it": [
+                "Gourin"
+              ],
+              "fr": [
+                "Gourin"
+              ],
+              "nl": [
+                "Gourin"
+              ],
+              "es": [
+                "Gourin"
+              ]
+            },
+            "insee": "56066",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/565490b1-a894-33be-ae7e-7403c1d1ca49",
+        "schema:latitude": "48.14101",
+        "schema:longitude": "-3.6064",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-28",
+  "lastUpdateDatatourisme": "2026-04-29T02:52:40.784Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a0ffe9f0-813d-3db4-92e4-66d6dcdf1da3",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-23",
+      "startDate": "2026-05-12"
+    }
+  ]
+}

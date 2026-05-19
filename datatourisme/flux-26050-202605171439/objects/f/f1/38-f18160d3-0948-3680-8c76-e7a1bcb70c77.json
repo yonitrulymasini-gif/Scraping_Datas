@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f18160d3-0948-3680-8c76-e7a1bcb70c77",
+  "dc:identifier": "HLO16772792b6c74",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Gîte Ty Gwenn - Le Coz"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8a366f07-315e-33ef-a442-58f3894ade29",
+      "schema:legalName": "Le Gîte Ty Gwenn - Le Coz",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/93d01e89-0499-3e04-bd8b-e9dfff51b3ed",
+      "dc:description": {
+        "de": [
+          "Das Gîte Ty Gwenn, was so viel wie \"das weiße Haus\" bedeutet, ist ein Kokon der Gelassenheit, der für bis zu 4 Personen konzipiert wurde. Genießen Sie die außergewöhnliche Umgebung und den atemberaubenden Blick auf den Ozean und die Dünen von den Balkonen der Zimmer aus, die bei jedem Sonnenaufgang ein lebendiges Gemälde sind.\n\nEin heller und gemütlicher Raum\n\nMit seinen großen Fensterfronten badet das Ferienhaus in natürlichem Licht und schafft eine warme und einladende Atmosphäre.\n\nIm Erdgeschoss befindet sich ein geräumiger Wohnraum mit folgenden Elementen:\n- Eine modern ausgestattete Küche (Geschirrspüler, Waschmaschine, Kühlschrank mit Gefrierfach, Mikrowelle, Mini-Backofen, 4 Gaskochstellen).\n- Eine gemütliche Sitzecke mit Flachbildfernseher.\n- Ein geselliges Esszimmer.\n- Ein separates WC.\n- Eine Terrasse und ein geschlossener Privatgarten (durch Hecke und Maschendraht abgegrenzt), ideal für Mahlzeiten im Freien oder zum Entspannen.\n\nIm Obergeschoss sind die Schlafzimmer nur über eine Außentreppe erreichbar:\n\n- Zwei separate Schlafzimmer, jedes mit eigenem Badezimmer (Dusche und WC).\n- Die Zimmer öffnen sich zu einem Balkon mit Panoramablick, ideal für ein Frühstück mit Blick auf den Ozean oder den Sonnenuntergang.\n- Zugang zu den Zimmern über eine Außentreppe, die völlige Unabhängigkeit garantiert.\n\nKomfort und Modernität\n\n- Elektrische Heizung für Ihren Komfort zu jeder Jahreszeit.\n- Elektrische Rollläden oder Klappläden aus Aluminium sowie Verdunkelungsrollos für die Oberlichter sorgen für ruhige Nächte.\n- Kostenloser Wi-Fi-Internetzugang dank Glasfaser.\n- Ein privater Parkplatz steht Ihnen zur Verfügung.\n\nErleben Sie eine einzigartige Erfahrung, bei der Komfort, Natur und Gelassenheit aufeinandertreffen. Das Gîte Ty Gwenn erwartet Sie für unvergessliche Momente mit Blick auf den Ozean."
+        ],
+        "en": [
+          "Gîte Ty Gwenn, which means \"the white cottage\", is a cocoon of serenity designed to accommodate up to 4 people. Enjoy an exceptional setting and a breathtaking view of the ocean and dunes from the bedroom balconies, a veritable tableau vivant at every sunrise.\n\nA bright, welcoming space\n\nWith its large bay windows, the gîte is bathed in natural light, creating a warm and welcoming atmosphere.\n\nFirst floor: a spacious living area with :\n- A modern, fully-equipped kitchen (dishwasher, washing machine, fridge-freezer, microwave, mini-oven, 4 gas hobs).\n- A comfortable sitting area with flat-screen TV.\n- A convivial dining room.\n- Separate WC.\n- A terrace and enclosed private garden (hedged and fenced), perfect for al fresco meals or moments of relaxation.\n\nOn the first floor, access to the bedrooms is via an outside staircase:\n\n- Two independent bedrooms, each with its own private bathroom (shower and WC).\n- The rooms open onto a panoramic balcony, ideal for enjoying breakfast overlooking the ocean or watching the sunset.\n- Access to the bedrooms is via an outside staircase, guaranteeing total independence.\n\nComfort and modernity\n\n- Electric heating for all-season comfort.\n- Electric roller shutters or aluminum swing shutters, plus blackout blinds for skylights, for peaceful nights.\n- Free Wi-Fi Internet access via fiber optic cable.\n- A private parking space at your disposal.\n\nCome and enjoy a unique experience where comfort, nature and serenity meet. Gîte Ty Gwenn awaits you for unforgettable moments overlooking the ocean."
+        ],
+        "it": [
+          "Il Gîte Ty Gwenn, che significa \"il cottage bianco\", è un bozzolo di serenità progettato per ospitare fino a 4 persone. Godetevi un ambiente eccezionale e una vista mozzafiato sull'oceano e sulle dune dai balconi delle camere, un vero e proprio tableau vivant a ogni alba.\n\nUno spazio luminoso e accogliente\n\nGrazie alle sue ampie vetrate, l'alloggio è immerso nella luce naturale, creando un'atmosfera calda e accogliente.\n\nAl piano terra, un'ampia zona giorno con:\n- Una moderna cucina completamente attrezzata (lavastoviglie, lavatrice, frigorifero-congelatore, microonde, mini-forno, piano cottura a gas a 4 fuochi).\n- Un confortevole salotto con TV a schermo piatto.\n- Una sala da pranzo conviviale.\n- WC separato.\n- Una terrazza e un giardino privato recintato (con siepi e recinzioni), ideale per mangiare all'aperto o per i momenti di relax.\n\nAl primo piano, l'accesso alle camere da letto avviene tramite una scala esterna:\n\n- Due camere da letto indipendenti, ciascuna con bagno privato (doccia e WC).\n- Le camere si aprono su un balcone panoramico, ideale per gustare la colazione con vista sull'oceano o per ammirare il tramonto.\n- L'accesso alle camere da letto avviene tramite una scala esterna, garantendo una totale indipendenza.\n\nComfort e modernità\n\n- Riscaldamento elettrico per un comfort in tutte le stagioni.\n- Tapparelle elettriche o persiane pieghevoli in alluminio, nonché tende oscuranti per le finestre velux, per notti tranquille.\n- Accesso a Internet Wi-Fi gratuito tramite fibra.\n- Un posto auto privato a disposizione.\n\nVenite a vivere un'esperienza unica dove comfort, natura e serenità si incontrano. Il Gîte Ty Gwenn vi aspetta per momenti indimenticabili con vista sull'oceano."
+        ],
+        "fr": [
+          "Le Gîte Ty Gwenn, qui signifie \"le gîte blanc\", est un cocon de sérénité conçu pour accueillir jusqu’à 4 personnes. Profitez d’un cadre exceptionnel et d’une vue imprenable sur l’océan et les dunes depuis le balcon des chambres, un véritable tableau vivant à chaque lever de soleil.\n\nUn espace lumineux et chaleureux\n\nAvec ses grandes baies vitrées, le gîte baigne dans la lumière naturelle, créant une ambiance chaleureuse et accueillante.\n\nRez-de-chaussée, une pièce à vivre spacieuse regroupant :\n- Une cuisine équipée moderne (lave-vaisselle, lave-linge, réfrigérateur-congélateur, four micro-ondes, mini-four, 4 plaques gaz).\n- Un coin salon confortable avec TV écran plat.\n- Une salle à manger conviviale.\n- Un WC indépendant.\n- Une terrasse et un jardin privatif clos (délimité par haie et grillage), parfaits pour des repas en plein air ou des moments de détente.\n\nÀ l’étage, accès aux chambres uniquement par un escalier extérieur:\n\n- Deux chambres indépendantes, chacune avec sa propre salle de bain privative (douche et WC).\n- Les chambres s’ouvrent sur un balcon panoramique, idéal pour savourer un petit-déjeuner face à l’océan ou contempler le coucher de soleil.\n- Accès aux chambres par un escalier extérieur, garantissant une indépendance totale.\n\nConfort et modernité\n\n- Chauffage électrique pour votre confort en toute saison.\n- Volets roulants électriques ou battants en aluminium, ainsi que des stores occultants pour les velux, pour des nuits paisibles.\n- Accès Internet Wi-Fi gratuit grâce à la fibre.\n- Une place de parking privée à votre disposition.\n\nVenez vivre une expérience unique où confort, nature et sérénité se rencontrent. Le Gîte Ty Gwenn vous attend pour des moments inoubliables face à l’océan."
+        ],
+        "nl": [
+          "Gîte Ty Gwenn, wat \"het witte huisje\" betekent, is een cocon van sereniteit ontworpen voor maximaal 4 personen. Geniet van een uitzonderlijke omgeving en een adembenemend uitzicht op de oceaan en de duinen vanaf de balkons van de slaapkamers, een echt tableau vivant bij elke zonsopgang.\n\nEen lichte, uitnodigende ruimte\n\nMet zijn grote ramen baadt de gîte in natuurlijk licht, wat een warme en uitnodigende sfeer creëert.\n\nOp de begane grond is een ruime woonkamer met :\n- Een moderne, volledig uitgeruste keuken (vaatwasser, wasmachine, koelkast met vriesvak, magnetron, mini-oven, 4-pits gasfornuis).\n- Een comfortabele zithoek met flatscreen tv.\n- Een gezellige eetkamer.\n- Aparte WC.\n- Een terras en omheinde privé-tuin (met heggen en omheining), ideaal om buiten te eten of te ontspannen.\n\nOp de eerste verdieping zijn de slaapkamers bereikbaar via een buitentrap:\n\n- Twee onafhankelijke slaapkamers, elk met een eigen badkamer (douche en WC).\n- De slaapkamers komen uit op een panoramisch balkon, ideaal om te ontbijten met uitzicht op de oceaan of om naar de zonsondergang te kijken.\n- De toegang tot de slaapkamers is via een buitentrap, waardoor totale onafhankelijkheid gegarandeerd is.\n\nComfort en moderniteit\n\n- Elektrische verwarming voor comfort het hele seizoen door.\n- Elektrische rolluiken of aluminium vouwluiken, evenals verduisteringsgordijnen voor veluxramen, voor rustige nachten.\n- Gratis draadloos internet via glasvezel.\n- Een privéparkeerplaats tot je beschikking.\n\nKom genieten van een unieke ervaring waar comfort, natuur en sereniteit elkaar ontmoeten. Gîte Ty Gwenn wacht op je voor onvergetelijke momenten met uitzicht op de oceaan."
+        ],
+        "es": [
+          "Gîte Ty Gwenn, que significa \"la cabaña blanca\", es un capullo de serenidad diseñado para alojar hasta 4 personas. Disfrute de un entorno excepcional y de una impresionante vista del océano y las dunas desde los balcones de las habitaciones, un auténtico tableau vivant en cada amanecer.\n\nUn espacio luminoso y acogedor\n\nCon sus grandes ventanales, la casa rural está bañada por la luz natural, creando un ambiente cálido y acogedor.\n\nEn la planta baja, un amplio salón con :\n- Una cocina moderna y totalmente equipada (lavavajillas, lavadora, frigorífico-congelador, microondas, mini-horno, placa de gas de 4 fuegos).\n- Un confortable salón con TV de pantalla plana.\n- Un comedor acogedor.\n- WC separado.\n- Una terraza y un jardín privado cerrado (con setos y vallas), ideal para comidas al aire libre o momentos de relajación.\n\nEn la primera planta, se accede a las habitaciones por una escalera exterior:\n\n- Dos habitaciones independientes, cada una con su cuarto de baño privado (ducha y WC).\n- Los dormitorios se abren a un balcón panorámico, ideal para disfrutar de un desayuno con vistas al océano o contemplar la puesta de sol.\n- El acceso a las habitaciones se realiza por una escalera exterior, lo que garantiza una total independencia.\n\nConfort y modernidad\n\n- Calefacción eléctrica para un confort en todas las estaciones.\n- Persianas enrollables eléctricas o plegables de aluminio, así como persianas opacas para las ventanas velux, para noches tranquilas.\n- Acceso gratuito a Internet Wi-Fi por fibra.\n- Una plaza de aparcamiento privado a su disposición.\n\nVenga a disfrutar de una experiencia única en la que se dan cita el confort, la naturaleza y la serenidad. Gîte Ty Gwenn le espera para momentos inolvidables con vistas al océano."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1b080280-b5d8-34e0-afe5-00a63c8419cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2297f87b-4e35-3c39-9dae-ba20455e251c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/47521e8e-f811-3509-9c79-dd86223d24a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5fc853d8-d20c-3c5c-98ee-ca45f5b6ab40",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e90614ab-cdf1-3ab7-b997-41cad04d853d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/04819509-ed57-39e0-8b40-3d85a1b7c2a4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ee3501ba-ec90-3752-aa95-2eb2aa882400",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "44 Kerhillio",
+            "Kerhillo"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4f8a0092-23e8-3331-bd19-ea25c001868b",
+        "schema:latitude": "47.6168986",
+        "schema:longitude": "-3.1660029",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.029Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

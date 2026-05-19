@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/bc10df7c-03b9-3d6b-bc44-a26f0277da7e",
+  "dc:identifier": "FMABRE000V51L6O1",
+  "@type": [
+    "schema:Product",
+    "PointOfInterest",
+    "Practice",
+    "Product",
+    "Traineeship"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Du grain à la farine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d4bb4c45-7bd4-397e-8fb4-03821f0d8250",
+      "schema:telephone": [
+        "+33 2 97 57 66 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ecomusee-st-degan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a09cc63a-823a-35d9-bb40-ab071eea141d",
+      "dc:description": {
+        "de": [
+          "Ein spielerischer Workshop zur Entdeckung der Verarbeitungsschritte vom Getreide zum Mehl auf dem Bauernhof vor 1950: Kommt und macht euer Mehl?"
+        ],
+        "en": [
+          "Playful workshop to discover the stages of transformation from cereal to flour on the farm before 1950: come and make your own flour... ."
+        ],
+        "it": [
+          "Un divertente laboratorio per scoprire le fasi della trasformazione dei cereali in farina nella fattoria prima del 1950: venite a fare la vostra farina?"
+        ],
+        "fr": [
+          "Atelier ludique à la découverte des étapes de transformation de la céréale à la farine à la ferme avant 1950 : venez faire votre farine… ."
+        ],
+        "es": [
+          "Un taller lúdico para descubrir las etapas de la transformación de los cereales en harina en la granja antes de 1950: ven a hacer tu propia harina..."
+        ],
+        "nl": [
+          "Een leuke workshop om te ontdekken hoe graan vóór 1950 op de boerderij werd omgezet in meel: kom je eigen meel maken?"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/06daa4e4-fa93-3cd8-ae53-d1e511790e03",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2390d34f-6a60-3040-852b-5b27ab18e057",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/501a60a6-a897-3c79-99b2-d7bd29bcad1c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ee99b43-b099-3768-9769-79ee77f8cf1d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d2c6d72a-b3de-3999-9675-9c8f27750eb8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/38876a55-652c-3b90-b896-b732ceb8ec7f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1aa8baee-6df2-3089-aa17-18db4168ddcc",
+          "schema:addressLocality": "Brech",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "Ecomusée du Pays d'Auray",
+            "Saint-Dégan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brech"
+              ],
+              "pt": [
+                "Brech"
+              ],
+              "en": [
+                "Brech"
+              ],
+              "it": [
+                "Brech"
+              ],
+              "fr": [
+                "Brech"
+              ],
+              "nl": [
+                "Brech"
+              ],
+              "es": [
+                "Brech"
+              ]
+            },
+            "insee": "56023",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c45fec83-97e9-354b-8975-b5396f09124e",
+        "schema:latitude": "47.71066",
+        "schema:longitude": "-2.994961",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-22",
+  "lastUpdateDatatourisme": "2026-04-23T02:53:36.216Z"
+}

@@ -1,0 +1,605 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e8a4416d-1797-31d7-adbf-93429fe87dc9",
+  "dc:identifier": "HLO27ac938bc9404",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "L'Arche de Port-Blanc - Maison"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a7a2de30-3705-354c-bad3-fc33d887ab58",
+      "schema:telephone": [
+        "+33 7 44 42 81 37"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.cleenmain.eu/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a7a2de30-3705-354c-bad3-fc33d887ab58",
+      "schema:telephone": [
+        "+33 7 44 42 81 37"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.cleenmain.eu/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e8b8e39f-99c6-3b17-8bf4-897b64f132ec",
+      "schema:legalName": "L'Arche de Port-Blanc - Maison",
+      "schema:telephone": [
+        "+33 7 44 42 81 37"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.cleenmain.eu/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b451587b-f855-3afc-9c9c-77bf632bf86d",
+      "dc:description": {
+        "de": [
+          "Geräumiges Haus von 130 m² in Saint-Pierre Quiberon ? 8 Personen, 600 Meter vom Strand und vom Stadtzentrum entfernt\nNur 600 Meter vom Strand von Keraude, seinem Hafen und 5 Gehminuten vom Marktplatz von Saint-Pierre entfernt, verbindet dieses charmante, komplett renovierte Haus mit seinen sichtbaren Steinen und seiner gemütlichen Einrichtung modernen Komfort mit bretonischer Authentizität.\nEs ist ideal für mehrere Paare, Familien oder Gruppen von Freunden und bietet den perfekten Rahmen für einen geselligen Aufenthalt auf der Halbinsel.\nMehrere unumgängliche Restaurants wie das BDS oder Canailles befinden sich nur 300 Meter von der Unterkunft entfernt.\nIn einem gesicherten Raum können Sie Ihre Roller, Fahrräder oder Wassersportgeräte aufbewahren.\nEin angrenzendes Studio kann ebenfalls gemietet werden, sodass Sie die Unterkunft für 10 Personen buchen können.\nDer Reinigungsservice (120?/Aufenthalt) ist in den online einsehbaren Preisen nicht enthalten. Für einen optimalen Komfort sind diese Kosten jedoch zwingend von den Reisenden zu tragen.\nDie Wäsche wird nicht bereitgestellt. Auf Anfrage kann Ihnen ein optionaler Wäscheservice angeboten werden (inklusive Bettwäsche, Handtücher und Geschirrtücher).\n\nWichtigste Merkmale :\n- Bis zu 8 Personen: 4 Schlafzimmer und 2 Bäder, davon ein separates WC\n- Vollständig ausgestattete Küche: Geschirrspüler, Elektrogeräte zum Kochen und Backen, Raclette- und Fonduemaschinen?\n- Wohnzimmer mit TV, Hi-Fi-Anlage, Netflix, PS4-Konsole und Gesellschaftsspielen\n- Highspeed-Wi-Fi mit Relaisverstärker\n- Waschmaschine, Bügelbrett und Bügeleisen\n- Babyausstattung\n- Computer\n- Gesicherter Raum\n\nAnordnung der Räume :\n\n- Erdgeschoss :\nDie Küche mit ihrer zentralen Insel ist komplett neu ausgestattet und vereint Funktionalität, Zweckmäßigkeit und Qualität der Ausstattung. Die Küche ist mit einem gemütlichen Wohnzimmer verbunden, das mit einer PS4 und 17 Gesellschaftsspielen ausgestattet ist.\n\n- Erster Stock:\nZwei komfortable Schlafzimmer, ein Badezimmer und ein separates WC.\n\n- Zweite Etage:\nZwei weitere Schlafzimmer und ein zweites Badezimmer mit WC bieten Privatsphäre und Komfort für alle Bewohner.\n\n- Außenanlagen und Umgebung :\nBesser als ein Garten, der Strand von Keraude ist zu Fuß in 5 Minuten erreichbar. Die Geschäfte, Restaurants und das Stadtzentrum sind ebenfalls leicht zu erreichen, sodass Sie die Halbinsel zu Fuß oder mit dem Fahrrad in vollen Zügen genießen können.\n\nAktivitäten und Freizeitaktivitäten :\nBesuchen Sie zunächst die unvermeidliche wilde Küste von Quiberon. Sie wird ständig vom Wind und vom Meer aufgepeitscht und bietet Ihnen ein belebendes Schauspiel.\nIhr Aufenthalt auf der Halbinsel wäre auch eine gute Gelegenheit, das Segeln zu erlernen oder auf dem idealen Gewässer der Bucht von Quiberon zu perfektionieren, indem Sie sich für einen Segel- oder Paddelkurs oder einen Tauchkurs entscheiden. Entdecken Sie die Freuden des Gleitens und die bretonischen Wellen mit den zahlreichen Surfschulen.\nDank der Anlegestelle in Quiberon können Sie Belle-Île, Houat oder Hoëdic leicht entdecken. Sie können sich auch für eine umweltfreundliche Alternative mit den Iliens entscheiden und die Insel mit dem Segelboot erreichen. Sie organisieren auch Veranstaltungen und Abende auf dem Schiff.\nBei Ihrer Ankunft erhalten Sie von uns ein ausführliches Heft, in dem wir Ihnen die wichtigsten Sehenswürdigkeiten und Empfehlungen in der Nähe Ihrer Unterkunft vorstellen, damit Ihr Aufenthalt in der Bretagne unvergesslich wird.\n\nKlassifizierung :\n4 Sterne als möblierte Touristenunterkunft und 3 Schlüssel bei CLÉVACANCES\n\nDirekter Kontakt per E-Mail contact@cleenmain.eu oder per Telefon 07 44 42 81 37 für alle Informations- oder Buchungsanfragen."
+        ],
+        "en": [
+          "Spacious 130 m² house in Saint-Pierre Quiberon, sleeps 8, 600 m from beach and town center\nJust 600 meters from Keraude beach and its harbor, and a 5-minute walk from Saint-Pierre's market square, this charming, fully renovated house combines modern comfort and Breton authenticity, with its exposed stonework and cosy decor.\nIdeal for accommodating several couples, families or groups of friends, it offers the perfect setting for a convivial stay on the peninsula.\nA number of top restaurants, including BDS and Canailles, are just 300 meters from the property.\nSecure storage facilities are available for scooters, bicycles and water sports equipment.\nAn adjoining studio is also available for rental, enabling you to book the accommodation for up to 10 people.\nCleaning service (120€/stay) is not included in the online rates. However, for optimum comfort, these costs must be paid by the traveler.\nLinen is not provided, but an optional laundry service is available on request (including bed linen, bath towels and tea towels).\n\nMain features :\n- Sleeps up to 8: 4 bedrooms and 2 bathrooms, including separate WC\n- Fully equipped kitchen: dishwasher, cooking and pastry appliances, raclette and fondue machines, etc\n- Living room with TV, Hi-Fi, Netflix, PS4 console and board games\n- High-speed Wi-Fi with relay amplifier\n- Washing machine, ironing board and iron\n- Baby kit\n- Computer\n- Secure premises\n\nSpace layout :\n\n- First floor:\nAround its central island, the fully equipped kitchen combines functionality, practicality and quality equipment. It communicates with a cosy living room, equipped with a PS4 and 17 board games, offering an ideal space for sharing warm moments with family or friends.\n\n- Second floor:\nTwo comfortable bedrooms, bathroom and separate toilet.\n\n- Second floor:\nTwo additional bedrooms and a second bathroom with WC, offering privacy and comfort to all occupants.\n\n- Exterior and environment:\nBetter than a garden, Keraude beach is just a 5-minute walk away. Shops, restaurants and the town center are also within easy reach, allowing you to take full advantage of the peninsula on foot or by bike.\n\nLeisure activities :\nStart by visiting Quiberon?s unmissable wild coastline. Constantly battered by wind and sea, it offers an invigorating spectacle.\nYour stay on the peninsula will also be an opportunity to learn or improve your sailing skills on the ideal stretch of water in Quiberon Bay: opt for a sailing, paddle or scuba diving course. Discover the joys of surfing and the Breton waves with one of the many surf schools.\nThanks to the Quiberon pier, you can easily discover Belle-île, Houat or Hoëdic. You can also opt for an eco-friendly alternative with the Iliens to reach the island by sail. They also organize events and parties on the boat.\nOn your arrival, we'll provide you with a detailed booklet summarizing our must-sees and recommendations near your accommodation, to make your stay in Brittany unforgettable.\n\nClassification :\n4 stars for meublé de tourisme and 3 keys for CLÉVACANCES\n\nContact us directly by e-mail contact@cleenmain.eu or by telephone 07 44 42 81 37 for any information or booking request."
+        ],
+        "it": [
+          "Spaziosa casa di 130 m² a Saint-Pierre Quiberon per 8 persone, a 600 metri dalla spiaggia e dal centro città\nA soli 600 metri dalla spiaggia di Keraude e dal suo porto e a 5 minuti a piedi dalla piazza del mercato di Saint-Pierre, questa incantevole casa completamente ristrutturata combina i comfort moderni con le autentiche caratteristiche bretoni, come la pietra a vista e l'arredamento accogliente.\nIdeale per ospitare diverse coppie, famiglie o gruppi di amici, offre la cornice perfetta per un soggiorno conviviale sulla penisola.\nA soli 300 metri dall'alloggio si trovano numerosi ristoranti di alto livello, tra cui BDS e Canailles.\nÈ presente anche un deposito sicuro per scooter, biciclette e attrezzature per sport acquatici.\nÈ disponibile anche un monolocale adiacente, che consente di prenotare l'alloggio per un massimo di 10 persone.\nIl servizio di pulizia (120€/soggiorno) non è incluso nelle tariffe online. Tuttavia, per un comfort ottimale, questi costi devono essere pagati dal viaggiatore.\nLa biancheria non viene fornita, ma su richiesta è disponibile un servizio di lavanderia opzionale (che comprende lenzuola, asciugamani da bagno e strofinacci).\n\nCaratteristiche principali:\n- Fino a 8 posti letto: 4 camere da letto e 2 bagni, compreso un WC separato\n- Cucina completamente attrezzata: lavastoviglie, apparecchi di cottura e pasticceria, macchine per raclette e fonduta, ecc\n- Soggiorno con TV, impianto hi-fi, Netflix, console PS4 e giochi da tavolo\n- Wi-Fi ad alta velocità con amplificatore a relè\n- Lavatrice, asse da stiro e ferro da stiro\n- Kit per bambini\n- Computer\n- Locali sicuri\n\nDisposizione :\n\n- Piano terra:\nIntorno alla sua isola centrale, la cucina completamente attrezzata combina funzionalità, praticità e attrezzature di qualità. La cucina comunica con un accogliente salotto, dotato di una PS4 e di 17 giochi da tavolo, che offre uno spazio ideale per condividere momenti di calore con la famiglia o gli amici.\n\n- Primo piano:\nDue comode camere da letto, un bagno e un WC separato.\n\n- Secondo piano:\nDue ulteriori camere da letto e un secondo bagno con WC, per offrire privacy e comfort a tutti gli occupanti.\n\n- Esterno e dintorni :\nMeglio di un giardino, la spiaggia di Keraude è a soli 5 minuti a piedi. Anche i negozi, i ristoranti e il centro città sono facilmente raggiungibili, per godere al meglio della penisola a piedi o in bicicletta.\n\nAttività per il tempo libero :\nIniziate visitando l'imperdibile costa selvaggia di Quiberon. Costantemente battuto dai venti e dal mare, offre uno spettacolo rinvigorente.\nIl vostro soggiorno nella penisola potrebbe anche essere l'occasione perfetta per imparare a navigare o migliorare le vostre abilità veliche nello specchio d'acqua ideale della baia di Quiberon, optando per un corso di vela o di paddle o per un corso di immersione subacquea. Scoprite le gioie del surf e delle onde bretoni con una delle tante scuole di surf.\nGrazie al molo di Quiberon, potrete facilmente scoprire Belle-île, Houat o Hoëdic. Si può anche optare per un'alternativa ecologica con gli Iliens, che raggiungono l'isola in barca a vela. Organizzano anche eventi e feste in barca.\nAl vostro arrivo, vi forniremo un opuscolo dettagliato che riassume i nostri must e le raccomandazioni vicino al vostro alloggio, per rendere indimenticabile il vostro soggiorno in Bretagna.\n\nClassificazione :\n4 stelle per gli alloggi turistici arredati e 3 stelle per le CLÉVACANCES\n\nContatto diretto via e-mail contact@cleenmain.eu o al telefono 07 44 42 81 37 per qualsiasi informazione o richiesta di prenotazione."
+        ],
+        "fr": [
+          "Spacieuse maison de 130 m² à Saint-Pierre Quiberon – 8 personnes, à 600 mètres de la plage et du centre-ville\nÀ seulement 600 mètres de la plage de Keraude, son port et à 5 minutes à pied de la place du marché de Saint-Pierre, cette charmante maison entièrement rénovée allie confort moderne et authenticité bretonne avec ses pierres apparentes et sa décoration cosy. \nIdéale pour accueillir plusieurs couples, familles ou groupes d’amis, elle offre un cadre parfait pour un séjour convivial sur la presqu’île. \nPlusieurs restaurants incontournables comme le BDS ou Canailles se situent à seulement 300 mètres du logement. \nUn local sécurisé vous permettra de stocker facilement vos scooters, vélos ou matériel nautique. \nA noter, un studio attenant est également disponible à la location, vous permettant de réserver le logement pour 10 personnes.\nLe service de ménage (120€/séjour) n'est pas compris dans les tarifs visibles en ligne. Cependant, pour un confort optimal, ces frais seront obligatoirement à la charge des voyageurs. \nLe linge n'est pas fourni, un service optionnel de blanchisserie peut vous être proposé sur demande (comprenant linge de lit, draps de bain et torchons).\n\nCaractéristiques principales :\n- Jusqu’à 8 personnes : 4 chambres et 2 salles de bain dont un WC indépendant\n- Cuisine entièrement équipée : lave vaisselle, électroménagers de cuisine et pâtisserie, appareils à raclette et fondue… \n- Salon avec TV , chaîne Hi-Fi, Netflix, console PS4 et jeux de société\n- Wi-Fi haut débit avec ampli relais \n- Machine à laver, table et fer à repasser\n- Kit bébé\n- Ordinateur\n- Local sécurisé \n\nDisposition des espaces :\n\n- Rez-de-chaussée :\nAutour de son îlot central, la cuisine, entièrement équipée à neuf, allie fonctionnalité, praticité et qualité des équipements. L’ensemble communique avec un salon cosy, équipé d’une PS4 ainsi que de 17 jeux de société, offrant un espace idéal pour partager des moments chaleureux en famille ou entre amis.\n\n- Premier étage :\nDeux chambres confortables, une salle de bain et un WC séparé.\n\n- Deuxième étage :\nDeux chambres supplémentaires et une deuxième salle de bain avec WC, offrant intimité et confort à tous les occupants.\n\n- Extérieurs et environnement :\nMieux qu’un jardin, la plage de Keraude est accessible à pied en 5 minutes. Les commerces, restaurants et le centre-ville sont également facilement accessibles, permettant de profiter pleinement de la presqu’île à pied ou à vélo.\n\nActivités et loisirs :\nCommencez par visiter l’incontournable côte sauvage de Quiberon. Sans cesse fouettée par les vents et la mer, elle vous offrira un spectacle vivifiant. \nVotre séjour sur la presqu'île serait également l’occasion d’apprendre à naviguer ou de se perfectionner sur le plan d’eau idéal de la baie de Quiberon, optez pour un cours de voile, paddle ou un stage de plongée sous-marine. Découvrez les joies de la glisse et les vagues bretonnes avec les nombreuses écoles de surf. \nGrâce à l’embarcadère de Quiberon, découvrez facilement Belle-île, Houat ou Hoëdic. Vous pourrez aussi opter pour une alternative écologique avec les Iliens pour rejoindre l’île à la voile. Ils organisent également des évènements et soirées sur le bateau. \nÀ votre arrivée, nous vous fournirons un livret détaillé récapitulant nos immanquables et recommandations à proximité de votre logement, pour rendre votre séjour en Bretagne inoubliable.\n\nClassement  :\n4 étoiles en meublé de tourisme et 3 clés chez CLÉVACANCES\n\nContact direct par mail contact@cleenmain.eu ou par téléphone 07 44 42 81 37 pour toute demande d’information ou de réservation."
+        ],
+        "nl": [
+          "Ruim huis van 130 m² in Saint-Pierre Quiberon voor 8 personen, op 600 meter van het strand en het stadscentrum\nDit charmante, volledig gerenoveerde huis ligt op slechts 600 meter van het strand en de haven van Keraude en op 5 minuten lopen van het marktplein van Saint-Pierre. Het combineert modern comfort met authentieke Bretonse kenmerken, zoals zichtbare stenen en een gezellige inrichting.\nHet is ideaal voor meerdere koppels, gezinnen of groepen vrienden en biedt de perfecte setting voor een gezellig verblijf op het schiereiland.\nEen aantal toprestaurants, waaronder BDS en Canailles, liggen op slechts 300 meter van de accommodatie.\nEr is ook een beveiligde opslagruimte voor scooters, fietsen en watersportuitrusting.\nEen aangrenzende studio is ook beschikbaar voor verhuur, waardoor je de accommodatie voor maximaal 10 personen kunt boeken.\nDe schoonmaakservice (120€/verblijf) is niet inbegrepen in de online tarieven. Voor optimaal comfort moeten deze kosten echter door de reiziger worden betaald.\nLinnengoed wordt niet verstrekt, maar een optionele wasservice is beschikbaar op aanvraag (inclusief beddengoed, badhanddoeken en theedoeken).\n\nBelangrijkste kenmerken:\n- Maximaal 8 slaapplaatsen: 4 slaapkamers en 2 badkamers, waaronder een aparte WC\n- Volledig ingerichte keuken: vaatwasser, kook- en braadapparatuur, raclette- en fonduetoestellen, enz\n- Woonkamer met tv, hifi-installatie, Netflix, PS4-console en bordspellen\n- Wi-Fi met hoge snelheid en relaisversterker\n- Wasmachine, strijkplank en strijkijzer\n- Babykit\n- Computer\n- Beveiligd pand\n\nIndeling :\n\n- Begane grond:\nRond het centrale eiland combineert de volledig uitgeruste keuken functionaliteit, functionaliteit en kwaliteitsapparatuur. De keuken communiceert met een gezellige lounge, uitgerust met een PS4 en 17 bordspellen, en biedt een ideale ruimte voor het delen van warme momenten met familie of vrienden.\n\n- Eerste verdieping:\nTwee comfortabele slaapkamers, een badkamer en een apart toilet.\n\n- Tweede verdieping:\nTwee extra slaapkamers en een tweede badkamer met WC, die privacy en comfort bieden aan alle bewoners.\n\n- Exterieur en omgeving :\nBeter dan een tuin, het strand van Keraude ligt op slechts 5 minuten lopen. Winkels, restaurants en het stadscentrum zijn ook gemakkelijk te bereiken, zodat u het schiereiland te voet of op de fiets kunt ontdekken.\n\nVrijetijdsactiviteiten :\nBegin met een bezoek aan de wilde kust van Quiberon. Deze kust wordt voortdurend geteisterd door de wind en de zee en biedt een verkwikkend schouwspel.\nUw verblijf op het schiereiland kan ook de perfecte gelegenheid zijn om te leren zeilen of uw zeilvaardigheden te verbeteren op het ideale stuk water in de baai van Quiberon, kies voor een zeil- of peddelcursus of een duikcursus. Ontdek het plezier van surfen en de Bretonse golven met een van de vele surfscholen.\nDankzij de pier van Quiberon kun je Belle-île, Houat of Hoëdic gemakkelijk ontdekken. Je kunt ook kiezen voor een milieuvriendelijk alternatief met de Iliens, die naar het eiland varen. Ze organiseren ook evenementen en feesten op de boot.\nBij aankomst ontvangt u van ons een gedetailleerd boekje met onze must-sees en aanbevelingen in de buurt van uw accommodatie, om uw verblijf in Bretagne onvergetelijk te maken.\n\nClassificatie :\n4 sterren voor gemeubileerde toeristische accommodatie en 3 sleutels voor CLÉVACANCES\n\nDirect contact per e-mail contact@cleenmain.eu of per telefoon 07 44 42 81 37 voor alle informatie of reserveringsaanvragen."
+        ],
+        "es": [
+          "Amplia casa de 130 m² en Saint-Pierre Quiberon para 8 personas, a 600 metros de la playa y del centro de la ciudad\nA 600 metros de la playa de Keraude y de su puerto, y a 5 minutos a pie de la plaza del mercado de Saint-Pierre, esta encantadora casa totalmente renovada combina el confort moderno con la autenticidad bretona, como la piedra vista y una decoración acogedora.\nIdeal para alojar a varias parejas, familias o grupos de amigos, ofrece el marco perfecto para una estancia agradable en la península.\nA 300 metros del alojamiento hay varios restaurantes de primera categoría, como BDS y Canailles.\nTambién hay una zona de almacenamiento seguro para scooters, bicicletas y equipos de deportes acuáticos.\nUn estudio contiguo también está disponible para alquiler, lo que le permite reservar el alojamiento para un máximo de 10 personas.\nEl servicio de limpieza (120€/estancia) no está incluido en las tarifas en línea. Sin embargo, para una comodidad óptima, estos gastos deben ser pagados por el viajero.\nNo se proporciona ropa de cama, pero se puede solicitar un servicio opcional de lavandería (que incluye ropa de cama, toallas de baño y paños de cocina).\n\nCaracterísticas principales:\n- Capacidad para 8 personas: 4 dormitorios y 2 cuartos de baño, incluido un WC separado\n- Cocina totalmente equipada: lavavajillas, aparatos de cocina y repostería, máquinas de raclette y fondue, etc\n- Salón con TV, equipo de música, Netflix, consola PS4 y juegos de mesa\n- Wi-Fi de alta velocidad con amplificador de relé\n- Lavadora, tabla de planchar y plancha\n- Kit bebé\n- Ordenador\n- Instalaciones seguras\n\nDisposición :\n\n- Planta baja:\nAlrededor de su isla central, la cocina totalmente equipada combina funcionalidad, practicidad y equipamiento de calidad. La cocina comunica con un acogedor salón, equipado con una PS4 y 17 juegos de mesa, proporcionando un espacio ideal para compartir cálidos momentos en familia o con amigos.\n\n- Primera planta:\nDos cómodos dormitorios, un cuarto de baño y un aseo independiente.\n\n- Segunda planta:\nDos dormitorios adicionales y un segundo cuarto de baño con WC, ofreciendo privacidad y comodidad a todos los ocupantes.\n\n- Exterior y alrededores :\nMejor que un jardín, la playa de Keraude está a sólo 5 minutos a pie. Tiendas, restaurantes y el centro de la ciudad también están al alcance de la mano, para disfrutar al máximo de la península a pie o en bicicleta.\n\nActividades de ocio :\nEmpiece por visitar la ineludible costa salvaje de Quiberon. Constantemente azotado por el viento y el mar, ofrece un espectáculo estimulante.\nSu estancia en la península también puede ser la ocasión perfecta para aprender a navegar o perfeccionar sus habilidades náuticas en el tramo de agua ideal de la bahía de Quiberon, optar por un curso de vela o paddle o por un curso de submarinismo. Descubra los placeres del surf y las olas bretonas con una de las numerosas escuelas de surf.\nGracias al embarcadero de Quiberon, podrá descubrir fácilmente Belle-île, Houat o Hoëdic. También puede optar por una alternativa ecológica con los Iliens, que navegan hasta la isla. También organizan eventos y fiestas en el barco.\nA su llegada, le entregaremos un folleto detallado que resume nuestros imprescindibles y recomendaciones cerca de su alojamiento, para que su estancia en Bretaña sea inolvidable.\n\nClasificación :\n4 estrellas para los alojamientos turísticos amueblados y 3 llaves para las CLÉVACANCES\n\nContacto directo por e-mail contact@cleenmain.eu o por teléfono 07 44 42 81 37 para cualquier información o solicitud de reserva."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3ba29cd9-6869-36a2-bce4-c10b9fcc5a32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4697acc6-6970-3c63-b226-6f4467bb783c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4409270-6c4e-3fb4-9c1c-9912e3d19b16",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9d54f35-d1dd-3399-8815-9beede303253",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e229f6c3-940c-3a9f-8b1e-544d38219a4e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f933dc7f-78a6-3868-ad55-769215378f50",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d5e620f2-a1a9-300e-b969-3100fe25727d",
+          "schema:addressLocality": "Saint-Pierre-Quiberon",
+          "schema:postalCode": "56510",
+          "schema:streetAddress": [
+            "6 Avenue de Bretagne"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56234",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "pt": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "en": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "it": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "fr": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "nl": [
+                "Saint-Pierre-Quiberon"
+              ],
+              "es": [
+                "Saint-Pierre-Quiberon"
+              ]
+            },
+            "insee": "56234",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7b0373f0-a2c6-36f0-a456-8af38789ffd7",
+        "schema:latitude": "47.51931",
+        "schema:longitude": "-3.133178",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-15",
+  "lastUpdateDatatourisme": "2026-04-16T03:55:05.019Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

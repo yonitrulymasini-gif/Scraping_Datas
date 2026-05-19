@@ -1,0 +1,356 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7d0facb3-bece-333b-b131-b984e854ffbb",
+  "dc:identifier": "FMABRE000V51KKBC",
+  "schema:endDate": [
+    "2026-04-29",
+    "2026-05-27"
+  ],
+  "schema:startDate": [
+    "2026-04-29",
+    "2026-05-27"
+  ],
+  "@type": [
+    "schema:Event",
+    "ChildrensEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Le temps d'une histoire"
+    ],
+    "fr": [
+      "Le temps d'une histoire"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bd6a7014-54c3-3b85-a168-6f195ead94be",
+      "schema:telephone": [
+        "+33 2 97 57 79 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/05a61f73-9055-34f2-bdc4-3dccf439c766",
+      "dc:description": {
+        "de": [
+          "Lesen und Kunst, ab 4 Jahren.\n\nVeranstaltung für alle (Abonnenten und Nicht-Abonnenten des Netzwerks der Mediatheken Terre Atlantique).\n\nBegrenzte Anzahl von Plätzen ? Anmeldung bei der Mediathek.\nAnimation vorgeschlagen und organisiert von der Mediathek in Brec'h.\n\nDie Animation ist kostenlos.\nNach Anmeldung, per Telefon oder E-Mail."
+        ],
+        "en": [
+          "Story time"
+        ],
+        "it": [
+          "Lettura e arti visive, a partire dai 4 anni.\n\nAperto a tutti (abbonati e non abbonati alla rete di mediateche Terre Atlantique).\n\nNumero limitato di posti? Si prega di iscriversi presso la mediateca.\nEvento proposto e organizzato dalla mediateca Brec'h.\n\nEvento gratuito.\nIscrizione obbligatoria, per telefono o e-mail."
+        ],
+        "fr": [
+          "Lecture et arts plastiques, dès 4 ans.\n\nAnimation ouverte à tous (abonnés et non abonnés au réseau des médiathèques Terre Atlantique).\n\nNombre de places limité – Inscription auprès de la médiathèque.\nAnimation proposée et organisée par la médiathèque de Brec'h. \n\nAnimation gratuite. \nSur inscription, par téléphone ou mail."
+        ],
+        "nl": [
+          "Lezen en beeldende kunst, vanaf 4 jaar.\n\nVoor iedereen toegankelijk (abonnees en niet-abonnees van het mediatheeknetwerk Terre Atlantique).\n\nBeperkt aantal plaatsen? Inschrijven bij de mediatheek.\nEvenement voorgesteld en georganiseerd door de mediatheek van Brec'h.\n\nGratis evenement.\nInschrijving verplicht, telefonisch of per e-mail."
+        ],
+        "es": [
+          "Lectura y artes visuales, a partir de los 4 años.\n\nAbierto a todos (abonados y no abonados a la red de mediatecas Terre Atlantique).\n\nPlazas limitadas ? Inscríbase en la mediateca.\nPropuesto y organizado por la mediateca Brec'h.\n\nActividad gratuita.\nInscripción obligatoria, por teléfono o correo electrónico."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/53eadf1c-7520-3a30-8dde-92be59154a86",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b30f9638-03e2-3f1f-afad-5888b5a0f5c8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf1b4354-4b0d-33c3-bbcf-d73e0389668d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e7d0fae7-8970-3202-aa91-eca358deaea7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4759723c-ad1c-3a86-8aa3-a3824a34000d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f8223a20-2be6-3c5a-8a59-83edb93e9a20",
+          "schema:addressLocality": "Brech",
+          "schema:postalCode": "56400",
+          "schema:streetAddress": [
+            "2 Rue Park Ar Fetan",
+            "Médiathèque de Brec'h"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brech"
+              ],
+              "pt": [
+                "Brech"
+              ],
+              "en": [
+                "Brech"
+              ],
+              "it": [
+                "Brech"
+              ],
+              "fr": [
+                "Brech"
+              ],
+              "nl": [
+                "Brech"
+              ],
+              "es": [
+                "Brech"
+              ]
+            },
+            "insee": "56023",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/983bc814-9ff3-3099-8240-b1c885452825",
+        "schema:latitude": "47.7192346",
+        "schema:longitude": "-2.9965649",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-15",
+  "lastUpdateDatatourisme": "2026-04-16T03:26:30.339Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/46806bdf-cd3f-3b3a-a9dc-4f036a37b5ed",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-04-29",
+      "endTime": "12:00:00",
+      "startDate": "2026-04-29",
+      "startTime": "10:30:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/babd87f6-0b94-3304-b40f-9372134ad220",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-27",
+      "endTime": "12:00:00",
+      "startDate": "2026-05-27",
+      "startTime": "10:30:00"
+    }
+  ]
+}

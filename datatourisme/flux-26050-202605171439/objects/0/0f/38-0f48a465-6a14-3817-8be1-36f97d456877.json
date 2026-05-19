@@ -1,0 +1,664 @@
+{
+  "@id": "https://data.datatourisme.fr/38/0f48a465-6a14-3817-8be1-36f97d456877",
+  "dc:identifier": "RES58a5bcfb82f34",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Restaurant Japonais Miyoshi"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1a68d072-a7ec-3968-95c6-fa598cb6d9d8",
+      "schema:legalName": "Restaurant Japonais Miyoshi",
+      "schema:telephone": [
+        "+33 2 97 31 69 19"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.restaurantmiyoshi.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1a68d072-a7ec-3968-95c6-fa598cb6d9d8",
+      "schema:legalName": "Restaurant Japonais Miyoshi",
+      "schema:telephone": [
+        "+33 2 97 31 69 19"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.restaurantmiyoshi.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/95194bd9-fe25-314b-b9f1-9c022ca4079b",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie die japanische Küche jenseits von Sushi und Spießchen. Sie können Familiengerichte probieren, die wir Japaner täglich auf unseren Tellern essen.\n\nWie z. B. paniertes Sortiment (Frittieren nach japanischer Art), Rindfleisch mit Ponzu-Essig (Essig auf Zitrusbasis), Rindfleisch mit Ingwersauce (karamellisierte Sauce) und nicht zu vergessen von November bis Februar bretonische Austern, die nach japanischer Art zubereitet werden.\n\nDenken Sie an eine Reservierung (für Gäste mit Kinderwagen, Rollstuhl, Hund und für Allergiker: Bitte geben Sie dies bei der Reservierung an."
+        ],
+        "en": [
+          "Come and discover Japanese cuisine other than sushi and kebabs. You'll be able to taste family dishes that we Japanese eat on our plates every day.\n\nLike assorted breaded dishes (Japanese-style frying), beef with ponzu vinegar (citrus-based vinegar), beef with ginger sauce (caramelized sauce) and, from November to February, oysters from Brittany cooked the Japanese way.\n\nDon't forget to make a reservation (for customers with strollers, wheelchairs, dogs and for allergy sufferers: please let us know at the time of booking)."
+        ],
+        "it": [
+          "Venite a scoprire una cucina giapponese diversa dal sushi e dal kebab. Potrete assaggiare i piatti familiari che noi giapponesi consumiamo ogni giorno nei nostri piatti.\n\nTra questi, piatti impanati assortiti (fritture alla giapponese), manzo all'aceto ponzu (aceto a base di agrumi), manzo in salsa di zenzero (salsa caramellata) e, da novembre a febbraio, ostriche della Bretagna cucinate alla maniera giapponese.\n\nNon dimenticate di prenotare (per i clienti con passeggini, sedie a rotelle, cani e per chi soffre di allergie: vi preghiamo di comunicarlo al momento della prenotazione)."
+        ],
+        "fr": [
+          "Venez découvrir la cuisine japonaise autre que les sushis et les brochettes. Vous pourrez déguster des plats familiaux que nous les japonais mangeons dans nos assiettes au quotidien. \n\nComme les assortiment panés (friture façon japonaise), boeuf au vinaigre ponzu (vinaigre à base d'agrumes), boeuf à la sauce gingembre (sauce caramélisée) et sans oublier de novembre à février, les huîtres bretonnes cuisinées à la façon japonaise. \n\nPensez à réserver (pours les clients accompagnés de poussettes, fauteuil roulant, chien et pour les personnes allergiques : merci de nous l'indiquer au moment de la réservation."
+        ],
+        "es": [
+          "Venga a descubrir la cocina japonesa más allá del sushi y los kebabs. Podrás degustar platos familiares que los japoneses comemos a diario en nuestros platos.\n\nEntre ellos, platos empanados variados (frituras a la japonesa), ternera en vinagre ponzu (vinagre a base de cítricos), ternera en salsa de jengibre (salsa caramelizada) y, de noviembre a febrero, ostras de Bretaña cocinadas a la japonesa.\n\nNo olvide hacer una reserva (para clientes con cochecitos, sillas de ruedas, perros y alérgicos: infórmenos en el momento de la reserva)."
+        ],
+        "nl": [
+          "Kom en ontdek andere Japanse gerechten dan sushi en kebab. Je zult familiegerechten kunnen proeven die wij Japanners elke dag op ons bord eten.\n\nDit zijn onder andere gepaneerde gerechten (gefrituurd voedsel in Japanse stijl), rundvlees in ponzu-azijn (azijn op basis van citrusvruchten), rundvlees in gembersaus (gekaramelliseerde saus) en, van november tot februari, oesters uit Bretagne op Japanse wijze gekookt.\n\nVergeet niet te reserveren (voor klanten met kinderwagens, rolstoelen, honden en mensen met allergieën: laat het ons weten op het moment van reserveren)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/576ab0c3-86a0-330d-bc05-0b564571d26c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5acde420-11a5-38af-90e6-bf2e235dbd42",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/88483334-c4ac-3f3b-aefd-083aa26fe8de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/acceb705-cb5e-356e-b535-191407644cf7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af305671-9672-39d2-9c23-7f21d24b1ce4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/2386bd2c-3a6b-20dc-bec9-b74eb2a7f3ec",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "0c477866-a462-4a74-8c7a-8e73696d4f5a",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/df174465-2dab-31bc-a116-a36a0cd26122",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:PrivateParking",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Privater Parkplatz"
+            ],
+            "pt": [
+              "Parque de estacionamento privativo"
+            ],
+            "en": [
+              "Private parking"
+            ],
+            "it": [
+              "Parcheggio privato"
+            ],
+            "fr": [
+              "Parking privé"
+            ],
+            "nl": [
+              "Privéparking"
+            ],
+            "es": [
+              "Aparcamiento privado"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/945c8e52-d183-3956-8972-ec3b104abfb8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/be35c144-c963-3c04-8f3e-31d2fe7b3f7b",
+          "schema:addressLocality": "Crach",
+          "schema:postalCode": "56950",
+          "schema:streetAddress": [
+            "2 Kermané"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56046",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Crach"
+              ],
+              "pt": [
+                "Crach"
+              ],
+              "en": [
+                "Crach"
+              ],
+              "it": [
+                "Crach"
+              ],
+              "fr": [
+                "Crach"
+              ],
+              "nl": [
+                "Crach"
+              ],
+              "es": [
+                "Crach"
+              ]
+            },
+            "insee": "56046",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b18a4f0c-5685-3c91-b793-4d69c765bc69",
+        "schema:latitude": "47.6529402",
+        "schema:longitude": "-2.9841637",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-27T03:28:02.276Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b9905356-f711-3501-9606-e22445059a61",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

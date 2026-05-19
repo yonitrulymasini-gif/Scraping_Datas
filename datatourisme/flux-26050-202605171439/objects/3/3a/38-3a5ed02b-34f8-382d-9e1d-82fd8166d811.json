@@ -1,0 +1,603 @@
+{
+  "@id": "https://data.datatourisme.fr/38/3a5ed02b-34f8-382d-9e1d-82fd8166d811",
+  "dc:identifier": "B0028BRE000001OK",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte Les Ifs"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/e021bda8-ea52-3d4f-970a-729a036ef767",
+    "dc:identifier": "cf1507f7-0d54-4878-8382-d74d74193600",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/44d1b64b-43e1-3197-b545-95f152973c7c",
+        "schema:addressLocality": "Cesson-Sévigné",
+        "schema:postalCode": "35517",
+        "schema:streetAddress": [
+          "1C, 1D avenue de Belle Fontaine",
+          "CS 71777"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:35051",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Cesson-Sévigné"
+            ],
+            "pt": [
+              "Cesson-Sévigné"
+            ],
+            "en": [
+              "Cesson-Sévigné"
+            ],
+            "it": [
+              "Cesson-Sévigné"
+            ],
+            "fr": [
+              "Cesson-Sévigné"
+            ],
+            "nl": [
+              "Cesson-Sévigné"
+            ],
+            "es": [
+              "Cesson-Sévigné"
+            ]
+          },
+          "insee": "35051",
+          "isPartOfDepartment": {
+            "@id": "kb:France5335",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ille-et-Vilaine"
+              ],
+              "pt": [
+                "Ille-et-Vilaine"
+              ],
+              "en": [
+                "Ille-et-Vilaine"
+              ],
+              "it": [
+                "Ille-et-Vilaine"
+              ],
+              "fr": [
+                "Ille-et-Vilaine"
+              ],
+              "nl": [
+                "Ille-et-Vilaine"
+              ],
+              "es": [
+                "Ille-et-Vilaine"
+              ]
+            },
+            "insee": "35",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "support-sitb@tourismebretagne.com"
+    ],
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cbde11c8-2613-3d74-88df-f077a149431b",
+      "schema:telephone": [
+        "+33 2 97 60 18 88",
+        "+33 6 78 01 98 35"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2592ff55-3b7c-3d72-8033-a71079f0e5a4",
+      "schema:legalName": "Gîte Les Ifs",
+      "schema:telephone": [
+        "+33 2 97 60 18 88",
+        "+33 6 78 01 98 35"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cbde11c8-2613-3d74-88df-f077a149431b",
+      "schema:telephone": [
+        "+33 2 97 60 18 88",
+        "+33 6 78 01 98 35"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-morbihan.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/435bb437-446f-38a9-b22c-03fc929c2d51",
+      "dc:description": {
+        "de": [
+          "Im Herzen der Bretagne, in der grünen Landschaft auf einem landwirtschaftlichen Betrieb, bietet Ihnen dieses traditionelle Haus Ruhe und Erholung. Unterkunft auf einem Bauernhof in einem Gebäudekomplex, 3,5 km von Moréac entfernt. Wohnzimmer/Kochecke, Kamin (Einsatz), 2 Schlafzimmer (1 Doppelbett, 2 Einzelbetten, 1 Kinderbett), Badezimmer, 2 WCs, Elektroheizung, geschlossener Garten (500 m²), Gartenmöbel, Grill, Klettergerüst, Boulespiel. Plan d'eau de Réguiny in 7 km Entfernung. GR37 in 17 km Entfernung. Die Innenausstattung umfasst einen schönen Kleiderschrank im Wohn- und Esszimmer."
+        ],
+        "en": [
+          "In the heart of Brittany, in the green countryside on a farm, this traditional house offers peace and quiet. Farm cottage in a group of buildings 3.5 km from Moréac. Living room/kitchenette, fireplace (insert), 2 bedrooms (1 double bed, 2 single beds, 1 child's bed), shower room, 2 wc, electric heating, enclosed garden (500 m²), garden furniture, barbecue, portico, jeu de boules. Réguiny lake 7 km away. GR37 at 17 km. The interior features an attractive wardrobe in the living room."
+        ],
+        "it": [
+          "Nel cuore della Bretagna, nella verde campagna di una fattoria, questa casa tradizionale vi offre pace e relax. Agriturismo in un gruppo di edifici a 3,5 km da Moréac. Soggiorno/cucina, camino (stufa a legna), 2 camere da letto (1 letto matrimoniale, 2 letti singoli, 1 letto per bambini), bagno con doccia, 2 wc, riscaldamento elettrico, giardino recintato (500 m²), mobili da giardino, barbecue, altalena, bocce. Lago di Réguiny a 7 km. GR37 a 17 km. Gli interni comprendono un bell'armadio nel soggiorno."
+        ],
+        "fr": [
+          "Au coeur de la Bretagne, dans la campagne verdoyante sur une exploitation agricole, cette maison traditionnelle vous offre le calme et le repos. Gîte de ferme dans un ensemble de bâtiments à 3,5 km de Moréac. Séjour/ coin-cuisine, cheminée (insert), 2 chambres (1 lit 2 pers., 2 lits 1 pers., 1 lit enfant), salle d'eau, 2 wc, chauffage électrique, jardin clos (500 m²), salon de jardin, barbecue, portique,  jeu de boules. Plan d'eau de Réguiny à 7 km. GR37 à 17 km. L'intérieur comprend une belle armoire dans le séjour-salon."
+        ],
+        "nl": [
+          "In het hart van Bretagne, op het groene platteland van een boerderij, biedt dit traditionele huis u rust en ontspanning. Boerderijgîte in een groep gebouwen op 3,5 km van Moréac. Woonkamer/keukenhoek, open haard (houtkachel), 2 slaapkamers (1 tweepersoonsbed, 2 eenpersoonsbedden, 1 kinderbed), doucheruimte, 2 wc, elektrische verwarming, omheinde tuin (500 m²), tuinmeubelen, barbecue, schommel, jeu de boules. Meer van Réguiny op 7 km. GR37 op 17 km. Het interieur omvat een mooie kledingkast in de woonkamer."
+        ],
+        "es": [
+          "En el corazón de Bretaña, en la verde campiña de una granja, esta casa tradicional le ofrece tranquilidad y relajación. Casa rural en un conjunto de edificios a 3,5 km de Moréac. Salón-cocina, chimenea (leña), 2 habitaciones (1 cama doble, 2 camas individuales, 1 cama de niño), cuarto de ducha, 2 wc, calefacción eléctrica, jardín cerrado (500 m²), muebles de jardín, barbacoa, columpio, petanca. Lago de Réguiny a 7 km. GR37 a 17 km. El interior incluye un bonito armario en el salón."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1b12772e-aee9-3d43-a766-e23fdf465a27",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/240b9c88-09b8-3cb9-bdea-d02adf386263",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4e111886-799c-327a-a64f-ae9d6b47cf07",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c07be1ed-37e0-3895-ad41-11f021163238",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c17b6fa0-264f-34b1-99a0-e175284329c2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ec2995ea-7313-31bb-89f2-3b42eb15c468",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/82a4e3b2-830f-3059-b241-f3b186a3e1ed",
+          "schema:addressLocality": "Moréac",
+          "schema:postalCode": "56500",
+          "schema:streetAddress": [
+            "Kerivin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56140",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Moréac"
+              ],
+              "pt": [
+                "Moréac"
+              ],
+              "en": [
+                "Moréac"
+              ],
+              "it": [
+                "Moréac"
+              ],
+              "fr": [
+                "Moréac"
+              ],
+              "nl": [
+                "Moréac"
+              ],
+              "es": [
+                "Moréac"
+              ]
+            },
+            "insee": "56140",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/23716243-d9bc-39ba-a219-f2dc76177405",
+        "schema:latitude": "47.90975",
+        "schema:longitude": "-2.779167",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.198Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

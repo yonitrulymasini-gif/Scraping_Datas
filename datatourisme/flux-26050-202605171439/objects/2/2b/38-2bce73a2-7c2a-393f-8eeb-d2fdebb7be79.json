@@ -1,0 +1,643 @@
+{
+  "@id": "https://data.datatourisme.fr/38/2bce73a2-7c2a-393f-8eeb-d2fdebb7be79",
+  "dc:identifier": "HLO11db86fdc55a4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Les Salines"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1f2a4ce5-0982-34e0-8c28-53969b4f2691",
+      "schema:telephone": [
+        "+33 6 27 88 93 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.villamanelann.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1f2a4ce5-0982-34e0-8c28-53969b4f2691",
+      "schema:telephone": [
+        "+33 6 27 88 93 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.villamanelann.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/99cab6df-0181-3edc-911f-2dd7422bb054",
+      "schema:legalName": "Les Salines",
+      "schema:telephone": [
+        "+33 6 27 88 93 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.villamanelann.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2dd474df-50d8-37e2-aba9-389ca4d92f80",
+      "dc:description": {
+        "de": [
+          "Ferienwohnung für 4 Personen.\nDie Villa Mane Lann liegt oberhalb der Anse du Pô in Carnac in einem 6000 m2 großen Park und bietet Ihnen einen einzigartigen Blick auf die Bucht von Quiberon.\nIhr zeitgenössischer Stil, ihre 2 Gästezimmer mit Blick auf den Pool und den Jacuzzi werden Ihnen einen außergewöhnlichen Aufenthalt bescheren.\nUnsere 2 Appartements \"Les Salines\" und \"Le Men du\" sind für 4 Personen ausgelegt und öffnen sich zur umliegenden Natur oder zum Pool hin. Die Dekoration: Eichenparkett, Pastellfarben, gewachster Beton, Seegras, ganz im Sinne der Villa. Angenommene Wochenenden von Mitte Oktober bis Ende März, außerhalb der Schulferien."
+        ],
+        "en": [
+          "4-person apartment.\nOverlooking Carnac?s Anse du Pô in a 6,000 m2 park, Villa Mane Lann offers a unique view of Quiberon Bay.\nIts contemporary style and 2 guest rooms overlooking the pool and jacuzzi will make your stay an exceptional one.\nOur 2 apartments \"les Salines\" and \"Le Men du\" are designed for 4 people and open onto the surrounding nature or the pool. The decor: oak parquet flooring, pastel paintings, waxed concrete, sea rush, all in the spirit of the villa. Weekends accepted from mid-October to the end of March, except during school vacations."
+        ],
+        "it": [
+          "Appartamento per 4 persone.\nAffacciata sull'Anse du Pô a Carnac, su un terreno di 6.000 m2, la Villa Mane Lann offre una vista unica sulla baia di Quiberon.\nIl suo stile contemporaneo e le sue 2 camere con vista sulla piscina e sulla jacuzzi vi garantiranno un soggiorno eccezionale.\nI nostri 2 appartamenti, \"Les Salines\" e \"Le Men du\", sono progettati per 4 persone e si aprono sulla campagna circostante o sulla piscina. L'arredamento: parquet in rovere, quadri pastello, cemento cerato, giunchi marini, tutto nello spirito della villa. Si accettano weekend da metà ottobre a fine marzo, escluse le vacanze scolastiche."
+        ],
+        "fr": [
+          "Appartement 4 personnes. \nSurplombant l’anse du Pô à Carnac sur un parc de 6000 m2 , la villa Mane Lann vous offre un point de vue unique sur la baie de Quiberon. \nSon style contemporain, ses 2 chambres d'hôtes donnant sur la piscine et le jacuzzi vous feront passer un séjour d’exception. \nNos 2 appartements \"les Salines\" et \"Le Men du\" ont été conçus pour 4 personnes et s’ouvrent sur la nature environnante ou la piscine. La déco : parquet chêne, peintures pastel, béton ciré, jonc de mer, tout l’esprit de la villa. Week-end acceptés de mi octobre à fin mars, hors vacances scolaires."
+        ],
+        "es": [
+          "Piso para 4 personas.\nCon vistas a Anse du Pô en Carnac, en un terreno de 6.000 m2, Villa Mane Lann ofrece una vista única sobre la bahía de Quiberon.\nSu estilo contemporáneo y sus 2 habitaciones con vistas a la piscina y al jacuzzi le harán disfrutar de una estancia excepcional.\nNuestros 2 apartamentos, \"Les Salines\" y \"Le Men du\", están diseñados para 4 personas y se abren al campo o a la piscina. La decoración: parquet de roble, cuadros pastel, hormigón encerado, junco de mar, todo en el espíritu de la villa. Fines de semana aceptados de mediados de octubre a finales de marzo, excepto vacaciones escolares."
+        ],
+        "nl": [
+          "Appartement voor 4 personen.\nUitkijkend over Anse du Pô in Carnac, gelegen op een terrein van 6.000 m2, biedt Villa Mane Lann een uniek uitzicht over de baai van Quiberon.\nDe eigentijdse stijl en de 2 gastenkamers met uitzicht op het zwembad en de jacuzzi zorgen voor een uitzonderlijk verblijf.\nOnze 2 appartementen, \"Les Salines\" en \"Le Men du\", zijn ontworpen voor 4 personen en kijken uit op het omliggende platteland of op het zwembad. De inrichting: eiken parketvloer, pastelschilderijen, gewaxt beton, zeebies, alles in de geest van de villa. Weekends van half oktober tot eind maart, behalve schoolvakanties."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4102b0e5-0472-30a6-b108-462a6f104eae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8c2c9d15-e7ba-3889-ae7d-32758e8c929a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e283b9a-d0ee-3660-9c82-c93166e0bef3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa83a95b-2f09-3c97-903a-c565bebaf5e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe7fef18-75e5-36e4-8b4b-937bd8368006",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/9fe5e26c-5eaa-3e63-8f94-1ee1b9a7323f",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:SwimmingPool",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Pool"
+            ],
+            "pt": [
+              "Piscina"
+            ],
+            "en": [
+              "Swimming pool"
+            ],
+            "it": [
+              "Piscina"
+            ],
+            "fr": [
+              "Piscine"
+            ],
+            "nl": [
+              "Zwembad"
+            ],
+            "es": [
+              "Piscina"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7b0d4c3d-3c0a-3489-aa00-c1c8e514ca3c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7617ffe4-ab8e-3e7f-ba79-34049718e504",
+          "schema:addressLocality": "Plouharnel",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Chemin de Mané Lann"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56168",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Plouharnel"
+              ],
+              "pt": [
+                "Plouharnel"
+              ],
+              "en": [
+                "Plouharnel"
+              ],
+              "it": [
+                "Plouharnel"
+              ],
+              "fr": [
+                "Plouharnel"
+              ],
+              "nl": [
+                "Plouharnel"
+              ],
+              "es": [
+                "Plouharnel"
+              ]
+            },
+            "insee": "56168",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/35248ad8-7139-3e02-b91e-e29471bd2d9f",
+        "schema:latitude": "47.5927",
+        "schema:longitude": "-3.107718",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-02-25",
+  "lastUpdateDatatourisme": "2026-02-26T04:19:41.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "@id": "https://data.datatourisme.fr/38/db1cb263-f2c9-3aa1-a834-59b7ba59dea5",
+  "dc:identifier": "FMABRE056V503KJC",
+  "schema:endDate": [
+    "2026-01-21",
+    "2026-05-20"
+  ],
+  "schema:startDate": [
+    "2026-01-21",
+    "2026-05-20"
+  ],
+  "@type": [
+    "schema:Event",
+    "ChildrensEvent",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Bébés lecteurs"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/59e7fe9b-a14c-33f7-906e-dac68b7216ab",
+      "schema:telephone": [
+        "+33 2 97 50 44 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ad30f89e-8f74-3334-836e-5a51e24438ae",
+      "dc:description": {
+        "de": [
+          "Treffen der Baby-Leser in der Mediathek.\nFür Kinder von 0 bis 3 Jahren\n\nEin Moment der Entdeckung und des Austauschs rund um Bücher, speziell für Kleinkinder und ihre Begleitpersonen."
+        ],
+        "en": [
+          "Bébés lecteurs\" event at the multimedia library.\nFor children aged 0 to 3\n\nA moment of discovery and sharing around books, specially designed for toddlers and their caregivers."
+        ],
+        "it": [
+          "L'evento Bébés lecteurs presso la biblioteca multimediale.\nPer i bambini da 0 a 3 anni\n\nUn momento di scoperta e condivisione dei libri, pensato appositamente per i più piccoli e i loro accompagnatori."
+        ],
+        "fr": [
+          "Rendez-vous des Bébés lecteurs à la médiathèque.\nPour les enfants de 0 à 3 ans \n\nUn moment de découverte et de partage autour des livres, spécialement pensé pour les tout-petits et leurs accompagnants."
+        ],
+        "nl": [
+          "Het evenement Bébés lecteurs in de mediatheek.\nVoor kinderen van 0 tot 3 jaar\n\nEen moment om boeken te ontdekken en te delen, speciaal voor peuters en hun begeleiders."
+        ],
+        "es": [
+          "El evento Bébés lecteurs en la biblioteca multimedia.\nPara niños de 0 a 3 años\n\nUn momento para descubrir y compartir libros, especialmente pensado para los más pequeños y sus cuidadores."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0280e5e6-a269-3a0f-9aec-caa7ba6907a2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/37c771ed-20df-336a-8c70-f2213d755b50",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d36ea6d-1c8c-30ed-a5da-4d52effae900",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/687526db-cd34-3dc0-b81d-33d848987835",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d7f94056-323c-35df-9850-d73a103692bd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cd28e5d5-9650-39ab-9892-c1736633d234",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2f363ed9-7d34-3fba-b39c-76d13e612a9b",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "16 Rue Michelet",
+            "Médiathèque"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7a9a355b-0301-36a3-a67e-52723487024c",
+        "schema:latitude": "47.484201",
+        "schema:longitude": "-3.1202905",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-30",
+  "lastUpdateDatatourisme": "2026-05-01T03:16:42.449Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1367087a-04a6-3172-8841-cb2b43f0752c",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-01-21",
+      "startDate": "2026-01-21",
+      "startTime": "10:30:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c71ea4ab-834a-31dd-9cb3-1e1a75ab8fc6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-20",
+      "startDate": "2026-05-20",
+      "startTime": "10:30:00"
+    }
+  ]
+}

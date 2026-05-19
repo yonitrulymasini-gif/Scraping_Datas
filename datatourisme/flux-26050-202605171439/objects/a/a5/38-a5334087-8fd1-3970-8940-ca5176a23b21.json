@@ -1,0 +1,329 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a5334087-8fd1-3970-8940-ca5176a23b21",
+  "dc:identifier": "FMABRE056V50DCIX",
+  "schema:endDate": [
+    "2026-05-23"
+  ],
+  "schema:startDate": [
+    "2026-05-23"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SportsEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest",
+    "SportsCompetition",
+    "SportsEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Championnat Départemental Dériveur"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/779b0d43-324d-3151-a87a-f854a0b6faaf",
+      "schema:telephone": [
+        "+33 2 97 30 56 54",
+        "+33 6 13 01 25 33"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.asnquiberon.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/71179dad-a027-3ee9-ba58-3b1d79eb8d44",
+      "dc:description": {
+        "de": [
+          "Einer der ersten Wettkämpfe für junge Segler aus dem Morbihan auf Optimisten oder Open Skiffs, die von ihren Trainern und Familien angefeuert werden.\nAbfahrt am Strand von Porigo gegen 13:30 Uhr."
+        ],
+        "en": [
+          "One of the first competitions for young Morbihan sailors on Optimist or Open Skiff, encouraged by their coaches and families.\nDeparture from Porigo beach, around 1.30pm."
+        ],
+        "it": [
+          "Una delle prime competizioni per i giovani velisti del Morbihan su Optimist o Open Skiff, incoraggiati dai loro allenatori e dalle loro famiglie.\nPartenza dalla spiaggia di Porigo, intorno alle 13.30."
+        ],
+        "fr": [
+          "Une des premières compétitions pour les jeunes pratiquants morbihannais sur Optimist ou Open Skiff, encouragés par leurs entraineurs et leurs familles.\nDépart de la plage du Porigo, vers 13h30."
+        ],
+        "es": [
+          "Una de las primeras competiciones para los jóvenes regatistas de Morbihan en Optimist u Open Skiff, animados por sus entrenadores y familias.\nSalida desde la playa de Porigo, hacia las 13.30 h."
+        ],
+        "nl": [
+          "Een van de eerste wedstrijden voor jonge zeilers uit Morbihan in Optimist of Open Skiff, aangemoedigd door hun coaches en families.\nStart vanaf het strand van Porigo, rond 13.30 uur."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/215dcb38-a494-3103-ab1c-eb9c0e61022b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/39223bab-6efe-3f76-bacc-95fe60a649bc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d71c2ed-d6bd-3e74-8e12-ed1ae6bf8130",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c636340-d838-3074-a74e-4edd3bf01b7f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d761068e-282f-3b4e-ad41-5789d72b2a22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/acda139f-caa8-3b01-bef1-87256c2adb34",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5f23cd23-d7bc-3230-9230-ae3f8d5e7ba3",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "ASNQuiberon",
+            "Boulevard des Émigrés"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f297ee40-c3ab-3a18-a912-82b5d74210c6",
+        "schema:latitude": "47.48241",
+        "schema:longitude": "-3.0958",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-02",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.872Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d274e3a2-77e3-38f9-acb2-cbf3d9fd7a07",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-23",
+      "endTime": "17:00:00",
+      "startDate": "2026-05-23",
+      "startTime": "13:00:00"
+    }
+  ]
+}

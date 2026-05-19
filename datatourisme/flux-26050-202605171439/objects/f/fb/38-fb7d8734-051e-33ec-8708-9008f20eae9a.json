@@ -1,0 +1,325 @@
+{
+  "@id": "https://data.datatourisme.fr/38/fb7d8734-051e-33ec-8708-9008f20eae9a",
+  "dc:identifier": "FMABRE056V50DV3H",
+  "schema:endDate": [
+    "2026-06-07"
+  ],
+  "schema:startDate": [
+    "2026-06-07"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:SaleEvent",
+    "EntertainmentAndEvent",
+    "GarageSale",
+    "PointOfInterest",
+    "SaleEvent"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Vide grenier"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c97d0363-5189-34fc-8c6c-7e8d60168cd4",
+    "schema:legalName": "Office de Tourisme de Pontivy Communauté",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/96f0b6e3-d650-3545-a6b9-0d81fa02b3ec",
+      "schema:telephone": [
+        "+33 6 01 32 35 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b8a252fe-cd55-325b-8646-89e28afec27e",
+      "dc:description": {
+        "de": [
+          "Flohmarkt zugunsten des Telethon mit Restauration und Getränken vor Ort."
+        ],
+        "en": [
+          "Flea market in aid of the Telethon, with food and refreshments on site."
+        ],
+        "it": [
+          "Mercatino delle pulci a favore di Telethon, con cibo e rinfreschi in loco."
+        ],
+        "fr": [
+          "Vide grenier au profit du Téléthon avec restauration et buvette sur place."
+        ],
+        "nl": [
+          "Vlooienmarkt ter ondersteuning van de Telethon, met eten en drinken op het terrein."
+        ],
+        "es": [
+          "Mercadillo a beneficio del Teletón, con comida y refrescos in situ."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1a7bf959-125b-3e84-ae74-0d8a929be76e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7d040623-9f3c-3d55-87ba-8331a47b858d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8690818a-8a4d-3d60-a4fc-2df45eca6d5f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c6bbe471-486c-304b-8fe1-ee5cfee4daa0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ca0270eb-0f33-3a24-be5f-80362721b6be",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/dc961a66-4414-331f-9898-33df29c630fe",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1f5b09b6-29f2-314d-ae71-fff79626ef17",
+          "schema:addressLocality": "Cléguérec",
+          "schema:postalCode": "56480",
+          "schema:streetAddress": [
+            "Rue du Stade",
+            "Terrain des sports"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56041",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cléguérec"
+              ],
+              "pt": [
+                "Cléguérec"
+              ],
+              "en": [
+                "Cléguérec"
+              ],
+              "it": [
+                "Cléguérec"
+              ],
+              "fr": [
+                "Cléguérec"
+              ],
+              "nl": [
+                "Cléguérec"
+              ],
+              "es": [
+                "Cléguérec"
+              ]
+            },
+            "insee": "56041",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/613e652e-1b4f-38c2-8b32-7682fb7c4d00",
+        "schema:latitude": "48.1294731",
+        "schema:longitude": "-3.0752603",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.832Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/60c4c451-5f83-3c31-bd45-7b0f29c29d3a",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-07",
+      "endTime": "17:30:00",
+      "startDate": "2026-06-07",
+      "startTime": "09:00:00"
+    }
+  ]
+}

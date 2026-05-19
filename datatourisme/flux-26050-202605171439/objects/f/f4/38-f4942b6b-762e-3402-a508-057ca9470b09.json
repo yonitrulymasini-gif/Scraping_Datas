@@ -1,0 +1,574 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f4942b6b-762e-3402-a508-057ca9470b09",
+  "dc:identifier": "HLO28717642624b4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Ty Kabiten - Loft Tribord"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0d4dc705-dee5-335c-b841-9b13b8da6b3f",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tykabiten.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0d4dc705-dee5-335c-b841-9b13b8da6b3f",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tykabiten.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7c89d23-0f89-3313-9314-5b47bb75270a",
+      "schema:legalName": "Ty Kabiten - Loft Tribord",
+      "schema:telephone": [
+        "+33 6 76 79 06 91"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tykabiten.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5a45cf46-d790-3d32-a77a-52e767e34ceb",
+      "dc:description": {
+        "de": [
+          "Eingebettet im Herzen von Locmariaquer, wohnen Sie in dieser Wohnung mit einem herrlichen Blick auf den Golf von Morbihan. Sie ist völlig autonom und verfügt über eine eigene Küche und ein eigenes Badezimmer. Die Schlafplätze verteilen sich auf ein Doppelbett im Alkoven und zwei Einzelbetten im Mezzanin. Es befindet sich in einem Haus, das in einem authentischen, maritimen, ökologischen und gemeinsamen Geist renoviert wurde.\n\nDiese Wohnung in Form eines Lofts ist ideal für ein Paar oder eine Familie, die gemeinsame Momente verbringen möchten.\nSie haben außerdem Zugang zum Gemeinschaftswohnzimmer, Terrassen, Veranda und einem großen Garten mit direktem Zugang zum Küstenpfad und einem kleinen Strand. Zu Ihrer Verfügung stehen: Bibliothek, Kajaks, Gesellschafts- und Outdoorspiele, Privatparkplatz, Ladeanschluss für Elektroautos.\n\nAtemberaubender Blick auf den Golf von Morbihan."
+        ],
+        "en": [
+          "Nestled in the heart of Locmariaquer, come and stay in this apartment with a splendid view of the Golfe du Morbihan. It is entirely self-contained, with its own kitchen and bathroom. Sleeping arrangements include a double bed in the alcove and 2 single beds on the mezzanine. It is located in a house renovated in an authentic, maritime, ecological and sharing spirit.\n\nThis loft-style apartment is ideal for a couple or a family looking to spend some quality time together.\nYou'll also have access to the communal lounge, terraces, veranda and large garden with direct access to the coastal path and a small beach. At your disposal: library, kayaks, board and outdoor games, private parking, electric car charging point.\n\nBreathtaking view of the Golfe du Morbihan."
+        ],
+        "it": [
+          "Nel cuore di Locmariaquer, venite a soggiornare in questo appartamento con splendida vista sul Golfo di Morbihan. È completamente autonomo, con cucina e bagno propri. La sistemazione comprende un letto matrimoniale nell'alcova e 2 letti singoli sul soppalco. Si trova in una casa ristrutturata in uno spirito autentico, marittimo, ecologico e di condivisione.\n\nQuesto appartamento in stile loft è ideale per una coppia o una famiglia che desidera trascorrere del tempo insieme.\nAvrete accesso al salone comune, alle terrazze, alla veranda e al grande giardino con accesso diretto al sentiero costiero e a una piccola spiaggia. A disposizione anche una biblioteca, kayak, giochi da tavolo e all'aperto, parcheggio privato e un punto di ricarica per auto elettriche.\n\nVista mozzafiato sul Golfo di Morbihan."
+        ],
+        "fr": [
+          "Niché au cœur de Locmariaquer, venez séjourner dans cet appartement avec une vue splendide sur le Golfe du Morbihan. Il est entièrement autonome avec sa propre cuisine et salle de bain. Les couchages sont réparti dans un lit double en alcôve et 2 lits simples en mezzanine. Il se situe au sein d'une maison rénovée dans un esprit authentique, maritime, écologique et de partage. \n\nCet appartement sous forme de loft est idéal pour un couple ou pour une famille souhaitant passer des moments de partage. \nVous aurez en plus accès au salon commun, terrasses, véranda et grand jardin avec accès direct au sentier côtier et à une petite plage. A votre disposition : bibliothèque, kayaks, jeux de société et de plein-air, parking privé, prise de recharge pour voiture électrique. \n\nVue imprenable sur le Golfe du Morbihan."
+        ],
+        "es": [
+          "Situado en el corazón de Locmariaquer, venga a alojarse en este apartamento con espléndidas vistas sobre el golfo de Morbihan. Es totalmente independiente, con cocina y cuarto de baño propios. El alojamiento consta de una cama doble en la alcoba y 2 camas individuales en el entresuelo. Se encuentra en una casa renovada con un espíritu auténtico, marítimo, ecológico y de compartir.\n\nEste apartamento tipo loft es ideal para una pareja o una familia que deseen pasar un buen rato juntos.\nTambién tendrá acceso al salón común, las terrazas, el porche y el gran jardín con acceso directo al sendero costero y a una pequeña playa. También hay una biblioteca, kayaks, juegos de mesa y al aire libre, aparcamiento privado y un punto de carga para coches eléctricos.\n\nImpresionantes vistas sobre el Golfo de Morbihan."
+        ],
+        "nl": [
+          "Kom logeren in dit appartement in het hart van Locmariaquer, met prachtig uitzicht over de Golf van Morbihan. Het is volledig onafhankelijk, met een eigen keuken en badkamer. De slaapgelegenheid bestaat uit een tweepersoonsbed in de alkoof en 2 eenpersoonsbedden op de mezzanine. Het is gelegen in een huis dat is gerenoveerd in een authentieke, maritieme, ecologische en gedeelde geest.\n\nDit appartement in loftstijl is ideaal voor een stel of een gezin dat op zoek is naar wat quality time samen.\nJe hebt ook toegang tot de gemeenschappelijke lounge, terrassen, veranda en grote tuin met directe toegang tot het kustpad en een klein strand. Er is ook een bibliotheek, kajaks, bord- en buitenspellen, privéparkeergelegenheid en een oplaadpunt voor elektrische auto's.\n\nAdembenemend uitzicht over de Golf van Morbihan."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3604fd05-cec6-32bd-b6e4-5e01f901fc74",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/403359bd-4ff7-31b3-a9fb-46fb6236e3af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/661a37f7-2d20-3d83-8393-f9547f18d1d4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82501fd9-f39d-3230-840a-d2205c56aac4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7f1c556-19be-311b-8f8a-dd282bbad04c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8b26e80b-d7d7-31d8-ae6b-f67670c99efc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/89b45dfd-36cb-3495-ba32-59b3e1fcbe39",
+          "schema:addressLocality": "Locmariaquer",
+          "schema:postalCode": "56740",
+          "schema:streetAddress": [
+            "6 Route d'Auray"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmariaquer"
+              ],
+              "pt": [
+                "Locmariaquer"
+              ],
+              "en": [
+                "Locmariaquer"
+              ],
+              "it": [
+                "Locmariaquer"
+              ],
+              "fr": [
+                "Locmariaquer"
+              ],
+              "nl": [
+                "Locmariaquer"
+              ],
+              "es": [
+                "Locmariaquer"
+              ]
+            },
+            "insee": "56116",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7e0a480d-53a2-3286-a676-9f9449c5e8fb",
+        "schema:latitude": "47.5705034",
+        "schema:longitude": "-2.9462617",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:47:10.153Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4db0f123-3439-3e87-b42d-85486a3618db",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

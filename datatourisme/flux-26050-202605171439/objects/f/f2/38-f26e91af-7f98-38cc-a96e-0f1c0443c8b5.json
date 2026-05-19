@@ -1,0 +1,352 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f26e91af-7f98-38cc-a96e-0f1c0443c8b5",
+  "dc:identifier": "ASC92566f7c4f3b4",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Paddle Yoga - Paddle Fitness"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5b19d522-e246-3eea-8c4e-f6c99bb3d1bf",
+      "schema:telephone": [
+        "+33 6 12 63 68 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.kite-bretagne.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2410b865-b490-33c6-8586-7fee74aa4c4c",
+      "dc:description": {
+        "de": [
+          "KKS, die Kitesurf- und Stand-up-Paddle-Schule an der Pointe de Penvins, bietet Kurse und Praktika für alle Niveaus an, mit Funk für einen angepassten Fortschritt. Die Kitesurfkurse sind für alle zugänglich und sicher. KKS bietet auch Foil-Kurse an."
+        ],
+        "en": [
+          "KKS, kitesurfing and stand up paddle school, at the pointe de Penvins, offers courses and workshops for all levels, with radio for an adapted progression. Sensations accessible to all in complete safety. KKS also offers foil courses."
+        ],
+        "it": [
+          "KKS, scuola di kitesurf e stand up paddle, alla Pointe de Penvins, offre lezioni e corsi per tutti i livelli, con radio per una progressione adattata. Sensazioni accessibili a tutti in totale sicurezza. KKS offre anche corsi di foiling."
+        ],
+        "fr": [
+          "KKS, Ecole de kitesurf et de stand up paddle, de la pointe de Penvins, propose des cours et des stages tous niveaux, avec radio pour une progression adaptée. Sensations accessibles à tous en toute sécurité. KKS dispense aussi des cours de foil."
+        ],
+        "nl": [
+          "KKS, kitesurf en stand up paddle school, op de pointe de Penvins, biedt lessen en cursussen voor alle niveaus, met radio voor een aangepaste progressie. Sensaties toegankelijk voor iedereen in alle veiligheid. KKS biedt ook cursussen foilen aan."
+        ],
+        "es": [
+          "KKS, escuela de kitesurf y stand up paddle, en la punta de Penvins, ofrece clases y cursos para todos los niveles, con radio para una progresión adaptada. Sensaciones accesibles para todos con total seguridad. KKS también ofrece cursos de foiling."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/58fbdbca-1440-3554-96ab-01937330a0e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b7fa4dd-4f4b-3c14-a241-73d7c4d79eb8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/797fef5b-5455-31d8-bd2d-6b9e7dd79b21",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/90cf6e61-8902-31fa-9f81-58fb9eb52b3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/919bef0a-c3ea-343f-88b6-753a597da6c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:StandupPaddleboarding",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Stand-up Paddle (SUP)"
+        ],
+        "pt": [
+          "Paddle de pé (SUP)"
+        ],
+        "en": [
+          "Standup paddleboarding"
+        ],
+        "it": [
+          "Stand up paddle (SUP)"
+        ],
+        "fr": [
+          "Stand up paddle sup"
+        ],
+        "es": [
+          "Tabla de pádel surf"
+        ],
+        "nl": [
+          "Suppen"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bf830b15-618f-3927-97bc-89ad27e8edcb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d1d50400-9a1b-3232-8e5f-6d2ba67091a7",
+          "schema:addressLocality": "Sarzeau",
+          "schema:postalCode": "56370",
+          "schema:streetAddress": [
+            "12 Route de la Chapelle",
+            "Penvins"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56240",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sarzeau"
+              ],
+              "pt": [
+                "Sarzeau"
+              ],
+              "en": [
+                "Sarzeau"
+              ],
+              "it": [
+                "Sarzeau"
+              ],
+              "fr": [
+                "Sarzeau"
+              ],
+              "nl": [
+                "Sarzeau"
+              ],
+              "es": [
+                "Sarzeau"
+              ]
+            },
+            "insee": "56240",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d082106a-85ea-371a-97f0-a3f9d6e34dbe",
+        "schema:latitude": "47.49377",
+        "schema:longitude": "-2.681057",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5d7f3372-236c-36dd-96be-a23c5eab3948",
+          "schema:validFrom": "2016-03-01T00:00:00",
+          "schema:validThrough": "2016-11-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-12",
+  "lastUpdateDatatourisme": "2026-05-13T03:22:00.466Z"
+}

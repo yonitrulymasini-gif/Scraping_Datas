@@ -1,0 +1,293 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ee850e9e-4693-34f1-a478-1d86ea708968",
+  "dc:identifier": "PNA8b58723d21a94",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "OutstandingTree",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Chêne de Longueville"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e1bb5ef5-979c-3f91-bb93-a6d0ba4e40c8",
+      "dc:description": {
+        "de": [
+          "Im Herzen des Dorfes Longueville steht eine etwa 500 Jahre alte Eiche, die 1 m hoch ist und einen Umfang von 7,50 m hat."
+        ],
+        "en": [
+          "In the heart of the village of Longueville stands a 500-year-old oak, measuring 1 m in height and 7.50 m in circumference."
+        ],
+        "it": [
+          "Nel cuore del villaggio di Longueville si trova una quercia di circa 500 anni, che misura 1 m di altezza e 7,50 m di circonferenza."
+        ],
+        "fr": [
+          "Au cœur du village de Longueville se dresse un chêne d'environ 500 ans, mesurant 1 m de haut et 7,50 m de circonférence."
+        ],
+        "nl": [
+          "In het hart van het dorp Longueville staat een eik van ongeveer 500 jaar oud, 1 m hoog en 7,50 m in omtrek."
+        ],
+        "es": [
+          "En el corazón del pueblo de Longueville se alza un roble de unos 500 años, de 1 m de altura y 7,50 m de circunferencia."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0d97c05e-b838-3eab-8e2a-86530bd2eb38",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/703acc4f-02be-328b-9acc-acae755fae3f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9576f2ec-70ea-3d95-9a2c-a264f20431bf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd94890d-0e60-3f7a-bd89-a5ae59e34430",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0e1d709-e196-3fee-8fda-5b67a9f29f5b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/adae6de5-b393-3db6-8f6f-80b3279ec31b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/dd5da860-6906-33e5-a835-1481addaf486",
+          "schema:addressLocality": "Locmalo",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "Longueville"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56113",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Locmalo"
+              ],
+              "pt": [
+                "Locmalo"
+              ],
+              "en": [
+                "Locmalo"
+              ],
+              "it": [
+                "Locmalo"
+              ],
+              "fr": [
+                "Locmalo"
+              ],
+              "nl": [
+                "Locmalo"
+              ],
+              "es": [
+                "Locmalo"
+              ]
+            },
+            "insee": "56113",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/87712fdb-37a5-34f4-9118-1057de184e31",
+        "schema:latitude": "48.0536825",
+        "schema:longitude": "-3.2139524",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-11-07",
+  "lastUpdateDatatourisme": "2024-11-08T02:21:05.318Z"
+}

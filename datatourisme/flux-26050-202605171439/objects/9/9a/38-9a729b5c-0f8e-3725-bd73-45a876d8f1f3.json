@@ -1,0 +1,309 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9a729b5c-0f8e-3725-bd73-45a876d8f1f3",
+  "dc:identifier": "LOIBRE000FS00027",
+  "@type": [
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "en": [
+      "Plage de Saint Colomban"
+    ],
+    "fr": [
+      "Plage de Saint Colomban"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/c35edcbe-0c90-31e4-9f91-0387a16a7c7f",
+    "schema:legalName": "CRT Bretagne_",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/df406ad5-c7a0-329a-8b91-f21f9279bf53",
+      "schema:telephone": [
+        "+33 2 97 52 13 52"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ot-carnac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2393ea70-3f59-3ac4-80ed-9bc0da53fdab",
+      "dc:description": {
+        "de": [
+          "Der Strand von St. Colomban ist der westlichste Strand von Carnac. Das ganze Jahr über ist der Windsurfspot in St. Colomban ein anerkannter Treffpunkt für die besten Windsurfer."
+        ],
+        "en": [
+          "The beach of Saint Colomban is the westernmost beach of Carnac. All year round, the windsurfing spot in St Colomban is the recognized meeting place for the best windsurfers."
+        ],
+        "it": [
+          "La spiaggia di Saint Colomban è la più occidentale di Carnac. Durante tutto l'anno, lo spot per il windsurf di St Colomban è il luogo d'incontro riconosciuto dei migliori windsurfisti."
+        ],
+        "fr": [
+          "La plage de Saint Colomban est la plus à l'ouest de Carnac. Toute l'année, le spot de windsurf à St Colomban est le lieu de rencontre reconnu des meilleurs véliplanchistes."
+        ],
+        "es": [
+          "La playa de Saint Colomban es la más occidental de Carnac. Durante todo el año, el spot de windsurf de St Colomban es el punto de encuentro reconocido de los mejores windsurfistas."
+        ],
+        "nl": [
+          "Het strand van Saint Colomban is het meest westelijke strand van Carnac. De windsurfplek van St Colomban is het hele jaar door de erkende ontmoetingsplaats voor de beste windsurfers."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/22f5638a-d26f-3f31-848d-e9d02b8b57e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6fe8a9da-add1-34d5-bd76-ac3b81421955",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/85d05bfd-cd4d-394b-94a5-6f496fbe5beb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ab6da70b-1e33-347a-8e07-3dc4ed6c91b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/daa4e31a-32da-3590-980d-0829ad5debc9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0311b4b5-8ab3-3503-82d9-919cee8d4395",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f6aee64e-8544-3229-b8b9-089511c75361",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "Boulevard de l'Océan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f1970a8a-01dc-3a3f-a4d3-761c43b4ed47",
+        "schema:latitude": "47.56837",
+        "schema:longitude": "-3.09676",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2025-12-16",
+  "lastUpdateDatatourisme": "2025-12-17T03:42:39.522Z"
+}

@@ -1,0 +1,346 @@
+{
+  "@id": "https://data.datatourisme.fr/38/55fc84de-3a1d-347a-abfb-011939ab5714",
+  "dc:identifier": "FMABRE056V50DUX2",
+  "schema:endDate": [
+    "2026-08-06",
+    "2026-08-13",
+    "2026-08-20"
+  ],
+  "schema:startDate": [
+    "2026-08-06",
+    "2026-08-13",
+    "2026-08-20"
+  ],
+  "@type": [
+    "schema:Event",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Dédicaces d'auteurs pour adultes et enfants"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cbfdc886-bc7d-3723-b5fe-ea2305fe25f1",
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://le-ptitmonde-de-zabelle.bzh/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c96e5a84-ef81-38e6-95d5-40e6387969cd",
+      "dc:description": {
+        "de": [
+          "Jeden Donnerstagabend während des Nachtmarkts in Carnac-Bourg, von 18 bis 22 Uhr,\nvor der Buchhandlung Le P'tit Monde de Zabelle (bis 22 Uhr geöffnet)"
+        ],
+        "en": [
+          "Every Thursday evening, during the Carnac-Bourg night market, from 6pm to 10pm,\nin front of the bookshop Le P'tit Monde de Zabelle (open until 10pm)"
+        ],
+        "it": [
+          "Ogni giovedì sera, durante il mercato notturno di Carnac-Bourg, dalle 18:00 alle 22:00,\ndavanti alla libreria Le P'tit Monde de Zabelle (aperta fino alle 22.00)"
+        ],
+        "fr": [
+          "Tous les jeudis soirs, lors du marché nocturne de Carnac-Bourg, de 18h à 22h,\ndevant la librairie Le P'tit Monde de Zabelle (ouverte jusqu'à 22h)"
+        ],
+        "es": [
+          "Todos los jueves por la noche, durante el mercado nocturno de Carnac-Bourg, de 18.00 a 22.00 h,\nfrente a la librería Le P'tit Monde de Zabelle (abierta hasta las 22.00 h)"
+        ],
+        "nl": [
+          "Elke donderdagavond, tijdens de avondmarkt van Carnac-Bourg, van 18.00 tot 22.00 uur,\nvoor de boekhandel Le P'tit Monde de Zabelle (open tot 22u)"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1a5ecdc9-30bb-35ca-8508-cbaed4d76311",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/500f60dc-d056-37ee-a76a-6743f31c6456",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/51edd275-8bb7-3764-98ab-25954705357e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7218d979-07e7-3895-a078-0b2815ab22e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7f55db8-9bf0-3162-888b-cf9586e5f781",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1af5573f-0f33-3741-b60f-60d64abe998e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4836408c-4066-3d60-807f-d6bfd7bd6492",
+          "schema:addressLocality": "Carnac",
+          "schema:postalCode": "56340",
+          "schema:streetAddress": [
+            "15 Rue Saint-Cornely",
+            "Le P'tit Monde de Zabelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Carnac"
+              ],
+              "pt": [
+                "Carnac"
+              ],
+              "en": [
+                "Carnac"
+              ],
+              "it": [
+                "Carnac"
+              ],
+              "fr": [
+                "Carnac"
+              ],
+              "nl": [
+                "Carnac"
+              ],
+              "es": [
+                "Carnac"
+              ]
+            },
+            "insee": "56034",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/11e9ddfe-9b51-3a26-8824-e52233a7dfa5",
+        "schema:latitude": "47.58347",
+        "schema:longitude": "-3.08074",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-05-06",
+  "lastUpdateDatatourisme": "2026-05-07T03:03:40.831Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/100e5693-226e-3bf3-a415-6b6a9d312208",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-13",
+      "endTime": "22:00:00",
+      "startDate": "2026-08-13",
+      "startTime": "18:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/414515d1-acd6-3df1-b2a0-57d44dcaa544",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-06",
+      "endTime": "22:00:00",
+      "startDate": "2026-08-06",
+      "startTime": "18:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7229e660-addf-301d-ae5f-1338532b7527",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-08-20",
+      "endTime": "22:00:00",
+      "startDate": "2026-08-20",
+      "startTime": "18:00:00"
+    }
+  ]
+}

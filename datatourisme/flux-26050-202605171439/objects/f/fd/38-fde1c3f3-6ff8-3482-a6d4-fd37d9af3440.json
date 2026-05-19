@@ -1,0 +1,326 @@
+{
+  "@id": "https://data.datatourisme.fr/38/fde1c3f3-6ff8-3482-a6d4-fd37d9af3440",
+  "dc:identifier": "FMABRE056V50DCOP",
+  "schema:endDate": [
+    "2026-06-14"
+  ],
+  "schema:startDate": [
+    "2026-06-14"
+  ],
+  "@type": [
+    "schema:Event",
+    "Conference",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le jardin au Moyen Âge : usages culinaires, santé et cosmétique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d7db6d0-4376-39b6-b383-b4caf649fdd9",
+      "schema:telephone": [
+        "+33 6 80 30 06 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesbainsdelareine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8f207872-6364-343b-9748-7fae985e2a08",
+      "dc:description": {
+        "de": [
+          "Öffnen Sie die Türen dieses Gartens und entdecken Sie die vielfältigen Verwendungsmöglichkeiten von Pflanzen im Mittelalter. Vortrag von Clotilde Bourget-Ferronnière"
+        ],
+        "en": [
+          "Push open the doors of this garden to discover the many uses of plants in the Middle Ages. Lecture by Clotilde Bourget-Ferronnière"
+        ],
+        "it": [
+          "Aprite le porte di questo giardino per scoprire i molteplici usi delle piante nel Medioevo. Conferenza di Clotilde Bourget-Ferronnière"
+        ],
+        "fr": [
+          "Poussez les portes de ce jardin pour découvrir les multiples usages des plantes au Moyen Âge. Conférence de Clotilde Bourget-Ferronnière"
+        ],
+        "nl": [
+          "Duw de deuren van deze tuin open en ontdek de vele toepassingen van planten in de Middeleeuwen. Lezing door Clotilde Bourget-Ferronnière"
+        ],
+        "es": [
+          "Abra de par en par las puertas de este jardín para descubrir los múltiples usos de las plantas en la Edad Media. Conferencia de Clotilde Bourget-Ferronnière"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0c8274d4-a9cf-3ba4-bfea-072eff0e99ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/28c7bd33-7a79-32d0-a437-95b5c6900c9d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/48f83319-0247-3a8f-a13c-42c9219531f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0b10bd7-863b-3f23-b929-131a1aee4818",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e6cf65c8-e7e6-3d7d-85c3-30867602dc5b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/576e44ed-6768-3f07-b3bc-ffaa9939926a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3d1db967-330c-356a-89cb-bea8a234af2f",
+          "schema:addressLocality": "Persquen",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "Chapelle Saint-Vincent"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56156",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Persquen"
+              ],
+              "pt": [
+                "Persquen"
+              ],
+              "en": [
+                "Persquen"
+              ],
+              "it": [
+                "Persquen"
+              ],
+              "fr": [
+                "Persquen"
+              ],
+              "nl": [
+                "Persquen"
+              ],
+              "es": [
+                "Persquen"
+              ]
+            },
+            "insee": "56156",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6ff24471-caeb-3d25-b383-51c1b4ddfbaf",
+        "schema:latitude": "47.9936534",
+        "schema:longitude": "-3.2365948",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-02",
+  "lastUpdateDatatourisme": "2026-03-03T15:45:29.87Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/537e0495-b534-3e86-8eb4-e765228e2588",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-14",
+      "endTime": "12:00:00",
+      "startDate": "2026-06-14",
+      "startTime": "10:30:00"
+    }
+  ]
+}

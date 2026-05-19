@@ -1,0 +1,564 @@
+{
+  "@id": "https://data.datatourisme.fr/38/acd8b860-dd1d-3246-ae39-ec194d208932",
+  "dc:identifier": "HLO0e1fcd64948e4",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Chesnaie"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/be97cd9a-5210-3fb1-a3a3-83dbee86ca9f",
+      "schema:telephone": [
+        "+33 2 57 18 00 18"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a915421f-9209-3846-8a2c-2aa2044c914a",
+      "schema:legalName": "La Chesnaie",
+      "schema:telephone": [
+        "+33 2 57 18 00 18"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/be97cd9a-5210-3fb1-a3a3-83dbee86ca9f",
+      "schema:telephone": [
+        "+33 2 57 18 00 18"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/806c7030-9c58-3b2f-9c06-b77afbfe16b7",
+      "dc:description": {
+        "de": [
+          "Möchten Sie sich mit der Familie oder mit Freunden treffen? Dieses Ferienhaus liegt in einem 1 Hektar großen, nicht eingezäunten, bewaldeten Park und wartet nur darauf, von Ihnen entdeckt zu werden! Hier werden Sie die Ruhe und den Außenbereich genießen, der ein wahres Paradies für Groß und Klein ist! Das Ferienhaus ist der ideale Ausgangspunkt, um Brocéliande, das Land der Magie mit seinen legendären Stätten, zu entdecken. Die kleine Stadt Josselin ist nur 10 Minuten entfernt und bietet eine malerische Altstadt und ein Schloss mit Blick auf den Nantes-Brest-Kanal."
+        ],
+        "en": [
+          "Need to get together with family or friends? This vacation home, nestled in a one-hectare wooded park, is just waiting for you! Here, you'll enjoy the peaceful surroundings and outdoor space, a real paradise for young and old alike! The gîte is the ideal base for discovering Brocéliande, a land of magic and legendary sites. The small town of Josselin is just 10 minutes away, with its castle overlooking the Canal de Nantes à Brest and its picturesque town center."
+        ],
+        "it": [
+          "Avete bisogno di riunirvi con la famiglia o con gli amici? Questa casa vacanze è immersa in un ettaro di parco alberato e non recintato, che aspetta solo voi! Qui potrete godere di un ambiente tranquillo e di uno spazio all'aperto, un vero paradiso per grandi e piccini! L'alloggio è la base ideale per esplorare la Brocéliande, terra di magia e di luoghi leggendari. La cittadina di Josselin è a soli 10 minuti di distanza, con il suo castello che domina il Canal de Nantes à Brest e il suo pittoresco centro cittadino."
+        ],
+        "fr": [
+          "Besoin de vous retrouver en famille ou entre amis ? Cette maison de vacances nichée dans un parc arboré non clos et boisé d'un hectare n'attend que vous! Ici, vous apprécierez le calme ambiant et l'espace extérieur, véritable paradis pour les petits et les grands! Le gîte est le point de départ idéal pour découvrir Brocéliande, terre de magie avec ses sites légendaires. La petite cité de Josselin est à 10 minutes, à ne pas manquer : son château surplombant le Canal de Nantes à Brest et son centre-ville pittoresque."
+        ],
+        "es": [
+          "¿Necesita reunirse con la familia o los amigos? Esta casa de vacaciones está enclavada en una hectárea de parque arbolado y sin cercar, ¡esperándole! Aquí disfrutará de la tranquilidad del entorno y del espacio al aire libre, un verdadero paraíso para grandes y pequeños La casa rural es la base ideal para explorar Brocéliande, tierra de magia y lugares legendarios. La pequeña ciudad de Josselin está a sólo 10 minutos, con su castillo con vistas al Canal de Nantes à Brest y su pintoresco centro urbano."
+        ],
+        "nl": [
+          "Wil je samenkomen met familie of vrienden? Dit vakantiehuis ligt genesteld in een hectare bosrijk, omheind park, wachtend op jou! Hier geniet je van de rust en de buitenruimte, een waar paradijs voor jong en oud! De gîte is de ideale uitvalsbasis om Brocéliande te verkennen, een land van magie en legendarische plaatsen. Het stadje Josselin ligt op slechts 10 minuten afstand, met zijn kasteel dat uitkijkt over het Canal de Nantes à Brest en zijn pittoreske centrum."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/10d60f04-8d13-381f-90ac-725bd05e9aa2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/52133314-2865-358f-8094-cb07af8c8e7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ad7401f-a457-3c9c-a05a-4cf4033bc64b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a50d8db3-d82b-3b0e-a7f1-418589df2549",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/db9ede2d-7853-346b-9913-e7ac55317c30",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/60c255d0-10d8-360c-a219-546db9174c8d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5d0c543e-dcbd-3017-adf8-90941a71fbe9",
+          "schema:addressLocality": "Saint-Servant",
+          "schema:postalCode": "56120",
+          "schema:streetAddress": [
+            "15 rue Saint Servais"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56236",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Servant"
+              ],
+              "pt": [
+                "Saint-Servant"
+              ],
+              "en": [
+                "Saint-Servant"
+              ],
+              "it": [
+                "Saint-Servant"
+              ],
+              "fr": [
+                "Saint-Servant"
+              ],
+              "nl": [
+                "Saint-Servant"
+              ],
+              "es": [
+                "Saint-Servant"
+              ]
+            },
+            "insee": "56236",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f937f2b9-04f2-366f-bcfc-f43b2c2a5f11",
+        "schema:latitude": "47.913839",
+        "schema:longitude": "-2.5144099",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-18",
+  "lastUpdateDatatourisme": "2026-03-19T04:22:22.198Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/45937faf-2105-38db-8ece-c32760916667",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

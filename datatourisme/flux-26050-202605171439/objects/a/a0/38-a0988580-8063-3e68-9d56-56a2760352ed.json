@@ -1,0 +1,570 @@
+{
+  "@id": "https://data.datatourisme.fr/38/a0988580-8063-3e68-9d56-56a2760352ed",
+  "dc:identifier": "HLOBRE056V50D84B",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte de La Madeleine"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3123591d-b234-3c99-9d25-3095fbff215b",
+      "schema:telephone": [
+        "+33 2 57 18 00 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france.com/fr/bretagne/morbihan/la-madeleine-56g1316"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3123591d-b234-3c99-9d25-3095fbff215b",
+      "schema:telephone": [
+        "+33 2 57 18 00 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france.com/fr/bretagne/morbihan/la-madeleine-56g1316"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9e34c447-3924-33c0-b483-76fe6835845e",
+      "schema:legalName": "Gîte de La Madeleine",
+      "schema:telephone": [
+        "+33 2 57 18 00 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france.com/fr/bretagne/morbihan/la-madeleine-56g1316"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/71802516-9363-3568-8c08-7597159ea74f",
+      "dc:description": {
+        "de": [
+          "In einer ländlichen und grünen Umgebung gelegen, bietet das Gîte de la Madeleine die Ruhe und den Charme des Landes und ist dennoch in der Nähe der Atlantikstrände.\nIhre Lage ist ideal, um das Morbihan zu erkunden und von zahlreichen touristischen Besichtigungen zu profitieren.\nIn der Nähe gibt es ein großes Netz an markierten Wanderwegen, die Wanderer, Reiter und Radfahrer begeistern werden.\n\nNur wenige Minuten von der Unterkunft entfernt :\n? Erdeven und seine goldenen Sandstrände\n? Die Ria d'Étel, ein wahres Naturjuwel mit Buchten, kleinen Inseln und Sümpfen, sowie der Weiler Saint-Cado, der auf einer Insel liegt und durch eine Brücke mit dem Land verbunden ist\n? Die Halbinsel Quiberon mit ihrer fast 30 km langen Küste, ihren langen Stränden, ihrer wilden Küste und ihren malerischen Dörfern\n? Carnac mit seinen Megalithreihen, die zum UNESCO-Weltkulturerbe gehören\n? Golfplatz Bluegreen de Saint-Laurent in Ploëmel\n\nDas freistehende Ferienhaus bietet Ihnen:\n\nIm Erdgeschoss:\n- Eine voll ausgestattete Küche\n- Ein großes Wohnzimmer mit Wohn- und Essbereich,\n- Ein Schlafzimmer mit einem Bett 140x190\n- Ein Badezimmer mit Dusche\n- Ein separates WC\n\nAuf der ersten Etage:\n- Zwei Schlafzimmer mit je einem Bett 140x190\n- Ein Zimmer mit einem Bett 110x180 + Babybett\n- Ein separates WC\n\nDraußen:\nGeschlossener Garten mit Bäumen 650 m² mit möblierter Terrasse (Esstisch, Grill, Gartenmöbel, Liegestühle und Sonnenschirm).\nPrivatparkplatz auf dem Grundstück für 3 Fahrzeuge."
+        ],
+        "en": [
+          "Set in a rural and verdant environment, the Gîte de la Madeleine offers the calm and charm of the countryside, while remaining close to the Atlantic beaches.\nIts location is ideal for exploring the Morbihan region and taking advantage of the many tourist attractions on offer.\nNearby, a vast network of signposted footpaths will delight hikers, horseback riders and cyclists.\n\nJust a few minutes from the gîte:\n? Erdeven and its golden sandy beaches\n? La ria d?Étel, a veritable natural gem with its creeks, islets and marshes, as well as the hamlet of Saint-Cado, located on an island and linked to the mainland by a bridge\n? The Quiberon peninsula, with its 30 km of coastline, long beaches, wild coastline and picturesque hamlets\n? Carnac and its alignments of megaliths, a UNESCO World Heritage Site\n? Saint-Laurent Bluegreen golf course in Ploëmel\n\nThe self-catering cottage offers:\n\nFirst floor:\n- A fully-equipped kitchen\n- A large living room with a lounge,\n- A bedroom with a 140x190 bed\n- A bathroom with shower\n- Separate WC\n\nFirst floor:\n- Two bedrooms, each with a 140x190 bed\n- One bedroom with a 110x180 bed + crib\n- Separate WC\n\nOutside :\nEnclosed garden with trees 650 m² with terrace (dining table, barbecue, garden furniture, deckchairs and parasol).\nPrivate parking on the property for 3 vehicles."
+        ],
+        "it": [
+          "Situato in un ambiente rurale e verdeggiante, il gîte de la Madeleine offre la pace e il fascino della campagna, pur rimanendo vicino alle spiagge dell'Atlantico.\nLa sua posizione è ideale per esplorare la regione del Morbihan e approfittare delle numerose attrazioni turistiche offerte.\nNelle vicinanze, una vasta rete di sentieri segnalati farà la gioia di escursionisti, cavalieri e ciclisti.\n\nA pochi minuti dal gîte:\n? Erdeven e le sue spiagge di sabbia dorata\n? La ria d'Étel, un vero e proprio gioiello naturale con le sue insenature, isolotti e paludi, nonché il borgo di Saint-Cado, situato su un'isola e collegato alla terraferma da un ponte\n? La penisola di Quiberon, con quasi 30 km di costa, lunghe spiagge, un litorale selvaggio e borghi pittoreschi\n? Carnac e i suoi allineamenti di megaliti, patrimonio mondiale dell'UNESCO\n? Il campo da golf Saint-Laurent Bluegreen a Ploëmel\n\nIl gîte con angolo cottura offre:\n\nAl piano terra:\n- Una cucina completamente attrezzata\n- Un ampio soggiorno con salotto,\n- Una camera da letto con un letto di 140x190 cm\n- Un bagno con doccia\n- Un WC separato\n\nAl primo piano:\n- Due camere da letto, ognuna con un letto 140x190\n- Una camera con un letto 110x180 + culla\n- WC separato\n\nEsterno :\nGiardino alberato di 650 m² con terrazza (tavolo da pranzo, barbecue, mobili da giardino, sedie a sdraio e ombrellone).\nParcheggio privato nella proprietà per 3 veicoli."
+        ],
+        "fr": [
+          "Situé dans un environnement rural et verdoyant, le gîte de la Madeleine offre le calme et le charme de la campagne, tout en restant proche des plages de l’Atlantique.\nSa situation est idéale pour partir à la découverte du Morbihan et profiter de nombreuses visites touristiques.\nÀ proximité, un vaste réseau de sentiers balisés ravira les amateurs de randonnées à pied, à cheval ou à vélo.\n\nÀ quelques minutes du gîte :\n– Erdeven et ses plages de sable doré\n– La ria d’Étel, véritable joyau naturel avec ses criques, îlots et marais, ainsi que le hameau de Saint-Cado, situé sur une île et relié à la terre par un pont\n– La presqu’île de Quiberon, avec près de 30 km de côtes, ses longues plages, sa côte sauvage et ses hameaux pittoresques\n– Carnac et ses alignements de mégalithes, inscrits au patrimoine mondial de l’UNESCO\n– Le golf Bluegreen de Saint-Laurent à Ploëmel\n\nLe gîte indépendant vous offre:\n\nAu rez-de-chaussée:\n- Une cuisine toute équipée\n- Une grande pièce de vie avec séjour/salon,\n- Une chambre avec un lit en 140x190\n- Une salle d'eau avec douche\n- Un WC indépendant\n\nA l'étage:\n- Deux chambres avec dans chacune un lit en 140x190\n- Une chambre avec un lit en 110x180 + lit bébé\n- Un WC indépendant\n\nA l'extérieur :\nJardin clos et arboré 650 m² avec terrasse aménagée (table à manger, barbecue, salon de jardin, transats et parasol).\nParking privé au sein de la propriété pour 3 véhicules."
+        ],
+        "es": [
+          "Situada en un entorno rural y frondoso, la casa rural de la Madeleine ofrece la tranquilidad y el encanto del campo, sin dejar de estar cerca de las playas del Atlántico.\nSu ubicación es ideal para explorar la región de Morbihan y aprovechar las numerosas atracciones turísticas que ofrece.\nEn los alrededores, una amplia red de senderos señalizados hará las delicias de senderistas, jinetes y ciclistas.\n\nA pocos minutos de la casa rural:\n? Erdeven y sus playas de arena dorada\n? La ría de Étel, auténtica joya natural con sus calas, islotes y marismas, así como la aldea de Saint-Cado, situada en una isla y unida a tierra firme por un puente\n? La península de Quiberon, con casi 30 km de costa, largas playas, un litoral salvaje y pintorescas aldeas\n? Carnac y sus alineaciones de megalitos, Patrimonio Mundial de la UNESCO\n? El campo de golf Saint-Laurent Bluegreen en Ploëmel\n\nLa casa rural ofrece:\n\nEn la planta baja:\n- Una cocina totalmente equipada\n- Un gran salón con una sala de estar\n- Un dormitorio con una cama de 140x190cm\n- Un cuarto de ducha\n- Un WC separado\n\nEn la primera planta\n- Dos habitaciones, cada una con una cama de 140x190\n- Una habitación con cama de 110x180 + cuna\n- WC separado\n\nExterior :\nJardín cerrado con árboles 650 m² con terraza (mesa de comedor, barbacoa, muebles de jardín, tumbonas y sombrilla).\nAparcamiento privado en la propiedad para 3 vehículos."
+        ],
+        "nl": [
+          "De gîte de la Madeleine ligt in een landelijke, groene omgeving en biedt de rust en charme van het platteland, terwijl het toch dicht bij de Atlantische stranden ligt.\nDe ligging is ideaal om de regio Morbihan te verkennen en te profiteren van de vele toeristische attracties.\nIn de buurt is een uitgebreid netwerk van bewegwijzerde wandelpaden waar wandelaars, ruiters en fietsers hun hart kunnen ophalen.\n\nOp een paar minuten van de gîte:\n? Erdeven en zijn gouden zandstranden\n? La ria d'Étel, een echt natuurjuweeltje met zijn kreken, eilandjes en moerassen, evenals het gehucht Saint-Cado, gelegen op een eiland en verbonden met het vasteland door een brug\n? Het schiereiland Quiberon, met bijna 30 km kustlijn, lange stranden, een wilde kustlijn en pittoreske gehuchten\n? Carnac en zijn megalietenrijen, UNESCO-werelderfgoed\n? De Saint-Laurent Bluegreen golfbaan in Ploëmel\n\nDe self-catering gîte biedt:\n\nOp de begane grond:\n- Een volledig uitgeruste keuken\n- Een grote woonkamer met een zithoek,\n- Een slaapkamer met een bed van 140x190cm\n- Een doucheruimte\n- Een aparte WC\n\nOp de eerste verdieping:\n- Twee slaapkamers, elk met een bed van 140x190\n- Een slaapkamer met een bed van 110x180 + kinderbedje\n- Aparte WC\n\nBuiten :\nOmheinde tuin met bomen 650 m² met terras (eettafel, barbecue, tuinmeubelen, ligstoelen en parasol).\nPrivé parkeerplaats op het terrein voor 3 voertuigen."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/333baff2-1a02-31ea-a414-f4f33180dccf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82994e06-9376-357e-af73-f7320faae673",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/995646bc-33cb-3095-97c8-835192dcf5ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b9679254-39ca-398f-b915-3691eaeed330",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e1efc6e6-11ce-3538-87d4-867f65859b31",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ab59490a-5f76-390e-972b-53f531b0d43d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c438bafe-9bdd-3f07-b9ab-b69db4e74f0c",
+          "schema:addressLocality": "Belz",
+          "schema:postalCode": "56550",
+          "schema:streetAddress": [
+            "N° 54 Route de La Madeleine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56013",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Belz"
+              ],
+              "pt": [
+                "Belz"
+              ],
+              "en": [
+                "Belz"
+              ],
+              "it": [
+                "Belz"
+              ],
+              "fr": [
+                "Belz"
+              ],
+              "nl": [
+                "Belz"
+              ],
+              "es": [
+                "Belz"
+              ]
+            },
+            "insee": "56013",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/750ffb46-9f90-369d-a3e6-3bb0e0c6ce2b",
+        "schema:latitude": "47.6588147",
+        "schema:longitude": "-3.1448746",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b3ffc6b6-c88c-3ef7-b53b-f06df9e86649",
+          "schema:validFrom": "2026-01-17T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-05-13",
+  "lastUpdateDatatourisme": "2026-05-14T04:04:12.745Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/227e1bb4-624e-353f-b8e8-008d2d85d4d1",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

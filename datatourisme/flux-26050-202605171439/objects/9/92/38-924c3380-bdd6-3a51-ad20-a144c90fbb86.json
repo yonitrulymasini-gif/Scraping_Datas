@@ -1,0 +1,570 @@
+{
+  "@id": "https://data.datatourisme.fr/38/924c3380-bdd6-3a51-ad20-a144c90fbb86",
+  "dc:identifier": "HLOBRE056V503G3S",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Villa au coeur d'Etel"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/cb4ed212-811a-35fa-bc52-0ac8e06fe347",
+    "dc:identifier": "03ed5b15-8b59-47e4-8675-02a3c417fe9b",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/95eb2020-3cd6-3cfc-846d-be68dd739f9c",
+        "schema:addressLocality": "Plouharnel",
+        "schema:streetAddress": [
+          "31, avenue de l'Océan"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56168",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Plouharnel"
+            ],
+            "pt": [
+              "Plouharnel"
+            ],
+            "en": [
+              "Plouharnel"
+            ],
+            "it": [
+              "Plouharnel"
+            ],
+            "fr": [
+              "Plouharnel"
+            ],
+            "nl": [
+              "Plouharnel"
+            ],
+            "es": [
+              "Plouharnel"
+            ]
+          },
+          "insee": "56168",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "communication@baiedequiberon.bzh"
+    ],
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7fd61922-79e0-3600-8c10-c9b1d9374207",
+      "schema:telephone": [
+        "+33 2 97 68 06 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.morbihanconciergerie.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7fd61922-79e0-3600-8c10-c9b1d9374207",
+      "schema:telephone": [
+        "+33 2 97 68 06 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.morbihanconciergerie.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cae4f151-d620-329c-ad67-00c567e325d9",
+      "schema:legalName": "Villa au coeur d'Etel",
+      "schema:telephone": [
+        "+33 2 97 68 06 28"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.morbihanconciergerie.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a0c931c-4eea-31ac-874b-ef6dee545eea",
+      "dc:description": {
+        "de": [
+          "Diese charmante Villa befindet sich in idealer Lage im Herzen von Étel, in der Nähe der Strände, der Geschäfte und des Stadtzentrums, die alle zu Fuß erreichbar sind.\nSie ist sehr hell und besteht im Erdgeschoss aus einer Küche und einem schönen Wohnbereich, der im Sinne einer Loggia vollständig verglast ist und auf einen geschlossenen und ruhigen Garten blickt.\nMit seinen 4 Schlafzimmern und 2 Badezimmern kann es von 10 Personen bewohnt werden.\n\nEs ist der ideale Ort für einen ruhigen Urlaub mit der Familie oder mit Freunden.\n\nReinigung und Wäsche werden gestellt (obligatorisch).\nIm Juli und August Vermietung von Freitag bis Freitag."
+        ],
+        "en": [
+          "This charming villa is ideally located in the heart of Étel, within walking distance of beaches, shops and the town center.\nBright and airy, the first floor features a kitchen and a spacious living area with loggia-style windows overlooking a quiet, enclosed garden.\nWith its 4 bedrooms and 2 bathrooms, it can accommodate up to 10 people.\n\nIt's the ideal place for a quiet vacation with family or friends.\n\nCleaning and linen provided (mandatory).\nIn July and August, rental from Friday to Friday."
+        ],
+        "it": [
+          "Questa incantevole villa è situata in posizione ideale nel cuore di Étel, a pochi passi dalle spiagge, dai negozi e dal centro città.\nMolto luminosa, comprende una cucina al piano terra e una bella zona giorno con finestre a loggia che si affacciano su un tranquillo giardino recintato.\nCon le sue 4 camere da letto e 2 bagni, può ospitare fino a 10 persone.\n\nÈ il luogo ideale per una vacanza tranquilla con la famiglia o con gli amici.\n\nPulizia e biancheria fornite (obbligatorie).\nIn luglio e agosto, affitto da venerdì a venerdì."
+        ],
+        "fr": [
+          "Cette charmante villa est idéalement située au cœur d'Étel, à proximité des plages, des commerces et du centre-ville, le tout accessible à pied. \nTrès lumineuse, elle se compose au rez-de-chaussée d'une cuisine et d'un bel espace à vivre, entièrement vitré dans un esprit loggia, le tout donnant sur un jardin clos et calme. \nAvec ses 4 chambres et ses 2 salles de bains, 10 personnes peuvent y séjourner. \n\nC'est le lieu idéal pour des vacances tranquilles en famille ou entre amis. \n\nMénage et linge fournis (obligatoire). \nEn Juillet et Août, location du vendredi au vendredi."
+        ],
+        "es": [
+          "Esta encantadora villa goza de una ubicación ideal en el corazón de Étel, a poca distancia de las playas, las tiendas y el centro de la ciudad.\nMuy luminoso, consta de una cocina en la planta baja y una bonita sala de estar con ventanas de estilo logia con vistas a un tranquilo jardín cerrado.\nCon sus 4 habitaciones y 2 baños, tiene capacidad para 10 personas.\n\nEs el lugar ideal para unas vacaciones tranquilas en familia o con amigos.\n\nLimpieza y ropa de cama incluidas (obligatorias).\nEn julio y agosto, alquiler de viernes a viernes."
+        ],
+        "nl": [
+          "Deze charmante villa is ideaal gelegen in het hart van Étel, op loopafstand van stranden, winkels en het stadscentrum.\nHet heeft veel lichtinval, een keuken op de begane grond en een mooie woonkamer met loggia-achtige ramen die uitkijken op een rustige, omheinde tuin.\nMet zijn 4 slaapkamers en 2 badkamers is het geschikt voor maximaal 10 personen.\n\nHet is de ideale plek voor een rustige vakantie met familie of vrienden.\n\nSchoonmaak en linnengoed verplicht.\nIn juli en augustus, verhuur van vrijdag tot vrijdag."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/32cd3a8a-8166-3b32-9894-7a38283e8157",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8825a16c-3dcc-3167-926a-b6853540d459",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9b7c9e17-783e-34bd-b850-02063fdf9523",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b9cb22dc-4342-3644-9b1a-489a654d8268",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c13793e0-3d77-3b4d-a9e5-feffe63841fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/160a860d-8ebe-38af-b4d8-32e291306f4b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/107f0ef5-fe44-33bf-ae3f-8e6cc1254d3f",
+          "schema:addressLocality": "Étel",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "34 Rue de l'Océan"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56055",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Étel"
+              ],
+              "pt": [
+                "Étel"
+              ],
+              "en": [
+                "Étel"
+              ],
+              "it": [
+                "Étel"
+              ],
+              "fr": [
+                "Étel"
+              ],
+              "nl": [
+                "Étel"
+              ],
+              "es": [
+                "Étel"
+              ]
+            },
+            "insee": "56055",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8da4d293-8aca-36c1-863b-64df56446d74",
+        "schema:latitude": "47.65357",
+        "schema:longitude": "-3.19742",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5b935672-b20f-3d91-a246-243d881bc723",
+          "schema:validFrom": "2026-02-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-09",
+  "lastUpdateDatatourisme": "2026-04-10T03:41:42.266Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/7c8c5b14-f96f-33e0-bc3b-d2fdfb0a0ede",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

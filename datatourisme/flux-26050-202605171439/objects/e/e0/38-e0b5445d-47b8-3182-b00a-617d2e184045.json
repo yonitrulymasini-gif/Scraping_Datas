@@ -1,0 +1,342 @@
+{
+  "@id": "https://data.datatourisme.fr/38/e0b5445d-47b8-3182-b00a-617d2e184045",
+  "dc:identifier": "LOISPO406179",
+  "@type": [
+    "schema:Product",
+    "ActivityProvider",
+    "LeisureSportActivityProvider",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "École Française de Croisière Challenge Ocean"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/63b957c6-f556-35b2-b584-d44e22dcea0c",
+      "schema:telephone": [
+        "+33 2 97 35 00 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.challengeocean.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/923a41df-5154-32be-b05a-d85a9012925d",
+      "dc:description": {
+        "de": [
+          "Ein Tag, ein Wochenende oder mehr, eine Gruppe oder eine Einzelperson, übernehmen Sie das Ruder, hissen Sie die Segel, nehmen Sie an den Manövern teil, betreut von professionellen Seglern... Sie haben die Wahl: Segeltörn, Kreuzfahrt, Seminar an Bord, Transat, Rennen, FFV-Segelkurs... Sie wählen Ihren Segelstil!"
+        ],
+        "en": [
+          "For a day, a weekend or more, group or individual, take the helm, hoist the sails, participate in the maneuvers, supervised by professional sailors"
+        ],
+        "it": [
+          "Per un giorno, un weekend o più, per gruppi o singoli, prendete il timone, issate le vele, partecipate alle manovre, sotto la supervisione di velisti professionisti Sta a voi scegliere il vostro stile di navigazione!"
+        ],
+        "fr": [
+          "Le temps d'une journée, d'un week-end ou plus, groupe ou particulier, prenez la barre, hissez les voiles, participez aux manoeuvres, encadrés par des marins professionnels.Sortie en mer, croisière, séminaire embarqué, transat, course, stage de voile FFV… A vous de choisir votre style de navigation !"
+        ],
+        "nl": [
+          "Voor een dag, een weekend of meer, voor groepen of individuen, neem het roer in handen, hijs de zeilen, neem deel aan de manoeuvres, onder begeleiding van professionele zeilers"
+        ],
+        "es": [
+          "Por un día, un fin de semana o más, para grupos o individuales, tomar el timón, izar las velas, participar en las maniobras, supervisado por marineros profesionales, salir al mar, crucero, seminario a bordo, regata transatlántica, curso de vela FFV.. Usted puede elegir su estilo de navegación"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3af8f665-81d8-3d90-b9ad-cee8c5337485",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b4343e1-eb7b-3945-9e2d-57c0e396a03f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9a5d349d-55d7-321f-a24a-a44c5ea7870a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a86e258b-c723-36e1-8eef-2b4f638da929",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfc57f31-bb4a-3a62-9987-8c1c6dc97223",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Sailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segeln"
+        ],
+        "pt": [
+          "Vela"
+        ],
+        "en": [
+          "Sailing"
+        ],
+        "it": [
+          "Vela"
+        ],
+        "fr": [
+          "Voile"
+        ],
+        "nl": [
+          "Zeilen"
+        ],
+        "es": [
+          "Vela"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cfe5ee82-5533-3566-b3f0-978e7347083f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/15cfc18b-01b1-39be-9472-8ef3975d5304",
+          "schema:addressLocality": "Lorient",
+          "schema:postalCode": "56100",
+          "schema:streetAddress": [
+            "1 rue Henri d'Estienne D'Orves",
+            "Celtic Submarine - Quai B",
+            " "
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56121",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lorient"
+              ],
+              "pt": [
+                "Lorient"
+              ],
+              "en": [
+                "Lorient"
+              ],
+              "it": [
+                "Lorient"
+              ],
+              "fr": [
+                "Lorient"
+              ],
+              "nl": [
+                "Lorient"
+              ],
+              "es": [
+                "Lorient"
+              ]
+            },
+            "insee": "56121",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/774d6702-0551-3d62-ba0d-27fce96a26ef",
+        "schema:latitude": "47.732873",
+        "schema:longitude": "-3.3745844",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-10",
+  "lastUpdateDatatourisme": "2026-04-11T03:17:44.123Z"
+}

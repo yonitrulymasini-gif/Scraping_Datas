@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/8d80529f-1cba-307d-bc15-46b7c985ec58",
+  "dc:identifier": "HLO5c1e8103d5114",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Villa Hathi"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cecae378-644d-303c-8e7f-855a4a920ceb",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cecae378-644d-303c-8e7f-855a4a920ceb",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d5ca8f63-51e3-339e-a7a2-b6616f45af67",
+      "schema:legalName": "Villa Hathi",
+      "schema:telephone": [
+        "+33 6 07 46 32 77"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.presquiledequiberon.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4fe0969b-c014-3c8d-ba21-9aae7cb39b56",
+      "dc:description": {
+        "de": [
+          "Designer-Architektenhaus, 200 Meter vom Grande Plage de Quiberon zwischen dem Spielkasino und der Thalassotherapie gelegen. Die Villa Hathi lässt Sie in die wunderbare Welt des Dschungelbuchs eintauchen, mit dem Elefanten Hathi in seinem Garten!\n\nDie vom Architekten Franck Labbay entworfene Villa ist mit 4 Sternen (Atout France) ausgezeichnet und mit allen modernen Annehmlichkeiten ausgestattet (4 Suiten mit Bad + angrenzender Toilette und Queensize-Bett, ein komfortables und geräumiges Wohnzimmer, angeschlossener Fernseher mit großem Flachbildschirm, Südlage, exotische Dekorationselemente, kostenlose Parkplätze und WLAN, Nespresso). Diese atypische moderne Villa bietet Abwechslung und Ruhe ... in unmittelbarer Nähe des Strandes und des Zentrums des beliebten Badeortes Quiberon!\n\nKapazität für 8 Personen (einschließlich Kinder und Babys)"
+        ],
+        "en": [
+          "An architect-designed house located 200 meters from Quiberon's Grande Plage, between the Kasino de jeux and the Thalassotherapy center, Villa Hathi plunges you into the wonderful world of The Jungle Book, with Elephant Hathi in its garden!\n\nDesigned by architect Franck Labbay, this 4-star villa (Atout France) is equipped with all modern comforts (4 suites with en-suite bathroom + toilet and Queen-size bed, a comfortable and spacious living room, large flat-screen connected TV, southern exposure, exotic decorative elements, free parking and wifi, Nespresso) this atypical contemporary villa offers a change of scenery and tranquility ... right next to the beach and the center of the popular seaside resort of Quiberon!\n\nSleeps 8 (including children and babies)"
+        ],
+        "it": [
+          "Casa progettata da un architetto e situata a 200 metri dalla Grande Plage di Quiberon, tra il Kasino de jeux e il centro di talassoterapia, Villa Hathi vi immerge nel meraviglioso mondo del Libro della Giungla con l'Elefante Hathi nel suo giardino!\n\nProgettata dall'architetto Franck Labbay, questa villa è classificata 4 stelle (Atout France) e vanta tutti i comfort moderni (4 suite con bagno privato + WC e letto queen size, un soggiorno confortevole e spazioso, grande TV connessa a schermo piatto, esposizione a sud, elementi decorativi esotici, parcheggio e Wi-Fi gratuiti, Nespresso) questa villa contemporanea atipica offre un cambiamento di scenario e di pace e tranquillità... proprio vicino alla spiaggia e al centro della ricercata località balneare di Quiberon!\n\n8 posti letto (compresi bambini e neonati)"
+        ],
+        "fr": [
+          "Maison d'architecte design, située à 200 mètres de la Grande Plage de Quiberon entre le Kasino de jeux et la Thalassothérapie, la Villa Hathi vous plonge dans l'univers merveilleux du Livre de la Jungle avec l'Eléphant Hathi dans son jardin !\n\nDessinée par l'architecte Franck Labbay, cette villa est classée 4 étoiles (Atout France) et dotée de tout le confort moderne (4 suites avec salle de bain + toilette attenante et lit Queen size, un séjour confortable et spacieux, TV connectée grand écran plat, exposition sud, éléments de décoration exotiques, parkings et wifi gratuits, Nespresso) cette villa contemporaine atypique offre dépaysement et quiétude ... à proximité immédiate de la plage et du centre de la très prisée station balnéaire de Quiberon !\n\nCapacité d'accueil 8 personnes (enfants et bébés compris)"
+        ],
+        "nl": [
+          "Villa Hathi, een onder architectuur gebouwd huis op 200 meter van het Grande Plage van Quiberon, tussen het Kasino de jeux en het Thalassotherapiecentrum, dompelt je onder in de wondere wereld van The Jungle Book met Olifant Hathi in de tuin!\n\nDeze villa is ontworpen door architect Franck Labbay, heeft 4 sterren (Atout France) en is voorzien van alle moderne comfort (4 suites met eigen badkamer + toilet en queensize bed, een comfortabele en ruime woonkamer, grote flatscreentelevisie, ligging op het zuiden, exotische decoratieve elementen, gratis parkeergelegenheid en Wi-Fi, Nespresso). Deze atypische eigentijdse villa biedt een verandering van omgeving en rust... vlak bij het strand en het centrum van de zeer populaire badplaats Quiberon!\n\n8 slaapplaatsen (inclusief kinderen en baby's)"
+        ],
+        "es": [
+          "Casa de arquitecto situada a 200 metros de la Grande Plage de Quiberon, entre el Kasino de jeux y el centro de talasoterapia, Villa Hathi le sumerge en el maravilloso mundo de El libro de la selva con el elefante Hathi en su jardín\n\nDiseñada por el arquitecto Franck Labbay, esta villa de 4 estrellas (Atout France) dispone de todas las comodidades modernas (4 suites con cuarto de baño + aseo y cama Queen size, un salón confortable y espacioso, gran TV de pantalla plana conectada, orientación sur, elementos decorativos exóticos, aparcamiento y Wi-Fi gratuitos, Nespresso) esta atípica villa contemporánea ofrece un cambio de aires y tranquilidad... ¡justo al lado de la playa y del centro de la codiciada estación balnearia de Quiberon!\n\n8 plazas (niños y bebés incluidos)"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/214d9fd1-e1d2-3536-9593-f840e14e74ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/22edd14f-5471-3976-8770-1e0c7eb1fcb5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ad7a746-6b1e-3702-b0e5-954f93c05d82",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4f2cd4e5-b772-3592-bf2a-abacb73710eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6583e99e-0d40-3024-84e4-2cdb8f639d11",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e3cba401-60fa-3a4f-9bff-d7b35e46d7de",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6a0b0af8-5436-35b9-92d3-f7cdd77ec38f",
+          "schema:addressLocality": "Quiberon",
+          "schema:postalCode": "56170",
+          "schema:streetAddress": [
+            "5 rue de Menhir Couché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56186",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quiberon"
+              ],
+              "pt": [
+                "Quiberon"
+              ],
+              "en": [
+                "Quiberon"
+              ],
+              "it": [
+                "Quiberon"
+              ],
+              "fr": [
+                "Quiberon"
+              ],
+              "nl": [
+                "Quiberon"
+              ],
+              "es": [
+                "Quiberon"
+              ]
+            },
+            "insee": "56186",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d076f95f-666d-3641-8052-5f07737cc0ce",
+        "schema:latitude": "47.47574",
+        "schema:longitude": "-3.109759",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.029Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8abc4122-f512-3d5f-a5d2-1f30fe7ad6dd",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

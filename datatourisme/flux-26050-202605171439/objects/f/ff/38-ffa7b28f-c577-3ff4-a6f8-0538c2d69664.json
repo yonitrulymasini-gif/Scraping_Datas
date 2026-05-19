@@ -1,0 +1,784 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ffa7b28f-c577-3ff4-a6f8-0538c2d69664",
+  "dc:identifier": "PCUBRE0560000169",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Haras National d'Hennebont"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3127274"
+  ],
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b94141e5-affb-3b76-b2cc-558f11a3e112",
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/31b08fbf-a319-3569-a0b0-9a1f46c479d0",
+      "schema:telephone": [
+        "+33 2 97 89 40 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.haras-hennebont.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/31b08fbf-a319-3569-a0b0-9a1f46c479d0",
+      "schema:telephone": [
+        "+33 2 97 89 40 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.haras-hennebont.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a218f4de-299b-32c2-bc2b-0253414901ad",
+      "schema:legalName": "Haras National d'Hennebont",
+      "schema:telephone": [
+        "+33 2 97 89 40 30"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.haras-hennebont.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bfcd0427-187f-3faa-b508-b567b563f2b8",
+      "dc:description": {
+        "de": [
+          "Das Nationalgestüt von Hennebont lädt Sie zu einem einzigartigen Erlebnis ein, das Geschichte, Natur und Spektakel miteinander verbindet. Jahrhundert gegründet und ist heute ein Symbol des französischen Pferdeerbes, das Tradition und Moderne miteinander verbindet und einen fesselnden Einblick in die Welt der Pferde bietet.\n\nEin Besuch im Herzen eines lebendigen Kulturerbes\nGehen Sie auf Entdeckungsreise durch diese außergewöhnliche Anlage: Gehen Sie mit dem Ausstellungsparcours \"Imperial!\" in seine Geschichte ein, nehmen Sie an einer Präsentation der verschiedenen Pferderassen teil und treffen Sie sie im Stall Nr. 2.\nIn der Sattelkammer zeigt eine Panoramaprojektion mehr als 160 Jahre Leidenschaft für das Pferd.\nIm Hof der Schmiede erfahren Sie mehr über das Wohlbefinden von Pferden, über alte Handwerksberufe und die Ernährung von Pferden, die im neuen Bereich \"Le Mash\" veranschaulicht wird.\n\nVon April bis August bietet der Jardin des Équi?curieux einen Spielbereich für junge Besucher: Sie können im Berberzelt spielen, auf den Metall- und Holzpferden des kleinen Karussells reiten und sich im Picknickbereich entspannen.\n\nL'Étrier, ein süß-salziger Snack, lädt zu einer Schlemmerpause unter dem eleganten Gebälk der Écurie d'Honneur ein.\n\nL'Écrin, eine Reithalle für außergewöhnliche Aufführungen\nL'Écrin ist ein neues Wahrzeichen des Gestüts und beherbergt in jeder Schulferienzeit ein spektakuläres Kunst- und Reitprogramm.\nIn diesem überdachten und modulierbaren Rahmen präsentieren renommierte Kompanien und Künstler des Gestüts poetische, dynamische und für alle zugängliche Kreationen."
+        ],
+        "en": [
+          "The Haras National d?Hennebont invites you to experience a unique blend of history, nature and spectacle. Founded in the 19th century, this emblematic site of France?s equestrian heritage today combines tradition and modernity, offering a captivating immersion in the world of the horse.\n\nA visit to the heart of a living heritage\nDiscover this exceptional site: take in its history with the \"Impérial!\" exhibition trail, attend a presentation of the different breeds of horse and meet them in stable no. 2.\nIn the saddlery, a panoramic projection retraces over 160 years of passion for horses.\nIn the heart of the forge courtyard, explore the essentials of equine well-being, ancestral trades and horse feeding, illustrated in the new \"Le Mash\" area.\n\nFrom April to August, the Jardin des Équi?curieux offers a playful area dedicated to young visitors: play under the Berber tent, ride the metal and wooden equids on the small carousel, and enjoy a moment of relaxation in the picnic area.\n\nL?Étrier, a sweet and savoury snack, offers a gourmet break under the elegant frame of the Écurie d?Honneur.\n\nL'Écrin, an equestrian hall for exceptional shows\nL'Écrin, the Haras? new flagship venue, hosts a spectacular program of artistic and equestrian events every school vacation season.\nIn this covered, modular setting, renowned companies and artists from the Haras present poetic, dynamic creations accessible to all."
+        ],
+        "it": [
+          "L'Haras National d'Hennebont vi invita a vivere un'esperienza unica, che unisce storia, natura e spettacolo. Fondato nel XIX secolo, questo sito emblematico del patrimonio equestre francese coniuga oggi tradizione e modernità, offrendo una coinvolgente immersione nel mondo del cavallo.\n\nUna visita nel cuore di un patrimonio vivente\nScoprite questo sito eccezionale: immergetevi nella sua storia con il percorso espositivo \"Impérial!\", assistete a una presentazione delle diverse razze di cavalli e incontratele nella scuderia n. 2.\nNella selleria, una proiezione panoramica ripercorre più di 160 anni di passione per i cavalli.\nNel cuore del cortile della fucina, esplorate gli elementi essenziali del benessere equino, i mestieri tradizionali e l'alimentazione dei cavalli, illustrati nella nuova area \"Le Mash\".\n\nDa aprile ad agosto, il Jardin des Équi?curieux offre un'area giochi dedicata ai piccoli visitatori: giocate nella tenda berbera, cavalcate gli equini in metallo e legno sulla piccola giostra e rilassatevi nell'area picnic.\n\nL'Étrier, uno snack dolce e salato, offre pause gourmet sotto l'elegante tetto dell'Écurie d'Honneur.\n\nL'Écrin, una sala equestre per spettacoli eccezionali\nL'Écrin, il nuovo fiore all'occhiello dell'Haras, ospita un programma spettacolare di eventi artistici ed equestri in ogni periodo di vacanze scolastiche.\nIn questo ambiente coperto e modulare, rinomate compagnie e artisti dell'Haras presentano creazioni poetiche e dinamiche, accessibili a tutti."
+        ],
+        "fr": [
+          "Le Haras National d’Hennebont vous invite à vivre une expérience unique, mêlant histoire, nature et spectacle. Fondé au XIXᵉ siècle, ce lieu emblématique du patrimoine équestre français conjugue aujourd’hui tradition et modernité, offrant une immersion captivante dans l’univers du cheval.\n\nUne visite au cœur d’un patrimoine vivant\nPartez à la découverte de ce site exceptionnel : entrez dans son histoire avec le parcours d’exposition « Impérial ! », assistez à une présentation des différentes races de chevaux et rencontrez-les dans l’écurie n°2.\nDans la sellerie, une projection panoramique retrace plus de 160 ans de passion pour le cheval.\nAu cœur de la cour de la forge, explorez les essentiels du bien-être équin, les métiers ancestraux ainsi que l’alimentation du cheval, illustrée dans le nouvel espace « Le Mash ».\n\nD’avril à août, le Jardin des Équi’curieux offre un espace ludique dédié au jeune public : on y joue sous la tente berbère, on chevauche les équidés de métal et de bois du petit carrousel, et l’on profite d’un moment de détente dans l’espace pique-nique.\n\nL’Étrier, snack sucré-salé, propose de savourer une pause gourmande sous l’élégante charpente de l’Écurie d’Honneur.\n\nL’Écrin, une halle équestre pour des spectacles d’exception\nNouvel espace emblématique du Haras, L’Écrin accueille, à chaque période de vacances scolaires, une programmation artistique et équestre spectaculaire.\nDans ce cadre couvert et modulable, les compagnies de renom et les artistes du Haras présentent des créations poétiques, dynamiques et accessibles à tous."
+        ],
+        "es": [
+          "El Haras National d'Hennebont le invita a disfrutar de una experiencia única, que combina historia, naturaleza y espectáculo. Fundado en el siglo XIX, este lugar emblemático del patrimonio ecuestre francés combina hoy tradición y modernidad, ofreciendo una cautivadora inmersión en el mundo del caballo.\n\nUna visita al corazón de un patrimonio vivo\nHaga un recorrido por este lugar excepcional: explore su historia con el recorrido de la exposición \"¡Impérial!\", asista a una presentación de las diferentes razas de caballos y encuéntrese con ellos en la cuadra nº 2.\nEn la guarnicionería, una proyección panorámica recorre más de 160 años de pasión por los caballos.\nEn el corazón del patio de la herrería, descubra lo esencial del bienestar equino, los oficios tradicionales y la alimentación de los caballos, ilustrados en el nuevo espacio \"Le Mash\".\n\nDe abril a agosto, el Jardin des Équi?curieux ofrece una zona de juegos dedicada a los pequeños visitantes: juegue en la tienda bereber, monte en los équidos de metal y madera del pequeño carrusel y relájese en la zona de picnic.\n\nL'Étrier, un snack dulce y salado, ofrece pausas gastronómicas bajo el elegante techo de la Écurie d'Honneur.\n\nL'Écrin, una sala ecuestre para espectáculos excepcionales\nL'Écrin, nuevo espacio emblemático del Haras, acoge cada periodo de vacaciones escolares un espectacular programa de manifestaciones artísticas y ecuestres.\nEn este marco cubierto y modulable, compañías y artistas de renombre del Haras presentan creaciones poéticas, dinámicas y accesibles a todos."
+        ],
+        "nl": [
+          "De Haras National d'Hennebont nodigt u uit om te genieten van een unieke ervaring, een combinatie van geschiedenis, natuur en spektakel. Opgericht in de 19e eeuw, combineert deze emblematische plek van het Franse hippische erfgoed vandaag de dag traditie en moderniteit en biedt een fascinerende onderdompeling in de wereld van het paard.\n\nEen bezoek aan het hart van een levend erfgoed\nOntdek deze uitzonderlijke plek: neem een kijkje in de geschiedenis met het tentoonstellingsparcours \"Impérial!\", bekijk een presentatie van de verschillende paardenrassen en ontmoet ze in stal nr. 2.\nIn de zadelmakerij laat een panoramische projectie meer dan 160 jaar passie voor paarden zien.\nIn het hart van de binnenplaats van de smederij kun je de essentie van paardenwelzijn, traditionele ambachten en paardenvoeding ontdekken, geïllustreerd in de nieuwe ruimte \"Le Mash\".\n\nVan april tot augustus biedt de Jardin des Équi?curieux een speelruimte speciaal voor jonge bezoekers: speel in de Berbertent, berijd de metalen en houten paarden op de kleine draaimolen en ontspan in de picknickruimte.\n\nL'Étrier, een zoete en hartige snack, biedt gastronomische pauzes onder het elegante dak van de Écurie d'Honneur.\n\nL'Écrin, een ruiterhal voor uitzonderlijke shows\nL'Écrin, het nieuwe vlaggenschip van de Haras, biedt elke schoolvakantie een spectaculair programma van artistieke en hippische evenementen.\nIn deze overdekte, modulaire setting presenteren gerenommeerde gezelschappen en artiesten van de Haras poëtische, dynamische creaties die voor iedereen toegankelijk zijn."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/27054f6d-1d6a-3048-bf38-cfc8d2b7c5fb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83326bea-5606-34e3-a82f-797017f7c676",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae2c42ee-f905-369e-96aa-43074aaec698",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba893653-8435-31fe-8450-8b45375e54ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ecdd4f1f-91b3-3609-9ec1-421b78587386",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasExternalReference": [
+    {
+      "@id": "https://data.datatourisme.fr/970fec77-0ab1-8909-a06e-947c44f3b157",
+      "@type": [
+        "ExternalReference"
+      ],
+      "hasExternalIdentifier": "adc98c55-3c52-4f12-b919-f128f3d944f5",
+      "hasExternalPlatform": [
+        {
+          "@id": "kb:AcceslibrePlatform",
+          "@type": [
+            "ExternalPlatform"
+          ],
+          "rdfs:comment": {
+            "de": [
+              "Teilen Sie wichtige Reiseinformationen für Menschen mit Behinderungen."
+            ],
+            "pt": [
+              "Compartilhe informações essenciais sobre viagens para pessoas com deficiência."
+            ],
+            "en": [
+              "Share essential travel information for people with disabilities."
+            ],
+            "it": [
+              "Condividi informazioni di viaggio essenziali per le persone con disabilità."
+            ],
+            "fr": [
+              "Partagez les informations indispensables aux déplacements des personnes en situation de handicap."
+            ],
+            "nl": [
+              "Deel essentiële reisinformatie voor mensen met een handicap."
+            ],
+            "es": [
+              "Comparta información de viaje esencial para personas con discapacidades."
+            ]
+          },
+          "rdfs:label": {
+            "de": [
+              "Acceslibre-Plattform"
+            ],
+            "pt": [
+              "Plataforma Acceslibre"
+            ],
+            "en": [
+              "Acceslibre platform"
+            ],
+            "it": [
+              "Piattaforma Acceslibre"
+            ],
+            "fr": [
+              "Plateforme Acceslibre"
+            ],
+            "es": [
+              "Plataforma Acceslibre"
+            ],
+            "nl": [
+              "Acceslibre-platform"
+            ]
+          },
+          "hasExternalPlatformUrl": "https://acceslibre.beta.gouv.fr"
+        }
+      ]
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/27ec3055-5bba-3a90-8842-ad90cc3c1b46",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Bar",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bar"
+            ],
+            "pt": [
+              "Bar"
+            ],
+            "en": [
+              "Bar"
+            ],
+            "it": [
+              "Bar"
+            ],
+            "fr": [
+              "Bar"
+            ],
+            "nl": [
+              "Bar"
+            ],
+            "es": [
+              "Bar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/75a0123d-886a-3aa7-b825-df8ce4f16210",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:Shop",
+          "@type": [
+            "CommonAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Laden"
+            ],
+            "pt": [
+              "Loja"
+            ],
+            "en": [
+              "Shop"
+            ],
+            "it": [
+              "Negozio"
+            ],
+            "fr": [
+              "Boutique"
+            ],
+            "nl": [
+              "Winkel"
+            ],
+            "es": [
+              "Tienda"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e135d17b-f1da-31fa-8792-dd8c60b4f3f2",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "features": [
+        {
+          "@id": "kb:EquippedMeetingRoom",
+          "@type": [
+            "RoomAmenity"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Ausgestatteter Sitzungsraum"
+            ],
+            "pt": [
+              "Sala de reuniões equipada"
+            ],
+            "en": [
+              "Equipped meeting room"
+            ],
+            "it": [
+              "Sala riunioni attrezzata"
+            ],
+            "fr": [
+              "Salle de réunion équipée"
+            ],
+            "nl": [
+              "Uitgeruste vergaderzaal"
+            ],
+            "es": [
+              "Sala de reuniones equipada"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4d556a4e-e2e0-346e-b6d7-e2a33058b280",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/559cdd68-f058-398b-af92-da5e1e206e55",
+          "schema:addressLocality": "Hennebont",
+          "schema:postalCode": "56700",
+          "schema:streetAddress": [
+            "Rue Victor Hugo"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56083",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Hennebont"
+              ],
+              "pt": [
+                "Hennebont"
+              ],
+              "en": [
+                "Hennebont"
+              ],
+              "it": [
+                "Hennebont"
+              ],
+              "fr": [
+                "Hennebont"
+              ],
+              "nl": [
+                "Hennebont"
+              ],
+              "es": [
+                "Hennebont"
+              ]
+            },
+            "insee": "56083",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bfb6867c-4552-3902-9843-80451455828c",
+        "schema:latitude": "47.80601",
+        "schema:longitude": "-3.267524",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b747b434-e602-3ee9-8fb0-ce57a31fb9f9",
+          "schema:validFrom": "2026-02-16T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2026-04-15",
+  "lastUpdateDatatourisme": "2026-04-27T15:40:23.311Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/936a08f0-c06e-316e-af4d-42678734575d",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:CreditCards",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Bankkarten"
+            ],
+            "pt": [
+              "Cartões bancários"
+            ],
+            "en": [
+              "Credit Cards"
+            ],
+            "it": [
+              "Carte bancarie"
+            ],
+            "fr": [
+              "Cartes bancaires"
+            ],
+            "es": [
+              "Tarjetas bancarias"
+            ],
+            "nl": [
+              "Bankkaarten"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "reducedMobilityAccess": true
+}

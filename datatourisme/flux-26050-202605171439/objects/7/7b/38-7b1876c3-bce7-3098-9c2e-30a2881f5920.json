@@ -1,0 +1,359 @@
+{
+  "@id": "https://data.datatourisme.fr/38/7b1876c3-bce7-3098-9c2e-30a2881f5920",
+  "dc:identifier": "FMABRE056V50DENT",
+  "schema:endDate": [
+    "2026-05-30"
+  ],
+  "schema:startDate": [
+    "2026-05-30"
+  ],
+  "@type": [
+    "schema:Event",
+    "schema:MusicEvent",
+    "Concert",
+    "CulturalEvent",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le bestiaire en musique : répertoire et instruments"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/ffaf0a9a-b169-3155-86e3-7fd7fb9a1cf0",
+    "schema:legalName": "Office de tourisme du Pays du roi Morvan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f85a0401-c38e-3cb6-bcbf-969680c67e5f",
+      "schema:telephone": [
+        "+33 6 80 30 06 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesbainsdelareine.com/evenements"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/dae42bf8-7ee5-3b99-9649-7cfc77606005",
+      "dc:description": {
+        "de": [
+          "Im Anschluss an das Konzert, das 2025 in den Bains de la Reine stattfand, wird Ihnen das Ensemble Arcambole das Repertoire und die Instrumente des Projekts \"Le bestiaire en musique\" vorstellen."
+        ],
+        "en": [
+          "Following the concert given in 2025 at the Bains de la Reine, the Arcambole ensemble will present the repertoire and instruments of the \"Musical Bestiary\" project."
+        ],
+        "it": [
+          "Dopo il concerto tenuto nel 2025 ai Bains de la Reine, l'ensemble Arcambole presenterà il repertorio e gli strumenti del progetto \"Bestiario musicale\"."
+        ],
+        "fr": [
+          "Dans la suite du concert donné en 2025 aux Bains de la Reine, l'ensemble Arcambole vous présentera le répertoire et les instruments du projet \"Le bestiaire en musique\"."
+        ],
+        "es": [
+          "Como continuación del concierto ofrecido en 2025 en los Bains de la Reine, el conjunto Arcambole presentará el repertorio y los instrumentos del proyecto \"Bestiario musical\"."
+        ],
+        "nl": [
+          "Als vervolg op het concert dat in 2025 in de Bains de la Reine werd gegeven, presenteert het ensemble Arcambole het repertoire en de instrumenten van het project \"Musical Bestiary\"."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/33832638-bdb4-3db4-9c4f-668482db8ec6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4a9f88b0-5507-30ca-9ba0-d524a3849623",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/981aaa09-23ee-366b-9482-cfe681fa5596",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b092301f-5ff6-34f4-83b3-bc5ecb747a00",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0c1498a-f1fc-3abd-8f06-8f6556139530",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/035647b0-e42d-3271-aee6-7e84d9ebb5dc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/dbfd9b6e-42c2-31bc-8fcf-672d5dc2c418",
+          "schema:addressLocality": "Le Faouët",
+          "schema:postalCode": "56160",
+          "schema:streetAddress": [
+            "5 place du château",
+            "Les Bains de la Reine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Faouët"
+              ],
+              "pt": [
+                "Le Faouët"
+              ],
+              "en": [
+                "Le Faouët"
+              ],
+              "it": [
+                "Le Faouët"
+              ],
+              "fr": [
+                "Le Faouët"
+              ],
+              "nl": [
+                "Le Faouët"
+              ],
+              "es": [
+                "Le Faouët"
+              ]
+            },
+            "insee": "56057",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1fc18057-cb77-30d0-8ab2-8f0d0a4fa467",
+        "schema:latitude": "48.06741",
+        "schema:longitude": "-3.20767",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-04-17",
+  "lastUpdateDatatourisme": "2026-04-18T03:01:22.368Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/15ec2be6-ece0-34fc-864d-9b65a7ab9708",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-30",
+      "endTime": "17:00:00",
+      "startDate": "2026-05-30",
+      "startTime": "16:00:00"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "@id": "https://data.datatourisme.fr/38/f4a3b280-a6cb-397a-955d-0751e77fc2ac",
+  "dc:identifier": "PNAf4d4be40d0e84",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "OutstandingTree",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Chêne de Rosterch"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/cd27e4d8-de33-30c0-b201-2281f20f6c5e",
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8d863283-37ed-3d05-9fa4-c6c2a6a6f47f",
+      "dc:description": {
+        "de": [
+          "Die 300 Jahre alte Eiche steht im Herzen des Dorfes und bietet den Besuchern einen originellen Kreisverkehr! Ihre Dimensionen sind bemerkenswert: 17 m hoch und 8,50 m im Umfang."
+        ],
+        "en": [
+          "The three-hundred-year-old oak stands in the heart of the village, offering visitors an original traffic circle! Its dimensions are remarkable: 17 m high and 8.50 in circumference."
+        ],
+        "it": [
+          "La quercia di trecento anni si trova nel cuore del villaggio e costituisce un'originale rotonda per i visitatori! Le sue dimensioni sono notevoli: 17 metri di altezza e 8,50 metri di circonferenza."
+        ],
+        "fr": [
+          "Le chêne tricentenaire se dresse au cœur du village et offre un rond-point original aux visiteurs ! Ses dimensions sont notables : 17 m de haut et 8,50 de circonférence."
+        ],
+        "es": [
+          "El roble tricentenario se alza en el corazón del pueblo, ¡ofreciendo una original rotonda a los visitantes! Sus dimensiones son notables: 17 metros de altura y 8,50 metros de circunferencia."
+        ],
+        "nl": [
+          "De driehonderd jaar oude eik staat in het hart van het dorp en is een originele rotonde voor bezoekers! De afmetingen zijn opmerkelijk: 17 meter hoog en 8,50 meter in omtrek."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/12fecd22-e770-3314-9613-b048306f07c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5064c87a-09af-3ffd-8c7c-412bd13349a2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78ccb515-4e2f-36d4-b0b2-08c36840874e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4a000f2-1b1e-3564-879d-91587bf7a514",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ed339e74-9f77-3b30-9cab-6f7212135cb3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/80473bf1-2d7b-3c61-b28f-170a2cb80c07",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1b153b32-af24-3aa8-a22f-6ecc901da3a7",
+          "schema:addressLocality": "Plouray",
+          "schema:postalCode": "56770",
+          "schema:streetAddress": [
+            "Rosterch"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56170",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Plouray"
+              ],
+              "pt": [
+                "Plouray"
+              ],
+              "en": [
+                "Plouray"
+              ],
+              "it": [
+                "Plouray"
+              ],
+              "fr": [
+                "Plouray"
+              ],
+              "nl": [
+                "Plouray"
+              ],
+              "es": [
+                "Plouray"
+              ]
+            },
+            "insee": "56170",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d16f7ccd-4aa4-3925-9cc6-fd51481dde86",
+        "schema:latitude": "48.1399203",
+        "schema:longitude": "-3.3841425",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2024-11-07",
+  "lastUpdateDatatourisme": "2024-11-08T02:21:05.318Z"
+}

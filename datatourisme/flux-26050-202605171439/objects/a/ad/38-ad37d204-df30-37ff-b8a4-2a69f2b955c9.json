@@ -1,0 +1,604 @@
+{
+  "@id": "https://data.datatourisme.fr/38/ad37d204-df30-37ff-b8a4-2a69f2b955c9",
+  "dc:identifier": "HLO897ad8443a064",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "La Maison Gavrinis - Le Coz"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eace32e8-8404-3d87-b371-1eb0160dac79",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5010fb4-79e6-3778-b822-28a806eefeae",
+      "schema:legalName": "La Maison Gavrinis - Le Coz",
+      "schema:telephone": [
+        "+33 7 43 30 87 00"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.location-erdeven-plage.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ed7be87c-3157-3239-abc8-f9ac0296baca",
+      "dc:description": {
+        "de": [
+          "Nur 600 Meter vom Strand entfernt, mit direktem Zugang über die Dünen, bietet Ihnen das Haus \"Gavrinis\" einen idyllischen Rahmen für einen Urlaub mit der Familie oder mit Freunden. Dieses charmante Haus bietet Platz für bis zu 5 Personen und besticht durch seine Helligkeit dank des großen Glasdachs und seine gemütliche Atmosphäre.\n\n- Moderne und funktionale Einrichtung\n\nIm Erdgeschoss ist das Haus um einen geselligen Wohnbereich herum organisiert, der Folgendes umfasst: :\n\n    Eine Sitzecke mit einem bequemen Ledersofa und einem Flachbildfernseher.\n    Ein geräumiges Esszimmer, ideal für gemeinsame Mahlzeiten in geselliger Runde.\n    Eine voll ausgestattete Küche, die bereit ist, Ihre kulinarischen Wünsche zu erfüllen: Geschirrspüler, Kühlschrank mit Gefrierfach, Backofen, Mikrowelle, Gasherd, Kaffeemaschine, Toaster, Wasserkocher und das gesamte notwendige Geschirr.\n    Ein separates, praktisches und zugängliches WC.\n\n- Ein gemütlicher Schlafbereich im Obergeschoss\n\nIm Obergeschoss finden Sie zwei einladende Schlafzimmer:\n\n    Ein Doppelzimmer mit einem großen Bett für 2 Personen und einem Einbauschrank (Regale und Garderobe).\n    Ein Dreibettzimmer, ideal für Kinder oder Freunde, mit 3 Einzelbetten, davon 2 Etagenbetten, und einem Stauraum.\n    Ein modernes Badezimmer, ausgestattet mit einer Dusche mit thermostatischer Mischbatterie, einem Waschtisch, einer Toilette, einer Waschmaschine und mehreren Regalen für Ihren Komfort.\n\n- Ein geschlossener Garten für Momente im Freien\n\nGenießen Sie den Aufenthalt im Freien mit einem umzäunten und sicheren Garten, der perfekt für Kinder und entspannende Momente ist. Sie finden dort :\n\n    Eine Terrasse mit Gartenmöbeln aus Teakholz, Liegestühlen und einem Sonnenschirm.\n    Einen Grill, um im Freien gegrillte Speisen zu genießen.\n    Ein geschlossener Privatparkplatz, auf dem Sie in aller Ruhe parken können.\n\n- Komfort und Dienstleistungen\n\n    Fußbodenheizung für eine sanfte und gleichmäßige Wärme.\n    Elektrische Rollläden oder Klappläden aus Aluminium, um Komfort und Privatsphäre zu gewährleisten.\n    Kostenloser WiFi-Internetzugang (Glasfaser), ideal, um in Verbindung zu bleiben.\n    Gemeinschaftswaschküche mit Trockner, die Sie sich mit den anderen Häusern des Komplexes teilen.\n\nDas Haus \"Gavrinis\" verspricht Ihnen einen erholsamen Urlaub in einer außergewöhnlichen natürlichen Umgebung. Buchen Sie jetzt und genießen Sie einzigartige Momente am Ozean!"
+        ],
+        "en": [
+          "Just 600 meters from the beach, with direct access via the dunes, the \"Gavrinis\" house offers an idyllic setting for vacations with family or friends. This charming house can accommodate up to 5 people, and will seduce you with its brightness, thanks to its large glass roof, and its warm atmosphere.\n\n- A modern, functional interior\n\nOn the first floor, the house is organized around a convivial living area comprising :\n\n    A sitting area with a comfortable leather sofa and flat-screen TV.\n    A spacious dining room, ideal for convivial meals.\n    A fully equipped kitchen, ready to satisfy your culinary desires: dishwasher, fridge-freezer, oven, microwave, gas hob, coffee maker, toaster, kettle and all the crockery you need.\n    An independent, practical and accessible toilet.\n\n- Cosy sleeping area upstairs\n\nUpstairs, you'll find two welcoming bedrooms:\n\n    A double bedroom, with a large bed for 2 people and a built-in closet (shelves and hanging space).\n    A triple bedroom, ideal for children or friends, with 3 single beds, including 2 bunk beds, and storage space.\n    A modern bathroom, equipped with a shower with thermostatic mixer tap, vanity unit, toilet, washing machine and several shelves for your convenience.\n\n- An enclosed garden for outdoor activities\n\nEnjoy the outdoors with an enclosed, secure garden, perfect for children and relaxing moments. You'll find :\n\n    A terrace with teak garden furniture, deckchairs and parasol.\n    A barbecue for outdoor grilling.\n    Enclosed private parking for your peace and quiet.\n\n- Comfort and services\n\n    Underfloor heating for gentle, even warmth.\n    Electric roller shutters or aluminum shutters for comfort and privacy.\n    Free WiFi Internet access (fiber), ideal for staying connected.\n    Communal laundry room with tumble dryer to share with the other homes in the complex.\n\nGavrinis\" promises a relaxing vacation in an exceptional natural setting. Book now and enjoy unique moments by the ocean!"
+        ],
+        "it": [
+          "A soli 600 metri dalla spiaggia, con accesso diretto attraverso le dune, \"Gavrinis\" offre un ambiente idilliaco per una vacanza in famiglia o con gli amici. Questa casa di charme può ospitare fino a 5 persone e vi conquisterà con la sua luminosità, grazie all'ampio tetto in vetro, e la sua calda atmosfera.\n\n- Interni moderni e funzionali\n\nAl piano terra, la casa è disposta intorno a un soggiorno conviviale composto da :\n\n    Un'area salotto con un comodo divano in pelle e una TV a schermo piatto.\n    Una spaziosa sala da pranzo, ideale per condividere i pasti in compagnia.\n    Una cucina completamente attrezzata, pronta a soddisfare i vostri desideri culinari: lavastoviglie, frigo-congelatore, forno, microonde, piano cottura a gas, macchina per il caffè, tostapane, bollitore e tutte le stoviglie necessarie.\n    Una toilette separata, pratica e accessibile.\n\n- Un'accogliente zona notte al piano superiore\n\nAl piano superiore si trovano due accoglienti camere da letto:\n\n    Una camera matrimoniale, con un letto king-size per 2 persone e un armadio a muro (scaffali e spazio per appendere).\n    Una camera tripla, ideale per bambini o amici, con 3 letti singoli, di cui 2 a castello, e spazio per riporre le cose.\n    Un bagno moderno, dotato di doccia con miscelatore termostatico, mobiletto, WC, lavatrice e diversi scaffali per la vostra comodità.\n\n- Un giardino recintato per le attività all'aperto\n\nSfruttate al massimo l'aria aperta con un giardino recintato e sicuro, perfetto per i bambini e per rilassarsi. Troverete:\n\n    Una terrazza con mobili da giardino in teak, sedie a sdraio e ombrellone.\n    Un barbecue per grigliate all'aperto.\n    Parcheggio privato recintato per la vostra tranquillità.\n\n- Comfort e servizi\n\n    Riscaldamento a pavimento per un calore delicato e uniforme.\n    Tapparelle elettriche o in alluminio per garantire comfort e privacy.\n    Accesso a Internet WiFi gratuito (fibra), ideale per rimanere connessi.\n    Una lavanderia comune con asciugatrice da condividere con le altre case del complesso.\n\nGavrinis\" vi promette una vacanza rilassante in un ambiente naturale eccezionale. Prenotate subito e godetevi momenti unici in riva all'oceano!"
+        ],
+        "fr": [
+          "À seulement 600 mètres de la plage, avec un accès direct par les dunes, la maison \"Gavrinis\" vous offre un cadre idyllique pour des vacances en famille ou entre amis. Cette charmante maison peut accueillir jusqu’à 5 personnes et séduit par sa luminosité grâce à sa grande verrière et son ambiance chaleureuse.\n\n- Un intérieur moderne et fonctionnel\n\nAu rez-de-chaussée, la maison s’organise autour d’une pièce à vivre conviviale comprenant :\n\n    Un coin salon équipé d’un canapé en cuir confortable et d’une télévision à écran plat.\n    Une salle à manger spacieuse, idéale pour partager des repas en toute convivialité.\n    Une cuisine toute équipée, prête à satisfaire vos envies culinaires : lave-vaisselle, réfrigérateur-congélateur, four, micro-ondes, plaques gaz, cafetière, grille-pain, bouilloire et toute la vaisselle nécessaire.\n    Un WC indépendant, pratique et accessible.\n\n- Un espace nuit cosy à l’étage\n\nÀ l’étage, vous trouverez deux chambres accueillantes :\n\n    Une chambre double, dotée d’un grand lit pour 2 personnes et d’un placard intégré (étagères et penderie).\n    Une chambre triple, idéale pour les enfants ou les amis, avec 3 lits simples, dont 2 lits superposés, et un espace de rangement.\n    Une salle de bain moderne, équipée d’une douche avec mitigeur thermostatique, d’un meuble vasque, d’un WC, d’un lave-linge et de plusieurs étagères pour votre confort.\n\n- Un jardin clos pour des moments en plein air\n\nProfitez de l’extérieur avec un jardin clos et sécurisé, parfait pour les enfants et les moments de détente. Vous y trouverez :\n\n    Une terrasse aménagée avec un salon de jardin en teck, des transats et un parasol.\n    Un barbecue pour savourer des grillades en plein air.\n    Un parking privé clos pour stationner en toute tranquillité.\n\n- Confort et services\n\n    Chauffage par le sol pour une chaleur douce et uniforme.\n    Volets roulants électriques ou volets battants en aluminium pour garantir confort et intimité.\n    Accès Internet WiFi gratuit (fibre), idéal pour rester connecté.\n    Une buanderie commune équipée d’un sèche-linge à partager avec les autres maisons de l’ensemble.\n\nLa maison \"Gavrinis\" vous promet des vacances reposantes dans un cadre naturel d’exception. Réservez dès maintenant et profitez de moments uniques au bord de l’océan !"
+        ],
+        "nl": [
+          "Op slechts 600 meter van het strand, met directe toegang via de duinen, biedt \"Gavrinis\" een idyllische omgeving voor een vakantie met familie of vrienden. Dit charmante huis is geschikt voor maximaal 5 personen en zal je verleiden met zijn helderheid, dankzij het grote glazen dak, en zijn warme sfeer.\n\n- Een modern, functioneel interieur\n\nOp de begane grond is het huis gerangschikt rond een gezellige woonkamer bestaande uit :\n\n    Een zithoek met een comfortabele leren bank en flatscreen tv.\n    Een ruime eetkamer, ideaal om samen te eten.\n    Een volledig uitgeruste keuken, klaar om aan je culinaire wensen te voldoen: vaatwasser, koelkast met vriesvak, oven, magnetron, gasfornuis, koffiezetapparaat, broodrooster, waterkoker en al het servies dat je nodig hebt.\n    Een apart, praktisch en toegankelijk toilet.\n\n- Een gezellig slaapgedeelte boven\n\nBoven vind je twee gezellige slaapkamers:\n\n    Een tweepersoonskamer, met een kingsize bed voor 2 personen en een ingebouwde kledingkast (planken en hangruimte).\n    Een driepersoonskamer, ideaal voor kinderen of vrienden, met 3 eenpersoonsbedden, waaronder 2 stapelbedden, en opbergruimte.\n    Een moderne badkamer, uitgerust met een douche met thermostatische mengkraan, badmeubel, wc, wasmachine en verschillende planken voor uw gemak.\n\n- Een omheinde tuin voor buitenactiviteiten\n\nGeniet optimaal van het buitenleven met een omheinde, veilige tuin, perfect voor kinderen en om te ontspannen. Je vindt er :\n\n    Een terras met teakhouten tuinmeubelen, ligstoelen en parasol.\n    Een barbecue om buiten te grillen.\n    Afgesloten privé parkeerplaats voor uw rust.\n\n- Comfort en diensten\n\n    Vloerverwarming voor zachte, gelijkmatige warmte.\n    Elektrische rolluiken of aluminium luiken voor comfort en privacy.\n    Gratis WiFi-internet (glasvezel), ideaal om in contact te blijven.\n    Een gemeenschappelijke wasruimte met wasdroger om te delen met de andere huizen in het complex.\n\nGavrinis\" belooft je een ontspannen vakantie in een uitzonderlijke natuurlijke omgeving. Boek nu en geniet van unieke momenten aan de oceaan!"
+        ],
+        "es": [
+          "A sólo 600 metros de la playa, con acceso directo a través de las dunas, \"Gavrinis\" ofrece un entorno idílico para unas vacaciones en familia o con amigos. Esta encantadora casa, con capacidad para 5 personas, le seducirá por su luminosidad, gracias a su gran techo acristalado, y su cálido ambiente.\n\n- Un interior moderno y funcional\n\nEn la planta baja, la casa se organiza en torno a un salón de convivencia compuesto por :\n\n    Una sala de estar con un cómodo sofá de cuero y un televisor de pantalla plana.\n    Un comedor espacioso, ideal para compartir las comidas.\n    Una cocina totalmente equipada, lista para satisfacer sus deseos culinarios: lavavajillas, frigorífico-congelador, horno, microondas, placa de gas, cafetera, tostadora, hervidor de agua y toda la vajilla necesaria.\n    Un aseo independiente, práctico y accesible.\n\n- Una acogedora zona de dormitorio en el piso de arriba\n\nEn la planta superior, encontrará dos acogedores dormitorios:\n\n    Un dormitorio doble, con una cama de matrimonio para 2 personas y un armario empotrado (estanterías y espacio para colgar).\n    Un dormitorio triple, ideal para niños o amigos, con 3 camas individuales, incluyendo 2 literas, y espacio de almacenamiento.\n    Un cuarto de baño moderno, equipado con ducha con grifo mezclador termostático, tocador, WC, lavadora y varias estanterías para su comodidad.\n\n- Un jardín cerrado para actividades al aire libre\n\nDisfrute al máximo del aire libre con un jardín cerrado y seguro, perfecto para los niños y para relajarse. Encontrará :\n\n    Una terraza con muebles de jardín de teca, tumbonas y sombrilla.\n    Una barbacoa para asar al aire libre.\n    Aparcamiento privado cerrado para su tranquilidad.\n\n- Confort y servicios\n\n    Calefacción por suelo radiante para un calor suave y uniforme.\n    Persianas eléctricas o de aluminio para mayor comodidad e intimidad.\n    Acceso gratuito a Internet WiFi (fibra), ideal para mantenerse conectado.\n    Lavandería común con secadora para compartir con las demás casas del complejo.\n\nGavrinis\" le promete unas vacaciones relajantes en un entorno natural excepcional. ¡Reserve ahora y disfrute de momentos únicos junto al mar!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/016b3b17-0b08-3e94-a0fa-cbcac3ef11d5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1de9bf75-595a-3728-9d6a-b21548701f1a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/69fbb69c-9b01-37ee-adad-fc169ac983e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af12b31d-1866-383d-9f96-f8896bcfa6d8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f8e47e28-1592-3c46-b662-c9faad3b9ba3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5bd06253-83d9-3aae-85e4-9f633b6fd00e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/232f6b1f-0cc1-303e-8435-95f55f9058c4",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "51 Sentier de l'Océan",
+            "Kerhillio"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/38337f9a-1595-3afd-9cf1-da9ded62c13f",
+        "schema:latitude": "47.617851",
+        "schema:longitude": "-3.165819",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "lastUpdate": "2026-04-01",
+  "lastUpdateDatatourisme": "2026-04-07T16:44:35.68Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

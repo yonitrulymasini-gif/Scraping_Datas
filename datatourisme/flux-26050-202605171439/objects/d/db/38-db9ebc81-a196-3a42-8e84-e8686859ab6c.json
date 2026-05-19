@@ -1,0 +1,493 @@
+{
+  "@id": "https://data.datatourisme.fr/38/db9ebc81-a196-3a42-8e84-e8686859ab6c",
+  "dc:identifier": "HLOBRE029V52DZTZ",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "West Little Ranch"
+    ]
+  },
+  "availableLanguage": [
+    "en",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/3963187e-faf1-3ee5-912b-42e6526320af",
+    "dc:identifier": "818a18e0-4dce-4aa8-a6c6-ff8198d299de",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/893f1673-afe4-348f-9612-a654b1af8e4f",
+        "schema:addressLocality": "Moëlan-sur-Mer",
+        "schema:postalCode": "29350",
+        "schema:streetAddress": [
+          "18 rue des écoles"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:29150",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Moëlan-sur-Mer"
+            ],
+            "pt": [
+              "Moëlan-sur-Mer"
+            ],
+            "en": [
+              "Moëlan-sur-Mer"
+            ],
+            "it": [
+              "Moëlan-sur-Mer"
+            ],
+            "fr": [
+              "Moëlan-sur-Mer"
+            ],
+            "nl": [
+              "Moëlan-sur-Mer"
+            ],
+            "es": [
+              "Moëlan-sur-Mer"
+            ]
+          },
+          "insee": "29150",
+          "isPartOfDepartment": {
+            "@id": "kb:France5329",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Finistère"
+              ],
+              "pt": [
+                "Finistère"
+              ],
+              "en": [
+                "Finistère"
+              ],
+              "it": [
+                "Finistère"
+              ],
+              "fr": [
+                "Finistère"
+              ],
+              "nl": [
+                "Finistère"
+              ],
+              "es": [
+                "Finistère"
+              ]
+            },
+            "insee": "29",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "contact@quimperle-lesrias.bzh"
+    ],
+    "schema:legalName": "OT QUIMPERLE LES RIAS",
+    "schema:telephone": [
+      "+33 2 98 39 67 28"
+    ],
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.quimperle-lesrias.bzh/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b041695c-408c-3347-91c4-3adee39c91a1",
+      "schema:telephone": [
+        "+33 6 73 92 37 03",
+        "+33 6 88 18 32 32"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b041695c-408c-3347-91c4-3adee39c91a1",
+      "schema:telephone": [
+        "+33 6 73 92 37 03",
+        "+33 6 88 18 32 32"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e88a19a4-39d5-3ece-99a8-ef865edc5d4a",
+      "schema:legalName": "West Little Ranch",
+      "schema:telephone": [
+        "+33 6 73 92 37 03",
+        "+33 6 88 18 32 32"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/39b53827-00a4-3598-8a73-5aec0605a365",
+      "dc:description": {
+        "de": [
+          "Armelle und Loïc empfangen Sie an einem friedlichen und erholsamen Ort von 3 1/2 ha, wo Fauna und Flora harmonisch aufeinander abgestimmt sind. Ein großes Zimmer mit seiner indianischen Dekoration, seiner kleinen Sitzecke und seinem Balkon. Ein Badezimmer mit angrenzender Dusche. Das Frühstück wird Ihnen zur gewünschten Zeit zubereitet. ( Im Zimmerpreis inbegriffen). Andere Unterkünfte sind auf demselben Gelände möglich."
+        ],
+        "en": [
+          "Armelle and Loïc welcome you to a peaceful, restful 3 1/2-hectare site, where flora and fauna harmonize. A large bedroom with Amerindian decor, small sitting area and balcony. En-suite bathroom with shower. Breakfast will be prepared for you at the time of your choosing. (included in the room price). Other accommodation available on the same site."
+        ],
+        "it": [
+          "Armelle e Loïc vi accolgono in un sito tranquillo e riposante di 3,5 ettari, dove flora e fauna sono in armonia. Un'ampia camera da letto con decorazioni amerindie, un salottino e un balcone. Bagno in camera con doccia. La colazione sarà preparata per voi all'ora che preferite. (Inclusa nel prezzo della camera). Altre sistemazioni disponibili nello stesso sito."
+        ],
+        "fr": [
+          "Armelle et Loïc vous accueillent dans un endroit paisible et reposant de 3 ha 1/2, où s'harmonisent faune et flore. Une grande chambre avec sa décoration amérindienne, son petit coin salon et son balcon. Une salle de bain et douche attenante. Le petit déjeuner vous sera préparé à l'heure souhaitée. ( inclus dans le prix de la chambre). Autre hébergement possible sur le même site."
+        ],
+        "es": [
+          "Armelle y Loïc le dan la bienvenida a un lugar tranquilo y apacible de 3,5 hectáreas, donde la flora y la fauna están en armonía. Una gran habitación con decoración amerindia, una pequeña sala de estar y un balcón. Cuarto de baño con ducha. Se le preparará el desayuno a la hora que elija. (Incluido en el precio de la habitación). Otros alojamientos disponibles en el mismo lugar."
+        ],
+        "nl": [
+          "Armelle en Loïc heten je welkom op een vredig, rustgevend terrein van 3,5 hectare, waar flora en fauna in harmonie zijn. Een grote slaapkamer met indiaans decor, een kleine zithoek en een balkon. En-suite badkamer met douche. Het ontbijt wordt voor je klaargemaakt op een door jou gekozen tijdstip. (Inbegrepen in de prijs van de kamer). Andere accommodatie beschikbaar op dezelfde site."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/373aefeb-3637-3a00-b660-7e3ac0dfaa73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/634157ca-1d93-38d4-bf41-8770859f31c0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c88759ae-c5b7-3f84-bf76-f0cbc9af23eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc484827-0f98-39a8-a27a-812d4f8c131a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f237310f-8875-3269-b9f5-dcdbfae51259",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/00f9d7c2-aa15-3b7f-842f-dd1cb681835f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1487d4de-e256-3010-b66f-037d84f053da",
+          "schema:addressLocality": "Guiscriff",
+          "schema:postalCode": "56560",
+          "schema:streetAddress": [
+            "2 Prat Person"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56081",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Guiscriff"
+              ],
+              "pt": [
+                "Guiscriff"
+              ],
+              "en": [
+                "Guiscriff"
+              ],
+              "it": [
+                "Guiscriff"
+              ],
+              "fr": [
+                "Guiscriff"
+              ],
+              "nl": [
+                "Guiscriff"
+              ],
+              "es": [
+                "Guiscriff"
+              ]
+            },
+            "insee": "56081",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c5c249c7-6364-37f8-bbec-faa107fa4242",
+        "schema:latitude": "48.0436852",
+        "schema:longitude": "-3.6081858",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-01-07",
+  "lastUpdateDatatourisme": "2026-02-24T10:42:03.553Z"
+}

@@ -1,0 +1,607 @@
+{
+  "@id": "https://data.datatourisme.fr/38/9da9a69e-deea-3504-8fea-aef4c0ae1d54",
+  "dc:identifier": "HLOde97aa93d4e14",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le Clos d'Élodie"
+    ]
+  },
+  "availableLanguage": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/dcfe7804-69c3-3120-af60-d01767ae7016",
+    "dc:identifier": "c7bde102-16ce-48c7-a922-f28c15a908e5",
+    "schema:address": [
+      {
+        "@id": "https://data.datatourisme.fr/98dd620c-f1cb-37ca-b347-c905279d004d",
+        "schema:addressLocality": "Vannes",
+        "schema:postalCode": "56038",
+        "schema:streetAddress": [
+          "2 RUE LOUIS DE BROGLIE"
+        ],
+        "@type": [
+          "schema:PostalAddress",
+          "PostalAddress"
+        ],
+        "hasAddressCity": {
+          "@id": "kb:56260",
+          "@type": [
+            "City"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Vannes"
+            ],
+            "pt": [
+              "Vannes"
+            ],
+            "en": [
+              "Vannes"
+            ],
+            "it": [
+              "Vannes"
+            ],
+            "fr": [
+              "Vannes"
+            ],
+            "nl": [
+              "Vannes"
+            ],
+            "es": [
+              "Vannes"
+            ]
+          },
+          "insee": "56260",
+          "isPartOfDepartment": {
+            "@id": "kb:France5356",
+            "@type": [
+              "Department"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Morbihan"
+              ],
+              "pt": [
+                "Morbihan"
+              ],
+              "en": [
+                "Morbihan"
+              ],
+              "it": [
+                "Morbihan"
+              ],
+              "fr": [
+                "Morbihan"
+              ],
+              "nl": [
+                "Morbihan"
+              ],
+              "es": [
+                "Morbihan"
+              ]
+            },
+            "insee": "56",
+            "isPartOfRegion": {
+              "@id": "kb:France53",
+              "@type": [
+                "Region"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Bretagne"
+                ],
+                "pt": [
+                  "Bretagne"
+                ],
+                "en": [
+                  "Bretagne"
+                ],
+                "it": [
+                  "Bretagne"
+                ],
+                "fr": [
+                  "Bretagne"
+                ],
+                "nl": [
+                  "Bretagne"
+                ],
+                "es": [
+                  "Bretagne"
+                ]
+              },
+              "insee": "53",
+              "isPartOfCountry": {
+                "@id": "kb:France",
+                "@type": [
+                  "schema:Country"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "France",
+                    "Frankreich"
+                  ],
+                  "pt": [
+                    "França",
+                    "France"
+                  ],
+                  "en": [
+                    "France"
+                  ],
+                  "it": [
+                    "France",
+                    "Francia"
+                  ],
+                  "fr": [
+                    "France"
+                  ],
+                  "nl": [
+                    "France",
+                    "Frankrijk"
+                  ],
+                  "es": [
+                    "France",
+                    "Francia"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "schema:email": [
+      "bd@morbihan.com"
+    ],
+    "schema:legalName": "ADT 56",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.morbihan.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/273c63b9-ee06-3817-a2c0-225f11bb4151",
+      "schema:telephone": [
+        "+33 2 97 55 20 47",
+        "+33 6 18 04 47 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gite-leclosdelodie.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/273c63b9-ee06-3817-a2c0-225f11bb4151",
+      "schema:telephone": [
+        "+33 2 97 55 20 47",
+        "+33 6 18 04 47 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gite-leclosdelodie.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/718aa1cf-22dc-3b48-aec6-2e31f15fc9f5",
+      "schema:legalName": "Le Clos d'Élodie",
+      "schema:telephone": [
+        "+33 2 97 55 20 47",
+        "+33 6 18 04 47 81"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gite-leclosdelodie.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7472dc04-e4c6-3aff-a3ef-39988d8be372",
+      "dc:description": {
+        "de": [
+          "Tout Confort / Calme - 4 / 5 personnes.\n\nIdeal gelegen :\n- um den Süden von Morbihan zu erkunden,\n- ruhig gelegen, 3 Minuten von der Ria d?Etel und weniger als 10 Minuten vom Ozean entfernt,\n- nähe zu allen Annehmlichkeiten (2 Min.).\n\nKomfortable 35 m2 Wohnung mit Wohnzimmer, Küche, Elternschlafzimmer, 1 Kinderschlafzimmer mit 3 Betten, Badezimmer (Dusche/WC), moderne Ausstattung (LV, LL) / Dekoration.\n\nTerrasse von 10 m2 mit Südlage, mit Gartenmöbeln / Sonnenschirm / Liegestühlen / Grill und eigenem Garten.\nWifi / TV. Privater Parkplatz."
+        ],
+        "en": [
+          "Tout Confort / Calme - 4 / 5 persons.\n\nIdeally located :\n- for exploring the southern Morbihan,\n- 3 minutes from the Ria d?Etel and less than 10 minutes from the ocean,\n- close to all amenities (2 mins).\n\nComfortable 35 m2 bungalow with living room/lounge/equipped kitchen, master bedroom, 1 children's bedroom with 3 beds, bathroom (shower/WC), modern fixtures and fittings (LV, LL) / decor.\n\nSouth-facing 10 m2 terrace with garden furniture / parasol / deckchairs / barbecue and private garden.\nWifi / TV. Private parking."
+        ],
+        "it": [
+          "Tutti i comfort / Tranquillità - 4 / 5 persone.\n\nSituato in posizione ideale:\n- per esplorare il Morbihan meridionale,\n- a 3 minuti dalla Ria d'Etel e a meno di 10 minuti dall'oceano,\n- vicino a tutti i servizi (2 minuti).\n\nConfortevole bungalow di 35 m2 con soggiorno/salotto/cucina attrezzata, camera matrimoniale, 1 camera per bambini con 3 letti, bagno con doccia (doccia/WC), arredamento moderno (LV, LL) / arredamento.\n\nTerrazza esposta a sud di 10 m2, con mobili da giardino / ombrellone / sedie a sdraio / barbecue e giardino privato.\nWifi / TV. Parcheggio privato."
+        ],
+        "fr": [
+          "Tout Confort / Calme - 4 / 5 personnes.\n\nIdéalement situé :\n- pour rayonner sur le Morbihan sud,\n- au calme à 3 minutes de la Ria d’Etel et moins de 10 minutes de l'océan,\n- proche de toutes les commodités (2 mins).\n\nPlain-pied tout confort de 35 m2 avec Séjour/Salon/Cuisine équipée, une chambre parents, 1 chambre enfant avec 3 lits, Salle d'eau (Douche/WC) Équipement (LV, LL) / décoration modernes. \n\nTerrasse de 10 m2 exposée Sud, avec salon de jardin / parasol / transats / barbecue et jardin privé.\nWifi  / TV. Parking privé."
+        ],
+        "es": [
+          "Todo Confort / Tranquilidad - 4 / 5 personas.\n\nIdealmente situado :\n- para explorar el sur de Morbihan,\n- a 3 minutos de la Ría d'Etel y a menos de 10 minutos del océano,\n- cerca de todos los servicios (2 minutos).\n\nConfortable bungalow de 35 m2 con sala de estar/salón/cocina equipada, dormitorio principal, 1 dormitorio infantil con 3 camas, cuarto de ducha (ducha/WC), equipamientos modernos (LV, LL) / decoración.\n\nTerraza de 10 m2 orientada al sur, con muebles de jardín / sombrilla / tumbonas / barbacoa y jardín privado.\nWifi / TV. Aparcamiento privado."
+        ],
+        "nl": [
+          "Alle comfort / Rustig - 4 / 5 personen.\n\nIdeaal gelegen :\n- om de zuidelijke Morbihan te verkennen,\n- op 3 minuten van de Ria d'Etel en op minder dan 10 minuten van de oceaan,\n- dicht bij alle voorzieningen (2 minuten).\n\nComfortabele bungalow van 35 m2 met woonkamer/salon/ingerichte keuken, ouderslaapkamer, 1 kinderslaapkamer met 3 bedden, doucheruimte (douche/WC), moderne inrichting (LV, LL) / decor.\n\nTerras op het zuiden van 10 m2, met tuinmeubelen / parasol / ligstoelen / barbecue en privé-tuin.\nWifi / TV. Prive parkeerplaats."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1220778f-cd91-365a-ad7d-152256f04678",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/42c81e51-2254-31af-851a-d4f9c4a5ca74",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/609f3060-e820-3085-afbf-5215cc2e5959",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a82e5912-70a3-3d24-8498-aa85d82fcc1d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0ab30b5-ba3e-39b1-a5ec-314eeb5a7601",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2c4fc5f6-6b20-3cd4-8a0a-1b2deeae2871",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/df788e74-2384-35e7-b4c9-463aaba8feb3",
+          "schema:addressLocality": "Belz",
+          "schema:postalCode": "56550",
+          "schema:streetAddress": [
+            "7 route des Pins"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56013",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Belz"
+              ],
+              "pt": [
+                "Belz"
+              ],
+              "en": [
+                "Belz"
+              ],
+              "it": [
+                "Belz"
+              ],
+              "fr": [
+                "Belz"
+              ],
+              "nl": [
+                "Belz"
+              ],
+              "es": [
+                "Belz"
+              ]
+            },
+            "insee": "56013",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e0f2a0f1-5fd7-3a01-89ee-17456447374c",
+        "schema:latitude": "47.67233",
+        "schema:longitude": "-3.142051",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d954025-5dd5-3b72-9161-8afb4ada483d",
+          "schema:validFrom": "2026-01-01T00:00:00",
+          "schema:validThrough": "2026-12-31T00:00:00",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-03",
+  "lastUpdateDatatourisme": "2026-03-04T04:13:49.029Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b62292f4-1188-3748-be1c-e97457731005",
+      "schema:acceptedPaymentMethod": [
+        {
+          "@id": "kb:Cash",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Art"
+            ],
+            "pt": [
+              "Espécie"
+            ],
+            "en": [
+              "Cash"
+            ],
+            "it": [
+              "Contanti"
+            ],
+            "fr": [
+              "Espèce"
+            ],
+            "es": [
+              "Especie"
+            ],
+            "nl": [
+              "Contant"
+            ]
+          }
+        },
+        {
+          "@id": "kb:HolidayVouchers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Urlaubsschecks"
+            ],
+            "pt": [
+              "Vales de férias"
+            ],
+            "en": [
+              "Holiday vouchers"
+            ],
+            "it": [
+              "Buoni vacanza"
+            ],
+            "fr": [
+              "Chèques vacances"
+            ],
+            "nl": [
+              "Vakantiecheques"
+            ],
+            "es": [
+              "Cheques de vacaciones"
+            ]
+          }
+        },
+        {
+          "@id": "kb:Transfers",
+          "@type": [
+            "schema:PaymentMethod"
+          ],
+          "rdfs:label": {
+            "de": [
+              "Überweisungen"
+            ],
+            "pt": [
+              "Transferências"
+            ],
+            "en": [
+              "Transfers"
+            ],
+            "it": [
+              "Bonifici"
+            ],
+            "fr": [
+              "Virements"
+            ],
+            "es": [
+              "Transferencias"
+            ],
+            "nl": [
+              "Overschrijvingen"
+            ]
+          }
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

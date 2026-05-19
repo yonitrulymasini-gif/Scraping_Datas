@@ -1,0 +1,220 @@
+{
+  "@id": "https://data.datatourisme.fr/38/b3e7538d-084e-30e5-b186-d8a5027bb713",
+  "dc:identifier": "ORGBRE056V50DGTO",
+  "@type": [
+    "schema:TouristInformationCenter",
+    "LocalTouristOffice",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TouristInformationCenter"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Boutique de l'office de tourisme"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/38/2e1efb60-a1a7-343a-aa92-a2a24779fdd0",
+    "dc:identifier": "3676ee43-e208-4a4f-9af1-4d960949c488",
+    "schema:email": [
+      "tourisme@ploermelcommunaute.bzh"
+    ],
+    "schema:legalName": "OT JOSSELIN - Destination Brocéliande",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fd02f0c8-35c6-3230-a6f5-574cb8fb2557",
+      "schema:email": [
+        "c-leux@tourismebretagne.com"
+      ],
+      "schema:legalName": "SIT Bretagne",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.tourismebretagne.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9dcd1aa2-bf7f-3a91-8c69-1cf0a6e8ff0f",
+      "schema:legalName": "Boutique de l'office de tourisme",
+      "schema:telephone": [
+        "+33 2 97 22 36 43"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ced4d233-0cb3-3e99-8f74-6d504dc2c795",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d2123683-c98d-31e5-8f5a-df8d18f620b0",
+          "schema:addressLocality": "Tréhorenteuc",
+          "schema:postalCode": "56430",
+          "schema:streetAddress": [
+            "1 Place Abbé Gillard"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tréhorenteuc"
+              ],
+              "pt": [
+                "Tréhorenteuc"
+              ],
+              "en": [
+                "Tréhorenteuc"
+              ],
+              "it": [
+                "Tréhorenteuc"
+              ],
+              "fr": [
+                "Tréhorenteuc"
+              ],
+              "nl": [
+                "Tréhorenteuc"
+              ],
+              "es": [
+                "Tréhorenteuc"
+              ]
+            },
+            "insee": "56256",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a4fd7b4c-8b96-371c-ab4c-c8ee36e302c1",
+        "schema:latitude": "48.00782",
+        "schema:longitude": "-2.2868",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "altInsee": [
+        "56256"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-23",
+  "lastUpdateDatatourisme": "2026-04-17T08:57:24.914Z"
+}

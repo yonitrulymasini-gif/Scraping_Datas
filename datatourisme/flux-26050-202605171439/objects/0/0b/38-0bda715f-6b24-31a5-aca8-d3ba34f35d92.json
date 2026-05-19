@@ -1,0 +1,532 @@
+{
+  "@id": "https://data.datatourisme.fr/38/0bda715f-6b24-31a5-aca8-d3ba34f35d92",
+  "dc:identifier": "FMABRE056V50DGAH",
+  "schema:endDate": [
+    "2026-03-18",
+    "2026-03-25",
+    "2026-04-01",
+    "2026-04-08",
+    "2026-04-15",
+    "2026-04-22",
+    "2026-04-29",
+    "2026-05-06",
+    "2026-05-13",
+    "2026-05-20",
+    "2026-05-27",
+    "2026-06-03",
+    "2026-06-10",
+    "2026-06-17",
+    "2026-06-24",
+    "2026-07-01"
+  ],
+  "schema:startDate": [
+    "2026-03-18",
+    "2026-03-25",
+    "2026-04-01",
+    "2026-04-08",
+    "2026-04-15",
+    "2026-04-22",
+    "2026-04-29",
+    "2026-05-06",
+    "2026-05-13",
+    "2026-05-20",
+    "2026-05-27",
+    "2026-06-03",
+    "2026-06-10",
+    "2026-06-17",
+    "2026-06-24",
+    "2026-07-01"
+  ],
+  "@type": [
+    "schema:Event",
+    "EntertainmentAndEvent",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Lecture offerte aux enfants"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/1e17fbfd-4dfe-362f-9a57-a9a42609e553",
+    "schema:legalName": "Office de Tourisme de la Baie de Quiberon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/cbc8f135-bec8-365b-8b02-ea7abf78dfa7",
+      "schema:legalName": "SIT Breton",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/18ef1997-6b4c-3e35-a601-47870502ab5a",
+      "schema:telephone": [
+        "+33 6 74 99 17 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/80f93279-e561-3d43-8d98-e843acbd1a52",
+      "dc:description": {
+        "de": [
+          "Jeden Mittwochmorgen ab 10 Uhr sind Kinder herzlich willkommen, um die neuen Jugendbücher zu entdecken, die von Audrey vorgelesen werden."
+        ],
+        "en": [
+          "Every Wednesday morning from 10am, children are welcome to discover new children's books read by Audrey."
+        ],
+        "it": [
+          "Ogni mercoledì mattina, a partire dalle 10, i bambini sono invitati a scoprire nuovi libri per bambini letti da Audrey."
+        ],
+        "fr": [
+          "Tous les Mercredis matins à partir de 10h, les enfants sont les bienvenues pour découvrir les nouveaux albums jeunesses lus par Audrey."
+        ],
+        "es": [
+          "Todos los miércoles a partir de las 10 de la mañana, los niños pueden descubrir nuevos libros infantiles leídos por Audrey."
+        ],
+        "nl": [
+          "Elke woensdagochtend vanaf 10 uur zijn kinderen welkom om nieuwe kinderboeken te ontdekken die worden voorgelezen door Audrey."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/554104e8-13bc-32bd-a1ac-7a491058f295",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/930afe5b-3252-30b5-abee-9892aac4bc7f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2e1c902-7eb8-3dfa-b730-77c87ca26599",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2b3f568-c038-3321-b096-08581bd2722c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d108c60f-5520-3892-a3da-14481e7af881",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Tale",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Märchen"
+        ],
+        "pt": [
+          "Conto"
+        ],
+        "en": [
+          "Tale"
+        ],
+        "it": [
+          "Racconto"
+        ],
+        "fr": [
+          "Conte"
+        ],
+        "nl": [
+          "Verhaal"
+        ],
+        "es": [
+          "Cuento"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e159eb00-d0af-3e47-a2e0-30813b805ac6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7224af83-c8e2-3b04-9aa0-29d9bb9de902",
+          "schema:addressLocality": "Erdeven",
+          "schema:postalCode": "56410",
+          "schema:streetAddress": [
+            "5T Rue des Menhirs"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:56054",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Erdeven"
+              ],
+              "pt": [
+                "Erdeven"
+              ],
+              "en": [
+                "Erdeven"
+              ],
+              "it": [
+                "Erdeven"
+              ],
+              "fr": [
+                "Erdeven"
+              ],
+              "nl": [
+                "Erdeven"
+              ],
+              "es": [
+                "Erdeven"
+              ]
+            },
+            "insee": "56054",
+            "isPartOfDepartment": {
+              "@id": "kb:France5356",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Morbihan"
+                ],
+                "pt": [
+                  "Morbihan"
+                ],
+                "en": [
+                  "Morbihan"
+                ],
+                "it": [
+                  "Morbihan"
+                ],
+                "fr": [
+                  "Morbihan"
+                ],
+                "nl": [
+                  "Morbihan"
+                ],
+                "es": [
+                  "Morbihan"
+                ]
+              },
+              "insee": "56",
+              "isPartOfRegion": {
+                "@id": "kb:France53",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Bretagne"
+                  ],
+                  "pt": [
+                    "Bretagne"
+                  ],
+                  "en": [
+                    "Bretagne"
+                  ],
+                  "it": [
+                    "Bretagne"
+                  ],
+                  "fr": [
+                    "Bretagne"
+                  ],
+                  "nl": [
+                    "Bretagne"
+                  ],
+                  "es": [
+                    "Bretagne"
+                  ]
+                },
+                "insee": "53",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b659f2aa-7158-3433-b50e-31666955d9e2",
+        "schema:latitude": "47.64089",
+        "schema:longitude": "-3.15501",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2026-03-26",
+  "lastUpdateDatatourisme": "2026-03-27T04:09:20.424Z",
+  "takesPlaceAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0d612a2a-d653-3414-9d55-969353e74aff",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-13",
+      "endTime": "12:00:00",
+      "startDate": "2026-05-13",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0e67abfe-d7ad-39ab-8d02-b0065d55ff80",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-07-01",
+      "endTime": "12:00:00",
+      "startDate": "2026-07-01",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/29d03dd6-7d16-3f36-91fc-e5e6b59ca910",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-04-15",
+      "endTime": "12:00:00",
+      "startDate": "2026-04-15",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/54d4f5e2-cee2-362b-a390-6ca255b0b00e",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-04-29",
+      "endTime": "12:00:00",
+      "startDate": "2026-04-29",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/561b421f-40aa-31c4-8818-7d09660de7ed",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-03",
+      "endTime": "12:00:00",
+      "startDate": "2026-06-03",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/599c6b83-937f-3b29-a740-520326bd4caa",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-04-22",
+      "endTime": "12:00:00",
+      "startDate": "2026-04-22",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/92be3acc-7454-3a45-990b-4f388a5073ff",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-24",
+      "endTime": "12:00:00",
+      "startDate": "2026-06-24",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9dab3351-68c5-3509-ad7e-6e9ea4ececc1",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-03-18",
+      "endTime": "12:00:00",
+      "startDate": "2026-03-18",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9db168cd-c9c6-32ef-b87f-64cec7b458d6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-10",
+      "endTime": "12:00:00",
+      "startDate": "2026-06-10",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b0785e09-29bb-3c40-b3fe-32c174c17035",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-27",
+      "endTime": "12:00:00",
+      "startDate": "2026-05-27",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b5e8d35f-e75c-399f-933c-3ac85d8f51b6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-04-08",
+      "endTime": "12:00:00",
+      "startDate": "2026-04-08",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cbbfd192-1ec8-3779-a773-f951aaf62e99",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-06-17",
+      "endTime": "12:00:00",
+      "startDate": "2026-06-17",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d94660f4-dd55-3089-8f9c-fa173a278034",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-20",
+      "endTime": "12:00:00",
+      "startDate": "2026-05-20",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/daf0ae6e-807a-3d2d-b83d-5669cd8aec7e",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-05-06",
+      "endTime": "12:00:00",
+      "startDate": "2026-05-06",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e889664b-902a-38a3-8617-bf85ff1e22a6",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-04-01",
+      "endTime": "12:00:00",
+      "startDate": "2026-04-01",
+      "startTime": "10:00:00"
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f137bc83-c1fe-3af2-9dea-ab3bcb0a3a62",
+      "@type": [
+        "Period"
+      ],
+      "endDate": "2026-03-25",
+      "endTime": "12:00:00",
+      "startDate": "2026-03-25",
+      "startTime": "10:00:00"
+    }
+  ]
+}
